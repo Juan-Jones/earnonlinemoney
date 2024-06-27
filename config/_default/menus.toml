@@ -1,0 +1,45 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+  name = "Make Money Online"
+  url = "/blog/make-money-online"
+  weight = 10
+
+[[main]]
+  name = "Creative Side Hustles"
+  url = "/blog/creative-side-hustles"
+  weight = 50
+
+[[main]]
+  name = "Passive Income Ideas"
+  url = "/passive-income-ideas"
+  weight = 60
+
+[[main]]
+  name = "Blog"
+  url = "/blog"
+  weight = 70
+
+
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 3
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 4
