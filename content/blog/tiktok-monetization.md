@@ -32,8 +32,6 @@ TikTok has introduced a Creator Marketplace, which serves as a platform for conn
 
 ### TikTok Creator Funds
 
-{{< figure src="image/tiktok-creator-fund.webp" alt="Creator Fund" height="841" width="815" >}}
-
 TikTok Creator Funds epitomize the platform's commitment to nurturing its vibrant community of creators. The mechanism operates on a revenue-sharing model, wherein eligible creators have the chance to earn compensation directly from TikTok itself. This revolutionary approach empowers creators to monetize their content without solely relying on traditional methods like [blog monetization]({{< relref "monetize-a-blog" >}}) or [Facebook's monetization features]({{< relref "facebook-monetization" >}}). However, relying solely on the Creator Fund may not be sufficient for everyone. That's where alternative money making strategies come into play.
 
 #### Creator Fund Eligibility

@@ -20,8 +20,6 @@ Freelancing refers to a type of work where individuals offer their services on a
 
 The gig economy's prosperity stems from several factors, including technological advancements, shifting cultural attitudes towards work, and the demand for flexible employment arrangements. This convergence of elements has created a fertile environment for freelancers to thrive, reshaping the landscape of labor markets globally.
 
-{{< figure src="image/thriving-gig-economy.webp" alt="Thriving Gig Economy Illustration" height="1040" width="585" >}}
-
 ### 2. Freelancing Offers Financial Freedom
 
 Freelancing presents a viable path to financial independence, allowing you to earn income on your own terms. With the right skills and strategies, you can leverage this model to achieve your financial goals.
@@ -37,8 +35,6 @@ Remote work has become the new norm due to advancements in technology, enabling 
 ### 4. Networking is Essential
 
 Networking is not just advantageous; it's imperative for professional success. By cultivating relationships, individuals can tap into hidden job markets, receive mentorship, and establish themselves as industry leaders, ultimately propelling their careers to new heights.
-
-{{< figure src="image/freelance-networking-essential.webp" alt="Freelance Networking Essential Illustration" height="1040" width="585" >}}
 
 ### 5. Online Presence Matters
 
@@ -70,8 +66,6 @@ Freelancers cherish flexibility as it allows them to adapt their schedules to ac
 
 Picture a world where cyber threats lurk in the shadows, ready to strike at any moment. Stories of data breaches and cyber attacks fill the headlines, underscoring the urgency of addressing cybersecurity concerns. Through collective action and vigilance, we can rewrite this narrative, fortifying our digital defenses and ensuring a safer online environment for all.
 
-{{< figure src="image/freelance-cybersecurity-concerning.webp" alt="Freelance Cyber Security" height="1040" width="585" >}}
-
 ### 10. The Importance of Contracts
 
 Compared to traditional employment, where contracts are standard, freelancers face greater risks without formal agreements. Contracts establish boundaries, ensure fair compensation, and mitigate legal liabilities, safeguarding freelancers' interests.
@@ -87,8 +81,6 @@ Through analysis, it's clear: freelancers indeed grapple with the challenge of a
 ### 12. Upskilling is Essential
 
 When it comes to freelancing, upskilling is indispensable. Research shows a direct correlation between continuous learning and career success, with upskilled individuals often commanding higher salaries and enjoying greater job satisfaction.
-
-{{< figure src="image/freelance-upskilling-essential.webp" alt="Freelance Upskilling Illustration" height="1040" width="585" >}}
 
 ### 13. Mental Health Awareness
 
@@ -117,8 +109,6 @@ Independent contractors must prioritize work-life balance fervently. It not only
 ### 17. Professional Development Opportunities Abound
 
 Inarguably, freelancers cannot afford to disregard professional development opportunities. Those skeptical must acknowledge their pivotal role in skill refinement, market differentiation, and sustained success in an ever-evolving professional landscape.
-
-{{< figure src="image/freelance-professional-development.webp" alt="Freelance Professional Development Illustration" height="1040" width="585" >}}
 
 ### 18. Collaboration Enhances Creativity
 
