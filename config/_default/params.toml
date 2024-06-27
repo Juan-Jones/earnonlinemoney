@@ -74,7 +74,7 @@ link = ""
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 30
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
