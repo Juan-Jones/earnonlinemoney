@@ -17,8 +17,6 @@ The eBay Partner Network (EPN) is eBay's in-house affiliate marketing program. B
 
 ## What Makes eBay Unique?
 
-{{< figure src="image/why-is-ebay-unique.webp" alt="Money, Cash, Woman, Laptop" height="972" width="357" >}}
-
 eBay stands out in the vast landscape of online marketplaces with its dynamic blend of auction-style listings and fixed-price options, creating a unique shopping experience. The platform thrives on diversity, offering an eclectic mix of items ranging from rare collectibles and vintage treasures to the latest electronics and fashion trends. Sellers from all corners of the globe contribute to eBay's rich tapestry, making it a melting pot of cultures and tastes.
 
 The excitement of bidding wars adds a layer of thrill and anticipation, transforming shopping into an engaging game. eBay's robust feedback system fosters trust and transparency, allowing users to make informed decisions. Its easy-to-navigate interface and advanced search features ensure a seamless journey through its extensive inventory. This combination of variety, interactivity, and community trust sets eBay apart, making it a distinctive and cherished destination for buyers and sellers alike.
@@ -28,8 +26,6 @@ The excitement of bidding wars adds a layer of thrill and anticipation, transfor
 Reflecting on eBay’s strategic partnerships reveals a keen understanding of the evolving digital marketplace. eBay collaborates with a diverse array of partners, enhancing its platform and broadening its reach. Major financial institutions like PayPal (historically) and Adyen provide secure and efficient payment solutions, ensuring seamless transactions for users worldwide. eBay also partners with logistics companies such as UPS and FedEx, optimizing shipping and delivery processes to enhance customer satisfaction.
 
 Additionally, collaborations with technology giants like Google and Apple enable advanced search capabilities and mobile integration, ensuring a user-friendly experience. eBay's partnerships extend to retail giants, including Best Buy and Adidas, allowing the platform to offer a wide range of new, branded products. These alliances not only streamline operations but also enrich the shopping experience, reinforcing eBay’s status as a trusted and innovative leader in e-commerce.
-
-{{< figure src="image/ebay-brand-partnerships.webp" alt="eBay Partnerships, Addidas Logo, Reebok Logo, Phillips Logo" height="350" width="1001" >}}
 
 ## How It Works
 
