@@ -69,8 +69,8 @@ button_link = "about/"
 
 # Advertise
 [advertisement]
-image = ""
-link = ""
+image = "images/earn-internet-income.png"
+link = "/blog/make-money-online"
 
 # cookies
 [cookies]
