@@ -13,7 +13,7 @@ Stocks and bonds represent distinct asset classes with unique characteristics, r
 
 ## Stocks vs Bonds
 
-Investing in financial markets offers a plethora of opportunities, yet navigating the landscape requires understanding the fundamental differences between various asset classes. Among the most foundational decisions investors face are choosing between stocks and bonds. Each represents distinct financial instruments with unique characteristics and potential returns. Let's delve into the essential differences between stocks and bonds to help you make informed investment decisions.
+Investing in financial markets offers a plethora of [passive income opportunities]({{< relref "passive-income-ideas" >}}), yet navigating the landscape requires understanding the fundamental differences between various asset classes. Among the most foundational decisions investors face are choosing between stocks and bonds. Each represents distinct financial instruments with unique characteristics and potential returns. Let's delve into the essential differences between stocks and bonds to help you make informed investment decisions.
 
 ### Understanding Stocks
 

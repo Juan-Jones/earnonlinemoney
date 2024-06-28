@@ -1,7 +1,7 @@
 ---
 title: "Clickbank Affiliate Marketing Beginners Guide"
 description: "Learn how to start with ClickBank affiliate marketing. Tips, strategies, and alternatives for beginners."
-image: "images/cj-review.jpg"
+image: "images/clickbank-affiliate-mktg.jpg"
 date: 2024-05-04T18:19:25+06:00
 categories: ["monetizing"]
 type: "featured" # available types: [featured/regular]

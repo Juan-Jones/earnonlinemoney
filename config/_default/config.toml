@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://earnonlinemoney.org"
 title = "Earn Money Online | Ulitimate Digital Income Guide"
 theme = "geeky-curious"
 languageName = "En"

@@ -63,6 +63,7 @@ Approval times can vary, with some advertisers responding within a few days and 
 
 ## How Do You Get Paid?
 
+{{< image src="images/cj-payment.jpg" caption="CJ Payment" alt="Contently" height="384" width="1265" position="center" command="fit" option="q100" class="img-fluid" title="CJ Payment" webp="false" >}}
 
 Getting paid through CJ Affiliate is a straightforward process once you've earned commissions from your affiliate marketing efforts. Payments are typically made via direct deposit (ACH) to your bank account or through paper check, depending on your preference and location.
 
