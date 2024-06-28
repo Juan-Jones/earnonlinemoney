@@ -21,7 +21,7 @@ What are the benefits of creative side hustles? Its Simple Mathematics! What if 
 
 ## The Best Side Hustle Ideas
 
-Not only do side hustles provide an opportunity to make extra money, but they also present the opportunity to shape your own future. You don’t have to live your life doing something you don’t want to do for a living. However, it begins with making a choice to dedicate yourself to going above and beyond. Below are the best side hustle *ideas* anyone can use to [earn money quickly]({{< relref "make-money-online" >}});
+There are many ways to make money on the side online. You can [start a online store]({{< relref "launch-an-ecommerce-store" >}}) shopping, get paid to click ads, sell information, and more. Not only do side hustles provide an opportunity to make extra money, but they also present the opportunity to shape your own future. You don’t have to live your life doing something you don’t want to do for a living. However, it begins with making a choice to dedicate yourself to going above and beyond. Below are the best side hustle *ideas*;
 
 ### 1. Network Marketing
 

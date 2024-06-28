@@ -27,7 +27,7 @@ Affiliate programs are crucial for modern businesses, offering a low-risk way to
 
 In the [realm of affiliate marketing]({{< relref "affiliate-marketing-fundamentals">}}), maximizing earnings is the ultimate goal for every affiliate marketer. With the right strategies and tactics, it's possible to harness the full potential of affiliate programs and generate substantial income streams without spending a dime. Below are 3 effective strategies to optimize affiliate marketing earnings and unlock your financial potential;
 
-1. Content Creation and Promotion: Creating engaging and valuable content across various platforms. You can promote on your [YouTube channel]({{< relref "how-to-start-a-youtube-channel" >}}), blogsite, social media channel and so on.
+1. Content Creation and Promotion: Creating engaging and valuable content across various platforms. You can promote on your blogsite, social media channel and so on.
 2. Niche Selection and Audience Targeting: One of the fundamental pillars of a successful affiliate marketing venture is niche selection. [Choosing a niche]({{< relref "how-to-find-your-niche" >}}) that aligns with your interests, expertise, and target audience's needs is crucial.
 3. Continuous Tracking and Optimization: Implement robust analytics tools and tracking mechanisms to monitor key performance metrics such as click-through rates, conversion rates, sales, and revenue generated from affiliate links.
 

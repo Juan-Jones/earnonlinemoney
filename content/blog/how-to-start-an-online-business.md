@@ -27,11 +27,10 @@ The first step in starting an online business is identifying a profitable niche.
 
 #### Profitable Online Business Ideas
 
-Here are some online business ideas to get you started:
+Here are some online business opportunities you can pursue for a [side hustle idea]({{< relref "creative-side-hustles" >}}) or full-time income:
 
 * E-commerce Store: Sell physical products through an online store.
 * Dropshipping: [Start a dropshipping business]({{< relref "start-a-dropshipping-business" >}}) and partner with suppliers to sell products without holding inventory.
-* Digital Products: Create and sell digital products like e-books, courses, or software.
 * Affiliate Marketing: Promote other companies' products and earn a commission on sales.
 * Freelance Services: Offer services like writing, graphic design, or web development.
 * Starting a Dropshipping Company: Want to [create a dropshipping business]({{< relref "start-a-dropshipping-business" >}})? Research hot products, find reliable suppliers, and set up your online store using platforms like Shopify.

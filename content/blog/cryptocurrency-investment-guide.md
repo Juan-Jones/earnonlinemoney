@@ -122,17 +122,13 @@ Masternode pools are similar to running a master node, but instead of managing a
 
 ICOs are similar to Initial Public Offerings  IPOsin the stock market. ICOs are a way for new cryptocurrencies to raise funds by selling tokens to investors. To participate in an ICO, you'll need to research the new cryptocurrency and the development team behind it.
 
-#### Peer-to-Peer Lending
-
-Peer-to-peer lending involves lending crypto to other users in exchange for interest payments. This can be a way to earn passive income with your cryptocurrency holdings, but it requires finding trustworthy borrowers and managing the lending process
-
 #### Providing Liquidity
 
 Providing liquidity to decentralized exchanges or lending platforms can be a way to earn rewards in the form of cryptocurrency or governance tokens. By providing liquidity, you help to facilitate trades or lending on the platform, and in return, you receive a share of the fees collected by the platform
 
 #### Social Media and Content Creation
 
-Creating content related to cryptocurrency on social media platforms such as YouTube, Twitter, or Medium can be a way to earn money through sponsorships, advertising, or donations from viewers. Creating valuable content can also help to build a following and increase your credibility in the crypto community.
+Creating content related to cryptocurrency on YouTube, Twitter, or Medium can be a way to [earn money on social media]({{< relref "social-media-monetization" >}}) through sponsorships, advertising, or donations from viewers. Creating valuable content can also help to build a following and increase your credibility in the crypto community.
 
 #### Token Sales and Crowdfunding
 

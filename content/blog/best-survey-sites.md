@@ -35,7 +35,7 @@ When choosing a survey site, consider the following features to ensure you have 
 
 ## Best Survey Sites
 
-There are several survey sites online. However, the best survey sites provide users with several options to make money. Members can earn money from referrals, chiming contests, and opinion polls. Users can also earn money from contests, reviews, and tasks. Best of all, legitimate survey sites don’t cost a dime. As noted, they will not replace a full time job, but they offer a steady stream of additional income. Without further due, here are the best survey sites;
+There are several survey sites online. However, the best survey sites provide users with several options to make money. Members can earn money from referrals, chiming contests, and opinion polls. Users can also [earn money playing games]({{< relref "play-games-for-cash" >}}), reviews, and tasks. Best of all, legitimate survey sites don’t cost a dime. As noted, they will not replace a full time job, but they offer a steady stream of additional income. Without further due, here are the best survey sites;
 
 ### 1. Swagbucks
 
