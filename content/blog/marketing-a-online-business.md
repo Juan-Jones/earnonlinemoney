@@ -2,10 +2,11 @@
 title: "How to Market a Online Business"
 description: "Discover effective strategies for marketing your online business and driving growth through branding, social media, SEO, and more."
 image: "images/market-online-business.jpg"
-date: 2020-09-03T18:19:25+10:00
+date: 2020-09-18T16:20:25+06:10
 categories: ["online business"]
 type: "regular"
 draft: false
+slug: /blog/marketing-a-online-business
 ---
 
 Are you planning to **market an online business**? If so, you've found the right post! This blog post explores key marketing tactics, from building a strong brand to leveraging social media and SEO, providing practical tips and statistics to help online businesses thrive.
