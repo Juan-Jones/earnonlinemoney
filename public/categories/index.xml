@@ -9,7 +9,7 @@
     <lastBuildDate>Mon, 17 Jun 2024 18:19:25 +0600</lastBuildDate>
     <atom:link href="https://earnonlinemoney.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>monetizing</title>
+      <title>Monetizing</title>
       <link>https://earnonlinemoney.org/categories/monetizing/</link>
       <pubDate>Mon, 17 Jun 2024 18:19:25 +0600</pubDate>
       <guid>https://earnonlinemoney.org/categories/monetizing/</guid>
@@ -23,17 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>ecommerce</title>
+      <title>Ecommerce</title>
       <link>https://earnonlinemoney.org/categories/ecommerce/</link>
       <pubDate>Fri, 24 May 2024 18:19:25 +0600</pubDate>
       <guid>https://earnonlinemoney.org/categories/ecommerce/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>social media</title>
-      <link>https://earnonlinemoney.org/categories/social-media/</link>
-      <pubDate>Sat, 04 May 2024 18:19:25 +0600</pubDate>
-      <guid>https://earnonlinemoney.org/categories/social-media/</guid>
       <description></description>
     </item>
     <item>
@@ -44,17 +37,45 @@
       <description></description>
     </item>
     <item>
-      <title>investing</title>
+      <title>social media</title>
+      <link>https://earnonlinemoney.org/categories/social-media/</link>
+      <pubDate>Sat, 20 May 2023 18:19:25 +0600</pubDate>
+      <guid>https://earnonlinemoney.org/categories/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>courses</title>
+      <link>https://earnonlinemoney.org/categories/courses/</link>
+      <pubDate>Sat, 12 Sep 2020 18:19:25 +0600</pubDate>
+      <guid>https://earnonlinemoney.org/categories/courses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investing</title>
       <link>https://earnonlinemoney.org/categories/investing/</link>
-      <pubDate>Wed, 24 Apr 2024 18:19:25 +0600</pubDate>
+      <pubDate>Mon, 24 Aug 2020 18:19:25 +0600</pubDate>
       <guid>https://earnonlinemoney.org/categories/investing/</guid>
       <description></description>
     </item>
     <item>
-      <title>side hustles</title>
+      <title>Side Hustles</title>
       <link>https://earnonlinemoney.org/categories/side-hustles/</link>
       <pubDate>Sun, 05 Jan 2020 18:19:25 +0600</pubDate>
       <guid>https://earnonlinemoney.org/categories/side-hustles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freelancing</title>
+      <link>https://earnonlinemoney.org/categories/freelancing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://earnonlinemoney.org/categories/freelancing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Finance</title>
+      <link>https://earnonlinemoney.org/categories/personal-finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://earnonlinemoney.org/categories/personal-finance/</guid>
       <description></description>
     </item>
   </channel>

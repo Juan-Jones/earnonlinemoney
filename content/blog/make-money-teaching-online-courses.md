@@ -2,7 +2,7 @@
 title: "How to Earn Teaching Online Courses"
 description: "Ultimate guide on teaching online courses. Discover key features of (MOOC) providers like engaging students, diverse learning devices & more."
 image: "images/teach-online-courses.jpg"
-date: 2023-05-15T14:19:25+06:00
+date: 2020-09-11T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
@@ -27,6 +27,11 @@ Unlike traditional classrooms, online courses offer flexibility and accessibilit
 ## Key Features of Online Courses
 
 The concept of online learning traces its roots back to the early days of the internet. In the 1990s, universities and educational institutions began experimenting with delivering course content online, laying the groundwork for the development of modern online learning platforms. Over the years, advances in technology, coupled with growing demand for flexible education options, have propelled the rapid expansion of online courses across diverse disciplines and industries.
+
+Post that you *might enjoy*:
+
+Make a Blog: Learn [How to Start a Blog]({{< relref "how-to-make-a-blog" >}}).
+Best Online Courses For Entrepreneurs: Easily [find the best online courses]({{< relref "best-online-courses" >}}) on the internet.
 
 ### Flexibility and Convenience
 

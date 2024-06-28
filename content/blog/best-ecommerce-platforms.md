@@ -2,8 +2,8 @@
 title: "Top 5 Ecommerce Platforms"
 description: "Explore the best ecommerce platforms like Shopify, WooCommerce, BigCommerce, and Magento. Find the perfect fit to launch, manage, and scale your online store with ease."
 image: "images/best-ecommerce-websites.jpg"
-date: 2020-08-05T18:19:25+06:00
-categories: ["ecommerce"]
+date: 2020-08-31T18:19:25+06:00
+categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/best-ecommerce-platforms
@@ -27,7 +27,7 @@ Before diving into the array of ecommerce platforms, it's essential to assess yo
 
 ### 1. Shopify
 
-Want to [sell on Shopify]({{< relref "sell-on-shopify" >}})? Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With [Shopifys extensive app store]({{< relref "shopify-apps" >}}) and intuitive interface users can create customizable online stores with ease. Key features include:
+Want to sell on Shopify? Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With Shopifys extensive app stores and intuitive interface users can create customizable online stores with ease. Key features include:
 
 * User-friendly interface,
 * Extensive app store for additional functionalities,

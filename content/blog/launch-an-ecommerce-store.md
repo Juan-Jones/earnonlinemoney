@@ -2,7 +2,7 @@
 title: "Ultimate Guide to Build Online Stores"
 description: "What does it take build online stores? For beginners, you must find a market, create a brand, and find hosting to start."
 image: "images/how-to-build-online-stores.jpg"
-date: 2014-04-20T18:19:25+06:00
+date: 2022-08-30T18:19:25+06:00
 categories: ["ecommerce"]
 type: "featured" # available types: [featured/regular]
 draft: false

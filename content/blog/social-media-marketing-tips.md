@@ -2,7 +2,7 @@
 title: "Ultimate Social Media Marketing (SMM) Guide"
 description: "Discover the ultimate guide to social media marketing tips and strategies for boosting engagement, brand presence, and ROI."
 image: "images/smm-guide.jpg"
-date: 2024-03-24T18:19:25+06:00
+date: 2020-09-03T18:19:25+06:00
 categories: ["social media"]
 type: "featured" # available types: [featured/regular]
 draft: false

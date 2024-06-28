@@ -2,7 +2,7 @@
 title: "Search Engine Optimization for Bloggers"
 description: "Find search engine optimization (SEO) on-page and off-page (technical) strategies to boost website traffic, increase your online presence and brand visibility. "
 image: "images/seo-blogging.jpg"
-date: 2013-09-15T14:19:25+06:00
+date: 2020-09-15T12:15:25+05:09
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false

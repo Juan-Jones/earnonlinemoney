@@ -2,7 +2,7 @@
 title: "How to Sell on Shopify"
 description: "Learn how to sell on Shopify & optimize your store for success. Explore the process, set up your store, pick your theme, scale your business and so on."
 image: "images/shopify-selling-tips.jpg"
-date: 2024-04-20T18:19:25+06:00
+date: 2020-09-01T18:19:25+06:00
 categories: ["ecommerce"]
 type: "regular" # available types: [featured/regular]
 draft: false

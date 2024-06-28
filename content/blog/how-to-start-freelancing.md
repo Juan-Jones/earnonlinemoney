@@ -2,7 +2,7 @@
 title: "Ultimate Freelancer Beginner's Guide"
 description: "Your gateway to the world of self-employment. Discover how to navigate freelance platforms, market your skills, manage clients, and thrive in the gig economy."
 image: "images/freelance-beginners.jpg"
-date: 2023-08-24T18:19:25+06:00
+date: 2011-01-20T18:19:25+06:00
 categories: ["gig economy"]
 type: "featured" # available types: [featured/regular]
 draft: false

@@ -2,7 +2,7 @@
 title: "Content Marketing Strategies for Bloggers"
 description: "Content marketing for bloggers is more than creating & distributing material, it's about delivering valuable, relevant, consistent digital data to satisfy a target audience."
 image: "images/content-marketing.jpg"
-date: 2013-09-15T14:19:25+06:00
+date: 2018-10-06T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false

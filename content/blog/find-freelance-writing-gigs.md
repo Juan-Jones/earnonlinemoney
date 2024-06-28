@@ -2,7 +2,7 @@
 title: "Offer Freelance Writing Services"
 description: "Harness the power of professional freelance writing services to elevate your brand. Engage audiences, optimize SEO, and deliver tailored messages effectively."
 image: "images/freelance writing.jpg"
-date: 2019-02-16T11:17:25+04:00
+date: 2011-01-22T18:19:25+06:00
 categories: ["gig economy"]
 type: "featured" # available types: [featured/regular]
 draft: false

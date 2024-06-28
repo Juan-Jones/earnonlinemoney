@@ -2,7 +2,7 @@
 title: "How to Successfully Make a Blog"
 description: "Learn how to successfully star a blog. Learn how to optimize your content, build an audience."
 image: "images/start-a-blog.jpg"
-date: 2023-12-24T18:19:25+06:00
+date: 2020-09-13T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
