@@ -3,7 +3,7 @@ title: "Dropshipping Beginner's Guide"
 description: "Learn how to start dropshipping company, pick your niche, secure suppliers, build your store, drive traffic, and prioritize stellar customer service for growth."
 image: "images/start-dropshipping-company.jpg"
 date: 2023-05-20T18:19:25+06:00
-categories: ["ecommerce"]
+categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/start-a-dropshipping-business
@@ -13,7 +13,7 @@ In recent years, dropshipping has emerged as a popular business model for entrep
 
 ## How to Start a Dropshipping Company
 
-Starting a dropshipping business can be an exciting venture. It's an excellent way to enter the world of e-commerce without the need for significant upfront investment. With the right strategy, you can build a successful online store and generate a steady stream of income. Here’s a comprehensive guide to help you get started on your dropshipping journey.
+Starting a dropshipping business can be an exciting venture. It's an excellent way to enter the realm of e-commerce without the need for significant upfront investment. With the right strategy, you can build a successful online store and generate a steady stream of income. Here’s a comprehensive guide to help you get started on your dropshipping journey.
 
 ### What is Dropshipping?
 
@@ -26,7 +26,7 @@ Dropshipping is a retail fulfillment method where a store doesn’t keep the pro
 * Wide Product Selection: You can offer a wide variety of products without having to buy them in advance.
 * Scalability: With the right tools and strategies, scaling your business is relatively straightforward.
 
-### Step 1: Choose a Niche
+### Step 1: Conduct Market Research
 
 The first step in launching a successful dropshipping business is conducting thorough market research and identifying a profitable niche. Selecting the right niche is paramount to the success of your venture, as it determines your target audience and the products you will sell. Utilize keyword research tools and competitor analysis to identify trending products and niche markets with high demand but low competition.
 

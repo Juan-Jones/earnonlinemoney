@@ -33,7 +33,7 @@ Ah, the content calendar—the unsung hero of podcast planning. Whether you're a
 
 ### 3. Choose Relevant Topics
 
-When selecting topics for your podcast episodes, choose subjects that are relevant to your audience's interests and align with your podcast's niche. Keep abreast of current events, trends, and industry developments to ensure your content remains timely and engaging. Additionally, consider soliciting input from your audience through surveys or social media to identify topics they're eager to hear about.
+When selecting topics for your podcast episodes, choose subjects that are relevant to your audience's interests and that [identify with your niche]({{< relref "how-to-find-your-niche" >}}). Keep abreast of current events, trends, and industry developments to ensure your content remains timely and engaging. Additionally, consider soliciting input from your audience through surveys or social media to identify topics they're eager to hear about.
 
 ### 4. Leverage Guest Interviews
 

@@ -37,7 +37,7 @@ For those with a passion for game design and programming, the realm of game deve
 
 ### Gaming Influencer Marketing
 
-Influencer marketing has become a prevalent phenomenon in the digital age, with brands seeking to leverage the influence and reach of prominent gamers to promote their products and services. Through strategic partnerships, sponsored content, and affiliate marketing programs, gaming influencers can monetize their platforms while providing valuable exposure to brands seeking to connect with their target audiences. By aligning with brands that resonate with their audience and values, gaming influencers can monetize their influence while maintaining authenticity and credibility within the gaming community. As your influence and reach grow within the gaming community, opportunities for partnerships and endorsements may arise, providing [ways to make more money]({{< relref "make-money-online" >}}).
+Influencer marketing has become a prevalent phenomenon in the digital age, with brands seeking to leverage the influence and reach of prominent gamers to promote their products and services. Through strategic partnerships, sponsored content, and affiliate marketing programs, gaming influencers can monetize their platforms while providing valuable exposure to brands seeking to connect with their target audiences. By aligning with brands that resonate with their audience and values, gaming influencers can monetize their influence while maintaining authenticity and credibility within the gaming community. As your influence and reach grow within the gaming community, opportunities for partnerships and endorsements may arise, providing [creative side hustle ideas]({{< relref "creative-side-hustles" >}}).
 
 ### Free Online Poker and Bingo
 
@@ -68,11 +68,10 @@ While the allure of cash games online is undeniable, success is not guaranteed. 
 
 #### Exploring Additional Opportunities
 
-While cash games online and Twitch streaming represent primary avenues for monetizing your gaming endeavors, there are numerous other opportunities to explore within the broader gaming industry. Consider leveraging your expertise to pursue freelance opportunities such as game testing, content creation, and esports coaching.
+While cash games online and Twitch streaming represent primary avenues for monetizing your gaming endeavors, there are numerous other opportunities to explore within the broader gaming industry. Consider leveraging your expertise to pursue freelance opportunities such as game testing, content creation, or [making money on Craigslist]({{< relref "make-money-on-craigslist" >}}).
 
-[Make Money Writing Grants]({{< relref "grant-writing-strategies" >}}).
-[Build a Dropshipping Business]({{< relref "start-a-dropshipping-business" >}})
-[Learn How to Flip Domain Names]({{< relref "flip-domain-names" >}})
+[Earn Cashback Shopping]({{< relref "earn-cash-back" >}}).
+Learn How to Make Money on Mobile Apps
 
 #### Practice Diligently
 

@@ -19,7 +19,7 @@ Several methods of monetization have been implemented for content creators to be
 
 ## How to Start Make Money on YouTube
 
-Before you [build your YouTube channel]({{< relref "how-to-start-a-youtube-channel" >}}), it’s essential to understand the basics of YouTube monetization. The primary method to make money on YouTube is through the YouTube Partner Program (YPP), which allows creators to earn money through ads, channel memberships, Super Chat, and YouTube Premium revenue.
+Before you build your YouTube channel, it’s essential to understand the basics of YouTube monetization. The primary method to make money on YouTube is through the YouTube Partner Program (YPP), which allows creators to earn money through ads, channel memberships, Super Chat, and YouTube Premium revenue.
 
 ### Joining the YouTube Partner Program
 

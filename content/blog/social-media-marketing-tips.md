@@ -30,12 +30,12 @@ Once you have a clear understanding of your audience, it’s crucial to set spec
 
 ### Choosing the Right Social Platforms
 
-Not all social media platforms are created equal. Different platforms cater to different audiences and types of content. For example:
+Building a [social media presence]({{< relref "building-a-social-media-presence" >}}) can be lucrative on the right platform! Different social platforms cater to different audiences and types of content. For example:
 
-*Facebook is ideal for a broad audience and diverse content types.*
-*Instagram is perfect for visual content and younger demographics.*
-*LinkedIn is best for B2B marketing and professional content.*
-*Twitter is great for real-time updates and engagement.*
+Facebook is ideal for a broad audience and diverse content type. Consequently, entrenpreneurs can easily [make money on Facebook]({{< relref "facebook-monetization" >}}).
+Instagram is perfect for visual content and younger demographics.
+LinkedIn is best for B2B marketing and professional content.
+Twitter is great for real-time updates and engagement.
 
 ### Planning Your Social Media Content
 

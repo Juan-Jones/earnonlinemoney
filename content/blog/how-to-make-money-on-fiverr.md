@@ -70,4 +70,4 @@ The freelance market is dynamic, and staying updated with industry trends and co
 
 #### Conclusion
 
-Making money on Fiverr requires a blend of strategic planning, consistent effort, and a commitment to quality. By following these tips and strategies, freelancers can [earn passive income]({{< relref "passive-income-ideas" >}}). To be more specific, freelancers can successfully [find freelance writing gigs]({{< relref "find-freelance-writing-gigs" >}}), digital marketing gigs, website design gigs and more.
+Making money on Fiverr requires a blend of strategic planning, consistent effort, and a commitment to quality. By following these tips and strategies, freelancers can easily [earn passive income]({{< relref "passive-income-ideas" >}}). To be more specific, freelancers can successfully [find freelance writing gigs]({{< relref "find-freelance-writing-gigs" >}}), digital marketing gigs, website design gigs and more.

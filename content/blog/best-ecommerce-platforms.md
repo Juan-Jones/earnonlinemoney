@@ -11,9 +11,9 @@ slug: /blog/best-ecommerce-platforms
 
 In the ever-evolving landscape of online commerce, choosing the right ecommerce platform to build your site is a critical decision. With numerous options available, each offering unique features and functionalities, navigating the selection process can be daunting. Whether you're an aspiring entrepreneur starting your first online store or a seasoned business owner looking to expand your digital presence, finding the perfect ecommerce platform is key to your success.
 
-3 Ingredients to Launch a Successful Online Store:
+3 Ingredients to Launch an Successful Online Store:
 
-1. Define Your Business Goals: What are your primary objectives for launching an online store? Are you looking to increase sales, expand your reach, or streamline your operations? Clearly outlining your business goals will guide your platform selection process and enable you to prioritize features that are essential to your success.
+1. Define Your Business Goals: What are your primary objectives to [launch an ecommerce store]({{< relref "launch-an-ecommerce-store" >}})? Are you looking to increase sales, expand your reach, or streamline your operations? Clearly outlining your business goals will guide your platform selection process and enable you to prioritize features that are essential to your success.
 2. Know Your Audience: Understanding your target audience is paramount in creating a seamless shopping experience. Consider factors such as demographics, preferences, and shopping habits to tailor your platform's design and functionality to meet their needs effectively.
 3. Evaluate Your Product Range: Whether you're selling physical goods, digital products, or services, the nature of your offerings will influence your platform requirements. Consider aspects such as inventory management, product variations, and shipping options when evaluating potential ecommerce platforms.
 
@@ -27,7 +27,7 @@ Before diving into the array of ecommerce platforms, it's essential to assess yo
 
 ### 1. Shopify
 
-Want to [sell on Shopify]({{< relref "sell-on-shopify" >}})? Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With its intuitive interface and extensive app store, Shopify allows users to create customizable online stores with ease. Key features include:
+Want to [sell on Shopify]({{< relref "sell-on-shopify" >}})? Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With [Shopifys extensive app store]({{< relref "shopify-apps" >}}) and intuitive interface users can create customizable online stores with ease. Key features include:
 
 * User-friendly interface,
 * Extensive app store for additional functionalities,

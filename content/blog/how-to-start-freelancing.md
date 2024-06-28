@@ -51,7 +51,7 @@ Creating social profiles can always be of use. A social profile gives you a plat
 
 ### Build a Blog (Optional)
 
-A website or blog can be of use, but it’s not mandatory. You can use this platform to provide examples of your work, contact information, testimonials, photos, and whatever other information you decide to display. All in all you can grow your business faster by building your own blog. More importantly, [monetizing your blog]({{< relref "monetize-a-blog" >}}).
+A website or blog can be of use, but it’s not mandatory. You can use this platform to provide examples of your work, contact information, testimonials, photos, and whatever other information you decide to display. All in all you can grow your business faster by building your own blog. More importantly, building a blog enables you to [earn money online]({{< relref "make-money-online" >}}).
 
 ### Establish Your Freelance Business Legally
 

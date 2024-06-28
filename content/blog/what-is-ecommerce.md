@@ -26,7 +26,7 @@ There are many types of ecommerce. Selecting the [right ecommerce platform]{{< r
 
 ### Benefits of Ecommerce
 
-Ecommerce offers numerous advantages that have contributed to its widespread adoption.
+When it comes to [building ecommerce stores]({{< relref "launch-an-ecommerce-store" >}}), there are numerous advantages that have contributed to its widespread adoption.
 
 * Convenience: Ecommerce allows consumers to shop 24/7 from the comfort of their homes, eliminating the need for physical store visits.
 * Wider Reach: Businesses can reach a global audience, breaking geographical barriers and expanding their market base.

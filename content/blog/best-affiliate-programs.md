@@ -151,7 +151,7 @@ Average Commission: Varies by merchant, generally 5% to 10%.
 
 ### Bluehost
 
-Associates engaged in the Bluehost affiliate marketing program promote a reliable web hosting service. They use referral links and promotional strategies to earn commissions by assisting individuals and businesses in establishing their online presence through web hosting solutions;
+Associates engaged in the Bluehost affiliate marketing program promote a reliable web hosting service. Customers can also [purchase domain names]({{< relref "how-to-buy-domain-names" >}}). They use referral links and promotional strategies to earn commissions by assisting individuals and businesses in establishing their online presence through web hosting solutions;
 
 Payment Threshold: $100,
 

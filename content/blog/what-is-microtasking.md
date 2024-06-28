@@ -3,7 +3,7 @@ title: "What is Microtasking"
 description: "Discover the purpose and meaning of microtasking. Find advantages and disadvantages along with future trends shaping the evolution of this global workforce."
 image: "images/microtasking.jpg"
 date: 2023-01-03T18:19:25+06:00
-categories: ["online business"]
+categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/what-is-microtasking
@@ -52,7 +52,7 @@ In addition to web-based platforms, task-based mobile apps have emerged as conve
 
 #### Online Marketplaces
 
-Online marketplaces such as Etsy, eBay, and Amazon Handmade aren't just platforms for buying and selling goods—they also offer microtasking opportunities for creative individuals and artisans. Whether it's crafting handmade jewelry, designing custom merchandise, or offering digital services like logo design and illustration, online marketplaces provide a platform for microentrepreneurs to showcase their talents and monetize their skills. By [tapping into your niche]({{< relref "how-to-find-your-niche" >}}) markets and cultivating a loyal customer base, sellers can turn their passion projects into profitable microbusinesses.
+Online marketplaces such as Etsy, eBay, and Amazon Handmade aren't just platforms for buying and selling goods—they also offer microtasking opportunities for creative individuals and artisans. Whether it's crafting handmade jewelry, designing custom merchandise, or offering digital services like logo design and illustration, online marketplaces provide a platform for microentrepreneurs to showcase their talents and monetize their skills.
 
 #### Specialized Microtasking Platforms
 

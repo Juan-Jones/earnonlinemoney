@@ -12,7 +12,7 @@ In this guide, I’ll explain how to monetize a Pinterest in 6 steps. Even more,
 
 ## How to Make Money on Pinterest
 
-How can you make money on Pinterest? Well, it’s simple. Pinterest is nothing like most social media networks. To be more specific, most social media networks restrict publishers from sharing affiliate links or promoting affiliate programs. Whereas, Pinterest encourages social media monetization. Lets get to it, how to **make money on Pinterest**, in six steps:
+How can you make money on Pinterest? Well, it’s simple. Pinterest is nothing like most social media networks. They encourage you to grow your [social media presence]({{< relref "building-a-social-media-presence" >}}). In other words, most social media networks restrict publishers from sharing affiliate links or promoting affiliate programs. Whereas, Pinterest encourages [social media monetization]({{< relref "social-media-monetization" >}}). Lets get to it, how to **make money on Pinterest**, in six steps:
 
 ### 1. Build a Landing Page
 
@@ -155,7 +155,7 @@ Step #3 (Create an Instagram account): Instagram is a video-sharing network like
 
 A number of entrepreneurs are utilizing Pinterest as a resource to make money online. As a result, it has paid off. Not only can Pinterest help you boost your income. It can also help you drive traffic to your websites or blogs.
 
-What do you need to make money on Pinterest? First, you’ll need a platform. The platform is essential, you’ll need to use it as a landing page. It gives you a web location for your visitors. Secondly, you’ll need marketing techniques. Marketing is the key to finding leads, prospects, and driving traffic to your platform. Thirdly, you must have customers. You need clients to make money!
+What are the steps for [Pinterest monetization]({{< relref "make-money-on-pinterest" >}})? First, you’ll need a platform. The platform is essential, you’ll need to use it as a landing page. It gives you a web location for your visitors. Secondly, you’ll need marketing techniques. Marketing is the key to finding leads, prospects, and driving traffic to your platform. Thirdly, you must have customers. You need clients to make money!
 
 What activities will you need to perform? For the most part, you’ll be posting content (pins, idea pins) on Pinterest.
 

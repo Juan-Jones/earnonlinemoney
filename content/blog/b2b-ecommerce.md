@@ -17,7 +17,7 @@ B2B ecommerce refers to the online transactions between businesses rather than b
 
 ## 5 Features of a Successful B2B Ecommerce Platforms
 
-When starting an online store for B2B ecommerce, it is essential to incorporate features that cater to the specific needs of business clients. These features include:
+When [launching a online store]({{< relref "launch-an-ecommerce-store" >}}) for B2B ecommerce, it is essential to incorporate features that cater to the specific needs of business clients. These features include:
 
 1. Bulk Ordering Options
 2. Custom Pricing
@@ -33,7 +33,7 @@ The B2B buyer journey is typically more complex than B2C, involving multiple dec
 
 ### Choose a Suitable Platform
 
-Selecting the right ecommerce platform is critical to the success of a B2B online store. Popular platforms like Shopify Plus, Magento, and WooCommerce offer robust features tailored for B2B ecommerce. Factors to consider include scalability, customization options, and integration capabilities.
+Selecting the right ecommerce platform is critical to the success of a B2B online store. Popular platforms like [Shopify Plus]({{< relref "sell-on-shopify" >}}), Magento, and WooCommerce offer robust features tailored for B2B ecommerce. Factors to consider include scalability, customization options, and integration capabilities.
 
 ### Define Your Target Audience
 
@@ -89,4 +89,4 @@ As your B2B ecommerce business grows, it's essential to scale your operations ef
 
 #### Conclusion
 
-[Starting an online store]({{< relref "launch-an-ecommerce-store" >}}) for B2B ecommerce offers numerous opportunities for businesses to expand their reach and improve efficiency. By understanding the unique dynamics of B2B transactions, choosing the right platform, and implementing effective marketing strategies, businesses can build a successful online store that meets the needs of their clients. Embracing technology and staying ahead of industry trends will ensure sustained growth and competitiveness in the ever-evolving B2B ecommerce landscape.
+Starting an online store for B2B ecommerce offers numerous opportunities for businesses to expand their reach and improve efficiency. By understanding the unique dynamics of B2B transactions, choosing the right platform, and implementing effective marketing strategies, businesses can build a successful online store that meets the needs of their clients. Embracing technology and staying ahead of industry trends will ensure sustained growth and competitiveness in the ever-evolving B2B ecommerce landscape.

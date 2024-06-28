@@ -3,7 +3,7 @@ title: "Skyrocket Your Etsy Sales"
 description: "Sell products on Etsy, a vibrant marketplace where handmade, vintage, and unique items find their audience."
 image: "images/make-money-etsy.jpg"
 date: 2024-05-24T18:19:25+06:00
-categories: ["ecommerce"]
+categories: ["monetizing"]
 type: "regular"
 draft: false
 slug: /blog/sell-products-on-etsy
