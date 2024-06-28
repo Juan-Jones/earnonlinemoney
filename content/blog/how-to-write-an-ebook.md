@@ -13,7 +13,7 @@ Writing an ebook can be a rewarding experience, whether you're looking to share 
 
 ## How to Write an Ebook Step-by-Step
 
-Writing and publishing ebooks is one of the most [explosive ways to make money online]({{< relref "make-money-online" >}}). Imagine sharing your unique expertise, experiences, or imaginative stories with a global audience, all while generating a steady stream of passive income. Sounds enticing, right? If you've ever wondered how to transform your knowledge into a digital product that sells, you're in the right place. This blog post will guide you through the entire process of creating an ebook, from brainstorming ideas to marketing your masterpiece.
+Writing and publishing ebooks is a lucrative passive income opportunity. Imagine sharing your unique expertise, experiences, or imaginative stories with a global audience, all while generating a steady stream of passive income. Sounds enticing, right? If you've ever wondered how to transform your knowledge into a digital product that sells, you're in the right place. This blog post will guide you through the entire process of creating an ebook, from brainstorming ideas to marketing your masterpiece.
 
 Before you start typing away, it's crucial to understand why you want to write an ebook. Are you aiming to establish yourself as an authority in your field? Do you have a story burning inside you that you need to share with the world? Your motivation will guide your writing process and help keep you focused.
 

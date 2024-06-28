@@ -71,7 +71,7 @@ Craigslist, often dubbed the online classifieds giant, connects millions of user
 
 Are you searching for legitimate ways to earn additional income from home? Well, look no further, below you'll discover over 100 additional creative side hustle ideas:
 
-1.[Earn cash back]({{< relref "earn-cash-back" >}}),
+1. [Earn cash back]({{< relref "earn-cash-back" >}}),
 2. Arts and crafts,
 3. Assemble easter egg baskets,
 4. Attend focus groups,
@@ -117,7 +117,7 @@ Are you searching for legitimate ways to earn additional income from home? Well,
 44. Pet-sitting,
 45. Pet-training,
 46. Plan parties,
-47. Play games,
+47. [Play games for money]({{< relref "play-games-for-cash" >}}),
 48. Play online poker,
 49. Product testing,
 50. Promote your own products,

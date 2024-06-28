@@ -187,8 +187,6 @@ If you have writing skills, consider offering resume writing services. Websites 
 * Offer competitive rates to attract clients.
 * Ask for reviews from satisfied clients.
 
-Bonus: [Provide Grant Writing Services]({{< relref "grant-writing-strategies" >}}).
-
 ### 38. Cashback and Rewards Apps
 
 Cashback and rewards apps can help you earn money by shopping online or completing simple tasks. These apps offer a percentage of your purchase back in cash or points.
