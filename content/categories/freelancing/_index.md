@@ -1,4 +1,4 @@
 ---
-title: "Freelancing"
-description: "Complete guide of everything you need to know about Freelancing and much more at Earn Money Online."
+title: "Freelancing Articles Category"
+description: "Complete guide of everything you need to know about freelancing and much more at Earn Money Online."
 ---

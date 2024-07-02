@@ -1,4 +1,4 @@
 ---
-title: "Side Hustles"
-description: "Everything you need to know about Side Hustles and more at Earn Money Online. It's all here."
+title: "Side Hustle Category"
+description: "Everything you need to know on additional income opportunities in our side hustles category and more at Earnonlinemoney.org. It's all here."
 ---
