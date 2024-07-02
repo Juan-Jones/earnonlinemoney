@@ -25,7 +25,7 @@ Affiliate programs are crucial for modern businesses, offering a low-risk way to
 
 ## 3 Strategies to Maximize Affiliate Marketing Earnings
 
-In the [realm of affiliate marketing]({{< relref "affiliate-marketing-fundamentals">}}), maximizing earnings is the ultimate goal for every affiliate marketer. With the right strategies and tactics, it's possible to harness the full potential of affiliate programs and generate substantial income streams without spending a dime. Below are 3 effective strategies to optimize affiliate marketing earnings and unlock your financial potential;
+In the [realm of affiliate marketing]({{< relref "affiliate-marketing-fundamentals" >}}), maximizing earnings is the ultimate goal for every affiliate marketer. With the right strategies and tactics, it's possible to harness the full potential of affiliate programs and generate substantial income streams without spending a dime. Below are 3 effective strategies to optimize affiliate marketing earnings and unlock your financial potential;
 
 1. Content Creation and Promotion: Creating engaging and valuable content across various platforms. You can promote on your blogsite, social media channel and so on.
 2. Niche Selection and Audience Targeting: One of the fundamental pillars of a successful affiliate marketing venture is niche selection. [Choosing a niche]({{< relref "how-to-find-your-niche" >}}) that aligns with your interests, expertise, and target audience's needs is crucial.
@@ -57,7 +57,7 @@ Average Commission: Commission rates on Amazon Associates vary by product catego
 
 ### ClickBank
 
-ClickBank is a popular platform. Many publishers use it to earn additional income. Founded in 1998, ClickBank.com offers over 6 million unique products. You can get paid on a weekly basis through this platform. It all depends on the choice you make. Even more, the payouts are fairly generous. Associates can earn substantial commissions from product sales with ClickBank. If you're a newbie, read our [Clickbank Affiliate Marketing for Beginners]({{< relref "clickbank-affiliate-marketing-for-beginners" >}}) guide.
+ClickBank is a popular platform. Many publishers use it to earn additional income. Founded in 1998, ClickBank.com offers over 6 million unique products. You can get paid on a weekly basis through this platform. It all depends on the choice you make. Even more, the payouts are fairly generous. Associates can earn substantial commissions from product sales with ClickBank. If you're a newbie, read our [Clickbank Affiliate Marketing for Beginners]({{< relref "clickbank-affiliate-marketing-for-beginners.md" >}}) guide.
 
 Payment Threshold: ClickBank maintains a payment threshold typically set at $10.
 

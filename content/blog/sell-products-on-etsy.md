@@ -10,7 +10,7 @@ slug: /blog/sell-products-on-etsy
 ---
 
 
-With its unique platform tailored to handmade, vintage, and unique goods, Etsy has transformed the way artisans, crafters, and creative entrepreneurs sell their products. The plaform offers a vibrant marketplace for sellers to showcase their creations to a global audience. However, navigating the intricacies of Etsy and maximizing your earning potential requires strategic planning, dedication, and a deep understanding of the platform's dynamics. In this definitive guide, we will list strategies, tips, and insights necessary to thrive **selling products on Etsy**.
+With its unique platform tailored to handmade, vintage, and unique goods, Etsy has transformed the way artisans, crafters, and creative entrepreneurs sell their products. The platform offers a vibrant marketplace for sellers to showcase their creations to a global audience. However, navigating the intricacies of Etsy and maximizing your earning potential requires strategic planning, dedication, and a deep understanding of the platform's dynamics. In this definitive guide, we will list strategies, tips, and insights necessary to thrive **selling products on Etsy**.
 
 Etsy stands out as a marketplace that celebrates individuality, craftsmanship, and creativity. Founded in 2005, Etsy has grown into a bustling community of millions of buyers and sellers worldwide. Unlike traditional e-commerce platforms, Etsy fosters a sense of connection between sellers and buyers, emphasizing the human touch behind each product.
 
@@ -90,6 +90,5 @@ The demand for natural, artisanal bath and beauty products has surged in recent 
 
 #### Alternatives to Selling Products on Etsy
 
-* [Dropshipping Business Startup Guide]({{< relref "start-a-dropshipping-business" >}})
 * [Start Earning Money on YouTube]({{< relref "make-money-on-youtube" >}})
 * [Learn How to Write and Sell Ebooks]({{< relref "how-to-write-an-ebook" >}})

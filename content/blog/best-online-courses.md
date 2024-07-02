@@ -3,7 +3,7 @@ title: "Best Online Course Platforms"
 description: "Discover the best online course platforms for diverse learning needs and interests on platforms like Coursera, Udemy, edX, LinkedIn Learning, and Skillshare."
 image: "images/make-money-online.jpg"
 date: 2020-09-12T18:19:25+06:00
-categories: ["courses"]
+categories: ["ecommerce"]
 type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/best-online-course-platforms

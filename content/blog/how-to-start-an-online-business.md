@@ -42,8 +42,7 @@ If you want to succeed, you must learn [how to market an online business]({{< re
 
 Competitive analysis is another critical aspect of market research. Identify your top competitors and analyze their strengths and weaknesses. Look at their website design, product offerings, pricing, and marketing strategies. Use this information to differentiate your business and offer a unique value proposition.
 
-By researching you can develop a better understand of your target audience, effectively [price your online services]({{< relref "pricing-your-online-services" >}})
-
+By researching you can develop a better understand of your target audience, effectively [price your online services]({{< relref "pricing-your-online-services" >}})!
 
 ### 3. Create a Business Plan
 
@@ -64,7 +63,7 @@ Make it easy for customers to pay by offering multiple payment options, includin
 
 ### 5. Develop a Marketing Strategy
 
-Social media is a powerful tool for promoting your online business. Create profiles on popular platforms like Facebook, Instagram, and Twitter to engage with your audience and share content. Use targeted ads to reach specific demographics and drive traffic to your website. If you need more pointers, search more [SMM tips and strategies]({{< relref "social-media-marketing-strategies" >}}).
+Social media is a powerful tool for promoting your online business. Create profiles on popular platforms like Facebook, Instagram, and Twitter to engage with your audience and share content. Use targeted ads to reach specific demographics and drive traffic to your website. If you need more pointers, search more [SMM tips and strategies]({{< relref "social-media-marketing-tips" >}}).
 
 Content marketing involves creating valuable content to attract and engage your target audience. Start a blog on your website to share industry insights, how-to guides, and product reviews. According to HubSpot, businesses that blog generate 55% more website visitors and 97% more inbound links.
 

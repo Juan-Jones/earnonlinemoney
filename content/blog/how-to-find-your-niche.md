@@ -31,7 +31,7 @@ Start by considering what you are passionate about. Your interests can be a grea
 
 A successful niche often revolves around solving specific problems. Look for issues or gaps in the market that you can address with your skills and knowledge. Ask yourself:
 
-* Do you have enough knowledge to explain [how to start an online business]({{< relref "how-to-start-an-online-business" >}})?
+* Do you have enough knowledge to explain [how to launch a podcast]({{< relref "how-to-start-a-podcast" >}})?
 * What problems do people in my interest areas face?
 * Can teach people how to start a podcasts?
 
@@ -61,7 +61,7 @@ Develop a content strategy that aligns with your niche and goals. This might inc
 
 Search engine optimization (SEO) is crucial for driving organic traffic to your content. Use relevant keywords, optimize your website structure, and focus on creating high-quality, valuable content.
 
-Example: If you plan on [selling digital products on Shopify]({{< relref "sell-on-shopify" >}}), make sure you optimize your product pages with appropriate tags, descriptions, and engaging thumbnails.
+Example: If you plan on selling digital products on Shopify, make sure you optimize your product pages with appropriate tags, descriptions, and engaging thumbnails.
 
 ### 9. Leverage Social Media
 
