@@ -232,7 +232,7 @@ How does it work? First, research the [fundamentals of affiliate marketing]({{< 
 Opportunities:
 
 * Blog or Website: Niche-specific content with affiliate links. Earning Potential: $100 - $10,000+ per month depending on traffic and conversion rates.
-* Social Media: Influencers promoting products. Earning Potential: $500 - $10,000+ per post depending on follower engagement and niche.
+* Social Media: Influencers promoting products by [growing a social media following]({{< relref "building-a-social-media-presence" >}}). Earning Potential: $500 - $10,000+ per post depending on follower engagement and niche.
 
 ### 25. Start a Vlog
 

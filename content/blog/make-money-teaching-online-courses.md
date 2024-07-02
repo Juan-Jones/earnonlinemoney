@@ -30,8 +30,8 @@ The concept of online learning traces its roots back to the early days of the in
 
 Post that you *might enjoy*:
 
-Make a Blog: Learn [How to Start a Blog]({{< relref "how-to-make-a-blog" >}}).
-Best Online Courses For Entrepreneurs: Easily [find the best online courses]({{< relref "best-online-courses" >}}) on the internet.
+Find Popular Survey Sites: Find the [Most Popular Survey Sites]({{< relref "best-survey-sites" >}}) online.
+Best Side Hustle Ideas: Explore the [Best Side Hustle Ideas]({{< relref "creative-side-hustles" >}}).
 
 ### Flexibility and Convenience
 

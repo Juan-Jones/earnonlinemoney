@@ -22,8 +22,6 @@ The gig economy's prosperity stems from several factors, including technological
 
 {{< image src="images/thriving-gig-economy.jpg" caption="Thriving Gig Economy Illustration" alt="Thriving Gig Economy Illustration" height="585" width="1040" position="center" command="fit" option="q100" class="img-fluid" title="Thriving Gig Economy Illustration" webp="false" >}}
 
-{{< figure src="image/.webp" alt="Thriving Gig Economy Illustration" height="1040" width="585" >}}
-
 ### 2. Freelancing Offers Financial Freedom
 
 Freelancing presents a viable path to financial independence, allowing you to earn income on your own terms. With the right skills and strategies, you can leverage this model to achieve your financial goals.
