@@ -1,0 +1,14 @@
+{{- define "recursive-breadcrumbs" -}}
+    {{- if .Parent -}}
+        {{- template "recursive-breadcrumbs" .Parent -}}
+        {{ .Title }} > 
+    {{- end -}}
+{{- end -}}
+
+Home > 
+
+{{- if .Parent -}}
+    {{- template "recursive-breadcrumbs" .Parent -}}
+{{- end -}}
+
+<a href="{{ .Permalink }}">{{ .Title }}</a>

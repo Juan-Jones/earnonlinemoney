@@ -70,7 +70,7 @@ button_link = "about/"
 # Advertise
 [advertisement]
 image = "images/earn-internet-income.png"
-link = "/blog/make-money-online/"
+link = "/blog/"
 
 # cookies
 [cookies]
