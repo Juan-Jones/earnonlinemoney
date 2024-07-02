@@ -50,7 +50,7 @@ A well-thought-out business plan is the foundation of any successful online busi
 
 * Executive Summary: Provide a brief overview of your business, including your mission statement, products or services, and target market.
 * Market Analysis: Detail your market research findings, including your target audience, market size, and competitive landscape.
-* Marketing and Sales Strategy: Outline your plans for attracting and retaining customers. Include your [online business pricing strategy], sales channels, and promotional tactics.
+* Marketing and Sales Strategy: Outline your plans for attracting and retaining customers. Include your online business pricing strategy, sales channels, and promotional tactics.
 * Financial Projections: Estimate your startup costs, revenue, and expenses for the first few years. This will help you determine how much capital you need and when you can expect to break even.
 
 ### 4. Set Up Your Online Store
