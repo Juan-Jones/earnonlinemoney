@@ -1,0 +1,111 @@
+<meta charset="utf-8">
+<title>{{.Title | default site.Title}}</title>
+
+<!-- base url -->
+{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/") }}
+{{else}}
+<base href="{{ site.BaseURL }}">
+{{ end }}
+
+<!-- multilingual SEO optimizations -->
+{{ if .IsTranslated }}
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{.Lang}}" href="{{ .RelPermalink | absLangURL }}">
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
+{{ end }}
+
+<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+{{ hugo.Generator }}
+
+<!-- favicon -->
+{{ $favicon:= site.Params.favicon }}
+{{ if $favicon }}
+  {{ if fileExists (add "assets/" $favicon) }}
+    {{ $favicon:= resources.Get $favicon }}
+    {{ $favicon_16:= $favicon.Resize "16x16" }}
+    {{ $favicon_32:= $favicon.Resize "32x32" }}
+    {{ $favicon_180:= $favicon.Resize "180x180" }}
+    <link rel="shortcut icon" href="{{ $favicon_32.RelPermalink }}" type="image/x-icon">
+    <link rel="icon" href="{{ $favicon_32.RelPermalink }}" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ $favicon_16.RelPermalink }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ $favicon_32.RelPermalink }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ $favicon_180.RelPermalink }}">
+  {{ end }}
+{{ end }}
+<link rel="manifest" href="{{ "manifest.webmanifest" | relURL }}">
+<meta name="msapplication-TileColor" content="{{ site.Params.variables.color_primary | default "#da532c" }}">
+<meta name="theme-color" content="{{ site.Params.variables.body_color | default "#ffffff" }}">
+
+<!-- Open Graph image and Twitter Card metadata -->
+{{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
+{{ $image_path := .Params.image | default site.Params.image -}}
+{{ $image_path_local := printf "static/%s" $image_path -}}
+{{ $image_ext := trim (path.Ext $image_path | lower) "." -}}
+{{ if fileExists $image_path_local -}}
+  <meta property="og:image" content="{{ $image_path | absURL }}" />
+{{ end }}
+
+<meta name="twitter:card" content="{{ if .Params.featured_image }}summary_large_image{{else}}summary{{end}}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ if .IsHome }}{{ .Description }}{{ else }}{{ htmlEscape .Summary }}{{ end }}">
+<meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+<meta name="twitter:creator" content="{{ .Site.Params.twitter }}">
+{{ if .Params.featured_image }}<meta name="twitter:image" content="{{ $image_path | absURL }}">{{ end }}
+
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ if .IsHome }}{{ .Description }}{{ else }}{{ htmlEscape .Summary }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="fb:app_id" content="{{ .Site.Params.services.facebookApp }}">
+{{ if .Params.featured_image }}
+  <meta property="og:image" content="{{ .Params.featured_image }}">
+  <meta property="og:image:secure_url" content="{{ $image_path | absURL }}">
+{{ end }}
+{{ range .Params.categories }}<meta property="article:section" content="{{ . }}">
+{{ end }}
+{{ if isset .Params "date" }}<meta property="article:published_time" content="{{ (time .Date).Format "2006-01-02T15:04:05Z" }}">{{ end }}
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    {{- if .IsHome }}
+    "@type": "WebSite",
+    {{- else }}
+    "@type": "Article",
+    {{- end }}
+    "headline": "{{ .Title }}",
+    "alternativeHeadline": "{{ .Title }}",
+    "url": {{ .Permalink }},
+    "image": {{ . | absURL }},
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": {{ .Permalink }}
+    },
+    "description": {{  .Params.Description }},
+    "author": {
+      "@type": "Person",
+      "name": "Dejuan Jones",
+      "url": "https://earnonlinemoney.org"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ .Site.Title }},
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://earnonlinemoney.org/earn-internet-income.png"
+      }
+    },
+    "datePublished": {{ dateFormat "2006-01-02T15:04:05Z" .Date.UTC }},
+    "dateModified": {{ dateFormat "2006-01-02T15:04:05Z" .Lastmod.UTC }},
+    "articleBody": {{ chomp .Content }}
+  }
+  </script>
+
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
