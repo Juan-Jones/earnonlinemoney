@@ -1,11 +1,12 @@
 ---
 title: "Affiliate Marketing Fundamentals"
 description: "Ultimate affiliate marketing guide. Examine the fundamentals, process and how to get started."
-image: "images/what-is-affiliate-marketing.jpg"
+image: "images/affiliate-marketing-basics.jpg"
 date: 2020-09-14T11:19:25+08:00
 categories: ["monetizing"]
 type: "regular"
 draft: false
+image: /blog/affiliate-marketing-basics.jpg
 slug: /blog/affiliate-marketing-fundamentals
 ---
 

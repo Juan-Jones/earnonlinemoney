@@ -58,7 +58,10 @@
 {{ if .Params.featured_image }}
   <meta property="og:image" content="{{ .Params.featured_image }}">
   <meta property="og:image:secure_url" content="{{ .Params.featured_image }}">
-{{- end }}
+{{ else if .Params.image }}
+  <meta property="og:image" content="{{ .Params.image }}">
+  <meta property="og:image:secure_url" content="{{ .Params.image }}">
+{{ end }}
 {{ range .Params.categories }}<meta property="article:section" content="{{ . }}">{{ end }}
 {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ (time .Date).Format "2006-01-02T15:04:05Z" }}">{{ end }}
 
@@ -72,13 +75,13 @@
     {{- end }}
     "headline": "{{ .Title }}",
     "alternativeHeadline": "{{ .Title }}",
-    "url": {{ .Permalink }},
-    "image": {{ . | absURL }},
+    "url": "{{ .Permalink }}",
+    "image": "{{ .Params.featured_image | default .Params.image }}",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": {{ .Permalink }}
+      "@id": "{{ .Permalink }}"
     },
-    "description": {{  .Params.Description }},
+    "description": "{{ .Params.Description }}",
     "author": {
       "@type": "Person",
       "name": "Dejuan Jones",
@@ -86,17 +89,17 @@
     },
     "publisher": {
       "@type": "Organization",
-      "name": {{ .Site.Title }},
+      "name": "{{ .Site.Title }}",
       "logo": {
         "@type": "ImageObject",
         "url": "https://earnonlinemoney.org/earn-internet-income.png"
       }
     },
-    "datePublished": {{ dateFormat "2006-01-02T15:04:05Z" .Date.UTC }},
-    "dateModified": {{ dateFormat "2006-01-02T15:04:05Z" .Lastmod.UTC }},
-    "articleBody": {{ chomp .Content }}
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z" }}",
+    "articleBody": "{{ chomp .Content }}"
   }
-  </script>
+</script>
 
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
