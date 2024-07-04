@@ -20,6 +20,9 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 [permalinks]
   page = "/:slug/"
   blog = "/:slug/"
+  post = "/blog/:year/:month/:slug/"
+  year = "/blog/:slug/"
+  month = "/blog/:slug/"
 
 [taxonomies]
   
@@ -115,11 +118,9 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
 ############################ sitemap  ###########################
 [sitemap]
   changeFreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0
-############################ exclude from sitemap  ###########################
-[params]
-taxonomiesExcludedFromSitemap = ["tags"]
