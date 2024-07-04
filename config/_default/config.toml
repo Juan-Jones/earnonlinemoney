@@ -21,6 +21,33 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
   page = "/:slug/"
   blog = "/:slug/"
 
+[taxonomies]
+  
+  2011 = "2011"
+  2013 = "2013"
+  2014 = "2014"
+  2015 = "2015"
+  2017 = "2017"
+  2018 = "2018"
+  2019 = "2019"
+  2020 = "2020"
+  2021 = "2021"
+  2022 = "2022"
+  2023 = "2023"
+  2024 = "2024"
+  January = "January"
+  February = "February"
+  March = "March"
+  April = "April"
+  May = "May"
+  June = "June"
+  July = "July"
+  August = "August"
+  September = "September"
+  October = "October"
+  November = "November"
+  December = "December"
+
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]

@@ -2,19 +2,10 @@
 
 {{ define "main" }}
 
-  <div class="inner">
-      {{ range (.Site.RegularPages.GroupByDate "2006") }}
-          <h3 class="archive-year">{{ .Key }}</h3>
-
-          <ul class="archive-list">
-              {{ range (where .Pages "Type" "post") }}
-                  <li>
-                      {{ .PublishDate.Format "02 Jan" }}
-                      -
-                      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                  </li>
-              {{ end }}
-          </ul>
-      {{ end }}
-  </div>
-  {{ end }}
+<ul>
+    {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
+        {{ $url := (index $value.Pages 0).Node.Date.Format "2006/01" | urlize }}
+        <li><a href="/{{ $url }}">{{ .Key }}</a></li>
+    {{ end }}
+</ul>
+{{ end }}
