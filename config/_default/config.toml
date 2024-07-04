@@ -20,7 +20,6 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 [permalinks]
   page = "/:slug/"
   blog = "/:slug/"
-  post = "/blog/:year/:month/:slug/"
   year = "/blog/:slug/"
   month = "/blog/:slug/"
 
