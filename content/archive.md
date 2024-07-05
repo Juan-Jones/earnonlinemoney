@@ -1,7 +1,10 @@
 ---
-title: "Posts Archive"
-date: 2011-01-20T18:19:25+06:00
-layout: default
-type: posts
+title: "Blog Archive"
+layout: archive
+hidden: true
+type: blog
+summary: Check out our blog archives.
+url: /archives/
 ---
 
+This is the archive page for all blog posts.
