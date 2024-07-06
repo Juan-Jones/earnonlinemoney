@@ -19,7 +19,7 @@ How can you make money on Pinterest? Well, it’s simple. Pinterest is nothing l
 
 First, you need to create a landing page. What is a landing page? When it comes to internet marketing, a landing page (destination page, lead capture page, squeeze page) is a signal web page used for marketing or promoting a product, service, or message. The landing page provides you with a platform to send targeted leads, prospects, and customers. It’s called a landing page because it’s where the visitor lands. There are two types of landing pages, a reference landing page, and a transactional landing page.
 
-Reference landing page – a reference landing page displays information that’s essential to the customer. This page consists of text, images, and links. The purpose of the reference landing page is to lead the customer to the transactional page.
+Reference landing page – a reference landing page displays information that’s essential to the customer. This page consists of text, images, and links. The purpose of the reference landing page is to lead customers to the transactional page.
 
 Transactional landing page – the transactional landing page contains information that influences customers to take action.
 
