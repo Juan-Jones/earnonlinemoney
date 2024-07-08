@@ -43,12 +43,13 @@
 {{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
 {{ $image_path := .Params.image | default site.Params.image -}}
 {{ $image_path_local :=  printf "static/%s" $image_path -}}
+{{ $image_path_assets :=  printf "assets/%s" $image_path -}}
 {{ $image_ext := trim (path.Ext $image_path | lower) "." -}}
-{{ if fileExists $image_path_local -}}
+{{ if fileExists $image_path_assets -}}
   <meta property="og:image" content="{{ $image_path | absURL }}" />
   {{/* If not SVG, read image aspect ratio and define Twitter Card and Open Graph width and height  */ -}}
   {{ if ne $image_ext "svg" -}}
-    {{ with (imageConfig $image_path_local) -}}
+    {{ with (imageConfig $image_path_assets) -}}
     {{ if (and (gt .Width 144) (gt .Height 144)) -}}
       <meta name="twitter:image" content="{{ $image_path | absURL }}"/>
       <meta name="twitter:card" content="summary{{ if (and (gt .Width 300) (gt .Height 157) (not (eq .Width .Height))) }}_large_image{{ end }}">
@@ -65,6 +66,7 @@
 {{ range site.Authors }}
   {{ with .twitter -}}<meta name="twitter:creator" content="@{{ . }}"/>{{ end -}}
 {{ end -}}
+
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
