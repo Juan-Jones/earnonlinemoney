@@ -11,6 +11,10 @@ slug: /blog/how-to-start-freelancing
 
 Freelancing represents a dynamic and empowering way to work in the modern world. It offers individuals the freedom to set their own schedules, choose their projects, and define their career paths. Whether you're looking to escape the confines of traditional employment or seeking a side hustle to supplement your income, freelancing can provide the flexibility and autonomy you desire.
 
+Freelancing is on the rise, with significant [statistics freelancers should know]({{< relref "statistics-freelancers-should-know" >}}). As of 2023, nearly 36% of the U.S. workforce engaged in freelancing, contributing approximately $1.2 trillion to the economy. A notable 75% of freelancers report earning more than they did in traditional jobs, highlighting the financial viability of freelancing.
+
+Moreover, 59% of freelancers specialize in skilled services such as IT, marketing, and business consulting. The global freelance market is also expanding rapidly, with platforms like Upwork and Fiverr facilitating millions of transactions annually. Understanding these trends is crucial for navigating and succeeding in the freelancing landscape.
+
 ## Freelancer Beginner's Guide
 
 In the **freelancer beginners guide**, we'll address everything you need to know to embark on your self-employed journey. From understanding the fundamentals of freelancing to mastering the art of self-promotion, we'll equip you with the knowledge and skills to thrive in the competitive freelance landscape as a newbie. Let's dive in!

@@ -18,10 +18,13 @@ googleAnalytics = "" # example: UA-123-45, for more info, read the article https
 disableLanguages = ["fr"] # example: ["fr"] for disable french language
 
 [permalinks]
-  page = "/:slug/"
-  blog = "/:slug/"
-  post = "/blog/:year-:month-:day-:title/"
+page = "/:slug/"
+blog = "/:slug/"
 
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
 
 ############################# Modules ##############################
 [module]
@@ -91,8 +94,3 @@ suffixes = [""]
 mediaType = "application/manifest+json"
 rel = "manifest"
 
-############################ sitemap  ###########################
-[sitemap]
-  changeFreq = 'daily'
-  filename = 'sitemap.xml'
-  priority = 0
