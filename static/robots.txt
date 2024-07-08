@@ -3,4 +3,4 @@ User-agent: *
 Disallow: archives.html
 Disallow: 404.html
 
-Sitemap: {{ "sitemap.xml" | absLangURL }}
+Sitemap: https://earnonlinemoney.org/sitemap.xml

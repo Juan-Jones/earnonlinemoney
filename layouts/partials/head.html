@@ -46,7 +46,6 @@
 {{ $image_ext := trim (path.Ext $image_path | lower) "." }}
 
 {{ if fileExists $image_path_static }}
-  <meta name="debug:file_exists" content="true (static)">
   <meta property="og:image" content="{{ $image_path | absURL }}" />
   <!-- If not SVG, read image aspect ratio and define Twitter Card and Open Graph width and height -->
   {{ if ne $image_ext "svg" }}
@@ -61,7 +60,6 @@
   {{ end }}
   <meta property="og:image:type" content="image/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
 {{ else if fileExists $image_path_assets }}
-  <meta name="debug:file_exists" content="true (assets)">
   <meta property="og:image" content="{{ $image_path | absURL }}" />
   <!-- If not SVG, read image aspect ratio and define Twitter Card and Open Graph width and height -->
   {{ if ne $image_ext "svg" }}
@@ -75,8 +73,6 @@
     {{ end }}
   {{ end }}
   <meta property="og:image:type" content="image/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
-{{ else }}
-  <meta name="debug:file_exists" content="false">
 {{ end }}
 
 <meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
@@ -115,7 +111,7 @@
       "name": "{{ .Site.Title }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://earnonlinemoney.org/earn-internet-income.png"
+        "url": "https://earnonlinemoney.org/images/logo.svg"
       }
     },
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z" }}",
