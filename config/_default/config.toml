@@ -21,10 +21,6 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 page = "/:slug/"
 blog = "/:slug/"
 
-[taxonomies]
-category = "categories"
-tag = "tags"
-archive = "archives"
 
 ############################# Modules ##############################
 [module]
@@ -94,3 +90,8 @@ suffixes = [""]
 mediaType = "application/manifest+json"
 rel = "manifest"
 
+############################ Output Format ###########################
+[sitemap]
+    changefreq = "monthly"
+    filename = "sitemap.xml"
+    priority = 0.5
