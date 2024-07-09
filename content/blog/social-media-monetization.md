@@ -4,7 +4,7 @@ description: "Unveiling strategies to turn your online presence into profit. Exp
 image: "images/make-money-social-media.jpg"
 date: 2023-05-20T18:19:25+06:00
 categories: ["social media"]
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 slug: /blog/social-media-monetization
 ---

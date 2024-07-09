@@ -4,7 +4,7 @@ description: "Learn how to start with ClickBank affiliate marketing. Tips, strat
 image: "images/clickbank-affiliate-mktg.jpg"
 date: 2024-05-04T18:19:25+06:00
 categories: ["monetizing"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/clickbank-affiliate-marketing-for-beginners
 ---

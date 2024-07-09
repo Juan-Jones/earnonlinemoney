@@ -4,7 +4,7 @@ description: "Discover the best side hustle ideas to earn supplemental income fr
 image: "images/side-hustle-ideas.jpg"
 date: 2013-09-15T14:19:25+06:00
 categories: ["side hustles"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/creative-side-hustles
 ---

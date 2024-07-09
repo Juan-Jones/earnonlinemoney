@@ -4,7 +4,7 @@ description: "Explore the best passive income ideas online. Discover tips to max
 image: "images/passive-income-ideas.jpg"
 date: 2020-08-24T18:19:25+06:00
 categories: ["investing"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/passive-income-ideas
 ---

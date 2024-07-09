@@ -1,11 +1,11 @@
 ######################## default configuration ####################
 baseURL = "https://earnonlinemoney.org/"
-title = "Earn Money Online | Ulitimate Digital Income Guide"
+title = "Online Income Guide - Earn Money From Home"
 theme = "geeky-curious"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "6"
+paginate = "10"
 # post excerpt
 summaryLength = "40"
 # Robotstxt
@@ -20,7 +20,6 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 [permalinks]
 page = "/:slug/"
 blog = "/:slug/"
-
 
 ############################# Modules ##############################
 [module]
@@ -50,7 +49,6 @@ maxAge = "720h"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
-
 
 ############################# Markup ###############################
 [markup]

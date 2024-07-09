@@ -4,7 +4,7 @@ description: "Explore Discover the key differences between stocks and bonds, fro
 image: "images/stocks-and-bonds.jpg"
 date: 2014-09-05T18:19:25+06:00
 categories: ["investing"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/stocks-vs-bonds
 ---

@@ -4,7 +4,7 @@ description: "Learn how to build a successful podcast business with these models
 image: "images/social-media-presence.jpg"
 date: 2020-01-04T18:19:25+06:00
 categories: ["online business"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/business-of-podcasting.md
 ---

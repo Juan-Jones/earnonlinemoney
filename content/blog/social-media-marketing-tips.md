@@ -4,7 +4,7 @@ description: "Discover the ultimate guide to social media marketing tips and str
 image: "images/smm-guide.jpg"
 date: 2020-09-03T18:19:25+06:00
 categories: ["social media"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/]
 draft: false
 slug: /blog/social-media-marketing-tips
 ---

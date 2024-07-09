@@ -22,8 +22,6 @@ contact_form_action = "https://formspree.io/f/xdoreeqg" # contact form works wit
 # search
 search = true
 
-homepageLogo = "logo.png"
-
 # featured post title
 featured_post_title = "Featured Posts"
 recent_post_title = "Recent Posts"
@@ -52,7 +50,6 @@ buyMeACoffeeId = "dejuanjones"
 
 codeLineNumbers = true
 
-
 # Preloader
 [preloader]
 enable = false
@@ -61,8 +58,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "Earn **Money** Online"
-title_small = "Digital Side Hustles, Online Jobs"
+title_large = "Online **Income** Guide"
+title_small = ""
 image = "images/earn-money.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Expert earn money online guide for entrepreneurs, students, stay at home moms & dads. Find make money from home opportunities, side hustles, online jobs, & more!"
@@ -102,9 +99,9 @@ mailchimp_form_name = "" # replace this code with yours
 # link = "#"
 
 [[social]]
-title = "twitter"
+link = "#"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/moneyonline_fre/"
+nofollow = true
 
 # [[social]]
 # title = "instagram"
@@ -114,12 +111,13 @@ link = "https://twitter.com/moneyonline_fre/"
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.facebook.com/earnmoneynowonline/"
+link = "#"
+nofollow = true
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/company/earn-money-online-free/"
+link = "#"
 
 # customize your color and font from here.
 [variables]

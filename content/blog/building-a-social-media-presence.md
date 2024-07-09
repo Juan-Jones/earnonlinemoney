@@ -4,7 +4,7 @@ description: "Key strategies for building a strong social media presence to boos
 image: "images/social-media-presence.jpg"
 date: 2020-09-09T18:19:25+06:00
 categories: ["social media"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/building-a-social-media-presence
 ---

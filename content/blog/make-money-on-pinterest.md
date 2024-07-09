@@ -4,7 +4,7 @@ description: "Find out how to make money on Pinterest without using a blog or we
 image: "images/make-money-on-pinterest.jpg"
 date: 2020-08-27T18:19:25+06:00
 categories: ["social media"]
-type: "featured"
+type: "regular"
 draft: false
 slug: /blog/make-money-on-pinterest
 ---

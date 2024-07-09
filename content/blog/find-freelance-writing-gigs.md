@@ -4,7 +4,7 @@ description: "Harness the power of professional freelance writing services to el
 image: "images/freelance writing.jpg"
 date: 2011-01-22T18:19:25+06:00
 categories: ["gig economy"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/find-freelance-writing-gigs
 ---
