@@ -11,6 +11,8 @@ logo_text = "Earn Money Online"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
+twitter_image = "/images/make-money-online.jpg"
+twitter_site = "@moneyonline_fre"
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
 author = "Dejuan"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
