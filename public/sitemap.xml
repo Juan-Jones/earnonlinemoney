@@ -32,6 +32,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://earnonlinemoney.org/archives/</loc>
+    <lastmod>2024-06-17T14:19:25+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://earnonlinemoney.org/blog/shopify-alternatives/</loc>
     <lastmod>2024-05-24T18:19:25+06:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -408,10 +413,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://earnonlinemoney.org/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://earnonlinemoney.org/archive/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
