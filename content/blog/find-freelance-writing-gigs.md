@@ -1,5 +1,5 @@
 ---
-title: "Offer Freelance Writing Services"
+title: "Explore Freelance Writing Jobs"
 description: "Harness the power of professional freelance writing services to elevate your brand. Engage audiences, optimize SEO, and deliver tailored messages effectively."
 image: "images/freelance writing.jpg"
 date: 2011-01-22T18:19:25+06:00
@@ -17,7 +17,7 @@ Freelance writing offers the freedom to work from anywhere, choose projects, and
 
 ## Finding Freelance Writing Gigs
 
-Finding freelance writing gigs can be a rewarding way to earn extra income or even build a full-time career. There are several platforms that you can choose from, you can [make money on Fiverr]({{< relref "how-to-make-money-on-fiverr" >}}), Freelancer, Upwork and so on! These platforms offers a wide range of opportunities for writers of all levels. To get started, create a compelling profile highlighting your skills, experience, and writing samples. Be sure to tailor your gigs to specific niches, such as blog writing, copywriting, or technical writing, to attract targeted clients.
+Finding freelance writing gigs can be a rewarding way to earn extra income or even build a full-time career. There are several platforms that you can choose from! These platforms offers a wide range of opportunities for writers of all levels. To get started, create a compelling profile highlighting your skills, experience, and writing samples. Be sure to tailor your gigs to specific niches, such as blog writing, copywriting, or technical writing, to attract targeted clients.
 
 Additionally, networking on social media and joining writing communities can help you discover new opportunities and connect with potential clients. Building a strong portfolio and consistently delivering high-quality work will lead to positive reviews and repeat business, further boosting your freelance career. Keep honing your skills and staying updated with industry trends to stand out in the competitive freelance market.
 

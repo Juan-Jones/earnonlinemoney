@@ -30,7 +30,7 @@ Here are methods to harness the potential of Google Ads and turn clicks into cas
 * Display Network Advertising: Utilize Google's expansive Display Network to showcase ads across a vast array of websites, reaching a broader audience and increasing brand visibility.
 * Search Network Campaigns: Craft compelling ad copy and bid on relevant keywords to appear prominently in search results, driving traffic and potential leads to your offerings.
 * Remarketing Strategies: Implement remarketing campaigns to re-engage previous website visitors who didn't convert.
-* Affiliate Marketing with Ads: Combine affiliate marketing with Google Ads to earn commissions by promoting third-party products or services.
+* Affiliate Marketing with Ads: Combine [affiliate marketing opportunities]({{< relref "affiliate-marketing-fundamentals" >}}) with Google Ads to earn commissions by promoting third-party products or services.
 * App Monetization: For app developers, leveraging Google Ads within mobile apps can generate revenue through in-app ads or by promoting other apps or services.
 * Local Business Advertising: For brick-and-mortar businesses, Google Ads offers targeted local advertising.
 * Consulting or Agency Services: Help businesses optimize their ad strategies for a fee.

@@ -25,7 +25,7 @@ The amount of money YouTubers make can vary dramatically based on their subscrib
 
 ## Factors Influencing YouTuber Earnings
 
-There are several factors that determine how publisher’s [earn money on the internet]({{< relref "make-money-online" >}}). How many subscribers does the publisher have? How much traffic does the channel/video is generating? Publishers who have been at it for a while master methods to increase their revenue over the years. Below are 5 factors that impact a publisher’s income;
+There are several factors that determine how publisher’s [make money on YouTube]({{< relref "make-money-on-youtube" >}}). How many subscribers does the publisher have? How much traffic does the channel video is generating? Publishers who have been at it for a while master methods to increase their revenue over the years. Below are 5 factors that impact a publisher’s income;
 
 ### Niche and Content Type
 
@@ -33,7 +33,7 @@ The niche a YouTuber operates in can significantly impact earnings. Some niches,
 
 ### Audience Demographics
 
-Every YouTubers journey begins with the finding creating content for their target audience. Hence, starting a YouTube channel with emphasis on  crafting compelling content that resonates with the audience is the cornerstone of success. From makeup tutorials to gaming streams, vlogs to educational content, content is king.
+Whether you're [starting a vlog]({{< relref "how-to-start-a-vlog" >}}) or a tutorial channel pleasing your audience is crucial. Every YouTubers journey begins with the finding creating content for their target audience. Hence, starting a YouTube channel with emphasis on crafting compelling content that resonates with the audience is the cornerstone of success. Therefore, if you want to [make money online free]({{< relref "make-money-online" >}}) through YouTube you must please your viewers. From dvlogs to educational content, content is king.
 
 The key lies not only in creating content but also in fostering a community—a tribe of loyal subscribers who resonate with the creator's voice and vision. Through consistency and authenticity, creators forge connections that transcend pixels and screens, anchoring their audience to their journey.
 
@@ -77,7 +77,7 @@ Investing in good equipment, such as cameras, microphones, and lighting, can sig
 
 ### 3. Engage with Your Audience
 
-Engaging with your audience through comments, live streams, and social media can help build a loyal fanbase. A dedicated audience is more likely to support you through merchandise purchases and donations.
+If you plan on [enhancing your social media presence]({{< relref "building-a-social-media-presence" >}}) I recommend interacting with your audience. Engaging with your audience through comments, live streams, and social media can help build a loyal fanbase. A dedicated audience is more likely to support you through merchandise purchases and donations.
 
 ### 4. Diversify Your Income
 
