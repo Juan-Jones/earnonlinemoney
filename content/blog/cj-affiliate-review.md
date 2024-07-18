@@ -4,7 +4,7 @@ description: "Complete CJ Affiliate review including advantages, disadvantages, 
 image: "images/cj-review.jpg"
 date: 2024-05-04T18:19:25+06:00
 categories: ["monetizing"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/cj-affiliate-review
 ---

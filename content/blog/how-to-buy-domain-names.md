@@ -3,7 +3,7 @@ title: "How to Buy Domain Names"
 description: "Discover how to effectively buy domain names for your website, ensuring a strong online presence and brand identity."
 image: "images/buy-domain-names.jpg"
 date: 2024-06-17T18:19:25+06:00
-categories: ["monetizing"]
+categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/how-to-buy-domain-names

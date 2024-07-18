@@ -2,7 +2,7 @@
 title: "9 Podcasting Content Creation Strategies"
 description: "Podcasting content creation strategies that yield results. Discover nine content creation strategies every platform should implement."
 image: "images/podcast-content-creation.jpg"
-date: 2020-01-05T18:19:25+06:00
+date: 2020-01-09T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false

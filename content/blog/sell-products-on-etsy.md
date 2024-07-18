@@ -20,7 +20,7 @@ Etsy provides sellers with a plethora of features and tools to enhance their sto
 
 ### Identify Desired Digital Products
 
-Selling digital products on Etsy is convenient, but attracting traffic to your storefront is the real challenge. To succeed, identify and develop digital products that resonate with your target audience. Consider products such as backgrounds, digital coloring books, clip arts, embroidery patterns, wall art, computer and phone wallpapers, workbooks, and more. This guide is your compass to crafting products that speak to your customers' desires.
+Selling [virtual goods]({{< relref "selling-digital-products" >}}) on Etsy is convenient, but attracting traffic to your storefront is the real challenge. To succeed, identify and develop digital products that resonate with your target audience. Consider products such as backgrounds, digital coloring books, clip arts, embroidery patterns, wall art, computer and phone wallpapers, workbooks, and more. This guide is your compass to crafting products that speak to your customers' desires.
 
 ### Understand Your Etsy Target Market
 
@@ -87,8 +87,3 @@ In addition to finished products, Etsy also caters to DIY enthusiasts and crafte
 ### Handmade Bath and Beauty Products
 
 The demand for natural, artisanal bath and beauty products has surged in recent years, and Etsy has emerged as a preferred destination for consumers seeking handmade alternatives to mass-produced skincare and personal care items. Whether you specialize in handcrafted soaps, bath bombs, skincare products, or aromatherapy candles, Etsy provides a platform to showcase your formulations and connect with buyers who prioritize quality, craftsmanship, and sustainability.
-
-#### Alternatives to Selling Products on Etsy
-
-* [Start Earning Money on YouTube]({{< relref "make-money-on-youtube" >}})
-* [Learn How to Write and Sell Ebooks]({{< relref "how-to-write-an-ebook" >}})

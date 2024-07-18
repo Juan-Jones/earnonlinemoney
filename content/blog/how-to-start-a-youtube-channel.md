@@ -90,7 +90,7 @@ Experiment with different formats and styles to see what resonates best with you
 
 ### 9. Monetize Your Channel
 
-Once you've built a loyal audience and consistently produce high-quality content, you may be eligible to [monetize your YouTube channel, i.e., earn money from ads, channel memberships, and merchandise sales.
+Once you've built a loyal audience and consistently produce high-quality content, you may be eligible to [monetize your YouTube channel], i.e., earn money from ads, channel memberships, and merchandise sales.
 
 *
 * Create and Sell Online Courses: If you have expertise in a particular field or skill, consider creating and selling online courses. Platforms like Udemy.com, Skillshare, and [Teachable](https://teachable.sjv.io/EKE0Oe) provide a marketplace for instructors to share their knowledge and earn passive income through course sales.
@@ -110,7 +110,7 @@ Effective strategies to boost traffic on YouTube:
 
 Content Planning: This initial step involves brainstorming content ideas aligned with your niche, audience interests, and trending topics.
 Quality Video Equipment: While not mandatory initially, investing in a good camera, microphone, and lighting can enhance video qualit.
-Video Editing Software: Learning video editing software like  Adobe Premiere Pro or Final Cut Pro can be challenging but essential.
+Video Editing Software: Learning video editing software like Adobe Premiere Pro or Final Cut Pro can be challenging but essential.
 SEO Mastery: Understanding Search Engine Optimization (SEO) for YouTube—keywords, titles, descriptions, and tags—is key.
 Consistent Upload Schedule: Regular content creation is vital for audience engagement. It demands time and commitment but no direct financial investment.
 Engagement and Community Building: Responding to comments, engaging with your audience, and building a community fosters loyalty.

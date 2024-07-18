@@ -2,7 +2,7 @@
 title: "What is Ecommerce - History, Types & Key Components"
 description: "Explore the world of eCommerce, a digital realm where virtual markets redefine commerce. Find digital storefronts & the dynamic landscape of modern business."
 image: "images/ecommerce-101.jpg"
-date: 2020-09-01T18:19:25+06:00
+date: 2019-11-09T18:19:25+06:00
 categories: ["ecommerce"]
 type: "regular" # available types: [featured/regular]
 draft: false

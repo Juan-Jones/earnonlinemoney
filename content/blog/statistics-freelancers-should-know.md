@@ -14,31 +14,27 @@ As a freelancer or on-demand worker, staying informed about industry trends, mar
 
 ## What is Freelancing?
 
-Freelancing refers to a type of work where individuals offer their services on a project or contract basis, rather than being employed full-time by a single employer. Freelancers typically work for multiple clients and enjoy the flexibility to choose their projects and work hours. Explore a complete guide on [meaning of freelancing]({{< relref "what-is-freelancing" >}}).
+Freelancing refers to a type of work where individuals offer their services on a project or contract basis, rather than being employed full-time by a single employer. Freelancers also known as on-demand workers typically work for multiple clients and enjoy the flexibility to choose their projects and work hours. Explore a complete guide on [meaning of freelancing]({{< relref "what-is-freelancing" >}}).
 
 ### 1. The Gig Economy is Thriving
 
 The gig economy's prosperity stems from several factors, including technological advancements, shifting cultural attitudes towards work, and the demand for flexible employment arrangements. This convergence of elements has created a fertile environment for freelancers to thrive, reshaping the landscape of labor markets globally.
 
-{{< image src="images/thriving-gig-economy.jpg" caption="Thriving Gig Economy Illustration" alt="Thriving Gig Economy Illustration" height="585" width="1040" position="center" command="fit" option="q100" class="img-fluid" title="Thriving Gig Economy Illustration" webp="false" >}}
-
 ### 2. Freelancing Offers Financial Freedom
 
-Freelancing presents a viable path to financial independence, allowing you to earn income on your own terms. With the right skills and strategies, you can leverage this model to achieve your financial goals.
+Freelancing presents a viable path to financial independence, allowing you to earn income on your own terms. However, its essential to understand how to [manage your freelance finances]({{< relref "freelance-finance-management" >}}).
 
-*77% of on-demand workers are optimistic about there personal income salary.* Source: [Upwork's Freelancing to Financial Freedom](https://www.upwork.com/resources/freelancing-to-financial-freedom/).
+*77% of on-demand workers are optimistic about there personal income salary.* Source: Upwork's Freelancing to Financial Freedom.
 
 ### 3. Remote Work is the New Norm
 
-Remote work has become the new norm due to advancements in technology, enabling seamless communication and collaboration from anywhere. Organizations recognize the cost-saving benefits, increased productivity, and access to a global talent pool, solidifying remote work as a permanent fixture in modern work culture.
+Remote work has become the new norm due to advancements in technology, enabling seamless communication and collaboration from anywhere. Organizations recognize the cost-saving benefits, increased productivity, and access to a global talent pool, solidifying remote work as a permanent fixture in modern work culture. With the right skills and strategies, you can begin your journey to [start freelancing]({{< relref "how-to-start-freelancing" >}}) from home.
 
 *98% of respondents want to work remotely, at least some of the time, for the rest of their careers (Source: Buffer's State of Remote Work report).*
 
 ### 4. Networking is Essential
 
 Networking is not just advantageous; it's imperative for professional success. By cultivating relationships, individuals can tap into hidden job markets, receive mentorship, and establish themselves as industry leaders, ultimately propelling their careers to new heights.
-
-{{< image src="images/freelance-networking-essential.jpg" caption="Freelance Networking Essential Illustration" alt="Freelance Networking Essential Illustration" height="585" width="1040" position="center" command="fit" option="q100" class="img-fluid" title="Freelance Networking Essential Illustration" webp="false" >}}
 
 ### 5. Online Presence Matters
 
@@ -70,8 +66,6 @@ Freelancers cherish flexibility as it allows them to adapt their schedules to ac
 
 Picture a world where cyber threats lurk in the shadows, ready to strike at any moment. Stories of data breaches and cyber attacks fill the headlines, underscoring the urgency of addressing cybersecurity concerns. Through collective action and vigilance, we can rewrite this narrative, fortifying our digital defenses and ensuring a safer online environment for all.
 
-{{< image src="images/freelance-cybersecurity-concerning.jpg" caption="Freelance Cyber Security" alt="Freelance Cyber Security" height="585" width="1040" position="center" command="fit" option="q100" class="img-fluid" title="Freelance Cyber Security" webp="false" >}}
-
 ### 10. The Importance of Contracts
 
 Compared to traditional employment, where contracts are standard, freelancers face greater risks without formal agreements. Contracts establish boundaries, ensure fair compensation, and mitigate legal liabilities, safeguarding freelancers' interests.
@@ -87,8 +81,6 @@ Through analysis, it's clear: freelancers indeed grapple with the challenge of a
 ### 12. Upskilling is Essential
 
 When it comes to freelancing, upskilling is indispensable. Research shows a direct correlation between continuous learning and career success, with upskilled individuals often commanding higher salaries and enjoying greater job satisfaction.
-
-{{< image src="images/freelance-upskilling-essential.jpg" caption="Freelance Upskilling Illustration" alt="Freelance Upskilling Illustration" height="585" width="1040" position="center" command="fit" option="q100" class="img-fluid" title="Freelance Upskilling Illustration" webp="false" >}}
 
 ### 13. Mental Health Awareness
 
@@ -118,8 +110,6 @@ Independent contractors must prioritize work-life balance fervently. It not only
 
 Inarguably, freelancers cannot afford to disregard professional development opportunities. Those skeptical must acknowledge their pivotal role in skill refinement, market differentiation, and sustained success in an ever-evolving professional landscape.
 
-{{< image src="images/freelance-professional-development.jpg" caption="Freelance Professional Development Illustration" alt="Freelance Professional Development Illustration" height="1040" width="585" position="center" command="fit" option="q100" class="img-fluid" title="Freelance Professional Development Illustration" webp="false" >}}
-
 ### 18. Collaboration Enhances Creativity
 
 Freelancers should embrace collaboration wholeheartedly as it fuels creativity. Through collaboration, ideas evolve, synergies emerge, and projects reach new heights of innovation and excellence.
@@ -130,4 +120,4 @@ Freelancers should embrace collaboration wholeheartedly as it fuels creativity. 
 
 #### All in All
 
-Armed with the knowledge and tools presented in this guide, freelancers can unlock new opportunities, mitigate risks, and achieve greater success in their careers. Statistics isn't just a subject for academics and researchers; it's a practical toolkit for freelancers seeking to thrive in today's data-driven world. So embrace the power of statistics, and watch your freelance career soar to new heights.
+Armed with the [freelancers tips]({{< relref "tips-for-freelancers" >}}), knowledge and tools presented in this guide, on-demand workers can unlock new opportunities, mitigate risks, and achieve greater success in their careers. Statistics isn't just a subject for academics and researchers; it's a practical toolkit for those seeking to thrive in today's data-driven world. So embrace the power of statistics, and watch your freelance career soar to new heights.

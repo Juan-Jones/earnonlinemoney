@@ -1,7 +1,7 @@
 ---
 title: "About The Author"
 description: "Information about the author Dejuan Jones."
-image: "images/about.png"
+image: "images/about.jpg"
 layout: "about"
 draft: false
 

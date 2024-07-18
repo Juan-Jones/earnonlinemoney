@@ -2,7 +2,7 @@
 title: "Explore Freelance Writing Jobs"
 description: "Harness the power of professional freelance writing services to elevate your brand. Engage audiences, optimize SEO, and deliver tailored messages effectively."
 image: "images/freelance writing.jpg"
-date: 2011-01-22T18:19:25+06:00
+date: 2019-11-07T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
@@ -73,4 +73,4 @@ Freelancing has become a popular career choice, offering flexibility and indepen
 
 #### Conclusion
 
-Freelance writing is a dynamic and rewarding [passive income opportunity]({{< relref "passive-income-ideas" >}}) that requires a blend of creativity, business acumen, and continuous learning. By following these tips and strategies, writers can enhance their skills, attract more clients, and achieve long-term success in the freelance writing industry.
+Freelance writing is a dynamic and rewarding passive income opportunity that requires a blend of creativity, business acumen, and continuous learning. By following these tips and strategies, writers can enhance their skills, attract more clients, and achieve long-term success in the freelance writing industry.

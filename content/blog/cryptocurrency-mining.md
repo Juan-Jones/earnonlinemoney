@@ -2,7 +2,7 @@
 title: "How Crypto Mining Works"
 description: "Explore the intricacies of cryptocurrency mining. Discover how miners secure transactions, validate blocks, and contribute to the decentralized network."
 image: "images/crypto-mining.jpg"
-date: 2020-08-24T11:19:25+06:00
+date: 2019-11-12T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false

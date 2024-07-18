@@ -2,7 +2,7 @@
 title: "Ultimate Guide to Build Online Stores"
 description: "What does it take build online stores? For beginners, you must find a market, create a brand, and find hosting to start."
 image: "images/how-to-build-online-stores.jpg"
-date: 2022-08-30T18:19:25+06:00
+date: 2019-10-12T18:19:25+06:00
 categories: ["ecommerce"]
 type: "featured" # available types: [featured/regular]
 draft: false
@@ -40,11 +40,11 @@ To accept payments from your customers, you'll need to integrate a payment gatew
 
 Ensure that your payment gateway is secure and compliant with industry standards to protect your customers' sensitive information and build trust in your brand.
 
-### 4. Implementing SMM Strategies
+### 4. Implementing Ecommerce Marketing Strategies
 
-Social media marketing (SMM) plays a crucial role in driving traffic to your ecommerce store and increasing your visibility in search engine results. Optimize your social media pages and post with relevant keywords, meta descriptions, and alt tags to improve your site's ranking.
+Marketing strategies plays a crucial role in driving traffic to your ecommerce store and increasing your visibility in search engine results. Optimize your social media pages and post with relevant keywords, meta descriptions, and alt tags to improve your site's ranking. In other words, if you plan on getting customers, you must implement [effective ecommerce marketing strategies]({{< relref "ecommerce-marketing-tips" >}}).
 
-Create high-quality, original content such as blog posts, tutorials, and product guides to engage your audience and establish your authority in your niche. Leverage [social media]({{< relref "social-media-marketing-tips" >}}) channels and email marketing campaigns to promote your content and attract potential customers.
+Create high-quality, original content such as blog posts, tutorials, and product guides to engage your audience and establish your authority in your niche. Leverage social media channels and email marketing campaigns to promote your content and attract potential customers.
 
 ### 5. Sell Your Products
 
@@ -65,7 +65,7 @@ Collect feedback from your customers through surveys, reviews, and customer supp
 
 ### Ecommerce Tips
 
-Investing in education can provide valuable insights and skills to enhance your e-commerce business. Here are some of the [best online courses]({{< relref "best-online-courses" >}}) to consider:
+Investing in education can provide valuable insights and skills to enhance your e-commerce business. Here are some of the [best online courses]({{< relref "best-online-course-platforms" >}}) to consider:
 
 * E-Commerce Marketing by Udemy
 * Shopify Academy
@@ -75,7 +75,7 @@ Investing in education can provide valuable insights and skills to enhance your 
 
 Secondly, Explore [B2B e-commerce]({{< relref "b2b-ecommerce" >}}). While most people think of e-commerce as B2C, B2B e-commerce is a growing sector with significant opportunities. B2B transactions often involve larger order volumes and long-term contracts, making it a lucrative market.
 
-Lastly, [learn how to start freelancing]({{< relref "how-to-start-freelancing" >}}) in e-commerce. There are several freelance avenues to explore, i.e., web development, digital marketing, content creation, graphic design, virtual assistance and more.
+Lastly, learn how to start freelancing in e-commerce. There are several freelance avenues to explore, i.e., web development, digital marketing, content creation, graphic design, virtual assistance and more.
 
 #### Conclusion
 

@@ -1,8 +1,8 @@
 ---
-title: "Creative Side Hustle Ideas Lists"
+title: "Creative Side Hustle Ideas"
 description: "Discover the best side hustle ideas to earn supplemental income from home today. Find easy ways to earn extra cash and boost your income."
 image: "images/side-hustle-ideas.jpg"
-date: 2013-09-15T14:19:25+06:00
+date: 2019-10-29T18:19:25+06:00
 categories: ["side hustles"]
 type: "regular" # available types: [featured/regular]
 draft: false
@@ -57,7 +57,7 @@ Selling physical products online can be one of the biggest moneymakers. You can 
 
 ### 9. Use Apps to Sell Your Stuff
 
-Do you have items sitting in your garage collecting dust? Or do you have unopened gifts that you’ve purchased? Or maybe you have valuable things that you don’t use anymore sitting around the house. If you answered yes to the questions above, you can [sell your stuff]({{<  relref "best-apps-to-sell-your-stuff" >}}) for cash.
+Do you have items sitting in your garage collecting dust? Or do you have unopened gifts that you’ve purchased? Or maybe you have valuable things that you don’t use anymore sitting around the house. If you answered yes to the questions above, you can [sell your stuff]({{< relref "best-apps-to-sell-your-stuff" >}}) for cash.
 
 ### 10. Take Surveys
 
@@ -155,6 +155,7 @@ Are you searching for legitimate ways to earn additional income from home? Well,
 82. Work polls during elections,
 83. Yoga instructor.
 84. Advertise digital products.
+85. [Grant Writing Strategies]({{< relref "grant-writing-strategies" >}})
 
 ### Having a Side Hustle Cannot be Overstated
 

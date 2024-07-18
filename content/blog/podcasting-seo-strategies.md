@@ -2,7 +2,7 @@
 title: "Podcasting SEO Strategies"
 description: "Podcasting SEO Tips. Learn how to optimize episodes for search engines to increase discoverability and attract more listeners"
 image: "images/podcast-seo.jpg"
-date: 2020-01-05T18:19:25+06:00
+date: 2020-01-11T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false

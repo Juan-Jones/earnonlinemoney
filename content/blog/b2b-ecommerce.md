@@ -65,7 +65,7 @@ Implement loyalty programs to reward your repeat customers. Offer discounts, exc
 
 ## Pricing Your Online Services
 
-In the realm of business-to-business ecommerce, [pricing your online services]({{< relref "pricing-your-online-services" >}}) is crucial for competitiveness and profitability. Unlike B2C, business-to-business transactions often involve complex pricing models tailored to business needs. Effective strategies encompass value-based pricing, tiered pricing structures, and subscription models to align with client expectations. Transparency in pricing builds trust and facilitates long-term partnerships, enhancing customer satisfaction. Integrating dynamic pricing tools and analytics enables agile adjustments, ensuring competitiveness in a dynamic market. Ultimately, mastering pricing strategies in B2B ecommerce fosters sustainable growth and positions businesses for success in the digital marketplace.
+Unlike B2C, business-to-business transactions often involve complex pricing models tailored to business needs. Effective strategies encompass value-based pricing, tiered pricing structures, and subscription models to align with client expectations. Transparency in pricing builds trust and facilitates long-term partnerships, enhancing customer satisfaction. Integrating dynamic pricing tools and analytics enables agile adjustments, ensuring competitiveness in a dynamic market. Ultimately, mastering pricing strategies in B2B ecommerce fosters sustainable growth and positions businesses for success in the digital marketplace.
 
 ### Utilize Automation
 
@@ -85,7 +85,7 @@ Compliance and security are vital in B2B ecommerce. Ensure your online store com
 
 ### Scale Your B2B Ecommerce Business
 
-As your B2B ecommerce business grows, it's essential to scale your operations effectively. This can involve expanding your product offerings, entering new markets, and investing in advanced technologies to enhance your capabilities. You should also implement new [SMM strategies]({{< relref "social-media-marketing-tips" >}}) along the way.
+As your B2B ecommerce business grows, it's essential to scale your operations effectively. This can involve expanding your product offerings, entering new markets, and investing in advanced technologies to enhance your capabilities.
 
 #### Conclusion
 

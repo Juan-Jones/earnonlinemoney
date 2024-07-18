@@ -2,7 +2,7 @@
 title: "How to Build Podcaster Brand"
 description: "Key steps to establish your podcast's identity, connect with your audience, and stand out in the competitive podcasting landscape."
 image: "images/podcast-branding.jpg"
-date: 2020-01-05T18:19:25+06:00
+date: 2020-01-08T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false

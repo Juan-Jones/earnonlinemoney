@@ -2,7 +2,7 @@
 title: "Cryptocurrency Investment Roadmap to Success Guide"
 description: "Explore crypto investments: Bitcoin to Altcoins. Navigate volatility, manage risk, seize opportunities in the dynamic market."
 image: "images/top-crypto-investments.jpg"
-date: 2018-10-05T18:19:25+06:00
+date: 2019-10-19T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false

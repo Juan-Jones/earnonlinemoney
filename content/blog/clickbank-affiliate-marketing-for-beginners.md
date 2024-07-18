@@ -5,7 +5,7 @@ image: "images/clickbank-affiliate-mktg.jpg"
 date: 2024-05-04T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
-draft: false
+draft: falst
 slug: /blog/clickbank-affiliate-marketing-for-beginners
 ---
 

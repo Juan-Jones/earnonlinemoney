@@ -2,7 +2,7 @@
 title: "Best Apps to Sell Stuff Today"
 description: "Check out the best apps to sell stuff in 2024. Find easy ways to earn extra cash and boost your income."
 image: "images/top-apps-for-selling-stuff.jpg"
-date: 2013-09-17T14:19:25+06:00
+date: 2019-10-30T18:19:25+06:00
 categories: ["side hustles"]
 type: "regular" # available types: [featured/regular]
 draft: false
@@ -55,11 +55,11 @@ Vinted.com is a peer-to-peer marketplace app focused on buying and selling secon
 
 Carousell.com is a mobile marketplace app that originated in Singapore and has since expanded to other markets across Asia and beyond. It allows users to buy and sell a wide variety of items, including clothing, electronics, beauty products, and more. Carousell's user-friendly interface and built-in chat feature make it easy to connect with buyers and close deals quickly.
 
-### 11 Craigslist
+### 11. Craigslist
 
 Craigslist.org has been a major resource for sellers since. Across the globe, internet entrepreneurs have earned thousands selling products through classified ad sites. It's one of the best side hustles of the internet. Many people around the world use these basic techniques to [sell items on Craigslist]({{< relref "make-money-on-craigslist" >}}), and so can you.
 
-### 12.Decluttr
+### 12. Decluttr
 
 DeCluttr.com is a place to get rid of things you have lying around. Have you ever heard the saying "one man's trash is another mans' treasure"? Hence, some of your items might not serve you value, but that same item could be the most precious gift in the world to someone else. Items like phones, CDs, DVDs, books, tablets, iPads, and many others.
 
