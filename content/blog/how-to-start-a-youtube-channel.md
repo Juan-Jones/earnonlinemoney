@@ -2,7 +2,7 @@
 title: "How to Start a YouTube Channel, Step-by-Step"
 description: "Learn how to start a YouTube channel, create compelling content, optimizing your videos for search, captivate viewers and grow your presence on YT!"
 image: "images/start-youtube-channel.jpg"
-date: 2011-08-24T18:19:25+06:00
+date: 2019-11-08T18:19:25+08:00
 categories: ["social media"]
 type: "regular" # available types: [featured/regular]
 draft: false

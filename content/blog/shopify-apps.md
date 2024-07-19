@@ -2,7 +2,7 @@
 title: "Most Effective Shopify Apps"
 description: "The best Shopify apps that can optimize your e-commerce store, streamline operations, and increase sales"
 image: "images/shopify-applications.jpg"
-date: 2019-09-01T18:19:25+07:00
+date: 2019-11-13T18:19:25+08:00
 categories: ["ecommerce"]
 type: "regular"
 draft: false

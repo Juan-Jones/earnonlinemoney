@@ -91,4 +91,4 @@ Jim Simons, founder of Renaissance Technologies, employs quantitative analysis a
 
 Simons' Medallion Fund is renowned for its high returns, averaging around 40% annually, making it one of the most successful hedge funds in history.
 
-These twelve investors have not only achieved remarkable financial success but have also influenced the broader investment community by [introducing investment strategies]({{< relref "introduction-to-investing" >}}) and insights. Their contributions continue to shape the financial landscape, offering valuable lessons for both novice and experienced investors alike.
+These twelve investors have not only achieved remarkable financial success but have also influenced the broader investment community by sharing [investment strategies]({{< relref "introduction-to-investing" >}}) and insights. Their contributions continue to shape the financial landscape, offering valuable lessons for both novice and experienced investors alike.
