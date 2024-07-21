@@ -77,11 +77,11 @@ If you know anything about SEO for bloggers is dif
 
 Lastly, take advantage of guest posting. Writing guest posts for other blogs in your niche can drive traffic to your blog and improve your SEO through backlinks.
 
-### 9. Monetize Your Blog
+### 9. Make Money From Your Blog
 
-There are several [ways to monetize a blog]({{< relref "monetize-a-blog" >}}). Affiliate marketing involves promoting products and earning a commission for every sale made through your referral link.
+There are several [ways to make money online]({{< relref "make-money-online" >}}) blogging
 
-* Affiliate Marketing: Learning the [basics of affiliate marketing]({{< relref "affiliate-marketing-fundamentals" >}}) was a game-changer for me. Promoting products I love and earning a commission on sales is a great way to monetize your blog without overwhelming your readers with ads.
+* Affiliate Marketing: Learning the basics of affiliate marketings was a game-changer for me. Promoting products I love and earning a commission on sales is a great way to monetize your blog without overwhelming your readers with ads.
 * Display Advertising: Display ads can generate a steady income if you have a significant amount of traffic. I use Google AdSense and Media.net to display ads on my blog.
 * Selling Digital Products: Creating and selling digital products like e-books, courses, and printables has been one of my most profitable ventures. It allows you to share your expertise and provide value to your audience.
 * Offering Services: Providing services such as consulting, coaching, or freelance work can turn your blog into a full-fledged business. I had to learn how to start freelancing before offering consulting services, which not only brought in additional income but also strengthened my authority in my niche.
