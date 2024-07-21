@@ -21,9 +21,7 @@ At its core, a blog is a dynamic platform for publishing content in a chronologi
 
 ## Importance of Blogging
 
-At its core, blogging represents the democratization of media, empowering individuals to become publishers, journalists, and influencers in their own right. Unlike traditional media outlets, blogs offer unparalleled freedom of expression and unfiltered authenticity. Bloggers can carve out their niches, cultivate dedicated audiences, and engage in meaningful conversations without the constraints of editorial oversight.
-
-Moreover, blogging serves as a powerful tool for building personal brand equity and establishing thought leadership in diverse fields. Businesses leverage blogs to foster brand loyalty, drive website traffic, and enhance search engine visibility through strategic content marketing initiatives. From lifestyle influencers to industry experts, bloggers wield immense influence in shaping consumer behaviors, opinions, and trends.
+Blogging serves as a powerful tool for building personal brand equity and establishing thought leadership in diverse fields. Businesses leverage blogs to foster brand loyalty, drive website traffic, and enhance search engine visibility through strategic content marketing initiatives. From lifestyle influencers to industry experts, bloggers wield immense influence in shaping consumer behaviors, opinions, and trends. More importantly, average people can [make money online]({{< relref "make-money-online" >}}) blogging.
 
 ## How to Make a Blog
 
@@ -41,7 +39,7 @@ What is a Niche? A niche is a specialized segment of the market for a particular
 
 Choosing a niche is crucial because it helps you target a specific audience, making your blog more appealing to those interested in that topic. This focused approach can also improve your blog's SEO, as search engines favor specialized content.
 
-When selecting a niche, it's important to choose something you are passionate about, as this will keep you motivated and make your writing more engaging. Additionally, conducting market research to see if there is an audience for your chosen niche is essential. Tools like Google Trends and keyword research can help in this process. Analyzing other blogs in your niche is also beneficial. If the market is too saturated, consider narrowing your focus to a sub-niche.
+When [selecting a niche]({{< relref "how-to-find-your-niche" >}}), it's important to choose something you are passionate about, as this will keep you motivated and make your writing more engaging. Additionally, conducting market research to see if there is an audience for your chosen niche is essential. Tools like Google Trends and keyword research can help in this process. Analyzing other blogs in your niche is also beneficial. If the market is too saturated, consider narrowing your focus to a sub-niche.
 
 ### 3. Get Your Blog Online
 
@@ -73,13 +71,11 @@ First utilize social media platforms like Facebook, Twitter, Instagram, and Pint
 
 Second, build an email list. This is one of the most effective ways to keep your audience updated on new content. Tools like Mailchimp or ConvertKit can help manage your email marketing campaigns.
 
-If you know anything about SEO for bloggers is dif
-
 Lastly, take advantage of guest posting. Writing guest posts for other blogs in your niche can drive traffic to your blog and improve your SEO through backlinks.
 
 ### 9. Make Money From Your Blog
 
-There are several [ways to make money online]({{< relref "make-money-online" >}}) blogging
+There are several ways to [monetize a blog]({{< relref "monetize-a-blog" >}}), here are a few;
 
 * Affiliate Marketing: Learning the basics of affiliate marketings was a game-changer for me. Promoting products I love and earning a commission on sales is a great way to monetize your blog without overwhelming your readers with ads.
 * Display Advertising: Display ads can generate a steady income if you have a significant amount of traffic. I use Google AdSense and Media.net to display ads on my blog.

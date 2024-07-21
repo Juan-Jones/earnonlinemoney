@@ -32,11 +32,11 @@ Start by selecting a niche that interests you and has profitable potential. Popu
 
 There are five steps that take place in the associate marketing process:
 
-* 1. Merchant Partnership: First, a merchant sign up and pays an affiliate network to sell products or offer services.
-* 2. After [joining an affiliate program]({{< relref "best-affiliate-programs" >}}) the publishers receives unique affiliate links to sell digital products, or offer services.
-* 3. Next product or service is promoted on the publishers or associates platform, i.e., (social media page, website, blog).
-* 4. A customer purchases a product or service on the publishers platform.
-* 5. Lastly, the publisher earns a commission by sales or leads, and the merchant earns a return on investment.
+1. Merchant Partnership: First, a merchant sign up and pays an affiliate network to sell products or offer services.
+2. After joining an [affiliate program]({{< relref "best-affiliate-programs" >}}) the publishers receives unique affiliate links to sell digital products, or offer services.
+3. Next product or service is promoted on the publishers or associates platform, i.e., (social media page, website, blog).
+4. A customer purchases a product or service on the publishers platform.
+5. Lastly, the publisher earns a commission by sales or leads, and the merchant earns a return on investment.
 
 Affiliate Marketing Avg Earnings: Affiliate marketing offers lucrative opportunities. For instance, Pat Flynn from Smart Passive Income earned about $2 million in 2017. According to Glassdoor, the average earnings for affiliate marketers in the U.S. is around $87,000 a year, making it one of the best ways to earn money online.
 

@@ -21,7 +21,8 @@ The first step in starting an online business is identifying a profitable niche.
 
 ### 2. Identifying Your Online Business Passion
 
-* Passion and Expertise: What are you passionate about? What skills or knowledge do you have that others might find valuable?
+What are you passionate about? What skills or knowledge do you have that others might find valuable? The key to identifying an online business that your passionate about involves [finding your niche]({{< relref "how-to-find-your-niche" >}})!
+
 * Market Demand: Use tools like Google Trends and keyword research to identify trends and search volume in your potential niche.
 * Competition: Analyze your competitors to see what they are doing well and where there might be gaps in the market.
 * Do your Homework: Check out the [top internet entrepreneurs]({{< relref "top-internet-entrepreneurs" >}}) in your respective market.
@@ -31,9 +32,10 @@ The first step in starting an online business is identifying a profitable niche.
 Here are some online business ideas to get you started:
 
 * E-commerce Store: Sell physical products through an online store.
-* Dropshipping: Partner with suppliers to sell products without holding inventory.
+* Dropshipping: [Start a dropshipping business]({{< relref "start-a-dropshipping-business" >}}).
 * Digital Products: Create and sell digital products like e-books, courses, or software.
 * Affiliate Marketing: Promote other companies' products and earn a commission on sales.
+* Podcasting: Learn [how to start a podcast]({{< relref "how-to-start-a-podcast" >}}).
 
 ### 2. Conduct Market Research
 
@@ -62,7 +64,7 @@ Make it easy for customers to pay by offering multiple payment options, includin
 
 ### 5. Develop a Marketing Strategy
 
-Social media is a powerful tool for promoting your online business. Create profiles on popular platforms like Facebook, Instagram, and Twitter to engage with your audience and share content. Use targeted ads to reach specific demographics and drive traffic to your website. If you need more pointers, search more [SMM tips and strategies]({{< relref "social-media-marketing-tips" >}}).
+Social media is a powerful tool for promoting your online business. Create profiles on popular platforms like Facebook, Instagram, and Twitter to engage with your audience and share content. Use targeted ads to reach specific demographics and drive traffic to your website.
 
 Content marketing involves creating valuable content to attract and engage your target audience. Start a blog on your website to share industry insights, how-to guides, and product reviews. According to HubSpot, businesses that blog generate 55% more website visitors and 97% more inbound links.
 

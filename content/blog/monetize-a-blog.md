@@ -1,5 +1,5 @@
 ---
-title: "Complete GGuide to Make Money Blogging"
+title: "Complete Guide to Make Money Blogging"
 description: "Learn how to monetize a blog effectively. Explore diverse revenue streams to boost your profits."
 image: "images/ways-to-monetize-a-blog.jpg"
 date: 2019-10-28T18:19:25+06:00

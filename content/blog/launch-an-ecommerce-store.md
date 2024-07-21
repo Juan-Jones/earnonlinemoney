@@ -2,9 +2,9 @@
 title: "Ultimate Guide to Build Online Stores"
 description: "What does it take build online stores? For beginners, you must find a market, create a brand, and find hosting to start."
 image: "images/how-to-build-online-stores.jpg"
-date: 2019-10-12T18:19:25+06:00
+date: 2019-10-08T18:19:25+06:00
 categories: ["ecommerce"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: /blog/launch-an-ecommerce-store
 ---
@@ -30,6 +30,8 @@ Once you've chosen a platform, it's time to set up your storefront. Begin by sel
 
 Upload high-quality product images and write compelling product descriptions to showcase your offerings effectively. Organize your products into categories and create clear navigation menus to help customers find what they're looking for quickly and easily.
 
+Related: Learn [How to Make a Blog]({{< relref "how-to-make-a-blog" >}})!
+
 ### 2. Design Your Online Store
 
 Once you've chosen your platform, the next step is designing your online store. A well-designed store not only looks professional but also enhances the user experience, leading to higher conversion rates.
@@ -50,7 +52,7 @@ Create high-quality, original content such as blog posts, tutorials, and product
 
 Selecting where to *sell products* is crucial to your store's success. There are many options available, each with its unique features and benefits. Here are some of the best e-commerce platforms to consider:
 
-1. Sell on Shopify: Shopify is one of the most popular e-commerce platforms, known for its user-friendly interface and extensive app store. With over 1 million businesses using [Shopify for selling products]({{< relref "sell-on-shopify" >}}), it's a proven platform for success.
+1. Sell on Shopify: Shopify is one of the most popular e-commerce platforms, known for its user-friendly interface and extensive app store. With over 1 million businesses [selling products on Shopify]({{< relref "sell-on-shopify" >}}), it's a proven platform for success.
 2. Promote Products on WooCommerce: WooCommerce is a powerful WordPress plugin that allows you to turn your WordPress site into a fully functional e-commerce store.
 3. List Items on BigCommerce: BigCommerce offers a comprehensive solution for larger businesses with advanced needs.
 4. Sell Stuff on Magento: Magento is an open-source platform designed for developers and businesses with complex requirements. It offers unparalleled customization but may require technical expertise to manage.

@@ -83,13 +83,13 @@ Finding the right platform is essential for freelancers, and there are several t
 
 For those specifically interested in learning [How to Make Money on Fiverr]({{< relref "how-to-make-money-on-fiverr" >}}), creating a compelling profile and offering specialized services is key. By optimizing your gigs and providing excellent customer service, you can attract more clients and increase your earnings.
 
-### 9. Manage Your Time and Finances
+### 10. Manage Your Time and Finances
 
 Setting up a separate business bank account is crucial for keeping personal and business expenses distinct. Budgeting for taxes and tracking every expense meticulously can prevent financial surprises. Using accounting software simplifies invoicing and helps maintain accurate financial records. Regular reviews of your financial health ensure you are aware of your income and expenses, aiding in better decision-making. Proper financial management is essential to achieve long-term success and effectively [manage freelance finances]({{< relref "freelance-finance-management" >}}).
 
 ### Who are the Richest Freelancers?
 
-Many freelancers have turned their skills into lucrative careers. While exact figures can vary, some of the [wealthiest freelancers]({{< relref "richest-freelancers" >}}) have made millions through their expertise and entrepreneurial spirit.
+Many freelancers have turned their skills into lucrative careers. While exact figures can vary, some of the [richest freelancers]({{< relref "richest-freelancers" >}}) have made millions through their expertise and entrepreneurial spirit.
 
 * Tim Ferriss: Author of "The 4-Hour Workweek," Tim Ferriss started as a freelancer and leveraged his skills to build a successful business. His book has inspired many to pursue freelancing as a path to financial independence.
 * Elance Founders: The founders of Elance (now Upwork), Fabio Rosati and Beerud Sheth, created one of the leading platforms connecting freelancers with clients. Their vision revolutionized the freelance industry, enabling millions to find work online.

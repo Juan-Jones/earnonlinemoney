@@ -68,9 +68,9 @@ and expertise through additional services like coaching, consulting, or workshop
 
 A membership site offers recurring revenue and a more engaged community. Provide ongoing value through exclusive content, live Q&A sessions, and a supportive community.
 
-### Consider Starting a Blog
+### Consider Starting a Website
 
-By [starting a blog]({{< relref "how-to-make-a-blog" >}}) you can complement your online courses by providing additional content and driving traffic to your course offerings. Regularly posting valuable content related to your course topics can attract and retain readers. This approach can also improve your search engine rankings.
+By starting a website you can complement your online courses by providing additional content and driving traffic to your course offerings. Regularly posting valuable content related to your course topics can attract and retain readers. This approach can also improve your search engine rankings.
 
 ### Conclusion
 

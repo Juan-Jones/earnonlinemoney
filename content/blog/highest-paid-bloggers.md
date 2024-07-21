@@ -13,7 +13,7 @@ In the dynamic world of blogging, a select few have risen to the top, turning th
 
 ## The Top 10 Highest Paid Bloggers
 
-Lets explore how top bloggers succeed at [monetizing their blogs]({{< relref "monetize-a-blog" >}});
+Lets explore how top bloggers [started a blog]({{< relref "how-to-make-a-blog" >}}) and succeeded;
 
 ### Arianna Huffington – The Huffington Post
 
@@ -37,7 +37,7 @@ Jeff Rose, a certified financial planner, created Good Financial Cents to educat
 
 ### Darren Rowse – ProBlogger
 
-Darren Rowse’s ProBlogger is a cornerstone for anyone interested in building a successful blog. His site offers valuable tips, tutorials, and resources for bloggers of all levels. Darren’s income, which is approximately $40,000 per month, is derived from eBooks, online courses, and affiliate marketing.
+Darren Rowse is one ProBlogger is a cornerstone for anyone interested in building a successful blog. His site offers valuable tips, tutorials, and resources for bloggers of all levels. Darren’s income, which is approximately $40,000 per month, is derived from eBooks, online courses, and affiliate marketing.
 
 ### John Lee Dumas – Entrepreneurs on Fire
 
