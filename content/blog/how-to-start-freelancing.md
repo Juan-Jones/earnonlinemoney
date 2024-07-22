@@ -2,7 +2,7 @@
 title: "Ultimate Freelancer Beginner's Guide"
 description: "Your gateway to the world of self-employment. Discover how to navigate freelance platforms, market your skills, manage clients, and thrive in the gig economy."
 image: "images/freelance-beginners.jpg"
-date: 2019-10-09T18:19:25+06:00
+date: 2019-10-08T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
@@ -54,7 +54,7 @@ Creating social profiles can always be of use. A social profile gives you a plat
 
 ### 5. Build a Blog (Optional)
 
-A website or blog can be of use, but it’s not mandatory. You can use this platform to provide examples of your work, contact information, testimonials, photos, and whatever other information you decide to display. All in all you can grow your business faster by building your own blog.
+Building a website or blog can be of use, but it’s not mandatory. However, if you [build a blog]({{< relref "how-to-make-a-blog" >}}) you can increase your visibility and market share. You can build a website to provide examples of your work, contact information, testimonials, photos, and whatever other information you decide to display.
 
 ### 6. Establish Your Freelance Business Legally
 

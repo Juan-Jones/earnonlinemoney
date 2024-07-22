@@ -115,8 +115,7 @@ Reach out to fellow entrepreneurs, industry peers, and online communities for fe
 
 ### Implement Ecommerce Marketing Strategies
 
-Once your store is set up, it's crucial to [implement ecommerce marketing strategies]. Techniques such as SEO, social media marketing, and email campaigns are vital. They help increase visibility and drive traffic to your site. Consistent analysis and optimization of these strategies ensure continued growth and success.
-[online business marketing tips]({{< relref "marketing-a-online-business" >}}) to boost your online presence.
+Once your store is set up, it's crucial to [implement ecommerce marketing strategies]({{< relref "ecommerce-marketing-tips" >}}). Techniques such as SEO, social media marketing, and email campaigns are vital. They help increase visibility and drive traffic to your site. Consistent analysis and optimization of these strategies ensure continued growth and success.
 
 ### Selecting the Best Ecommerce Platform
 

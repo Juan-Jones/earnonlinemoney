@@ -2,7 +2,7 @@
 title: "Ultimate Guide to Build Online Stores"
 description: "What does it take build online stores? For beginners, you must find a market, create a brand, and find hosting to start."
 image: "images/how-to-build-online-stores.jpg"
-date: 2019-10-08T18:19:25+06:00
+date: 2019-10-09T18:19:25+06:00
 categories: ["ecommerce"]
 type: "regular" # available types: [featured/regular]
 draft: false
@@ -29,8 +29,6 @@ Developing an *online store* is a multifaceted endeavor that requires careful pl
 Once you've chosen a platform, it's time to set up your storefront. Begin by selecting a domain name that reflects your brand identity and is easy for customers to remember. Next, customize your store's design by choosing a theme that aligns with your brand aesthetic and provides a seamless user experience.
 
 Upload high-quality product images and write compelling product descriptions to showcase your offerings effectively. Organize your products into categories and create clear navigation menus to help customers find what they're looking for quickly and easily.
-
-Related: Learn [How to Make a Blog]({{< relref "how-to-make-a-blog" >}})!
 
 ### 2. Design Your Online Store
 

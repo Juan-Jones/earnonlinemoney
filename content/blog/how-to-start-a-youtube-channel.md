@@ -15,9 +15,9 @@ YouTube has become more than just a platform for watching videos; it's a space f
 
 Many publishers have partnered with YouTube’s network to make money over the last decade. Average people are earning residual incomes by becoming YouTube publishers. Some get paid hundreds of dollars (US) monthly, while others earn thousands monthly. Then there are those that earn millions of dollars on a monthly basis.
 
-### 1. Find Your Passion
+### 1. Define Your Niche
 
-1. Define Your Niche and Audience:: Identify your passions or niche is one of the most critical decisions you'll make when starting your YouTube channel. Your niche will define your content, target audience, and ultimately, your channel's success.
+1. Identify Your Niche and Audience: Identify your passions or niche is one of the most critical decisions you'll make when starting your YouTube channel. Your niche will define your content, target audience, and ultimately, your channel's success.
 2. Researching Your Niche: Once you have a few ideas, research their viability on YouTube. Look at the existing channels in that niche. Are they successful? How competitive is the niche? Use tools like Google Trends and YouTube Analytics to gauge interest and search volume for your chosen topics.
 3. Combining Interests: Consider combining a few of your interests to create a unique niche. For example, if you love fitness and cooking, you could create a channel focused on healthy recipes for athletes. This can help you stand out in a crowded market.
 
@@ -43,7 +43,7 @@ Don't forget to optimize your channel settings for searchability by including re
 
 ### 5. Choose a Type of YouTube Channel
 
-* Vlogs: Vlogging channels are personal video diaries where creators share their daily lives, thoughts, and experiences. Read this post on [how to start a vlog]({{< relref "how-to-start-a-vlog" >}}).
+* Vlogs: Vlogging channels are personal video diaries where creators share their daily lives, thoughts, and experiences.
 * Gaming: Gaming channels focus on video game content. This can range from Let's Plays and walkthroughs to reviews and live streaming.
 * Educational: Educational channels provide instructional content on a wide variety of subjects.
 * Beauty and Fashion: These channels are popular for their practical advice and often feature product reviews and collaborations with brands.
@@ -84,19 +84,14 @@ Experiment with different formats and styles to see what resonates best with you
 
 ### 9. Monetize Your Channel
 
-Once you've built a loyal audience and consistently produce high-quality content, you may be eligible to [monetize your YouTube channel], i.e., earn money from ads, channel memberships, and merchandise sales.
+Once you've built a loyal audience and consistently produce high-quality content, you may be eligible to [make money on YouTube]({{< relref "make-money-on-youtube" >}}), i.e., earn money from ads, channel memberships, and merchandise sales.
 
-*
+* Brand Ambassadorships: Form long-term partnerships with brands to become an ambassador, creating ongoing sponsored content and promotions.
 * Create and Sell Online Courses: If you have expertise in a particular field or skill, consider creating and selling online courses. Platforms like Udemy.com, Skillshare, and [Teachable](https://teachable.sjv.io/EKE0Oe) provide a marketplace for instructors to share their knowledge and earn passive income through course sales.
 
-### 10. Promote Your Channel
+### 10. Grow Social Media Presense
 
-Building an audience on YouTube takes time and effort, but there are several strategies you can use to promote your channel and attract subscribers:
-
-* Share your videos on social media platforms like Facebook, Twitter, and Instagram.
-* Collaborate with other YouTubers in your niche to reach new audiences and cross-promote each other's channels.
-* Participate in online communities and forums relevant to your niche, and share your videos where appropriate.
-* Engage with your audience by responding to comments, hosting live streams, and conducting Q&A sessions.
+Building an audience on YouTube takes time and effort. Consistently posting high-quality content and engaging with your audience is essential to [grow your social media presence]({{< relref "building-a-social-media-presence" >}}). Use eye-catching thumbnails and compelling titles to attract viewers. Interacting with comments and participating in community discussions can foster a loyal subscriber base.
 
 #### How to Boost Traffic on YT
 

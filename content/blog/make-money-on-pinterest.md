@@ -13,7 +13,7 @@ In this guide, I’ll explain how to monetize a Pinterest in 6 steps. Even more,
 
 ## How to Make Money on Pinterest
 
-How can you make money on Pinterest? Well, it’s simple. Pinterest is nothing like most social media networks. They encourage you to grow your [social media presence]({{< relref "building-a-social-media-presence" >}}). In other words, most social media networks restrict publishers from sharing affiliate links or promoting affiliate programs. Whereas, Pinterest encourages [social media monetization]({{< relref "social-media-monetization" >}}). Lets get to it, how to **make money on Pinterest**, in six steps:
+How can you make money on Pinterest? Well, it’s simple. Pinterest is nothing like most social media networks. This platform encourages you to grow your [social media presence]({{< relref "building-a-social-media-presence" >}}). In other words, most social media networks restrict publishers from sharing affiliate links or promoting affiliate programs. Whereas, Pinterest encourages [social media monetization]({{< relref "social-media-monetization" >}}). Lets get to it, how to **make money on Pinterest**, in six steps:
 
 ### 1. Build a Landing Page
 
@@ -31,6 +31,8 @@ Option #2 (Get a free landing page) If you don’t want to pay for a landing pag
 
 If you want to grow your Pinterest page quickly, it’s essential to [create a Pinterest business account](https://www.pinterest.com/business/). Not only does the business account help you grow faster, but it gives you access to valuable tools like analytics and ads. Do not forget to include the link to your landing page on your Pinterest business account profile.
 
+Heres a post that can help, [How to Use Social Media for Business]({{< relref "using-social-media-for-business" >}}).
+
 ### 3. Build an Active Following
 
 To make money on Pinterest you must build an active following. I’m sure you’re wondering how to build an active following. To state the obvious, marketing is the key to building an enthusiastic following! No matter which strategy you choose to make money on Pinterest, marketing is the key. So, if you don’t have marketing skills. You should take a marketing crash course. However, I’ll show you a few secrets to gain followers.
@@ -39,7 +41,7 @@ To make money on Pinterest you must build an active following. I’m sure you’
 
 The key to growing your Pinterest account is marketing. Therefore, it’s essential to develop your marketing strategy. A marketing strategy is a series of activities that organizations use to achieve and maintain a sustainable competitive advantage in the market. Developing a marketing strategy is time-consuming. It requires a significant amount of groundwork, studying, and patience. However, the end results are well worth the effort. Below, I’ll share two marketing strategies to speed up the process;
 
-### 5. Choose Strategies to Make Money on Pinterest
+### 5. Select Strategies to Make Money on Pinterest
 
 How do you make money on Pinterest? When it comes to Pinterest monetization, there are several options. It is based on your resources. In other words, are you a website owner? Do you have tangible products for sale? Or, do you own digital products? If not, no biggie. You can still make money online through Pinterest.
 
@@ -152,11 +154,13 @@ Step #2 (Create a TikTok account): TikTok marketing is effective. Use snaptik.ap
 
 Step #3 (Create an Instagram account): Instagram is a video-sharing network like TikTok. Repost content using the same strategy as TikTok.
 
+If you need additional resourses dont hesitate reading our exclusive [marketing tips for social media]({{< relref "social-media-marketing-tips" >}}) along with [marketing tools for social media]({{< relref "top-social-media-tools" >}}).
+
 #### FAQs
 
 A number of entrepreneurs are utilizing Pinterest as a resource to make money online. As a result, it has paid off. Not only can Pinterest help you boost your income. It can also help you drive traffic to your websites or blogs.
 
-What are the steps for [Pinterest monetization]({{< relref "make-money-on-pinterest" >}})? First, you’ll need a platform. The platform is essential, you’ll need to use it as a landing page. It gives you a web location for your visitors. Secondly, you’ll need marketing techniques. Marketing is the key to finding leads, prospects, and driving traffic to your platform. Thirdly, you must have customers. You need clients to make money!
+What are the steps for Pinterest monetization? First, you’ll need a platform. The platform is essential, you’ll need to use it as a landing page. It gives you a web location for your visitors. Secondly, you’ll need marketing techniques. Marketing is the key to finding leads, prospects, and driving traffic to your platform. Thirdly, you must have customers. You need clients to make money!
 
 What activities will you need to perform? For the most part, you’ll be posting content (pins, idea pins) on Pinterest.
 

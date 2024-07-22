@@ -24,6 +24,8 @@ Once you have a clear understanding of your audience, it’s crucial to set spec
 * Generating leads and sales
 * Boosting engagement and interaction
 
+By establishing goals and objectives you increase the chances of boosting [social media monetization earnings]({{< relref "social-media-monetization" >}}).
+
 ### Choosing the Right Social Platforms
 
 Building a [social media presence]({{< relref "building-a-social-media-presence" >}}) can be lucrative on the right platform! Different social platforms cater to different audiences and types of content.
@@ -39,10 +41,6 @@ Quality content is the backbone of social media success. To create content that 
 ### Leveraging User-Generated Content
 
 User-generated content (UGC) is a powerful tool for building trust and authenticity. Encourage your followers to share their experiences with your brand and feature their content on your social media channels. This approach not only boosts engagement but also provides you with a steady stream of fresh content, enhancing your social media presence.
-
-### Using Analytics to Improve Performance
-
-Tracking key performance metrics is crucial for measuring the success of your social media efforts. Important metrics to monitor include reach, which indicates the number of people who see your content; engagement, encompassing likes, comments, shares, and other interactions; conversion rate, reflecting the percentage of users who take a desired action; and follower growth, showing the rate at which your social media following is increasing.
 
 ### Analyzing Data and Making Adjustments
 

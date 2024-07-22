@@ -17,7 +17,7 @@ Despite anyones level of education or skill-set theres an array of opportunities
 
 ## 1. Complete Microtasks
 
-Microtask platforms like Amazon Mechanical Turk and Clickworker pay users to [complete small tasks]({{< relref "what-is-ecommerce" >}}), such as data entry, categorization, and transcription. These tasks typically take a few minutes to complete and pay a few cents to a few dollars each.
+Microtask platforms like Amazon Mechanical Turk and Clickworker pay users to [complete small tasks]({{< relref "what-is-microtasking" >}}), such as data entry, categorization, and transcription. These tasks typically take a few minutes to complete and pay a few cents to a few dollars each.
 
 ### 2. Quick Online Jobs
 
@@ -29,7 +29,7 @@ Do you have stock photos in your possession? If so you can get paid selling phot
 
 ### 4. Create a Quick E-book
 
-If you have knowledge in a particular area, consider writing a short e-book. With tools like Amazon Kindle Direct Publishing and Smashwords, you can publish and start selling your e-book within an hour. Earnings depend on the price and number of sales.
+If you have knowledge in a particular area, consider [writing a short e-book]({{< relref "how-to-write-an-ebook" >}}). With tools like Amazon Kindle Direct Publishing and Smashwords, you can publish and start selling your e-book within an hour. Earnings depend on the price and number of sales.
 
 ### 6. Rent Out Your Driveway
 
@@ -69,7 +69,7 @@ If you have expertise in a specific field, consider offering consulting services
 
 ### 14. Create and Sell Digital Products
 
-Creating and selling digital products, such as printables, templates, and design assets, can be a profitable venture. Websites like Etsy and Creative Market allow you to sell your digital products to a wide audience.
+Creating and selling digital products, such as printables, templates, and design assets, can be a profitable venture. Websites like Etsy and Creative Market allow you to [sell your digital products]({{< relref "selling-digital-products" >}}) to a wide audience.
 
 ### 15. Participate in Affiliate Marketing
 
