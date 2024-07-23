@@ -20,8 +20,8 @@ At its core, crowdfunding is a method of raising money from a large number of pe
 Crowdfunding campaigns have come to be one of the best methods for earning passive income! Here are more specific reasons for crowdfunding;
 
 * Start a Podcast: Launching a podcast requires significant investment, particularly in equipment, production costs, and marketing efforts. High-quality audio equipment, editing software, and hosting services are essential for producing professional-grade content, but they often come with a hefty price tag.
-* [Writing eBooks]({{< relref how-to-write-an-ebook" >}}): "Ready to share your knowledge? Discover essential tips and steps to craft, edit, and publish your eBook for maximum impact
-* [Monetizing a Websites]({{< relref “how-to-monetize-a-website" >}}): "Turn your website into a money-making machine with effective strategies to generate income through ads, affiliate links, and more.
+* [Writing eBooks]({{< relref "how-to-write-an-ebook" >}}): "Ready to share your knowledge? Discover essential tips and steps to craft, edit, and publish your eBook for maximum impact
+* [Monetizing a Websites]({{< relref "how-to-monetize-a-website" >}}): "Turn your website into a money-making machine with effective strategies to generate income through ads, affiliate links, and more.
 
 ## Types of Crowdfunding
 
