@@ -14,12 +14,10 @@ navbar_fixed = false
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
 author = "Dejuan"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
-header = "Digital Side Hustles"
-
+header = "Earn Money Online"
 facebook = "earnmoneynowonline"
 twitter = "moneyonline_fre"
 linkedin = "earn-money-online-free"
-
 # contact info
 address = "Seattle, Washington"
 email = "jonesdejuan24@gmail.com"
@@ -27,7 +25,6 @@ email = "jonesdejuan24@gmail.com"
 contact_form_action = "https://formspree.io/f/xdoreeqg" # contact form works with https://formspree.io
 # search
 search = true
-
 # featured post title
 featured_post_title = "Featured Posts"
 recent_post_title = "Recent Posts"
@@ -41,7 +38,6 @@ copyright = 'Copyright © 2022 Earnonlinemoney.org. All Rights Reserved.'
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 # custom_script= "<script>console.log(\"Hello World\")</script>"
-
 
 # Comment
 talkyardServerUrl = ""
