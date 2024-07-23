@@ -66,6 +66,8 @@ Unfortunately, scams are prevalent on Craigslist. Red flags include prices that 
 
 Businesses can post ads in the “Services” section to reach local customers. Whether you offer landscaping, tutoring, or handyman services, Craigslist can help you connect with potential clients.
 
+Searching for another way to make money? Start [earning cashback]({{< relref "earn-cash-back" >}}) and rebates today!
+
 ### 10. Find Freelancers
 
 Craigslist is a great resource for finding freelancers. Whether you need a graphic designer, writer, or photographer, you can post a job ad or browse the “Gigs” section.

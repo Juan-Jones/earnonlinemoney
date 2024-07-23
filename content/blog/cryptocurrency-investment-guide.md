@@ -96,7 +96,7 @@ Starting a cryptocurrency ATM business can be a This is one of the most [profita
 
 ##### Crypto Mining
 
-Crypto mining is the process of validating transactions on a blockchain network and earning rewards in the form of cryptocurrency. Cryptocurrency mining requires a lot of computational power and energy, and it's not as profitable as it used to be due to increased competition and difficulty.
+Crypto mining is the process of validating transactions on a blockchain network and earning rewards in the form of cryptocurrency. [Mining Cryptocurrency]({{< relref "cryptocurrency-mining" >}}) requires a lot of computational power and energy, and it's not as profitable as it used to be due to increased competition and difficulty.
 
 #### Decentralized Finance (DeFi)
 
@@ -128,7 +128,7 @@ Providing liquidity to decentralized exchanges or lending platforms can be a way
 
 #### Social Media and Content Creation
 
-Creating content related to cryptocurrency on YouTube, Twitter, or Medium can be a way to [grow your social media prensense]({{< relref "social-media-monetization" >}}) through sponsorships, advertising, or donations from viewers. Creating valuable content can also help to build a following and increase your credibility in the crypto community.
+Creating content related to cryptocurrency on YouTube, Twitter, or Medium can be a way to grow your social media presence through sponsorships, advertising, or donations from viewers. Creating valuable content can also help to build a following and increase your credibility in the crypto community.
 
 #### Token Sales and Crowdfunding
 

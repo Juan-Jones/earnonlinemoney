@@ -83,7 +83,7 @@ Promote your webinars through your email list, social media, and partnerships wi
 
 ### Monetizing Online Courses
 
-There are several ways to make money with online courses. You can [monetize online courses]({{< relref "make-money-teaching-online-courses" >}}) through various strategies such as [affiliate marketing]({{< relref "affiliate-marketing-fundamentals" >}}), subscription models, one-time purchases, and offering certification upon completion. Providing value through high-quality content and ongoing support helps in retaining students and generating revenue.
+There are several ways to [make money with online courses]({{< relref "make-money-teaching-online-courses" >}}). You can monetize online courses through various strategies such as affiliate marketing, subscription models, one-time purchases, and offering certification upon completion. Providing value through high-quality content and ongoing support helps in retaining students and generating revenue.
 
 ### Tracking Key Metrics
 

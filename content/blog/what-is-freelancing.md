@@ -51,8 +51,7 @@ On the road to [starting your freelance journey]({{< relref "how-to-start-freela
 
 * Assess Your Skills and Interests: Identify what you are good at and what you enjoy doing.
 * Build Your Freelance Brand: Establish an online presence through a professional website, portfolio, and social media platform.
-* Network Strategically: Leverage online communities, networking events, and professional associations to expand your network.
-* Deliver Exceptional Value: Build trust, credibility, and rapport with clients through transparent communication, reliability, and professionalism.
+* Research Successful Freelancers: Search for the [highest paid freelancers]({{< relref "richest-freelancers" >}}) in your industry to determine what works.
 * Create an Online Presence: Establishing an online presence is essential for freelancers.
 * Set Your Rates: Be prepared to negotiate with clients but also know your worth and avoid undervaluing your services.
 * Find the Best Freelance Websites: Discover [lucrative freelance websites]({{< relref "best-freelance-websites" >}}) on the internet.

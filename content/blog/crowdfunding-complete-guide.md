@@ -17,11 +17,11 @@ At its core, crowdfunding is a method of raising money from a large number of pe
 
 ## Why People Use Crowdfunding Campaigns
 
-Crowdfunding campaigns have come to be one of the best methods for [earning passive income]({{< relref "passive-income-ideas" >}})! Here are more specific reasons for crowdfunding;
+Crowdfunding campaigns have come to be one of the best methods for earning passive income! Here are more specific reasons for crowdfunding;
 
 * Start a Podcast: Launching a podcast requires significant investment, particularly in equipment, production costs, and marketing efforts. High-quality audio equipment, editing software, and hosting services are essential for producing professional-grade content, but they often come with a hefty price tag.
-* Starting an Online Business: Entrepreneurs embarking on the journey of [starting an online business]({{< relref "how-to-start-an-online-business" >}}) encounter various challenges, from product development to marketing and scaling operations. Crowdfunding offers a lifeline by providing capital to cover initial expenses, such as product prototyping, website development, and inventory acquisition.
-* Developing an App: Developing a mobile app involves a complex and resource-intensive process, from software development to beta testing and marketing. Crowdfunding emerges as a viable funding source for app developers seeking to bring their ideas to fruition.
+* [Writing eBooks]({{< relref how-to-write-an-ebook" >}}): "Ready to share your knowledge? Discover essential tips and steps to craft, edit, and publish your eBook for maximum impact
+* [Monetizing a Websites]({{< relref “how-to-monetize-a-website" >}}): "Turn your website into a money-making machine with effective strategies to generate income through ads, affiliate links, and more.
 
 ## Types of Crowdfunding
 
@@ -59,8 +59,6 @@ People contribute to campaigns they believe in, so storytelling is crucial. Shar
 ### Create a Marketing Plan
 
 Marketing is key to driving traffic to your campaign page. Utilize social media, email marketing, and PR to spread the word. Engage your audience with regular updates and call-to-actions.
-
-Interested in freelance work from home? Learn [how to start freelancing instantly]({{< relref "how-to-start-freelancing" >}}).
 
 ### Offer Attractive Rewards
 

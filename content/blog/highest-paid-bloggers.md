@@ -13,7 +13,7 @@ In the dynamic world of blogging, a select few have risen to the top, turning th
 
 ## The Top 10 Highest Paid Bloggers
 
-Lets explore how top bloggers [started a blog]({{< relref "how-to-make-a-blog" >}}) and succeeded;
+Lets explore the top 10 highest paid [bloggers and content strategies]({{< relref "content-strategies-for-bloggers" >}}) they used to succeeded;
 
 ### Arianna Huffington – The Huffington Post
 
@@ -33,7 +33,7 @@ Michelle Schroeder-Gardner’s blog, Making Sense of Cents, focuses on personal 
 
 ### Jeff Rose – Good Financial Cents
 
-Jeff Rose, a certified financial planner, created Good Financial Cents to educate people on financial management. His blog covers a wide range of topics, from investing to saving for retirement. Jeff’s monthly earnings, around $138,000, come from affiliate marketing, sponsored content, and advertising.
+Jeff Rose, a certified financial planner, created Good Financial Cents to educate people on financial management. How did me [monetize his blog]({{< relref "monetize-a-blog" >}}) His blog covers a wide range of topics, from investing to saving for retirement. Jeff’s monthly earnings, around $138,000, come from affiliate marketing, sponsored content, and advertising.
 
 ### Darren Rowse – ProBlogger
 
@@ -41,7 +41,7 @@ Darren Rowse is one ProBlogger is a cornerstone for anyone interested in buildin
 
 ### John Lee Dumas – Entrepreneurs on Fire
 
-John Lee Dumas hosts the popular podcast Entrepreneurs on Fire, where he interviews successful entrepreneurs. His blog complements the podcast with [additional content strategies]({{< relref "content-strategies-for-bloggers" >}}) and resources. John’s diverse income streams, including sponsorships, affiliate marketing, and product sales, generate about $150,000 per month.
+John Lee Dumas hosts the popular podcast Entrepreneurs on Fire, where he interviews successful entrepreneurs. His blog complements the podcast with additional content strategies and resources. John’s diverse income streams, including sponsorships, affiliate marketing, and product sales, generate about $150,000 per month.
 
 ### Heather Armstrong – Dooce
 

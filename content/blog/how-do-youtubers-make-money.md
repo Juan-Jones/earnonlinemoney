@@ -77,7 +77,7 @@ Investing in good equipment, such as cameras, microphones, and lighting, can sig
 
 ### 3. Engage with Your Audience
 
-If you plan on [enhancing your social media presence]({{< relref "building-a-social-media-presence" >}}) I recommend interacting with your audience. Engaging with your audience through comments, live streams, and social media can help build a loyal fanbase. A dedicated audience is more likely to support you through merchandise purchases and donations.
+If you plan on enhancing your social media presence I recommend interacting with your audience. Engaging with your audience through comments, live streams, and social media can help build a loyal fanbase. A dedicated audience is more likely to support you through merchandise purchases and donations.
 
 ### 4. Diversify Your Income
 

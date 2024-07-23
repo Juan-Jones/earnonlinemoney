@@ -39,7 +39,7 @@ Most vloggers choose their YouTube channel due to its massive user base and exce
 * Veoh,
 * Metacafe.
 
-Beginner Tip: If you are a beginner, start with YouTube. It may take a while before you start [making money on YouTube]({{< relref "how-to-start-a-youtube-channel" >}}). Master the YouTube platform before you move on!
+Beginner Tip: If you are a beginner, start with YouTube. It may take a while before you start making money on YouTube. Master the YouTube platform before you move on!
 Pro Tip: Research where your potential audience spends most of their time and tailor your content accordingly.
 
 ### Define Your Vlog's Purpose and Audience

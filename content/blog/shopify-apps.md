@@ -13,6 +13,8 @@ When it comes to e-commerce, leveraging the right tools can make a significant d
 
 ## 1. Marketing and SEO Apps
 
+Establishing [marketing strategies for ecommerce]({{< relref "ecommerce-marketing-tips" >}}) is essential. Here are a few resources to start with:
+
 * SEO Manager: Optimizing your store for search engines is crucial for driving organic traffic. SEO Manager is a comprehensive tool that helps you improve your site's SEO effortlessly. Key Features; Real-time SEO score, sitemap management, and meta tag optimization.
 * Klaviyo: Email marketing remains one of the most effective ways to reach and retain customers. [Klaviyo](https://www.klaviyo.com/) integrates seamlessly with Shopify to provide powerful email marketing capabilities. Key Elements; Advanced segmentation, automated email flows, and detailed analytics.
 * Privy: Privy is an all-in-one conversion tool that helps you grow your email list, reduce cart abandonment, and drive sales with targeted pop-ups and banners. Key Features; exit-intent pop-ups, cart saver campaigns, and a/b testing.

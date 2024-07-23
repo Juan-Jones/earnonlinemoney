@@ -9,7 +9,7 @@ draft: false
 slug: /blog/how-to-start-freelancing
 ---
 
-Are you tired of the traditional 9-to-5 grind? Do you yearn for the freedom to choose your projects, set your own hours, and work from anywhere in the world? In this blog post, we will explore [how to earn money online]({{< relref "make-money-online" >}}) freelancing!
+Are you tired of the traditional 9-to-5 grind? Do you yearn for the freedom to choose your projects, set your own hours, and work from anywhere in the world? In this blog post, we will explore how to earn money online freelancing!
 
 Imagine waking up to the sound of your alarm, not with a sense of dread, but with excitement for the day ahead. Picture yourself enjoying your morning coffee, not in a rush to beat traffic, but in a relaxed state of mind, knowing that your office is just a few steps away. This isn’t a dream—it's the life of a freelancer. Let's dive in!
 
@@ -73,7 +73,7 @@ Freelancing encompasses a wide range of industries and skills. Here are some of 
 * Web Development: Web developers build and maintain websites. They can specialize in front-end development (focusing on the user interface) or back-end development (focusing on server-side logic and databases).
 * Writing and Editing: From content writing and blogging to technical writing and editing, [freelance writing gigs]({{< relref "find-freelance-writing-gigs" >}}) are ideal for those with a knack for words. It's one of the most accessible fields, as it requires minimal investment to get started.
 
-### 9. Create Memberships on Freelance Platforms
+### 9. Select the Best Freelance Websites
 
 Finding the right platform is essential for freelancers, and there are several top-rated websites to consider. Among the [best freelance websites]({{< relref "best-freelance-websites" >}}) are Upwork, Freelancer.com, Toptal, etc. Here are a few more platforms:
 

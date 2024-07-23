@@ -33,7 +33,7 @@ Digital products come in various forms, each catering to different customer need
 
 ### Online Courses
 
-As an online course developer, creating and [marketing online courses]({{< relref "marketing-your-online-course" >}}) is a lucrative option. Online courses can cover a vast range of topics, from professional skills to hobbies and interests. Platforms like Teachable, Udemy, and Coursera make it easy to reach a global audience.
+As an online course developer, creating and marketing online courses is a lucrative option. Online courses can cover a vast range of topics, from professional skills to hobbies and interests. Platforms like Teachable, Udemy, and Coursera make it easy to reach a global audience.
 
 ### eBooks and Audiobooks
 

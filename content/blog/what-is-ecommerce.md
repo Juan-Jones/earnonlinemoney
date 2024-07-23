@@ -38,7 +38,7 @@ When it comes to [building ecommerce stores]({{< relref "launch-an-ecommerce-sto
 Despite its benefits, ecommerce comes with its set of challenges.
 
 * Security Concerns: Cybersecurity threats such as hacking, phishing, and data breaches are significant concerns for online businesses and consumers.
-* Competition: The ease of entry into the ecommerce market has led to intense competition, making it challenging for new businesses to stand out. Therefore, it's essential to develop [social media monetization strategies]{{< relref "social-media-monetization" >}}.
+* Competition: The ease of entry into the ecommerce market has led to intense competition, making it challenging for new businesses to stand out. Therefore, it's essential to develop social media monetization strategies.
 * Logistics and Shipping: Managing logistics and shipping efficiently, especially for global deliveries, can be complex and costly.
 * Customer Trust: Building and maintaining customer trust is crucial, as online transactions lack the personal touch of in-store shopping.
 

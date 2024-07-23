@@ -13,11 +13,11 @@ Are you ready to replace your 9-5 and earn income through your screen? Why wait 
 
 ## History of Online Income
 
-The history of online income spans decades, showcasing the transformative power of the internet. Key milestones include Gary Thuerk’s 1978 spam email promoting DEC computers and the first e-commerce transaction in 1994, selling a Sting CD on NetMarket. The founding of eBay in 1995 further revolutionized online commerce, making it easier for individuals to buy and sell goods through the [best online ecommerce websites]({{< relref "best-ecommerce-platforms" >}}). However, as opportunities grew, so did the online scams, highlighting the need for caution and awareness in digital transactions.
+The history of online income spans decades, showcasing the transformative power of the internet. Key milestones include Gary Thuerk’s 1978 spam email promoting DEC computers and the first e-commerce transaction in 1994, selling a Sting CD on NetMarket. The founding of eBay in 1995 further revolutionized online commerce, making it easier for individuals to buy and sell goods.
 
 ## How to Make Money Online
 
-Below are over 30 ways to make money online:
+Below are over 30 [creative side hustle ideas] to make money online:
 
 ### 1. Earn Money on YouTube
 
@@ -109,7 +109,7 @@ Recurring Donations: Platforms like Patreon allow creators to receive ongoing su
 
 ### 12. Online Courses and Coaching
 
-Creating and selling online courses or offering coaching sessions allows you to monetize your expertise and knowledge. The demand for online education and coaching has surged in recent years, with individuals seeking to acquire new skills, advance their careers, and achieve personal development goals. Find platforms to upload your content and [make money teaching online courses]({{< relref "make-money-teaching-online-courses" >}}) today!
+Creating and selling online courses or offering coaching sessions allows you to monetize your expertise and knowledge. The demand for online education and coaching has surged in recent years, with individuals seeking to acquire new skills, advance their careers, and achieve personal development goals. Find platforms to upload your content and make money teaching online courses today!
 
 Income can range from $1,000 to $100,000+ per course launch, depending on market demand and quality. Coaching rates vary widely but can range from $50 to $500+ per hour, depending on specialization and client base.
 
@@ -178,7 +178,7 @@ Opportunities:
 
 Blog or Website: Niche-specific content with affiliate links. Earning Potential: $100 - $10,000+ per month depending on traffic and conversion rates.
 
-Social Media: Influencers promoting products by [growing a social media following]({{< relref "building-a-social-media-presence" >}}). Earning Potential: $500 - $10,000+ per post depending on follower engagement and niche.
+Social Media: Influencers promoting products by growing a social media following. Earning Potential: $500 - $10,000+ per post depending on follower engagement and niche.
 
 ### 22. Start a Vlog
 
@@ -249,6 +249,16 @@ Opportunities:
 Administrative Tasks: Email management, scheduling, customer support. Earning Potential: $15 - $50+ per hour.
 Technical Support: IT support, website maintenance. Earning Potential: $20 - $70+ per hour.
 
+### 30  Write Grants for Clients
+
+Compose persuasive grant proposals tailored to the specific needs of organizations or individuals seeking funding. These proposals aim to secure financial support by presenting compelling arguments and plans for impactful projects or initiatives The initial investment for crafting grant proposals is relatively low.
+
+**Average Earnings**: *Rates vary from $50 to $150 per hour*.
+
+Expect minimal expenses, primarily for research materials, software for document creation, and potential training or workshops. Crafting persuasive grant proposals involves a moderate level of complexity. It demands strong writing skills, a deep understanding of project planning, and the ability to articulate compelling arguments concisely.
+
+[Grant Writing Tips and Strategies]({{< relref "grant-writing-strategies" >}}): Success relies on comprehensive research materials, access to data and statistics supporting the project, writing and editing tools, and potentially, workshops or courses focusing on grant writing skills.
+
 ### FAQs
 
 Are there ways to make money online quick?
@@ -257,7 +267,7 @@ Yes, there are several ways to quick cash injections on the internet. You can ma
 
 {{< image src="images/make-money-online-quick.jpg" caption="" alt="Money, Cash, Woman, Laptop" height="1366" width="768" position="center" command="fit" option="q100" class="img-fluid" title="Make Money Online Quick" webp="false" >}}
 
-Can I [launch a online business]({{< relref "how-to-start-an-online-business" >}}) and earn money online free?
+Can I launch a online business and earn money online free?
 
 {{< image src="images/earn-money-online-free.jpg" caption="" alt="Money, Cash, Woman, Laptop" height="1366" width="768" position="center" command="fit" option="q100" class="img-fluid" title="Earn Money Online Free" webp="false" >}}
 

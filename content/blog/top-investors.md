@@ -17,7 +17,7 @@ Top investors are known for their keen market insights, strategic risk managemen
 
 ### 1. Warren Buffett
 
-Warren Buffett, known as the "Oracle of Omaha," follows a value investing approach. He focuses on companies with strong fundamentals, purchasing undervalued stocks and holding them for the long term.
+Warren Buffett, known as the "Oracle of Omaha," follows a value investing approach. He focuses on companies with strong fundamentals, [purchasing stocks]({{< relref "stocks-vs-bonds" >}}) and holding them for the long term.
 
 Notable Achievements
 

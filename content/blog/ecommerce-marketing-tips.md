@@ -13,7 +13,7 @@ When it comes to the ecommerce industry, effective marketing strategies can make
 
 Ecommerce has grown exponentially, with global sales expected to surpass $6.38 trillion by 2024, showcasing its vast potential and the fierce competition within the market. To stand out, ecommerce businesses must adopt smart and data-driven marketing strategies.
 
-### 1. Conduct a Ecommerce Pest Analysis
+### 1. Conduct a Ecommerce SWOT Analysis
 
 First things first, before [setting up your online store]({{< relref "launch-an-ecommerce-store" >}}), analyze the market by conducting an Ecommerce SWOT Analysis. This analysis identifies Strengths, Weaknesses, Opportunities, and Threats. Understanding these aspects provides a clear picture of the business environment. It helps in strategic planning and decision-making. Regular SWOT analysis keeps the business competitive and prepared for challenges.
 
@@ -58,7 +58,7 @@ Educational content positions your brand as an authority and builds trust with y
 
 ### 10. Utilize Social Commerce
 
-Social commerce integrates shopping directly within social media platforms, streamlining the purchase process. Use shoppable posts on platforms like Instagram and Facebook to allow customers to buy products without leaving the app. Tag products in your posts to make them easily accessible. Set up a storefront on social media platforms. Ensure that your product listings are up-to-date and visually appealing.
+Social commerce integrates shopping directly within social media platforms, streamlining the purchase process. Use shoppable posts on platforms like Instagram and Facebook to allow customers to buy products without leaving the app. Tag products in your posts to make them easily accessible. Set up a storefront on social media platforms. Ensure that your product listings are up-to-date and visually appealing. Hence, [gain a social media presence]({{< relref "building-a-social-media-presence" >}}).
 
 ### 11. Encourage Customer Feedback
 

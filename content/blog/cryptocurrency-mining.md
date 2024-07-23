@@ -9,7 +9,7 @@ draft: false
 slug: /blog/cryptocurrency-mining
 ---
 
-Thinking about investing in cryptocurrency mining? If so, great, this **crypto mining** investment guide we'll walk you through the fundamentals of cryptocurrency mining, the equipment you'll need, and tips for optimizing your mining operations. With the right strategy and dedication, you can turn your computer into a money-making machine.
+Thinking about investing in cryptocurrency mining? If so, great, this crypto mining [investment guide]({{< relref "introduction-to-investing" >}}) we'll walk you through the fundamentals of cryptocurrency mining, the equipment you'll need, and tips for optimizing your mining operations. With the right strategy and dedication, you can turn your computer into a money-making machine.
 
 ## What is Cryptocurrency Mining?
 
@@ -17,7 +17,7 @@ Cryptocurrency mining is a process of adding transaction records to Bitcoin's pu
 
 Mining Pools Vs Self Mining: You can mine on your own, or you can join a mining pool. Mining on your own is the most direct way to make money, technically all you need is hardware to get started. However, this can be a risky proposition. If you lose your hardware, you'll lose your investment. Mining pools group of investors are much safer because they provide security and stability. Like they say, its safety in numbers.
 
-## Cryptocurrency Investments: Is Crypto Mining Profitable?
+## Cryptocurrency Investments
 
 Yes, mining can be a [profitable cryptocurrency investment]({{< relref "cryptocurrency-investment-guide" >}}), but success hinges on various factors. Factors like the cost of electricity, the efficiency of mining equipment, and fluctuations in cryptocurrency prices significantly impact profitability.
 

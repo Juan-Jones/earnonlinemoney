@@ -84,7 +84,7 @@ Experiment with different formats and styles to see what resonates best with you
 
 ### 9. Monetize Your Channel
 
-Once you've built a loyal audience and consistently produce high-quality content, you may be eligible to [make money on YouTube]({{< relref "make-money-on-youtube" >}}), i.e., earn money from ads, channel memberships, and merchandise sales.
+Once you've built a loyal audience and consistently produce high-quality content, you may be eligible to make money on YouTube, i.e., earn money from ads, channel memberships, and merchandise sales.
 
 * Brand Ambassadorships: Form long-term partnerships with brands to become an ambassador, creating ongoing sponsored content and promotions.
 * Create and Sell Online Courses: If you have expertise in a particular field or skill, consider creating and selling online courses. Platforms like Udemy.com, Skillshare, and [Teachable](https://teachable.sjv.io/EKE0Oe) provide a marketplace for instructors to share their knowledge and earn passive income through course sales.

@@ -23,7 +23,7 @@ Additionally, networking on social media and joining writing communities can hel
 
 ## Freelance Writing Tips
 
-Here are key tips and strategies for freelance writing.
+Here are [key freelancing tips]({{< relref "tips-for-freelancers" >}}) and strategies writing.
 
 ### 1. Establish a Strong Portfolio
 
@@ -45,9 +45,13 @@ A professional website serves as your online portfolio and business card. Includ
 
 Networking is vital for finding new clients and opportunities. Join freelance writing communities, attend industry events, and connect with other writers and potential clients on social media platforms like LinkedIn and Twitter.
 
-### 6. Manage Your Time Wisely
+### 6. Handle Finances Wisely
 
-Time management is critical in freelance writing. Use tools like Trello, Asana, or Google Calendar to plan your tasks and deadlines. Prioritize high-paying projects and set aside time for marketing and client communication.
+Freelancers are responsible for their own finances. Keep track of your income and expenses, set aside money for taxes, and consider using accounting software like QuickBooks or FreshBooks. Heres an article that might help: [Handling Freelance Finances]({{< relref "freelance-finance-management" >}}).
+
+### Protect Your Work and Rights
+
+Always have a contract in place before starting a project. A contract protects your rights and outlines the scope of work, payment terms, and deadlines. Also, familiarize yourself with copyright laws to safeguard your work.
 
 ### 7. Always Employ Self-Editing and Revision
 

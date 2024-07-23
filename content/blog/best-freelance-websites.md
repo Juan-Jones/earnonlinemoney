@@ -35,9 +35,7 @@ Contently is a freelance platform that connects businesses with publishers. This
 
 ### Freelancer
 
-Why choose Freelancer. For starters, there are many reasons to use Freelancer.com. To begin with, it's an established network that is liked by most independent contractors. Freelancer.com employs over 40 million workers and on-demand workers around the world. The company has a global reach that services 24-7 countries, regions, and territories. In addition, memberships are free. More importantly, members can quickly find gigs and get paid.
-
-Article you might enjoy reading: [Start Freelancing Today]({{< relref "how-to-start-freelancing" >}}).
+Why choose Freelancer. Well, its one of the [best freelance sites]({{< relref "best-freelance-websites" >}}) for starters. To begin with, it's an established network that is liked by most independent contractors. Freelancer.com employs over 40 million workers and on-demand workers around the world. The company has a global reach that services 24-7 countries, regions, and territories. In addition, memberships are free. More importantly, members can quickly find gigs and get paid.
 
 ### ProBlogger
 
@@ -51,7 +49,7 @@ The Writer Finder might be the most expensive, but they deliver skilled on-deman
 
 ### Freelance Platforms For Beginners
 
-Here are a few platforms for beginners:
+Here are a few platforms for [freelance beginners]({{< relref "how-to-start-freelancing" >}}):
 
 * Guru: This platform focuses on connecting freelancers with businesses seeking expertise in fields like programming, design, and writing.
 * BloggingPro Job Board: Focused on blogging and content creation, BloggingPro lists freelance writing opportunities.
@@ -59,7 +57,7 @@ Here are a few platforms for beginners:
 * Medium.com: An open publishing platform where readers and content creators can bond through publications. In addition, writers can earn revenue from their content.
 * Ndash.com: A crowd-sourcing marketplace that has enabled thousands of writers to earn additional income.
 
-Remember, when [starting an online business]({{< relref "how-to-start-an-online-business" >}}) success in freelancing requires dedication, persistence, and continuous learning.
+Remember, when starting an online business success in freelancing requires dedication, persistence, and continuous learning.
 
 #### Conclusion
 

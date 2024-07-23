@@ -28,7 +28,7 @@ The concept of online learning traces its roots back to the early days of the in
 
 Post that you *might enjoy*:
 
-Search Engine Optimization [SEO for Bloggers]({{< relref "seo-for-bloggers" >}}).
+Learn how to [earn money on Udemy]({{< relref "make-money-on-udemy" >}}).
 
 ### Flexibility and Convenience
 

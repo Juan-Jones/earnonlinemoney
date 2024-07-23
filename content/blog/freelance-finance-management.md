@@ -37,7 +37,7 @@ Beyond budgeting and tax planning, freelancers should prioritize saving for reti
 
 ### Discover Passive Income Ideas
 
-Investing wisely is another crucial element of managing freelancer finances. Diversifying income streams and investing in assets that [generate passive income]({{< relref "passive-income-ideas" >}}) can help freelancers achieve financial growth and stability. Stocks, bonds, mutual funds, and real estate are common investment vehicles. Freelancers should assess their risk tolerance and financial goals before making investment decisions. It might be beneficial to consult with a financial advisor to develop a tailored investment strategy.
+Investing wisely is another crucial element of managing freelancer finances. Diversifying income streams and investing in assets that generate passive income can help freelancers achieve financial growth and stability. Stocks, bonds, mutual funds, and real estate are common investment vehicles. Freelancers should assess their risk tolerance and financial goals before making investment decisions. It might be beneficial to consult with a financial advisor to develop a tailored [investment strategy]({{< relref "introduction-to-investing" >}}).
 
 ### Establish Multiple Streams of Income
 

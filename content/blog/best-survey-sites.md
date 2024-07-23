@@ -35,7 +35,7 @@ When choosing a survey site, consider the following features to ensure you have 
 
 ## Best Survey Sites
 
-There are several survey sites online. However, the best survey sites provide users with several options to make money. Members can earn money from referrals, chiming contests, and opinion polls. Users can also [earn money playing games]({{< relref "play-games-for-cash" >}}), reviews, and [complete microtasks]({{< relref "what-is-microtasking" >}}). Best of all, legitimate survey sites don’t cost a dime. As noted, they will not replace a full time job, but they offer a steady stream of additional income. Without further due, here are the best survey sites;
+There are several survey sites online. However, the best survey sites provide users with several options to make money. Members can earn money from referrals, chiming contests, and opinion polls. Users can also [earn money playing games]({{< relref "play-games-for-cash" >}}), reviews, and complete tasks. Best of all, legitimate survey sites don’t cost a dime. As noted, they will not replace a full time job, but they offer a steady stream of additional income. Without further due, here are the best survey sites;
 
 ### 1. Swagbucks
 
@@ -55,7 +55,7 @@ With well over 10 million members [SurveyJunkie](https://www.surveyjunkie.com/) 
 
 ### 3. InboxDollars
 
-InboxDollars offers a variety of ways to earn money, including taking surveys, reading emails, and shopping online. It's a comprehensive platform for those looking to diversify their income streams.
+InboxDollars offers a variety of ways to earn money, including taking surveys, reading emails, and shopping to [earn rebates]({{< relref "earn-cash-back" >}}). It's a comprehensive platform for those looking to diversify their income streams.
 
 * Rewards: Cash payments via check or PayPal.
 * Pros: Multiple earning opportunities, easy-to-use interface.
@@ -95,7 +95,7 @@ Opinion Outpost is one of the best survey sites. This market research panel pays
 
 ### 10. Pinecone Research
 
-  More importantly, get paid for your time! If these questions sound interesting, check out Pinecone Research.
+More importantly, get paid for your time! If these questions sound interesting, check out Pinecone Research.
 
 ### 11. OneOpinion
 

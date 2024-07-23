@@ -2,7 +2,7 @@
 title: "Best Passive Income Ideas Online"
 description: "Explore the best passive income ideas online. Discover tips to maximize financial growth, common mistakes to avoid, and factors to consider before investing."
 image: "images/passive-income-ideas.jpg"
-date: 2019-11-11T18:19:25+06:00
+date: 2019-10-11T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false
@@ -57,7 +57,7 @@ Investing in collectibles, such as art, stamps, coins, or sports memorabilia, ca
 
 ### 5. Flip Domain Names
 
-It's not just about buying and selling; it's about envisioning future possibilities and leveraging them to build a lucrative portfolio. Ready to explore the world of [domain flipping]({{< relref "flip-domain-names" >}})? Unlock the potential of turning your digital instincts into rewarding financial gains.
+It's not just about [buying domain names]({{< relref "how-to-buy-domain-names" >}}) then selling; it's about envisioning future possibilities and leveraging them to build a lucrative portfolio. Ready to explore the world of [domain flipping]({{< relref "flip-domain-names" >}})? Unlock the potential of turning your digital instincts into rewarding financial gains.
 
 ### 7. Money Market Funds
 

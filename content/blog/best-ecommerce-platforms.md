@@ -27,7 +27,7 @@ Before diving into the array of ecommerce platforms, it's essential to assess yo
 
 ### 1. Shopify
 
-Want to sell on Shopify? Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With Shopifys extensive app stores and intuitive interface users can create customizable online stores with ease. Key features include:
+Want to [sell on Shopify]({{< relref "sell-on-shopify" >}})? Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With Shopifys extensive app stores and intuitive interface users can create customizable online stores with ease. Key features include:
 
 * User-friendly interface,
 * Extensive app store for additional functionalities,

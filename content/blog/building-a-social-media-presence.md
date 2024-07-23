@@ -71,14 +71,14 @@ By managing your time effectively, you can maintain a consistent presence withou
 
 ### Monetizing Social Media Channels
 
-You can can easily find [ways to monetize your website]({{< relref "how-to-monetize-a-website" >}}) through social media traffic.
+You can can easily find ways to monetize your website through social media traffic.
 
 * TikTok Monetization: There are various TikTok monetization opportunities, like TikToks Creator Fund, brand collaboration, receiving gifts from live streams and more.
 * Make Money on Pinterest: Publishers can make money on Pinterest with idea pins and ads.
 * Make Money on Twitter: Making money on Twitter involves several strategies. One way is through sponsored tweets, where businesses pay you to promote their products or services.
 * Facebook Monetization Strategies: As Meta evolves, so do Facebook monetization strategies, offering new opportunities for individuals and businesses to capitalize on its reach and engagement.
 
-Selecting the right platforms depends on where your audience spends their time and the type of content you plan to create. If you need assistance building your social media presence you can find help on [freelance websites]({{< relref "best-freelance-websites" >}}).
+Selecting the right platforms depends on where your audience spends their time and the type of content you plan to create. If you need assistance building your social media presence you can find help on freelance websites.
 
 ### Conclusion
 

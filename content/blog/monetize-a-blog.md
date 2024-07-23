@@ -19,7 +19,7 @@ Blog 101: What is a blog? A blog is a dynamic platform where individuals share t
 
 Before we dive into the nitty-gritty details, let's talk about the basics. Monetizing a blog means leveraging your content to generate income. This can be achieved through various methods, each with its own set of strategies and best practices. The key is to find what works best for your niche and audience.
 
-Blogging has emerged as a viable means for individuals to share expertise, passions, and insights. Even more, you can create a blog and [make money online free]({{< relref "make-money-online" >}}). On top of that, you can generate income, establish yourself as an authority in your field and create opportunities for collaborations and networking within your industry.
+Blogging has emerged as a viable means for individuals to share expertise, passions, and insights. Even more, you can create a blog and make money online free. On top of that, you can generate income, establish yourself as an authority in your field and create opportunities for collaborations and networking within your industry.
 
 Its essential to have clear understanding of your blog's niche and target audience to successfully implement monetization strategies on your blog. Identify topics, themes, and interests that resonate with your passions and expertise, and conduct market research to assess audience demand and competition levels. Define your audience personas, including demographic information, interests, pain points, and content preferences, to tailor your blogging strategy and content offerings accordingly.
 
@@ -67,7 +67,7 @@ Promoting your digital products is as important as creating them. Use your blog,
 
 ### Create an Online Course
 
-If you have in-depth knowledge on a particular subject, online courses can be a lucrative way to monetize your blog. Courses allow you to dive deep into a topic and provide immense value to your audience.
+If you have in-depth knowledge on a particular subject [creating online courses]({{< relref "how-to-create-online-courses" >}}) can be a lucrative way to monetize your blog. Courses allow you to dive deep into a topic and provide immense value to your audience.
 
 Use your blog and email list to promote your course. Offer early-bird discounts or bonuses to incentivize sign-ups. Collaborate with other bloggers or influencers to expand your reach.
 
@@ -83,7 +83,7 @@ Promote your membership site on your blog and social media. Offer limited-time d
 
 If you have a knack for writing, freelance writing can be a lucrative way to monetize your blog. Many businesses and publications are willing to pay for quality content.
 
-Personal Tip: My freelance writing career took off after I started using my blog as a portfolio. Clients were impressed with my work, and I quickly built a steady stream of freelance income. Hence, as soon as you [launch your blog]({{< relref "how-to-make-a-blog" >}}) link link it to all of your freelance profiles.
+Personal Tip: My freelance writing career took off after I started using my blog as a portfolio. Clients were impressed with my work, and I quickly built a steady stream of freelance income.
 
 ### Start a Coaching Business
 

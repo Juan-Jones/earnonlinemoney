@@ -61,8 +61,7 @@ Setting the right price for your course is crucial. Consider factors like the va
 
 ### Offering Additional Services
 
-Beyond selling courses, you can [easily monetize your website]({{< relref "how-to-monetize-a-website" >}})
-and expertise through additional services like coaching, consulting, or workshops. These can be offered as upsells to your course or standalone products.
+Beyond selling courses, you can easily monetize your website and expertise through additional services like coaching, consulting, or workshops. These can be offered as upsells to your course or standalone products.
 
 ### Creating a Membership Site
 
