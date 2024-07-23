@@ -14,6 +14,12 @@ navbar_fixed = false
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
 author = "Dejuan"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
+header = "Digital Side Hustles"
+
+facebook = "earnmoneynowonline"
+twitter = "moneyonline_fre"
+linkedin = "earn-money-online-free"
+
 # contact info
 address = "Seattle, Washington"
 email = "jonesdejuan24@gmail.com"
@@ -99,7 +105,7 @@ mailchimp_form_name = "" # replace this code with yours
 # link = "#"
 
 [[social]]
-link = "#"
+link = "https://twitter.com/moneyonline_fre/"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 nofollow = true
 
@@ -111,13 +117,14 @@ nofollow = true
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.facebook.com/earnmoneynowonline/"
 nofollow = true
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/company/earn-money-online-free/"
+nofollow = true
 
 # customize your color and font from here.
 [variables]

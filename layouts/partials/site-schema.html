@@ -1,76 +1,39 @@
-{{ if .IsHome -}}
-<script type="application/ld+json"><script type="application/ld+json">
+<script type="application/ld+json">
+    {{ if eq .Section "posts" }}
     {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        "name": "{{ .Site.Title }}",
-        "url": "{{ .Site.BaseURL }}",
-        "description": "{{ .Site.Params.description }}",
-        "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
-        "license": "{{ .Site.Params.Copyright }}"
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ .Title }},
+      "image": {{ .Params.featuredImage | absURL }},
+      "datePublished": {{ .PublishDate }},
+      "dateModified": {{ .Lastmod }},
+      "author": {
+        "@type": "Person",
+        "name": {{ .Site.Params.author }}
+      },
+      "mainEntityOfPage": { "@type": "WebPage" },
+       "publisher": {
+        "@type": "Organization",
+        "name": {{ .Site.Params.header }},
+        "logo": {
+          "@type": "ImageObject",
+          "url": {{ .Site.Params.logo }}
+        }
+      },
+      "description": {{ .Summary | plainify | safeHTML }},
+      "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
+    }
+    {{ end }}
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": {{ .Site.Params.header }},
+      "url": {{ .Site.BaseURL }},
+      "sameAs": [
+        "https://www.facebook.com/{{ .Site.Params.facebook }}",
+        "https://www.instagram.com/{{ .Site.Params.instagram }}",
+        "https://twitter.com/{{ .Site.Params.twitter }}",
+        "https://github.com/{{ .Site.Params.github }}"
+      ]
     }
     </script>
-    {{ else if .IsPage }}
-    {{ $author := or (.Params.author) (.Site.Author.name) }}
-    {{ $org_name := .Site.Title }}
-    <script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "BlogPosting",
-        "articleSection": "{{ .Section }}",
-        "name": "{{ .Title | safeJS }}",
-        "headline": "{{ .Title | safeJS }}",
-        "alternativeHeadline": "{{ .Params.lead }}",
-        "description": "{{ if .Description }}{{ .Description | safeJS }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ end }}{{ end }}",
-        "inLanguage": "{{ .Site.LanguageCode | default "en-us" }}",
-        "isFamilyFriendly": "true",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "{{ .Permalink }}"
-        },
-        "author": {
-            "@type": "Person",
-            "name": "{{ $author }}"
-        },
-        "creator": {
-            "@type": "Person",
-            "name": "{{ $author }}"
-        },
-        "accountablePerson": {
-            "@type": "Person",
-            "name": "{{ $author }}"
-        },
-        "copyrightHolder": {
-            "@type": "Organization",
-            "name": "{{ $org_name }}"
-        },
-        "copyrightYear": "{{ .Date.Format "2006" }}",
-        "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-        "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-        "publisher": {
-            "@type": "Organization",
-            "name": "{{ $org_name }}",
-            "url": "{{ .Site.BaseURL }}",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "{{ .Site.Params.logo | absURL }}",
-                "width": "32",
-                "height": "32"
-            }
-            {{ with .Resources.GetMatch "article-img" }}{{ $banner := $.Page.Resources.GetMatch "article-img" }}
-            "image": {
-              "@type": "ImageObject",
-              "@id": "{{ $banner.Permalink }}",
-              "url": "{{ $banner.Permalink }}",
-              "height": "{{ $banner.Height }}",
-              "width": "{{ $banner.Width }}"
-            },
-          {{ end }}
-        },
-        "image": {{ if .Params.images }}[{{ range $i, $e := .Params.images }}{{ if $i }}, {{ end }}{{ $e | absURL }}{{ end }}]{{ else }}{{ .Site.Params.logo | absURL }}{{ end }},
-        "url": "{{ .Permalink }}",
-        "keywords": [{{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}"{{ end }}]
-    }
-    </script>   
-{{ end }}
