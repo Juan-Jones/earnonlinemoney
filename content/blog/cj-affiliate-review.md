@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Commission Junction Review"
 description: "Complete CJ Affiliate review including advantages, disadvantages, affiliate product offerings and more!"
-image: "images/cj-review.jpg"
+image: "images/cj-affiliate-assessment.jpg"
 date: 2024-05-04T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
@@ -62,8 +62,6 @@ After identifying promising affiliate programs, the next step is to apply. Most 
 Approval times can vary, with some advertisers responding within a few days and others taking longer. Keep an eye on your email and CJ Affiliate dashboard for updates on your application status. Once approved, you can access the advertiser’s promotional materials, such as banners, links, and product feeds, to start integrating into your marketing campaigns.
 
 ## How Do You Get Paid?
-
-{{< image src="images/cj-payment.jpg" caption="CJ Payment" alt="Contently" height="384" width="1265" position="center" command="fit" option="q100" class="img-fluid" title="CJ Payment" webp="false" >}}
 
 Getting paid through CJ Affiliate is a straightforward process once you've earned commissions from your affiliate marketing efforts. Payments are typically made via direct deposit (ACH) to your bank account or through paper check, depending on your preference and location.
 

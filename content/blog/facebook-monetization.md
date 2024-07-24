@@ -1,7 +1,7 @@
 ---
 title: "Facebook Meta Monetization Strategies"
 description: "Explore Facebook Meta monetization: Creator Fund, brand partnerships, livestream gifts, and merchandise sales offer creators diverse earning opportunities."
-image: "images/monetize-facebook.jpg"
+image: "images/monetize-on-facebook.jpg"
 date: 2020-08-05T18:19:25+06:00
 categories: ["social media"]
 type: "regular" # available types: [featured/regular]
@@ -35,8 +35,6 @@ While the avenues for Facebook monetization are vast, achieving success requires
 * Use Alternative Platforms: There are several platforms you can make money from besides Facebook. You can [make money on Pinterest]({{< relref "make-money-on-pinterest" >}}), monetize your Twitter account, and so on.
 
 ### Facebook Stars
-
-{{< image src="images/facebook-stars.jpg" caption="Facebook Stars" alt="Contently" height="493" width="1024" position="center" command="fit" option="q100" class="img-fluid" title="Facebook Stars" webp="false" >}}
 
 For creators, [Facebook Stars](https://creators.facebook.com/tools/stars) offer a way to monetize their content and engage with their audience in real-time. It provides an additional revenue stream beyond traditional advertising or sponsorship deals. Creators can also see their supporters in the chat, fostering a sense of community and connection.
 

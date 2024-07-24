@@ -1,7 +1,7 @@
 ---
 title: "How to Make Money on Fiverr"
 description: "Learn how to make money on Fiverr, take your freelancing earnings to the next level. Find benefits and challenges of earning on the platform."
-image: "images/make-money-with-fiverr.jpg"
+image: "images/earn-income-on-fiverr.jpg"
 date: 2019-11-08T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular" # available types: [featured/regular]

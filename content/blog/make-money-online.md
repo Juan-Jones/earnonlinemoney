@@ -17,7 +17,7 @@ The history of online income spans decades, showcasing the transformative power 
 
 ## How to Make Money Online
 
-Below are over 30 [creative side hustle ideas] to make money online:
+Below are over 30 creative side hustle ideas to make money online:
 
 ### 1. Earn Money on YouTube
 
@@ -43,7 +43,7 @@ Podcasters can earn money through sponsorships and ads, with rates varying based
 
 ### 4. Find Microtasking Opportunities
 
-Before exploring microtasking opportunities, it's crucial to understand [what microtasking entails]({{< relref "what-is-microtasking" >}}). Microtasks are small, manageable units of work, often part of a larger project, completed online for payment. Common tasks include data entry, surveys, transcription, and content moderation. Platforms like Appen.com, CIENCE, and Dataloop AI offer these opportunities.
+Before exploring microtasking opportunities, it's crucial to understand what microtasking entails. Microtasks are small, manageable units of work, often part of a larger project, completed online for payment. Common tasks include data entry, surveys, transcription, and content moderation. Platforms like Appen.com, CIENCE, and Dataloop AI offer these opportunities.
 
 Average Income: Earnings range from a few cents to a few dollars per task.
 
@@ -71,7 +71,7 @@ With the rise of digital publishing platforms like Amazon Kindle Direct Publishi
 
 Avg Earnings: Authors have the potential to earn royalties ranging from a few dollars to thousands per month, depending on the sales volume and pricing of their eBooks.
 
-Get started by outlining your ideas, writing compelling content, and leveraging marketing strategies to promote your eBook. Ready to turn your ideas into a published book that earns royalties? [Start writing your eBook]({{< relref "how-to-write-an-ebook" >}}) today and share your unique insights with the world!
+Get started by outlining your ideas, writing compelling content, and leveraging marketing strategies to promote your eBook. Ready to turn your ideas into a published book that earns royalties? Start writing your eBook today and share your unique insights with the world!
 
 ### 8. Work with Taskrabbit
 
@@ -265,11 +265,7 @@ Are there ways to make money online quick?
 
 Yes, there are several ways to quick cash injections on the internet. You can make money on ebay, [monetize ebay affiliate programs]({{< relref "ebay-affiliate-program-overview" >}}). In fact, you can [get paid under 60 minutes]({{< relref "ways-to-get-paid-in-one-hour" >}})!
 
-{{< image src="images/make-money-online-quick.jpg" caption="" alt="Money, Cash, Woman, Laptop" height="1366" width="768" position="center" command="fit" option="q100" class="img-fluid" title="Make Money Online Quick" webp="false" >}}
-
 Can I launch a online business and earn money online free?
-
-{{< image src="images/earn-money-online-free.jpg" caption="" alt="Money, Cash, Woman, Laptop" height="1366" width="768" position="center" command="fit" option="q100" class="img-fluid" title="Earn Money Online Free" webp="false" >}}
 
 First and foremost invest in yourself. You can invest in yourself by learning new skills. Utilize free resources like online courses, webinars, and tutorials. This enhances your capabilities and boosts your confidence.
 

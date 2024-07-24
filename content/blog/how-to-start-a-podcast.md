@@ -1,7 +1,7 @@
 ---
 title: "How to Start a Podcast"
 description: "Learn how to start a podcast from beginning to end. Discover 11 effective steps to launch a solid platform."
-image: "images/podcast-startup.jpg"
+image: "images/start-a-podcast.jpg"
 date: 2020-01-05T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]

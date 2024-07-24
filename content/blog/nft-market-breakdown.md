@@ -1,7 +1,7 @@
 ---
 title: "Non-Fungible Tokens (NFTs): Buying, Selling, & Trading "
 description: "Our Non-Fungible Tokens (NFTs)  market breakdown addresses technology, applications, and implications of NFTs across art, music, gaming, collectables and more."
-image: "images/nfts-market-overview.jpg"
+image: "images/non-fungible-tokens.jpg"
 date: 2019-11-14T18:19:25+08:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
