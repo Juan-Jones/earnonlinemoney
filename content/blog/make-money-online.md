@@ -1,5 +1,5 @@
 ---
-title: "How to Make Money Online, Best Ways to Earn Internet Income"
+title: "Best Ways to Earn Income Online"
 description: "Find outstanding ways to make money online. Learn how to earn income from the comfort of your living room, find real opportunities to earn internet income!"
 image: "images/ways-to-make-money-online.jpg"
 date: 2019-11-04T18:19:25+06:00
@@ -24,8 +24,6 @@ Below are over 30 creative side hustle ideas to make money online:
 It is undeniable that social video content has an enormous impact on people's everyday lives worldwide. According to statistics... Digital 2024 Global Overview Report, YouTube has a potential advertising reach of 2.49 billion users, which is half of the world's 5.04 billion social media users. As a result thousands of content creators [make money on YouTube]({{< relref "make-money-on-youtube" >}}).
 
 Potential Earnings: Top YouTube creators can earn millions annually, with the highest earners making over $20 million.
-
-{{< image src="images/youtube-statistics.jpg" caption="YouTube Statistics" alt="YouTube Statistics" height="1080" width="1080" position="center" command="fit" option="q100" class="img-fluid" title="YouTube Statistics" webp="false" >}}
 
 YouTube Resources: Access to video editing software like [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html/), Final Cut Pro, or free options like DaVinci Resolve, graphic design tools for thumbnails, and keyword research tools for SEO optimization are beneficial resources.
 

@@ -2,6 +2,8 @@
 title: "Highest Paid Bloggers"
 description: "Uncover the top 10 highest-paid bloggers, learn about their monthly earnings, and explore the strategies they use to monetize their blogs."
 image: "images/top-crypto-investments.jpg"
+feature_image: "images/top-crypto-investments.jpg"
+feature_image_alt: "one"
 date: 2024-07-17T11:29:36-07:00
 categories: ["blogging"]
 type: "regular" # available types: [featured/regular]

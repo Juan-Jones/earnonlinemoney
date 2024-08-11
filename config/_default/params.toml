@@ -12,7 +12,7 @@ logo_text = "Earn Money Online"
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
-author = "Dejuan"
+author = "Dejuan Jones"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
 header = "Earn Money Online"
 facebook = "earnmoneynowonline"
@@ -65,7 +65,7 @@ title_small = ""
 image = "images/earn-money.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Expert earn money online guide for entrepreneurs, students, stay at home moms & dads. Find make money from home opportunities, side hustles, online jobs, & more!"
-button_label = "Start"
+button_label = "About"
 button_link = "about/"
 
 # Advertise
@@ -86,7 +86,6 @@ sidebar = ["about", "newsletter", "recent-post", "categories"]
 # available widget : about,categories,newsletter,recent-post
 
 
-# Subscription
 [subscription]
 enable = false
 # mailchimp subsciption

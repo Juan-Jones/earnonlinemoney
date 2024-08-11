@@ -1,38 +1,77 @@
-<script type="application/ld+json">
-    {{ if eq .Section "posts" }}
+{{ if .IsHome }}
+    <script type="application/ld+json">
     {
-      "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      "headline": {{ .Title }},
-      "image": {{ .Params.featuredImage | absURL }},
-      "datePublished": {{ .PublishDate }},
-      "dateModified": {{ .Lastmod }},
-      "author": {
-        "@type": "Person",
-        "name": {{ .Site.Params.author }}
-      },
-      "mainEntityOfPage": { "@type": "WebPage" },
-       "publisher": {
-        "@type": "Organization",
-        "name": {{ .Site.Params.header }},
-        "logo": {
-          "@type": "ImageObject",
-          "url": {{ .Site.Params.logo }}
-        }
-      },
-      "description": {{ .Summary | plainify | safeHTML }},
-      "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
-    }
-    {{ end }}
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": {{ .Site.Params.header }},
-      "url": {{ .Site.BaseURL }},
-      "sameAs": [
-        "https://www.facebook.com/{{ .Site.Params.facebook }}",
-        "https://twitter.com/{{ .Site.Params.twitter }}",
-        "https://linkedin.com/{{ .Site.Params.linkedin }}"
-      ]
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Earn Money Online",
+        "url": "https://earnonlinemoney.org",
+        "description": "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom.",
+        "thumbnailUrl": "https://earnonlinemoney.org/logo.png"
     }
     </script>
+    {{ end }}
+    
+    {{ if eq .Section "blog" }}
+    <script type="application/ld+json">
+    	{
+    		"@context":"http://schema.org",
+    		"@type": "BlogPosting", 
+    		"image": "{{  site.Params.image | absURL  }}"", 
+    		"url": "{{ .Permalink }}",
+    		"headline": "{{ .Title }}",
+    		"alternativeHeadline": "{{ .Title }}",
+    		"dateCreated": {{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    		"datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    		"dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    		"inLanguage": "{{ .Site.LanguageCode }}",
+    		"isFamilyFriendly": "true",
+    		"copyrightYear": "{{ .PublishDate.Format "2006" | safeHTML }}",
+    		"copyrightHolder": "{{ .Site.Params.author }}",
+    		"contentLocation": {
+    			"@type": "Place",
+    			"name": "Seattle, Washington"
+    		},
+    		"accountablePerson": {
+    			"@type": "Person",
+    			"name": "Dejuan Jones",
+    			"url": "https://earnonlinemoney.org"
+    		},
+    		"author": {
+    			"@type": "Person",
+    			"name": "Dejuan Jones",
+    			"url": "https://earnonlinemoney.org"
+    		},
+    		"creator": {
+    			"@type": "Person",
+    			"name": "Dejuan Jones",
+    			"url": "https://earnonlinemoney.org"
+    		},
+    		"publisher": {
+    			"@type": "Organization",
+    			"name": "Earn Money Online",
+    			"url": "https://www.linkedin.com/company/earn-money-online-free/",
+    			"logo": {
+    				"@type": "ImageObject",
+    				"url": "https://earnonlinemoney.org/logo.png",
+    			}
+    		},
+    		"mainEntityOfPage": "True",
+    		"articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
+    	}
+    </script>
+    {{ end }}
+    
+    {{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "{{ .Title }}",
+        "description": {{ .Summary }},
+        "publisher": {
+            "@type": "ProfilePage",
+            "name": "Dejuan Jones"
+        }
+    }
+    </script>
+    {{ end }}
