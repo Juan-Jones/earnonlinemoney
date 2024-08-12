@@ -39,42 +39,50 @@
 <meta name="msapplication-TileColor" content="{{site.Params.variables.color_primary | default `#da532c`}}">
 <meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
 
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
-
-
 
 {{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
-{{ $image_path := .Params.image | default site.Params.image -}}
-{{ $image := resources.Get $image_path -}}
-{{ $image_ext := trim (path.Ext $image_path | lower) "." -}}
 
-{{ if $image -}}
+<!-- Get the image path from front matter or site params -->
+{{ $image_path := .Params.image | default site.Params.image }}
+{{ $image := resources.Get $image_path }}
+{{ $image_ext := trim (path.Ext $image_path | lower) "." }}
+
+{{ if $image }}
   {{ if eq $image.MediaType.SubType "svg" }}
-    <!-- For SVG images, use the original image without resizing -->
+    <!-- For SVG images -->
     <meta property="og:image" content="{{ $image.Permalink }}" />
-    <meta name="twitter:image" content="{{ $image.Permalink }}"/>
+    <meta name="twitter:image" content="{{ $image.Permalink }}" />
     <meta property="og:image:type" content="image/svg+xml">
   {{ else }}
-    <!-- For raster images, resize and generate metadata -->
+    <!-- For raster images -->
     {{ $processed_image := $image.Resize "1200x630" }}
     <meta property="og:image" content="{{ $processed_image.Permalink }}" />
-    <meta name="twitter:image" content="{{ $processed_image.Permalink }}"/>
+    <meta name="twitter:image" content="{{ $processed_image.Permalink }}" />
     <meta property="og:image:type" content="image/{{ replaceRE `^jpg$` `jpeg` $image_ext }}">
     <meta property="og:image:width" content="{{ $processed_image.Width }}">
     <meta property="og:image:height" content="{{ $processed_image.Height }}">
-  {{ end -}}
+  {{ end }}
   <meta name="twitter:card" content="summary_large_image">
-{{ end -}}
+{{ else }}
+  <!-- Fallback image if no image is found -->
+  <meta property="og:image" content="{{ site.Params.image }}" />
+  <meta name="twitter:image" content="{{ site.Params.image }}" />
+  <meta property="og:image:type" content="image/jpeg">
+  <meta name="twitter:card" content="summary_large_image">
+{{ end }}
 
-<meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
-{{ with site.Social.twitter -}}<meta name="twitter:site" content="@{{ . }}"/>{{ end -}}
+<!-- General Open Graph and Twitter meta tags -->
+<meta property="og:title" content="{{ .Title | default site.Title }}" />
+<meta property="og:description" content="{{ .Description | default .Summary | default site.Params.description }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:type" content="article" />
+
+<meta name="twitter:title" content="{{ .Title | default site.Title }}" />
+<meta name="twitter:description" content="{{ .Description | default .Summary | default site.Params.description }}" />
+{{ with site.Social.twitter }}<meta name="twitter:site" content="@{{ . }}" />{{ end }}
 {{ range site.Authors }}
-  {{ with .twitter -}}<meta name="twitter:creator" content="@{{ . }}"/>{{ end -}}
-{{ end -}}
+  {{ with .twitter }}<meta name="twitter:creator" content="@{{ . }}" />{{ end }}
+{{ end }}
 
 
 {{ partial "site-schema.html" . }}
