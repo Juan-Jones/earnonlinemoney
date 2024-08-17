@@ -6,7 +6,6 @@ date: 2024-05-04T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/cj-affiliate-review
 ---
 
 CJ is a leading global affiliate marketing network. It connects publishers and advertisers, allowing the former to earn commissions by promoting the latter's products. With a broad range of products and services, CJ Affiliate is an excellent platform for both novice and experienced marketers.

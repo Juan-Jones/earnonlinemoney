@@ -6,7 +6,6 @@ date: 2020-01-05T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/flip-domain-names
 ---
 
 Learn the ins and outs of domain flipping, from finding profitable domains and valuing them to advanced strategies and tools. This comprehensive guide covers everything you need to know to start and succeed in the world of **domain flipping**.

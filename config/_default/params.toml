@@ -2,51 +2,56 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.svg"
+logo = "images/logo.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "252px"
+logo_width = "150x"
 # logo text will only show when logo is missing.
-logo_text = "Earn Money Online"
+logo_text = "Earn Online Money"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "Ultimate guide to earn money online free, quick or easy. Find trending side hustles, passive income ideas, cash injections online jobs & more."
 author = "Dejuan Jones"
-image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "Seattle, Washington"
+address = "Seattle, Wa"
+mobile = "+4252434038"
 email = "jonesdejuan24@gmail.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/xdoreeqg" # contact form works with https://formspree.io
 # search
 search = true
-# featured post title
-featured_post_title = "Featured Posts"
-recent_post_title = "Recent Posts"
+
+# Posts related Titles & Contents
+categories_title = "Blog Categories"
+posts_title = "Featured"
+featured_post_title = "Featured Post"
+recent_post_title = "Recent Post"
+featured_post_button = "Featured"
+recent_post_button = "Recent"
+read_more_button = "Read more"
+previous_button = "Previous"
+next_button = "Next"
+related_posts = "Related Posts"
+showing_posts = "Showing Post From"
+no_categories_found = "No Categories Found"
+no_tags_found = "No Tags Found"
+
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Visit us on Social Media!"
+about_widget_content = "Connect with us on social media!"
 # footer content
 footer_content = "Your Ultimate Make Money From Home Guide."
-# copyright
-copyright = 'Copyright © 2022 Earnonlinemoney.org. All Rights Reserved.'
-
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-# custom_script= "<script>console.log(\"Hello World\")</script>"
+custom_script= ""
+# copyright
+theme_copyright = true
+copyright = "Copyright © 2019 - 2024"
 
-# Comment
-talkyardServerUrl = ""
-talkyardScriptUrl = ""
-
-# Buy me a coffee
-# Comment below line to disable
-buyMeACoffeeId = "dejuanjones"
-
-# Google Adsense
-# adsenseDataAdClient = "ca-pub-9046870770761569"
-
-codeLineNumbers = true
+# 404
+error_404_text = "404 Page Not Found!"
+error_404_button = "Back To Home"
 
 # Preloader
 [preloader]
@@ -56,75 +61,70 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "**Earn Money Online**"
-title_small = "Complete Digital Income Guide"
+title_large = "Earn **Money** Online"
+title_small = "Digital Income Roadmap"
 image = "images/earn-money.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Expert earn money online guide for entrepreneurs, students, stay at home moms & dads. Find make money from home opportunities, side hustles, online jobs, & more!"
-button_label = "About"
-button_link = "about/"
+content = "Complete online earning guide for beginners, students, and stay-at-home moms. Discover tips for freelancing, marketing, investing, and more. Start your journey today!"
+
 
 # Advertise
 [advertisement]
 image = "images/earn-internet-income.png"
-link = "/blog"
+link = "/"
 
 # cookies
 [cookies]
-enable = true
-expire_days = 30
+enable = false
+expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["about", "newsletter", "recent-post", "categories"]
+sidebar = ["about", "categories", "recent-post", "newsletter"]
 # available widget : about,categories,newsletter,recent-post
 
 
+# Subscription
 [subscription]
 enable = false
+newsletter_title = "Newsletter"
+newsletter_invitation = "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!"
+newsletter_placeholder = "Type And Hit Enter"
+newsletter_reminder_a = "By Singing Up, You Agree To"
+newsletter_reminder_b = "Privacy Policy"
+newsletter_button = "Sign in"
 # mailchimp subsciption
-mailchimp_form_action = "" # replace this url with yours
-mailchimp_form_name = "" # replace this code with yours
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 
 ############################# social site ########################
-# [[social]]
-# title = "facebook"
-# icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-# link = "#"
-
-[[social]]
-link = "https://twitter.com/moneyonline_fre/"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-nofollow = true
-
-# [[social]]
-# title = "instagram"
-# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-# link = "#"
-
 [[social]]
 title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/earnmoneynowonline/"
 nofollow = true
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/moneyonline_fre/"
+nofollow = true
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
+
+[[social]]
+title = "github"
+icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://www.linkedin.com/company/earn-money-online-free/"
 nofollow = true
-
-# customize your color and font from here.
-[variables]
-color_primary = "#168118"
-body_color = "#FFF"
-text_color = "#424242"
-text_dark = "#00274f"
-text_light = "#999"
-border_color = "#E1E1E1"
-black = "#000"
-white = "#FFF"
-light = "#f2f2f2"

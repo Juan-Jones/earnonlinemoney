@@ -6,7 +6,6 @@ date: 2019-11-13T18:19:25+08:00
 categories: ["ecommerce"]
 type: "regular"
 draft: false
-slug: /blog/shopify-apps
 ---
 
 When it comes to e-commerce, leveraging the right tools can make a significant difference in your store’s performance. Shopify offers a plethora of apps designed to help you streamline operations, enhance customer experience, and ultimately, boost sales. This post explores some of the must-have **Shopify apps** that can take your e-commerce store to the next level.

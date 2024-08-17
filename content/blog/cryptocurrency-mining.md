@@ -6,7 +6,6 @@ date: 2019-11-12T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/cryptocurrency-mining
 ---
 
 Thinking about investing in cryptocurrency mining? If so, great, this crypto mining [investment guide]({{< relref "introduction-to-investing" >}}) we'll walk you through the fundamentals of cryptocurrency mining, the equipment you'll need, and tips for optimizing your mining operations. With the right strategy and dedication, you can turn your computer into a money-making machine.

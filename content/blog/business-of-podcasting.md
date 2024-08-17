@@ -6,7 +6,6 @@ date: 2020-01-04T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/business-of-podcasting.md
 ---
 
 In the age of digital media dominance, podcasts have emerged as a formidable force, captivating audiences worldwide with their diverse range of content and convenient accessibility. What began as a niche hobby for enthusiasts has evolved into a bustling industry, offering lucrative opportunities for creators and businesses alike. In this post, we will explore the **business aspect of podcasting**!

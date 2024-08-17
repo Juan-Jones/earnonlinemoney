@@ -6,7 +6,6 @@ date: 2019-10-22T18:19:25+06:00
 categories: ["courses"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/marketing-your-online-course
 ---
 
 Creating an online course is a significant achievement, but the real challenge lies in marketing it effectively to reach your target audience. With countless courses available online, standing out can be difficult.

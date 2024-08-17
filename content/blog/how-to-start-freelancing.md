@@ -6,7 +6,6 @@ date: 2019-10-08T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/how-to-start-freelancing
 ---
 
 Are you tired of the traditional 9-to-5 grind? Do you yearn for the freedom to choose your projects, set your own hours, and work from anywhere in the world? In this blog post, we will explore how to earn money online freelancing!

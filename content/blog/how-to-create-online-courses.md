@@ -6,7 +6,6 @@ date: 2019-10-20T18:19:25+06:00
 categories: ["courses"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/how-to-create-online-courses
 ---
 
 Online learning is booming. According to Global Market Insights, the e-learning market is expected to surpass $375 billion by 2026. This surge is driven by the flexibility, accessibility, and variety of online courses available to learners worldwide. For creators, this presents an incredible opportunity to reach a global audience and generate income from their expertise.

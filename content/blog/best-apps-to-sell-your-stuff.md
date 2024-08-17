@@ -6,10 +6,9 @@ date: 2019-10-30T18:19:25+06:00
 categories: ["side hustles"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/best-apps-to-sell-stuff
 ---
 
-id you know each year billions of dollars are earned through selling items? In the digital age, selling items you don't want has never been easier. Gone are the days of hosting garage sales or posting classified ads in newspapers.
+Did you know each year billions of dollars are earned through selling items? In the digital age, selling items you don't want has never been easier. Gone are the days of hosting garage sales or posting classified ads in newspapers.
 
 ## Best Apps to Sell Your Stuff
 

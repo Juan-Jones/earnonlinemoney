@@ -6,7 +6,6 @@ date: 2024-04-24T18:19:25+06:00
 categories: ["gig economy"]
 type: "featured" # available types: [featured/regular]
 draft: false
-slug: /blog/statistics-freelancers-should-know
 ---
 
 

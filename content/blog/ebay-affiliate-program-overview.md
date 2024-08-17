@@ -6,7 +6,6 @@ date: 2020-08-05T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/ebay-affiliate-program-overview
 ---
 
 The **eBay Affiliate Program**, also known as the eBay *Partner Network* (EPN), offers a fantastic opportunity for marketers to earn commissions by promoting eBay products. Whether you're a seasoned affiliate marketer or just starting, understanding how this program works and how to optimize your efforts can make a significant difference in your earnings.

@@ -6,7 +6,6 @@ date: 2019-11-04T18:19:25+08:00
 categories: ["monetizing"]
 type: "featured"
 draft: false
-slug: /blog/how-to-monetize-a-website
 ---
 
 Monetizing a website is an essential strategy for anyone looking to turn their digital presence into a profitable venture. With the internet being a vast marketplace, there are multiple avenues to [generate online revenue]({{< relref "make-money-online" >}}).

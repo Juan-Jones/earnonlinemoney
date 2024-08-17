@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="taxonomy-terms">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <header class="page-header text-center">
+                    <h1>{{ .Title }}</h1>
+                </header>
+            </div>
+        </div>
+        <div class="row">
+            {{ range .Data.Pages }}
+            <div class="col-md-4">
+                <article class="taxonomy-term">
+                    <h2>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h2>
+                    <p>{{ .Summary }}</p>
+                </article>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

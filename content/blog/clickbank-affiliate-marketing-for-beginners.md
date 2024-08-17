@@ -5,8 +5,7 @@ image: "images/affiliate-marketing-clickbank.jpg"
 date: 2024-05-04T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
-draft: falst
-slug: /blog/clickbank-affiliate-marketing-for-beginners
+draft: false
 ---
 
 Affiliate marketing is a popular way to earn passive income online, and ClickBank is a leading platform in this space. Whether you’re a novice or just exploring the idea, this guide will walk you through the essentials of ClickBank affiliate marketing, from signing up to exploring product choices and even considering alternatives.

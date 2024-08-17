@@ -6,7 +6,6 @@ date: 2019-10-28T18:19:25+06:00
 categories: ["blogging"]
 type: "featured"
 draft: false
-slug: /blog/monetize-a-blog
 ---
 
 Our objective extends beyond furnishing aspiring bloggers with insights solely aimed at how to monetize a blog; we aim to provide a holistic view of the process, so that you can leverage your blog to its full potential. In this post we will focus on the art of the process of **blog monetization**, from optimizing your blog to blogging for money.

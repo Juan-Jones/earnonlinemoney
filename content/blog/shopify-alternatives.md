@@ -6,7 +6,6 @@ date: 2024-05-24T18:19:25+06:00
 categories: ["ecommerce"]
 type: "regular"
 draft: false
-slug: /blog/shopify-alternatives
 ---
 
 In the world of e-commerce, Shopify stands out as a robust platform, but it might not be the perfect fit for everyone. Whether you're seeking different features, better pricing, or just want to explore your options, there are several excellent **Shopify alternatives** available.

@@ -6,7 +6,6 @@ date: 2019-11-03T18:19:25+06:00
 categories: ["social media"]
 type: "regular" # available types: [featured/]
 draft: false
-slug: /blog/social-media-marketing-tips
 ---
 
 Social media marketing has become indispensable for businesses of all sizes. With billions of active users on platforms like Facebook, Instagram, Twitter, and LinkedIn, it’s no wonder that social media marketing is a key component of any successful marketing strategy. But where do you start? And how can you ensure that your efforts yield the best results? Well, lets get to it!

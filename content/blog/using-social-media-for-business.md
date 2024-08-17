@@ -6,7 +6,6 @@ date: 2019-11-04T18:19:25+06:00
 categories: ["social media"]
 type: "regular" # available types: [featured/]
 draft: false
-slug: /blog/using-social-media-for-business
 ---
 
 Social media has become a cornerstone for businesses of all sizes. The ability to connect with audiences, promote products, and build a brand has never been more accessible or impactful. This comprehensive guide will delve into the various aspects of using social media for business, from establishing a presence to effective marketing strategies and monetizing platforms like TikTok.

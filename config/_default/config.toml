@@ -1,25 +1,26 @@
 ######################## default configuration ####################
-baseURL = "https://earnonlinemoney.org"
-title = "Online Income Guide - Earn Money From Home"
-theme = "geeky-curious"
+baseURL = "https://earnonlinemoney.org/"
+title = "Earn Money Online Guide"
+theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
 paginate = "10"
 # post excerpt
-summaryLength = "40"
-# Robotstxt
-enableRobotsTXT = true
+summaryLength = "25"
 # google analytics
-googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
-# disqusShortname = "aicurious" # get your shortname form here : https://disqus.com
+disqusShortname = "earnonline-1" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ["fr"] # example: ["fr"] for disable french language
+# Robotstxt
+enableRobotsTXT = true
 
-[permalinks]
-page = "/:slug/"
-blog = "/:slug/"
+############################# Taxonomies ###############################
+[taxonomies]
+  category = "categories"
+  tags = "tags"
 
 ############################# Modules ##############################
 [module]
@@ -35,10 +36,7 @@ home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 [imaging]
 # See https://github.com/disintegration/imaging
 # Default JPEG or WebP quality setting. Default is 75.
-quality = 75
-
-# Set timeout to prevent exiting on building pages.
-timeout = 180000
+quality = 90
 
 ############################# Caches ###############################
 [caches]
@@ -50,25 +48,10 @@ maxAge = "720h"
 dir = ":resourceDir/_gen"
 maxAge = "720h"
 
+
 ############################# Markup ###############################
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true # change to false to disable inclusion of rawHTML and math functions
-      xhtml = false
-    [markup.goldmark.extensions]
-      typographer = false
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = true
-    hl_Lines = "--"
-    lineNoStart = 1
-    lineNos = true # always set to true # else line numbers won't show at all! even when you toggle them on in the UI
-    lineNumbersInTable = false # toggling this on (i.e to true) or deleting this line will break the code blocks functionality. Will
-    noClasses = false
-    # style = "monokai"
-    tabWidth = 2
+[markup.goldmark.renderer]
 unsafe = true
 
 
@@ -88,8 +71,25 @@ suffixes = [""]
 mediaType = "application/manifest+json"
 rel = "manifest"
 
-############################ Output Format ###########################
+
+############################ sitemap  ###########################
 [sitemap]
-    changefreq = "monthly"
-    filename = "sitemap.xml"
-    priority = 0.5
+  changeFreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0
+
+
+############################ exclude from sitemap  ###########################
+[params]
+taxonomiesExcludedFromSitemap = ["tags", "categories"]
+
+############################ author info  ###########################
+[author]
+  name = "Dejuan Jones"
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "Earn Money Online"
+    [languages.en.params]
+      description = "Ultimate guide to earn money online free, quick or easy. Find trending side hustles, passive income ideas, cash injections online jobs & more."
+      mydomain = "earnonlinemoney.org"

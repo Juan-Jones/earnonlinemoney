@@ -6,7 +6,6 @@ date: 2019-10-29T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/selling-digital-products
 ---
 
 Selling digital products has emerged as a highly profitable and scalable business model. Unlike physical goods, digital products such as eBooks, online courses, software, and digital art can be sold repeatedly without the need for inventory or shipping. This guide will provide you with the necessary tools and strategies to successfully sell digital products online.

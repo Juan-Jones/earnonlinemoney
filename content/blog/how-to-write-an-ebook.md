@@ -6,7 +6,6 @@ date: 2021-08-10T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular"
 draft: false
-slug: /blog/how-to-write-an-ebook
 ---
 
 Writing an ebook can be a rewarding experience, whether you're looking to share your knowledge, tell a story, or build your brand. But where do you start? Join us as we explore actionable tips and strategies to **write an ebook**.

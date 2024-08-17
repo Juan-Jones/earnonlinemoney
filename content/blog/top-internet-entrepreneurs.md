@@ -6,7 +6,6 @@ date: 2019-10-28T18:19:25+06:00
 categories: ["online business"]
 type: "regular"
 draft: false
-slug: /blog/top-internet-entrepreneurs
 ---
 
 The internet has given rise to a new breed of entrepreneurs who have amassed fortunes by harnessing the power of the digital world. These individuals have not only revolutionized industries but also transformed the way people live and work. Without further ado, here is a list of the richest internet entrepreneurs;

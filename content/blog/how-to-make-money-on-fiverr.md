@@ -6,7 +6,6 @@ date: 2019-11-08T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/how-to-make-money-on-fiverr
 ---
 
 Fiverr has revolutionized the freelance marketplace by offering a platform where freelancers can sell their services, or "gigs," starting at just $5. With the right strategies, you can turn Fiverr into a substantial source of income. Here are key tips and strategies to help you make money on Fiverr.

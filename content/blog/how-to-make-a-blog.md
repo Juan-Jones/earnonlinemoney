@@ -6,7 +6,6 @@ date: 2019-10-05T18:19:25+06:00
 categories: ["blogging"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/how-to-make-a-blog
 ---
 
 In a world driven by digital transformation, starting a blog stands as one of the most influential ways to share knowledge, voice opinions, and build an online presence. This powerful medium not only amplifies personal expression but also fosters community and drives professional growth. Today, the question is no longer "Why blog?" but "**How to start a blog** that makes an impact?"

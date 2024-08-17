@@ -1,3 +1,6 @@
 [submodule "themes/geeky-curious"]
 	path = themes/geeky-curious
 	url = https://github.com/Juan-Jones/geeky-curious.git
+[submodule "themes/geeky-hugo"]
+	path = themes/geeky-hugo
+	url = https://github.com/Juan-Jones/geeky-hugo.git

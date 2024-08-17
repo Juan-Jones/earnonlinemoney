@@ -6,7 +6,6 @@ date: 2019-10-17T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/stocks-vs-bonds
 ---
 
 Stocks and bonds represent distinct asset classes with unique characteristics, risk profiles, and potential returns. Stocks offer growth potential but come with higher volatility, making them suitable for long-term investors with higher risk tolerance. Bonds, on the other hand, provide income and stability, appealing to conservative investors seeking capital preservation.

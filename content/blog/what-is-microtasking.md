@@ -2,11 +2,11 @@
 title: "What is Microtasking"
 description: "Discover the purpose and meaning of microtasking. Find advantages and disadvantages along with future trends shaping the evolution of this global workforce."
 image: "images/microtasking.jpg"
+alt: "Pencil, Checkmark, Microtasking Concept"
 date: 2023-01-03T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/what-is-microtasking
 ---
 
 The concept of microtasks has gained significant traction, revolutionizing how work is distributed, completed, and managed across various industries. Microtasks, often characterized by their small, manageable nature, play a crucial role in streamlining processes, optimizing efficiency, and harnessing the power of distributed labor. In this blog post, we'll go over the essence of microtasks, exploring their definition, applications, and future trends shaping their evolution in the global workforce. The versatility of microtasks extends across various domains, driving innovation and efficiency in diverse fields. Without further ado, **what is microtasking**?

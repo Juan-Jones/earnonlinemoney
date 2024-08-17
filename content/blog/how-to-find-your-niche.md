@@ -6,7 +6,6 @@ date: 2020-09-08T16:20:25+06:10
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/how-to-find-your-niche
 ---
 
 Finding your niche can feel like searching for a needle in a haystack, but with the right approach, you can discover the unique corner of the market that suits your strengths and passions. This guide will walk you through the steps to **identify your niche**, with practical tips and insights to help you carve out your space effectively.

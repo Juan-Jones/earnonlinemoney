@@ -6,7 +6,6 @@ date: 2019-11-04T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/make-money-online
 ---
 
 Are you ready to replace your 9-5 and earn income through your screen? Why wait any longer? Every day you delay is a day of missed opportunities. The internet is a goldmine filled with lucrative cash injections worldwide waiting to be tapped. Whether you're a student looking to make money online, a stay-at-home parent seeking flexible work, or simply someone eager to explore legitimate ways to earn money online, there's something for everyone.

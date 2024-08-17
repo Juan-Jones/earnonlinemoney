@@ -6,7 +6,6 @@ date: 2019-10-26T18:19:25+06:00
 categories: ["online business"]
 type: "regular"
 draft: false
-slug: /blog/pricing-your-online-services
 ---
 
 Pricing your online services correctly is crucial for success. This guide covers factors influencing pricing, strategies for setting rates, common pitfalls to avoid, and tips for adjusting prices over time.

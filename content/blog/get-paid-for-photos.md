@@ -6,7 +6,6 @@ date: 2024-02-17T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/get-paid-for-your-photos
 ---
 
 

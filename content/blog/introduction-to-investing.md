@@ -6,7 +6,6 @@ date: 2019-10-16T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/introduction-to-investing
 ---
 
 Investing is a crucial aspect of financial planning that empowers individuals to grow their wealth over time. Whether you're aiming to save for retirement, build a nest egg, or achieve financial independence, understanding the fundamentals of investing is essential. This guide provides a comprehensive overview for beginners, covering key concepts, strategies, and practical tips to navigate the world of investing confidently.

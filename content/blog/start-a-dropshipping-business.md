@@ -6,7 +6,6 @@ date: 2020-09-09T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/start-a-dropshipping-business
 ---
 
 In recent years, dropshipping has emerged as a popular business model for entrepreneurs looking to start an online venture with minimal investment and risk. With the rise of e-commerce platforms and the increasing demand for online shopping, dropshipping offers a low-cost entry into the world of retail without the need for inventory management or upfront capital. If you're considering **launching a dropshipping business**, this blog  will walk you through the essential steps to get started and set yourself up for success.

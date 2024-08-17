@@ -6,7 +6,6 @@ date: 2020-01-06T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/how-do-podcasts-make-money
 ---
 
 If you’ve been online in the last year, you’ve probably noticed how widespread podcasting has become. But the bigger question is, "**how do podcasts make money**"? Better yet how can you make money from podcasts? Understanding how podcasts make money is crucial for aspiring podcasters to effectively monetize their content and sustain their ventures. Below we will dive into ways to monetize a podcast.

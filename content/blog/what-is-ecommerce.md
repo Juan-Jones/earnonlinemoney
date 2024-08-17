@@ -6,7 +6,6 @@ date: 2019-11-09T18:19:25+06:00
 categories: ["ecommerce"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/what-is-ecommerce
 ---
 
 In recent years, ecommerce has witnessed exponential growth, revolutionizing the way people conduct business transactions. From small-scale entrepreneurs to multinational corporations, ecommerce has become an integral part of modern commerce, reshaping consumer behavior and market dynamics.

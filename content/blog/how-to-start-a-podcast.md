@@ -6,7 +6,6 @@ date: 2020-01-05T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/how-to-start-a-podcast
 ---
 
 Countless podcasters attest, and I concur that learning how to **start a podcast** marks an unparalleled milestone. This transformative endeavor not only empowers you to share your voice on a global scale, but also grants you the remarkable power to impact and inspire countless individuals. Consequently, advertising has surged dramatically over the years.

@@ -6,7 +6,6 @@ date: 2020-09-02T18:19:25+06:00
 categories: ["ecommerce"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/b2b-ecommerce
 ---
 
 Starting an online store for B2B ecommerce can offer numerous benefits. It can lead to increased sales, improved customer satisfaction, and enhanced operational efficiency. Moreover, it allows businesses to reach a global audience and operate 24/7, providing unparalleled convenience for both buyers and sellers.

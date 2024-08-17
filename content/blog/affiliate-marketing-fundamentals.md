@@ -6,7 +6,6 @@ date: 2019-10-24T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular"
 draft: false
-slug: /blog/affiliate-marketing-fundamentals
 ---
 
 There are several reasons why you should consider affiliate marketing. To begin with, over the last decade the affiliate marketing industry has grown tremendously. According to research, the affiliate marketing industry was worth around 13 billion in 2016. Fast-forward to 2023, 17 billion. On top of that, you can earn passive income, and generate online income 24-7; even while your sleep!

@@ -6,7 +6,6 @@ date: 2019-10-27T18:19:25+06:00
 categories: ["online business"]
 type: "regular"
 draft: false
-slug: /blog/marketing-a-online-business
 ---
 
 Are you planning to **market an online business**? If so, you've found the right post! This blog post explores key marketing tactics, from building a strong brand to leveraging social media and SEO, providing practical tips and statistics to help online businesses thrive.

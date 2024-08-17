@@ -8,7 +8,6 @@ date: 2020-01-11T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular"
 draft: false
-slug: /blog/what-is-freelancing
 ---
 
 In an era characterized by rapid technological advancements, shifting employment paradigms, and a burgeoning desire for autonomy and flexibility, freelancing has emerged as a compelling alternative to traditional employment. In this blog post, we will explore what freelancing is, its pros and cons, and why this industry has grown. More importantly, we'll discuss why so many people are choosing to become freelancers.

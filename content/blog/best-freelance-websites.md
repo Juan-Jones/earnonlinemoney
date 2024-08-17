@@ -6,7 +6,6 @@ date: 2019-10-10T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/best-freelance-websites
 ---
 
 This comprehensive guide unveils a curated list of the **best freelance websites**, serving as a compass for those navigating the expansive gig economy. From offering freelance writing services, creating graphic designs, developers, and beyond, to invaluable resources offering insights, tips, and support, this compilation aims to empower freelancers with a comprehensive toolkit for success in their professional endeavors.

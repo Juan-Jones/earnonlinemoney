@@ -6,7 +6,6 @@ date: 2019-11-05T18:19:25+06:00
 categories: ["social media"]
 type: "regular" # available types: [featured/]
 draft: false
-slug: /blog/top-social-media-tools
 ---
 
 In the digital age, social media has become an indispensable tool for businesses looking to enhance their online presence, engage with customers, and drive growth. However, navigating the myriad of social media platforms and tools available can be daunting. But if you have the right social media tools, you can easily [build a social media presence]({{< relref "building-a-social-media-presence" >}}). Below you'll find the top social media tools that can help businesses maximize their social media marketing (SMM) efforts, offering practical tips and insights to streamline their strategies and achieve their goals.

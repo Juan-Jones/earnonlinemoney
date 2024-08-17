@@ -6,7 +6,6 @@ date: 2019-10-11T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/richest-freelancers
 ---
 
 In a world where traditional employment is continually being redefined, freelancing has emerged as a lucrative career path for many. This investigation delves into the lives of the richest freelancers, exploring how they achieved financial success and what others can learn from their journeys.

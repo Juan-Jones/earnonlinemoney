@@ -1,5 +1,30 @@
-{{ if .IsHome }}
-    <script type="application/ld+json">
+{{ if or ( .IsHome ) ( not .Description ) -}}
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Params.mydomain }}",
+    "url": "{{ .Permalink }}",
+    {{ if .IsHome }}
+      "description": "{{ .Site.Params.description }}",
+    {{ else }}
+      {{ $u := urls.Parse .Permalink }}
+      {{ $u := strings.TrimRight "/" $u.Path }}
+      {{ $u := substr $u 6 }}
+      "description": "Tag {{ $u }} - {{ .Site.Params.description }}",
+    {{ end }}
+    "inLanguage": "en",
+    "thumbnailUrl": "{{ "/icon-144.png" | absURL }}",
+    "image": {
+      "@type": "ImageObject",
+      "@id": "{{ "/earn-money.png" | absURL }}",
+      "url": "{{ "/earn-money.png" | absURL }}",
+      "height": "675",
+      "width": "1200"
+    }
+  }
+
+<script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
@@ -9,69 +34,67 @@
         "thumbnailUrl": "https://earnonlinemoney.org/logo.png"
     }
     </script>
-    {{ end }}
-    
-    {{ if eq .Section "blog" }}
-    <script type="application/ld+json">
-    	{
-    		"@context":"http://schema.org",
-    		"@type": "BlogPosting", 
-    		"image": "{{  site.Params.image | absURL  }}"", 
-    		"url": "{{ .Permalink }}",
-    		"headline": "{{ .Title }}",
-    		"alternativeHeadline": "{{ .Title }}",
-    		"dateCreated": {{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
-    		"datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
-    		"dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
-    		"inLanguage": "{{ .Site.LanguageCode }}",
-    		"isFamilyFriendly": "true",
-    		"copyrightYear": "{{ .PublishDate.Format "2006" | safeHTML }}",
-    		"copyrightHolder": "{{ .Site.Params.author }}",
-    		"contentLocation": {
-    			"@type": "Place",
-    			"name": "Seattle, Washington"
-    		},
-    		"accountablePerson": {
-    			"@type": "Person",
-    			"name": "Dejuan Jones",
-    			"url": "https://earnonlinemoney.org"
-    		},
-    		"author": {
-    			"@type": "Person",
-    			"name": "Dejuan Jones",
-    			"url": "https://earnonlinemoney.org"
-    		},
-    		"creator": {
-    			"@type": "Person",
-    			"name": "Dejuan Jones",
-    			"url": "https://earnonlinemoney.org"
-    		},
-    		"publisher": {
-    			"@type": "Organization",
-    			"name": "Earn Money Online",
-    			"url": "https://www.linkedin.com/company/earn-money-online-free/",
-    			"logo": {
-    				"@type": "ImageObject",
-    				"url": "https://earnonlinemoney.org/logo.png",
-    			}
-    		},
-    		"mainEntityOfPage": "True",
-    		"articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
-    	}
-    </script>
-    {{ end }}
-    
-    {{ if .IsPage }}
+{{ else if .IsPage }}
+  {{ if eq .Section "blog" }}
+    {{ $author :=  or (.Params.author) (.Site.Author.name) }}
+    {{ $org_name :=  .Site.Params.mydomain }}
     <script type="application/ld+json">
     {
-        "@context": "http://schema.org",
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "articleSection": "{{ .Section }}",
+      "name": "{{ .Title | safeJS }}",
+      "headline": "{{ .Title | safeJS }}",
+      "alternativeHeadline": "{{ .Params.subtitle }}",
+      "description": "{{if .IsPage}}{{ .Summary | markdownify }}{{ else }}{{ if .Description }}{{ .Description | safeJS }}{{ end }}{{ end }}",
+      "inLanguage": "en",
+      "isFamilyFriendly": "true",
+      "mainEntityOfPage": {
         "@type": "WebPage",
-        "name": "{{ .Title }}",
-        "description": {{ .Summary }},
-        "publisher": {
-            "@type": "ProfilePage",
-            "name": "Dejuan Jones"
+        "@id": "{{ .Permalink }}"
+      },
+      "author" : {
+        "@type": "Person",
+        "name": "{{ $author }}",
+        {{ with .Site.GetPage "/about" -}}"url": "{{- .Permalink -}}"{{ end }}
+      },
+      "creator" : {
+      "@type": "Person",
+        "name": "{{ $author }}"
+      },
+      "accountablePerson" : {
+        "@type": "Person",
+        "name": "{{ $author }}"
+      },
+      "copyrightHolder": "{{ $org_name }}",
+      "copyrightYear": "{{ .Date.Format "2006" }}",
+      "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+      "publisher":{
+        "@type":"Organization",
+        "name": "{{ $org_name }}",
+        "url": "{{ .Permalink }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ "/icon-256.png" | absURL }}",
+          "width": "256",
+          "height": "256"
         }
+      },
+      {{ with .Resources.GetMatch "article-img" }}{{ $banner := $.Page.Resources.GetMatch "article-img" }}
+        "image": {
+          "@type": "ImageObject",
+          "@id": "{{ $banner.Permalink }}",
+          "url": "{{ $banner.Permalink }}",
+          "height": "{{ $banner.Height }}",
+          "width": "{{ $banner.Width}}"
+        },
+      {{ end }}
+      "url": "{{ .Permalink }}",
+      "wordCount": "{{ .WordCount }}",
+      "genre": [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}]
     }
     </script>
-    {{ end }}
+  {{ end }}
+{{ end }}

@@ -6,7 +6,6 @@ date: 2019-10-18T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/top-investors
 ---
 
 Investing is both an art and a science, requiring a keen understanding of market dynamics, economic trends, and the ability to foresee future opportunities. The following profiles cover twelve of the most influential investors who have made significant contributions to the investment world through their innovative strategies and remarkable achievements.

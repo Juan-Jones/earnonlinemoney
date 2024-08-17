@@ -6,7 +6,6 @@ date: 2020-01-10T18:19:25+06:00
 categories: ["online business"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/podcasting-equipment-budget
 ---
 
 So, you've decided to start podcasting. Awesome! But now you're staring at a sea of microphones, interfaces, headphones, and other gear, wondering how you're going to afford it all. Don't worry; I've been there, and I'm here to help you navigate the sometimes overwhelming world of finding **podcasting equipment on a budget**.

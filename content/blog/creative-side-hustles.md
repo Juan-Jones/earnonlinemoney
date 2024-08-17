@@ -6,7 +6,6 @@ date: 2019-10-29T18:19:25+06:00
 categories: ["side hustles"]
 type: "regular" # available types: [featured/regular]
 draft: false
-slug: /blog/creative-side-hustles
 ---
 
 Why are **creative side hustles** becoming more relevant nowadays? To start with, it's expensive to live this day and age. You can't live comfortable unless you're not earning six figures; even more in many cities. Therefore, you must find an opportunity to earn additional income.
