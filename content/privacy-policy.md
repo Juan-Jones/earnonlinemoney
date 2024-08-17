@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Please read our privacy policy."
+description: "Please read our updated privacy policy."
 draft: false
 ---
 
