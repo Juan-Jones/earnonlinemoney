@@ -2,6 +2,7 @@
 title: "Creative Side Hustle Ideas"
 description: "Discover the best side hustle ideas to earn supplemental income from home today. Find easy ways to earn extra cash and boost your income."
 image: "images/side-hustle-ideas.jpg"
+alt: "Thinking, Hands Open to Opportunity, Lightbulb, Cash Side Hustle Ideas Motto."
 date: 2019-10-29T18:19:25+06:00
 categories: ["side hustles"]
 type: "regular" # available types: [featured/regular]

@@ -1,11 +1,11 @@
-{{ if or .IsHome (not .Description) }}
+{{ if .IsHome }}
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "WebSite",
     "name": "{{ .Site.Params.mydomain }}",
     "url": "{{ .Permalink }}",
-    "description": "{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}Tag {{ substr (strings.TrimRight .Permalink "/") 6 }} - {{ .Site.Params.description }}{{ end }}",
+    "description": "{{ .Site.Params.description }}",
     "inLanguage": "en",
     "thumbnailUrl": "{{ "/icon-144.png" | absURL }}",
     "image": {
@@ -29,7 +29,7 @@
       "name": "{{ .Title | safeJS }}",
       "headline": "{{ .Title | safeJS }}",
       "alternativeHeadline": "{{ .Params.subtitle | default "" | safeJS }}",
-      "description": "{{ if .IsPage }}{{ .Summary | markdownify | plainify | safeJS }}{{ else }}{{ if .Description }}{{ .Description | safeJS }}{{ end }}{{ end }}",
+      "description": "{{ .Summary | markdownify | plainify | safeJS }}",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {

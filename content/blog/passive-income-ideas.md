@@ -2,6 +2,7 @@
 title: "Best Passive Income Ideas Online"
 description: "Explore the best passive income ideas online. Discover tips to maximize financial growth, common mistakes to avoid, and factors to consider before investing."
 image: "images/passive-income-ideas.jpg"
+alt: "Money Symbols, Man Lying in Bed, Earning Passive Income."
 date: 2019-10-11T18:19:25+06:00
 categories: ["investing"]
 type: "regular" # available types: [featured/regular]

@@ -2,6 +2,7 @@
 title: "Best Online Course Platforms"
 description: "Discover the best online course platforms for diverse learning needs and interests on platforms like Coursera, Udemy, edX, LinkedIn Learning, and Skillshare."
 image: "images/best-online-course.jpg"
+alt: "Play Button on Webpage."
 date: 2019-10-21T18:19:25+06:00
 categories: ["courses"]
 type: "regular" # available types: [featured/regular]

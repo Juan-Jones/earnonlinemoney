@@ -2,6 +2,7 @@
 title: "Ultimate Commission Junction Review"
 description: "Complete CJ Affiliate review including advantages, disadvantages, affiliate product offerings and more!"
 image: "images/cj-affiliate-assessment.jpg"
+alt: "Review Concept, Commission Junction Overview."
 date: 2024-05-04T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]

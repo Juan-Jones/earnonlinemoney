@@ -1,7 +1,8 @@
 ---
 title: "Using Social Media for Business"
-description: "Discover the ultimate guide to social media marketing tips and strategies for boosting engagement, brand presence, and ROI."
+description: "Learn how to start utilizing social media sites to grow your business."
 image: "images/social-media-for-business.jpg"
+alt: "Play Button, Use Social Media for Business Concept."
 date: 2019-11-04T18:19:25+06:00
 categories: ["social media"]
 type: "regular" # available types: [featured/]

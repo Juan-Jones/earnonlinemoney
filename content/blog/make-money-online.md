@@ -2,6 +2,7 @@
 title: "Best Ways to Earn Income Online"
 description: "Find outstanding ways to make money online. Learn how to earn income from the comfort of your living room, find real opportunities to earn internet income!"
 image: "images/ways-to-make-money-online.jpg"
+alt: "Dollar Sign on Webpage, Make Money Online Illustration."
 date: 2019-11-04T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]

@@ -1,11 +1,12 @@
 {{- define "recursive-breadcrumbs" -}}
     {{- if .Parent -}}
         {{- template "recursive-breadcrumbs" .Parent -}}
-        {{ .Title }} > 
+        <a href="{{ .Permalink }}">{{ .Title }}</a> > 
     {{- end -}}
 {{- end -}}
 
-Home > 
+<!-- Render the breadcrumb trail starting from 'Home' -->
+<a href="{{ .Site.BaseURL }}">Home</a> >
 
 {{- if .Parent -}}
     {{- template "recursive-breadcrumbs" .Parent -}}

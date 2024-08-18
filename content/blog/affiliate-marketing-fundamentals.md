@@ -2,6 +2,7 @@
 title: "Affiliate Marketing Fundamentals"
 description: "Ultimate affiliate marketing guide. Examine the fundamentals, process and how to get started."
 image: "images/affiliate-marketing-basics.jpg"
+alt: "Circular Black and White Icons, Affiliate Marketing Basics Concept."
 date: 2019-10-24T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular"

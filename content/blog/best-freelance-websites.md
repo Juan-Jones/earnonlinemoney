@@ -2,6 +2,7 @@
 title: "Find the Best Freelance Websites Online"
 description: "Find the best freelance websites and opportunities online. Explore platforms like Upwork, Fiverr, Freelancer and more."
 image: "images/freelance-sites.jpg"
+alt: "Webpages Pointing to Domain Names, Best Freelance Websites Concept."
 date: 2019-10-10T18:19:25+06:00
 categories: ["gig economy"]
 type: "regular" # available types: [featured/regular]

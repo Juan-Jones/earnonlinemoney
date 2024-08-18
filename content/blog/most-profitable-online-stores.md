@@ -1,7 +1,8 @@
 ---
 title: "Most Profitable Online Stores"
-description: "Choosing the right eCommerce platform is crucial for the success of your online business. Find Shopify alternatives."
-image: "images/shopify-alternatives.jpg"
+description: "Explore profitable online stores that yield results. Find ecommerce platforms that not only suit your needs, but increases your likelihood of success!"
+image: "images/profitable-online-stores.jpg"
+alt: "Profitable Online Stores, Shopify, Etsy, Ebay, Amazon."
 date: 2019-10-15T18:19:25+06:00
 categories: ["ecommerce"]
 type: "regular"

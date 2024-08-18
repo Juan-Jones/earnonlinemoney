@@ -2,6 +2,7 @@
 title: "Top 5 Ecommerce Platforms"
 description: "Explore the best ecommerce platforms like Shopify, WooCommerce, BigCommerce, and Magento. Find the perfect fit to launch, manage, and scale your online store with ease."
 image: "images/best-ecommerce-websites.jpg"
+alt: "Man Holding Magnifying Glass Pointing to Search Bar."
 date: 2019-10-13T18:19:25+06:00
 categories: ["ecommerce"]
 type: "regular" # available types: [featured/regular]
