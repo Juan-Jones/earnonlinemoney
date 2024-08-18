@@ -18,7 +18,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
+<!-- Meta description with priority given to front matter -->
 <meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
 
@@ -36,9 +38,6 @@
 {{ partialCached "site-verifications.html" . }}
 
 
-<!-- opengraph and twitter card -->
-{{ partial "basic-seo.html" . }}
-
 <!-- custom script -->
 {{ site.Params.custom_script | safeHTML}}
 
@@ -51,21 +50,8 @@
 {{ partialCached "gtm.html" . }}
 
 
-<!-- matomo analytics -->
-{{ partialCached "matomo-analytics.html" . }}
-
-
-<!--  Baidu analytics -->
-{{ partialCached "baidu-analytics.html" . }}
-
-
-<!-- Plausible Analytics -->
-{{ partialCached "plausible-analytics.html" . }}
-
-
-<!-- Counter Analytics -->
-{{ partialCached "counter-analytics.html" . }}
-
-
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
+
+<!-- opengraph and twitter card -->
+{{ partial "twitter-seo.html" . }}
