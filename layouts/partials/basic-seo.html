@@ -1,0 +1,25 @@
+<!-- Open Graph Metadata -->
+<meta property="og:title" content="{{ .Title | default .Site.Title }}">
+{{ if not .Params.Description }}
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+{{ else }}
+  <meta property="og:description" content="{{ .Params.Description }}">
+{{ end }}
+<meta property="og:url" content="{{ .Permalink }}">
+
+{{ $imagePath := .Params.image | default "/img/logo.png" }}
+{{ $altText := .Params.alt | default .Title }}
+
+<meta property="og:image" content="{{ $imagePath | absURL }}">
+<meta property="og:image:alt" content="{{ $altText }}">
+
+<!-- Twitter Card Metadata -->
+<meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
+{{ if not .Params.Description }}
+  <meta name="twitter:description" content="{{ .Site.Params.description }}">
+{{ else }}
+  <meta name="twitter:description" content="{{ .Params.Description }}">
+{{ end }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ $imagePath | absURL }}">
+<meta name="twitter:image:alt" content="{{ $altText }}">

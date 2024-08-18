@@ -18,11 +18,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
-<!-- Meta description with priority given to front matter -->
-<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}" />
+
+<!-- Meta Description - Only Include If Not Handled by basic-seo.html -->
+{{ if not .Params.Description }}
+  <meta name="description" content="{{ .Site.Params.description }}">
+{{ else }}
+  <meta name="description" content="{{ .Params.Description }}">
 
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+{{ end }}
 
+{{ partial "basic-seo.html" . }}
 
 {{ partial "site-schema.html" . }}
 
@@ -52,6 +60,3 @@
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
-
-<!-- opengraph and twitter card -->
-{{ partial "twitter-seo.html" . }}
