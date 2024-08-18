@@ -19,6 +19,8 @@
   </script>
 {{ else if .IsPage }}
   {{ if eq .Section "blog" }}
+    {{ $image := .Params.image | default "/img/logo.png" }}
+    {{ $altText := .Params.alt | default "Default alt text" }}
     {{ $author := or .Params.author .Site.Author.name }}
     {{ $org_name := .Site.Params.mydomain }}
     <script type="application/ld+json">
@@ -65,15 +67,13 @@
           "height": "256"
         }
       },
-      {{ with .Resources.GetMatch "article-img" }}
-        "image": {
-          "@type": "ImageObject",
-          "@id": "{{ .Permalink }}",
-          "url": "{{ .Permalink }}",
-          "height": "{{ .Height }}",
-          "width": "{{ .Width }}"
-        },
-      {{ end }}
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ $image | absURL }}",
+        "height": "675",
+        "width": "1200",
+        "caption": "{{ $altText }}"
+      },
       "url": "{{ .Permalink }}",
       "wordCount": "{{ .WordCount }}",
       "genre": [{{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}"{{ end }}]
