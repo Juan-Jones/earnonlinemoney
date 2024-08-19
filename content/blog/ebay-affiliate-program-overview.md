@@ -2,6 +2,7 @@
 title: "Ebay Affiliate Program Overview"
 description: "Everything you need to know about the eBay Affiliate Program, from joining and requirements to maximizing earnings and advanced strategies."
 image: "images/ebay-affiliate-review.jpg"
+alt: "Review Concept, Commission Junction Overview."
 date: 2020-08-05T18:19:25+06:00
 categories: ["monetizing"]
 type: "regular" # available types: [featured/regular]
@@ -112,7 +113,7 @@ Both eBay and Amazon offer robust affiliate programs, but there are some differe
 
 #### eBay vs. ClickBank
 
-ClickBank specializes in digital products, making it a different option compared to eBay's focus on physical goods. Affiliates interested in promoting ebooks, software, and online courses might prefer [ClickBank]({{< relref "clickbank-affiliate-marketing-for-beginners" >}}). However, eBay's vast product catalog can appeal to those looking to promote tangible items.
+ClickBank specializes in digital products, making it a different option compared to eBay's focus on physical goods. Affiliates interested in promoting ebooks, software, and online courses might prefer [ClickBank affiliate marketing opportunities]({{< relref "clickbank-affiliate-marketing-for-beginners" >}}). However, eBay's vast product catalog can appeal to those looking to promote tangible items.
 
 #### eBay vs. Commission Junction
 

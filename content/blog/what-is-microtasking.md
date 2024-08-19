@@ -32,7 +32,7 @@ While micro-tasking presents numerous advantages, it's essential to acknowledge 
 
 Microtasking has emerged as a flexible and accessible way for individuals to earn extra income. Several online platforms offer a plethora of microtasking opportunities, catering to a wide range of skills and interests. Websites like Amazon Mechanical Turk, TaskRabbit, and Clickworker connect freelancers with short, manageable tasks that can be completed quickly.
 
-For those with a flair for creativity, you can [get paid for your photos]({{< relref "get-paid-for-photos" >}}). You can also find featured microtasking gigs on Upwork in areas like graphic design, writing, and digital marketing.
+For those with a flair for creativity, you can [get paid for your photos]({{< relref "/blog/get-paid-for-photos" >}}). You can also find featured microtasking gigs on Upwork in areas like graphic design, writing, and digital marketing.
 
 #### Your Favorite Social Media Channels
 
@@ -56,7 +56,7 @@ Online marketplaces such as Etsy, eBay, and Amazon Handmade aren't just platform
 
 #### Specialized Microtasking Platforms
 
-In addition to mainstream platforms, specialized microtasking platforms cater to niche markets and specialized skill sets. Platforms like Spare5 specialize in tasks requiring human intelligence, such as image annotation and sentiment analysis, while platforms like UserTesting focus on usability testing and user research. These platforms offer higher rates of compensation compared to general-purpose microtasking platforms, making them attractive options for individuals with specialized expertise or domain knowledge. By leveraging their unique skills, users can access higher-paying microtasking opportunities and maximize their potential to [make money online faster]({{< relref "make-money-online" >}}).
+In addition to mainstream platforms, specialized microtasking platforms cater to niche markets and specialized skill sets. Platforms like Spare5 specialize in tasks requiring human intelligence, such as image annotation and sentiment analysis, while platforms like UserTesting focus on usability testing and user research. These platforms offer higher rates of compensation compared to general-purpose microtasking platforms, making them attractive options for individuals with specialized expertise or domain knowledge. By leveraging their unique skills, users can access higher-paying microtasking opportunities and maximize their potential to [make money online faster]({{< relref "/blog/make-money-online" >}}).
 
 ##### Summary
 

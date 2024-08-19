@@ -46,7 +46,7 @@ Despite its many advantages, freelancing also comes with its own set of challeng
 
 ## How to Start a Freelancing Career
 
-You might be asking yourself, [how do you start freelancing]({{< relref "how-to-start-freelancing" >}})? Embarking on a freelancing journey is a wonderful step toward independence. Start by contemplating your skills and passions—what truly drives you? Craft a portfolio that speaks to your strengths, even if it’s just personal work for now. Join freelancing platforms where clients seek talent like yours. Reach out to your circle and share your new path. It may take time, but with patience and persistence, you’ll find the freedom and fulfillment that freelancing offers.
+You might be asking yourself, [how do you start freelancing]({{< relref "/blog/how-to-start-freelancing" >}})? Embarking on a freelancing journey is a wonderful step toward independence. Start by contemplating your skills and passions—what truly drives you? Craft a portfolio that speaks to your strengths, even if it’s just personal work for now. Join freelancing platforms where clients seek talent like yours. Reach out to your circle and share your new path. It may take time, but with patience and persistence, you’ll find the freedom and fulfillment that freelancing offers.
 
 ### 1. Identify Your Skills and Niche
 
@@ -56,9 +56,9 @@ The first step in starting a freelancing career is identifying your skills and c
 
 A strong portfolio is essential for showcasing your work and attracting clients. Your portfolio should highlight your best projects and demonstrate your skills and experience. For those just starting, consider creating sample projects or offering your services at a discounted rate to build your portfolio.
 
-### 3. Choose the Right Platform
+### 3. Choose the Right Freelance Site
 
-Freelancing platforms like Fiverr offer a convenient way to connect with clients and manage projects. These platforms provide a marketplace where freelancers can create profiles, list their services, and bid on projects. Choosing the right platform depends on your niche, target market, and personal preferences.
+The objective is the find the [best freelance sites]({{< relref "best-freelance-websites" >}}), i.e., platforms like Guru or Freelancer, platforms that offer convenient ways to connect with clients and manage projects. These platforms provide a marketplace where freelancers can create profiles, list their services, and bid on projects. Choosing the right platform depends on your niche, target market, and personal preferences.
 
 ### 4. Set Your Rates
 
