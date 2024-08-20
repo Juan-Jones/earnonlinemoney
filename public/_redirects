@@ -1,0 +1,4 @@
+# Redirect old URLs to new URLs
+
+/blog/what-is-affiliate-marketing /blog/affiliate-marketing-fundamentals 301!
+/make-money/ways-to-make-money-online /blog/make-money-online.md 301!

@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- checking blog -->
+<!-- Checking if the content belongs to specific blog-related sections -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
 <!--=================== section start ===================-->
@@ -55,21 +55,17 @@
     </div>
   </div>
 </section>
-<!--=================== section end ===================-->
+<!--=================== Blog Section End ===================-->
 
-
-<!--=================== section end ===================-->
-
-<!-- regular page -->
+<!-- Handling regular pages -->
 {{ else }}
 {{ partial "page-header.html" . }}
-{{ partial "breadcrumbs.html" . }}
 <section class="section-sm">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto">
         <div class="content">
-          {{.Content}}
+          {{ .Content }}
         </div>
       </div>
     </div>

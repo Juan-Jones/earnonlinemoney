@@ -17,6 +17,8 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 # Robotstxt
 enableRobotsTXT = true
 
+
+
 ############################# Taxonomies ###############################
 [taxonomies]
   category = "categories"

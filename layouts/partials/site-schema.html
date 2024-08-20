@@ -1,86 +1,105 @@
-{{ if .IsHome }}
-<meta name="author" content="{{ .Site.Params.author }}" />
-<script defer type="application/ld+json">
+{{ if or ( .IsHome ) ( not .Description ) -}}
+  <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "WebSite",
-    "url": "{{ .Permalink }}",
-    "sameAs": [
-      "{{ .Site.Params.facebook }}",
-      "{{ .Site.Params.github }}"
-    ],
-    "name": "{{ .Title }}",
-    "logo": "https://earnonlinemoney.org/favicon.png"
-  }
-</script>
-{{ else if .IsPage }}
-{{ if eq .Section "blog" }}
-
-<!-- Pagination meta tags for list pages only -->
-{{ $paginator := .Paginate (where .Pages "Section" "blog") }}
-{{ if $paginator }}
-<link rel="first" href="{{ $paginator.First.URL }}" />
-<link rel="last" href="{{ $paginator.Last.URL }}" />
-{{ if $paginator.HasPrev }}
-<link rel="prev" href="{{ $paginator.Prev.URL }}" />
-{{end }}
-{{ if $paginator.HasNext }}
-<link rel="next" href="{{ $paginator.Next.URL }}" />
-{{end }}
-{{end }}
-
-<meta property="og:type" content="article" />
-<meta property="article:publisher" content="{{ .Site.Params.facebook }}" />
-<meta property="og:article:published_time" content={{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
-<meta property="article:published_time" content={{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
-
-{{ with.Params.author }}
-<meta property="og:article:author" content="{{humanize . }}" />
-<meta property="article:author" content="{{humanize . }}" />
-<meta name="author" content="{{humanize . }}" />
-{{ end }}
-
-{{ with.Params.category }}
-<meta name="news_keywords" content="{{ index . 0 }}" />
-<meta property="article:section" content="{{ index . 0 }}" />
-{{ end }}
-
-<!-- Define $image to ensure it's available -->
-{{ $image := .Params.image | default "/img/logo.png" }}
-
-
-<<script defer type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Article",
-    "headline": "{{ .Title }}",
-    "author": {
-      "@type": "Person",
-      "name": "{{ .Site.Params.twitter }}"
-    },
-    "datePublished": "{{ .Date.Format "2006-01-02" }}",
-    "description": "{{ .Description }}",
-    "wordCount": "{{ .WordCount }}",
-    "mainEntityOfPage": "True",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "name": "{{ .Site.Params.mydomain }}",
+    "url": "{{ printf "%s%s" .Site.BaseURL (substr .Paginator.URL 1) }}",
+    {{ if .IsHome }}
+      "description": "{{ .Site.Params.description }}",
+    {{ else }}
+      {{ if eq .Site.Language.Lang "de" }}
+        {{ $u := urls.Parse .Permalink }}
+        {{ $u := strings.TrimRight "/" $u.Path }}
+        {{ $u := substr $u 6 }}
+        "description": "Tag {{ $u }} - {{ .Site.Params.description }}",
+      {{ else }}
+        {{ $u := urls.Parse .Permalink }}
+        {{ $u := strings.TrimRight "/" $u.Path }}
+        {{ $u := substr $u 9 }}
+        "description": "Tag {{ $u }} - {{ .Site.Params.description }}",
+      {{ end }}
+    {{ end }}
+    "inLanguage": "en",
+    "thumbnailUrl": "{{ "/logo.png" | absURL }}",
     "image": {
       "@type": "ImageObject",
-      "url": "{{ $image | absURL }}"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "{{ .Site.Title }}",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://earnonlinemoney.org/favicon.png"
-      }
+      "@id": "{{ "/make-money-og" | absURL }}",
+      "url": "{{ "/make-money-og" | absURL }}",
+      "height": "675",
+      "width": "1200"
     },
     "potentialAction": {
-      "@type": "ReadAction",
-      "target": "{{ .Permalink }}"
+      "@type": "SearchAction",
+      "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
     }
   }
   </script>
-  
-{{ end }}
+{{ else if .IsPage }}
+  {{ if eq .Section "blog" }}
+    {{ $author :=  or (.Params.author) (.Site.Author) }}
+    {{ $org_name :=  .Site.Params.mydomain }}
+    {{ $author :=  or (.Params.author) (.Site.Author) }}
+    {{ $org_name :=  .Site.Params.mydomain }}
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "articleSection": "{{ .Section }}",
+      "name": "{{ .Title | safeJS }}",
+      "headline": "{{ .Title | safeJS }}",
+      "alternativeHeadline": "{{ .Params.subtitle }}",
+      "description": "{{if .IsPage}}{{ .Summary | markdownify }}{{ else }}{{ if .Description }}{{ .Description | safeJS }}{{ end }}{{ end }}",
+      "inLanguage": "en",
+      "isFamilyFriendly": "true",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "{{ $author }}",
+        {{ with .Site.GetPage "/about" -}}"url": "{{- .Permalink -}}"{{ end }}
+      }      
+      }      
+      "creator" : {
+      "@type": "Person",
+        "name": "{{ $author }}"
+      },
+      "accountablePerson" : {
+        "@type": "Person",
+        "name": "{{ $author }}"
+      },
+      "copyrightHolder": "{{ $org_name }}",
+      "copyrightYear": "{{ .Date.Format "2006" }}",
+      "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
+      "publisher":{
+        "@type":"Organization",
+        "name": "{{ $org_name }}",
+        "url": "{{ .Permalink }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ "/logo.png" | absURL }}",
+          "width": "256",
+          "height": "256"
+        }
+      },
+      {{ with .Resources.GetMatch "article-img" }}{{ $banner := $.Page.Resources.GetMatch "article-img" }}
+        "image": {
+          "@type": "ImageObject",
+          "@id": "{{ $banner.Permalink }}",
+          "url": "{{ $banner.Permalink }}",
+          "height": "{{ $banner.Height }}",
+          "width": "{{ $banner.Width}}"
+        },
+      {{ end }}
+      "url": "{{ .Permalink }}",
+      "wordCount": "{{ .WordCount }}",
+      "genre": [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}]
+    }
+    </script>
+  {{ end }}
 {{ end }}
