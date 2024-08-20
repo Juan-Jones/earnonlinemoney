@@ -46,7 +46,7 @@ Despite its many advantages, freelancing also comes with its own set of challeng
 
 ## How to Start a Freelancing Career
 
-You might be asking yourself, [how do you start freelancing]({{< relref "/blog/how-to-start-freelancing" >}})? Embarking on a freelancing journey is a wonderful step toward independence. Start by contemplating your skills and passions—what truly drives you? Craft a portfolio that speaks to your strengths, even if it’s just personal work for now. Join freelancing platforms where clients seek talent like yours. Reach out to your circle and share your new path. It may take time, but with patience and persistence, you’ll find the freedom and fulfillment that freelancing offers.
+You might be asking yourself, [how do you start freelancing]({{< relref "how-to-start-freelancing" >}})? Embarking on a freelancing journey is a wonderful step toward independence. Start by contemplating your skills and passions—what truly drives you? Craft a portfolio that speaks to your strengths, even if it’s just personal work for now. Join freelancing platforms where clients seek talent like yours. Reach out to your circle and share your new path. It may take time, but with patience and persistence, you’ll find the freedom and fulfillment that freelancing offers.
 
 ### 1. Identify Your Skills and Niche
 
