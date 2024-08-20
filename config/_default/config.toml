@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://earnonlinemoney.org/"
-title = "Earn Money Online Guide"
+title = "Earn Money Online"
 theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -84,14 +84,3 @@ rel = "manifest"
 ############################ exclude from sitemap  ###########################
 [params]
 taxonomiesExcludedFromSitemap = ["tags", "categories"]
-
-############################ author info  ###########################
-[author]
-  name = "Dejuan Jones"
-  [languages.en]
-    languageName = "English"
-    weight = 1
-    title = "Earn Money Online"
-    [languages.en.params]
-      description = "Ultimate guide to earn money online free, quick or easy. Find trending side hustles, passive income ideas, cash injections online jobs & more."
-      mydomain = "earnonlinemoney.org"

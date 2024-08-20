@@ -27,7 +27,6 @@ contact_form_action = "https://formspree.io/f/xdoreeqg" # contact form works wit
 search = true
 mydomain = "earnonlinemoney.org"
 
-dateform8601 = "2006-01-02T15:04:05Z07:00"
 
 # Posts related Titles & Contents
 categories_title = "Blog Categories"
