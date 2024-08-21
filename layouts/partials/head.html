@@ -6,6 +6,11 @@
 <base href="{{ site.BaseURL }}">
 {{ end }}
 
+<!-- rss -->
+{{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
 <!-- multilingual SEO optimizations -->
 {{ if .IsTranslated }}
 {{ range .AllTranslations }}
@@ -21,9 +26,9 @@
 <meta name="description" content="{{ .Params.Description | default site.Params.description }}">
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
+
 {{ partial "basic-seo.html" . }}
-<meta property="og:site_name" content="Earn Money Online" />
-<meta property="og:locale" content="en_US">
+
 <!-- favicon -->
 {{ partialCached "favicon" . }}
 
@@ -34,8 +39,6 @@
 
 <!-- site verifications -->
 {{ partialCached "site-verifications.html" . }}
-
-
 
 <!-- custom script -->
 {{ site.Params.custom_script | safeHTML}}
@@ -68,5 +71,7 @@
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
 
-{{ partial "site-schema.html" . }}
 
+
+<!-- Include BreadcrumbList Schema -->
+{{ partial "_breadcrumbs_schema.html" . }}

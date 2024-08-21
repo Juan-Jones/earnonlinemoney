@@ -1,0 +1,39 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+  ]
+}
+</script>
+{{ else }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {{ range $index, $element := .CurrentSection.Pages }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $index 2 }},
+      "name": "{{ $element.Title }}",
+      "item": "{{ $element.Permalink }}"
+    }{{ if ne (add $index 1) (len .CurrentSection.Pages) }},{{ end }}
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}

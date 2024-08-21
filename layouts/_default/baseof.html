@@ -11,8 +11,18 @@ AUTHOR WEBSITE: https://gethugothemes.com
 <html lang="{{ site.LanguageCode | default `en-US` }}">
 
 <head>
+	<!-- Open Graph Metadata -->
+	{{ if .IsHome }}
+	<meta property="og:title" content="{{ .Site.Title }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ .Site.BaseURL }}" />
+	<meta property="og:image" content="{{ " images/logo.png" | absURL }}" />
+	<meta property="og:description" content="This is a specific description for the homepage." />
+	<meta property="og:site_name" content="{{ .Site.Title }}" />
+	{{ else }}
+	<meta property="og:site_name" content="Earn Money Online" />
+	{{ end }}
 	{{ partial "head.html" . }}
-	
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
 	{{ partialCached "style.html" . }}

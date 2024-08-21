@@ -84,3 +84,4 @@ rel = "manifest"
 ############################ exclude from sitemap  ###########################
 [params]
 taxonomiesExcludedFromSitemap = ["tags", "categories"]
+  
