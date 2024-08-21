@@ -67,7 +67,7 @@
             {{ end }}
           </div>
         </div>
-
+        
         <!-- advertisement -->
         {{ with site.Params.advertisement }}
         <div class="mb-5">
@@ -187,6 +187,14 @@
     </div>
   </div>
 </section>
+<!-- Include BreadcrumbList Schema -->
+{{ partial "_webpage_schema.html" . }}
 <!--=================== blog section end ===================-->
 
+{{ if .IsHome }}
+    <meta property="og:image" content="{{ (resources.Get "images/logo.png" | absURL) }}">
+    <meta property="og:image:alt" content="Your Site Logo">
+    <meta property="og:description" content="Ultimate guide to earn money online free, quick or easy. Find trending side hustles, passive income ideas, cash injections online jobs & more." />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+  {{ end }}
 {{ end }}

@@ -25,7 +25,7 @@
 <meta name="theme-name" content="geeky-hugo" />
 <meta name="description" content="{{ .Params.Description | default site.Params.description }}">
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-
+<meta property="og:image" content="{{ if .IsHome }}{{ .RelPermalink | absURL }}{{ else if .IsPage }}{{ index .Params.images 0 | absURL }}{{ end }}">
 
 {{ partial "basic-seo.html" . }}
 
@@ -70,7 +70,6 @@
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
-
 
 
 <!-- Include BreadcrumbList Schema -->
