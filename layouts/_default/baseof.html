@@ -9,7 +9,9 @@ AUTHOR WEBSITE: https://gethugothemes.com
 
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode | default `en-US` }}">
-<!-- Open Graph Metadata -->
+
+<head>
+	<!-- Open Graph Metadata -->
 {{ if .IsHome }}
 <meta property="og:title" content="{{ .Site.Title }}" />
 <meta property="og:type" content="website" />
@@ -20,7 +22,6 @@ AUTHOR WEBSITE: https://gethugothemes.com
 {{ else }}
 <meta property="og:site_name" content="Earn Money Online" />
 {{ end }}
-<head>
 	<!-- Open Graph Metadata -->
 	{{ partial "head.html" . }}
 	<!-- cache partial only in production -->
