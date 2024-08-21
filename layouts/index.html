@@ -188,6 +188,13 @@
   </div>
 </section>
 <!--=================== blog section end ===================-->
-<!-- Include WebPage Schema -->
+{{ if .IsHome }}
 {{ partial "_webpage_schema.html" . }}
+<meta property="og:title" content="{{ .Site.Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Site.BaseURL }}" />
+<meta property="og:image" content="{{ "/logo.png" | absURL }}" />
+<meta property="og:description" content="Ultimate guide to earn money online free, quick or easy. Find trending side hustles, passive income ideas, cash injections online jobs & more." />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+{{ end }}
 {{ end }}
