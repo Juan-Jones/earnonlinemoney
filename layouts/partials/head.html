@@ -19,15 +19,23 @@
 <link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
 {{ end }}
 
+{
 
 <!-- mobile responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
-<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
-{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+{{ if eq .Section "blog" }}
+    {{ partial "basic-seo.html" . }}
+{{ else }}
+    <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
+{{ end }}
 
-{{ partial "basic-seo.html" . }}
+{{ with .Site.Params.author }}
+    <meta name="author" content="{{ . }}">
+{{ end }}
+
+
 
 <!-- favicon -->
 {{ partialCached "favicon" . }}
