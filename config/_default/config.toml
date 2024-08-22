@@ -16,7 +16,7 @@ disqusShortname = "earnonline-1" # get your shortname form here : https://disqus
 disableLanguages = ["fr"] # example: ["fr"] for disable french language
 # Robotstxt
 enableRobotsTXT = true
-
+canonifyURLs = true
 
 
 ############################# Taxonomies ###############################
