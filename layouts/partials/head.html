@@ -28,7 +28,7 @@
 {{ if eq .Section "blog" }}
     {{ partial "basic-seo.html" . }}
 {{ else }}
-    <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
+    <meta name="description" content="{{ .Site.Params.Description }}" />
 {{ end }}
 
 {{ with .Site.Params.author }}
