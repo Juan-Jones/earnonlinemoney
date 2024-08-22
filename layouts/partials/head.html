@@ -21,17 +21,7 @@
 <meta name="description" content="{{ .Params.Description | default site.Params.description }}">
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
-{{ with .Params.image }}
-  <meta itemprop="image" content="{{ . | absURL }}" />
-  <meta property="og:image" content="{{ . | absURL }}" />
-  <meta name="twitter:image" content="{{ . | absURL }}" />
-  <meta name="twitter:image:src" content="{{ . | absURL }}" />
-{{ else }}
-  <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" />
-{{ end }}
+{{ partial "basic-seo.html" . }}
 
 <!-- favicon -->
 {{ partialCached "favicon" . }}
@@ -78,7 +68,3 @@
 
 <!-- Include BreadcrumbList Schema -->
 {{ partial "_breadcrumbs_schema.html" . }}
-
-{{ template "_internal/schema.html" . }}
-{{ template "_internal/opengraph.html" . }}
-{{ template "_internal/twitter_cards.html" . }}

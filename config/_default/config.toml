@@ -8,15 +8,11 @@ languageCode = "en-us"
 paginate = "10"
 # post excerpt
 summaryLength = "25"
-# google analytics
-googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disqus short name
-disqusShortname = "earnonline-1" # get your shortname form here : https://disqus.com
+
 # disable language
 disableLanguages = ["fr"] # example: ["fr"] for disable french language
 # Robotstxt
 enableRobotsTXT = true
-
 
 ############################# Taxonomies ###############################
 [taxonomies]
