@@ -6,11 +6,6 @@
 <base href="{{ site.BaseURL }}">
 {{ end }}
 
-<!-- rss -->
-{{ with .OutputFormats.Get "rss" -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-{{ end -}}
-
 <!-- multilingual SEO optimizations -->
 {{ if .IsTranslated }}
 {{ range .AllTranslations }}
@@ -19,23 +14,24 @@
 <link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
 {{ end }}
 
-{
-
 <!-- mobile responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
-{{ if eq .Section "blog" }}
-    {{ partial "basic-seo.html" . }}
+<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+{{ with .Params.image }}
+  <meta itemprop="image" content="{{ . | absURL }}" />
+  <meta property="og:image" content="{{ . | absURL }}" />
+  <meta name="twitter:image" content="{{ . | absURL }}" />
+  <meta name="twitter:image:src" content="{{ . | absURL }}" />
 {{ else }}
-    <meta name="description" content="{{ .Site.Params.Description }}" />
+  <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+  <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+  <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" />
 {{ end }}
-
-{{ with .Site.Params.author }}
-    <meta name="author" content="{{ . }}">
-{{ end }}
-
-
 
 <!-- favicon -->
 {{ partialCached "favicon" . }}
@@ -82,3 +78,7 @@
 
 <!-- Include BreadcrumbList Schema -->
 {{ partial "_breadcrumbs_schema.html" . }}
+
+{{ template "_internal/schema.html" . }}
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}

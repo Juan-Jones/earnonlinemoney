@@ -190,12 +190,7 @@
 <!-- Include BreadcrumbList Schema -->
 {{ partial "_webpage_schema.html" . }}
 <!--=================== blog section end ===================-->
-
 {{ if .IsHome }}
     <meta property="og:image" content="{{ "/img/logo.png" | absURL }}">
-    <meta property="og:image:alt" content="Make Money">
-    <meta property="og:description" content="Ultimate guide to earn money online free, quick or easy. Find trending side hustles, passive income ideas, cash injections online jobs & more." />
-    <meta property="og:site_name" content="{{ .Site.Title }}" />
-    <meta property="og:url" content="{{ .Permalink }}" />
   {{ end }}
 {{ end }}
