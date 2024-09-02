@@ -1,6 +1,6 @@
 ---
 title: "10 Ecommerce Marketing Tips"
-description: "Unlock the secrets to ecommerce success with our expert guide on the top ten marketing tips. Boost your online business with actionable strategies and drive sales like never before."
+description: "Unlock the secrets to ecommerce success with our expert guide to the top ten marketing tips. Boost your online business with actionable strategies and drive sales like never before."
 image: "images/ecommerce-marketing.jpg"
 alt: "Review Concept, Commission Junction Overview."
 date: 2019-10-14T18:19:25+06:00

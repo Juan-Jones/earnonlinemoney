@@ -1,5 +1,5 @@
 ---
-title: "What is Microtasking"
+title: "What is Microtasking?"
 description: "Discover the purpose and meaning of microtasking. Find advantages and disadvantages along with future trends shaping the evolution of this global workforce."
 image: "images/microtasking.jpg"
 alt: "Pencil, Checkmark, Microtasking Concept"

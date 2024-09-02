@@ -1,6 +1,6 @@
 ---
 title: "Search Engine Optimization for Bloggers"
-description: "Find essential SEO strategies for bloggers, including technical and on-page optimization strategies. Boost your sites visibility and income with expert tips."
+description: "Find essential SEO strategies for bloggers, including technical and on-page optimization strategies. Boost your site's visibility and income with expert tips."
 image: "images/seo-blogging.jpg"
 date: 2019-10-07T18:19:25+06:00
 categories: ["blogging"]

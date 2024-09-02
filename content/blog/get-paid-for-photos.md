@@ -1,5 +1,5 @@
 ---
-title: "Get Paid For Your Photos"
+title: "Get Paid for Your Photos"
 description: "Learn to monetize your photos: Sell stock, master your craft, create marketing content, accept feedback, explore licensing options, and more."
 image: "images/paid-for-photo.jpg"
 date: 2024-02-17T18:19:25+06:00
