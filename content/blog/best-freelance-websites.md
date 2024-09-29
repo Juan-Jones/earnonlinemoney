@@ -29,7 +29,7 @@ Contently is a freelance platform that connects businesses with publishers. This
 
 ### Freelancer
 
-Why choose Freelancer. Well, its one of the [best freelance sites]({{< relref "best-freelance-websites" >}}) for starters. To begin with, it's an established network that is liked by most independent contractors. Freelancer.com employs over 40 million workers and on-demand workers around the world. The company has a global reach that services 24-7 countries, regions, and territories. In addition, memberships are free. More importantly, members can quickly find gigs and get paid.
+Why choose Freelancer. Well, its one of the best freelance sites for starters. To begin with, it's an established network that is liked by most independent contractors. Freelancer.com employs over 40 million workers and on-demand workers around the world. The company has a global reach that services 24-7 countries, regions, and territories. In addition, memberships are free. More importantly, members can quickly find gigs and get paid.
 
 ### ProBlogger
 

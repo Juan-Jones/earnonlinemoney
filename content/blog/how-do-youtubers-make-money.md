@@ -17,7 +17,7 @@ The social giant generates over 2 billion visitors a month. This number is incre
 
 ## How Much Do YouTubers Actually Make?
 
-{{< image src="images/youtuber-earnings-model.jpg" caption="" alt="YouTuber Earnings" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/youtuber-earnings-model.jpg" caption="" alt="YouTuber Earnings" height="512" width="512" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 
 The amount of money YouTubers make can vary dramatically based on their subscriber count, viewership, and the niches they cater to. Let’s break down the earnings potential for different levels of YouTubers.
 
