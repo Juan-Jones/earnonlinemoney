@@ -3,7 +3,7 @@ title: "Explore Freelance Writing Jobs"
 description: "Harness the power of professional freelance writing services to elevate your brand. Engage audiences, optimize SEO, and deliver tailored messages effectively."
 image: "images/freelance writing.jpg"
 date: 2019-11-07T18:19:25+06:00
-categories: ["gig economy"]
+categories: ["freelancing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "How to Make Money on YouTube"
 description: "Explore full guide to YouTube monetization features. Find strategies to make money while you sleep!"
 image: "images/youtube-monetization.jpg"
 date: 2019-11-04T19:19:22+06:00
-categories: ["monetizing"]
+categories: ["social media"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

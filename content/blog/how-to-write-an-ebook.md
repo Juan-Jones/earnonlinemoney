@@ -1,9 +1,9 @@
 ---
-title: "How to Write and Sell e-Books Effectively"
+title: "How to Write and Sell e-Books"
 description: "Step-by-step guide about how to sell an e-book successfully. Discover essential methods of self publication."
 image: "images/write-and-sell-e-books.jpg"
 date: 2021-08-10T18:19:25+06:00
-categories: ["monetizing"]
+categories: ["passive income"]
 type: "regular"
 draft: false
 ---

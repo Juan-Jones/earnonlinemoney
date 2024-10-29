@@ -3,7 +3,7 @@ title: "18 Breathtaking Freelancer Statistics"
 description: "Explore the essential statistical concepts every freelancer should know to thrive in their career."
 image: "images/freelance-statistics.jpg"
 date: 2024-04-24T18:19:25+06:00
-categories: ["gig economy"]
+categories: ["freelancing"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Selling Digital Products"
 description: "Learn how to succeed selling digital products! Find expert tips on selling digital products, from creation to marketing and setting up your online store."
 image: "images/sell-digital-products.jpg"
 date: 2019-10-29T18:19:25+06:00
-categories: ["monetizing"]
+categories: ["passive income"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
@@ -12,7 +12,7 @@ Selling digital products has emerged as a highly profitable and scalable busines
 
 ## Why Sell Digital Products?
 
-Selling digital products offers numerous advantages, including low overhead costs and the ability to reach a global audience. Unlike physical goods, digital products don't require inventory management or shipping logistics. This model provides an [opportunity to earn money]({{< relref "make-money-online" >}}) online without additional production costs as products can be sold repeatedly. Additionally, the flexibility of digital products allows creators to innovate and update offerings easily.
+Selling digital products offers numerous advantages, including low overhead costs and the ability to reach a global audience. Unlike physical goods, digital products don't require inventory management or shipping logistics. This model provides an [opportunity to earn money]({{< relref "digital-income-ideas" >}}) online without additional production costs as products can be sold repeatedly. Additionally, the flexibility of digital products allows creators to innovate and update offerings easily.
 
 ### The Profitability of Digital Products
 
@@ -28,7 +28,7 @@ Digital products provide unparalleled scalability. Whether you sell one or one m
 
 ## Types of Digital Products
 
-Digital products come in various forms, each catering to different customer needs and preferences. You can [make money writing E-books], online courses, and software are popular choices for their educational and functional value. Other examples include digital art, music files, and templates, which offer creative and practical benefits. This diversity enables sellers to tap into multiple markets and niches effectively.
+Digital products come in various forms, each catering to different customer needs and preferences. You can make money writing E-books, online courses, and software are popular choices for their educational and functional value. Other examples include digital art, music files, and templates, which offer creative and practical benefits. This diversity enables sellers to tap into multiple markets and niches effectively.
 
 ### Online Courses
 

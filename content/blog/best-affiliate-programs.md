@@ -1,10 +1,10 @@
 ---
-title: "Best Affiliate Programs Online"
+title: "Best Affiliate Programs"
 description: "Find the best affiliate programs on the internet to make money from companies like, Amazon Associates, CJ Affiliate, Awin and more."
 image: "images/affiliate-programs.jpg"
 alt: "Best Affiliate Programs Concept."
 date: 2020-03-03T18:19:25+06:00
-categories: ["monetizing"]
+categories: ["passive income"]
 type: "regular"
 draft: false
 ---

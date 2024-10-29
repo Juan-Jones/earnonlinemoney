@@ -4,7 +4,7 @@ description: "Discover the purpose and meaning of microtasking. Find advantages 
 image: "images/microtasking.jpg"
 alt: "Pencil, Checkmark, Microtasking Concept"
 date: 2023-01-03T18:19:25+06:00
-categories: ["monetizing"]
+categories: ["freelancing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
@@ -56,7 +56,7 @@ Online marketplaces such as Etsy, eBay, and Amazon Handmade aren't just platform
 
 #### Specialized Microtasking Platforms
 
-In addition to mainstream platforms, specialized microtasking platforms cater to niche markets and specialized skill sets. Platforms like Spare5 specialize in tasks requiring human intelligence, such as image annotation and sentiment analysis, while platforms like UserTesting focus on usability testing and user research. These platforms offer higher rates of compensation compared to general-purpose microtasking platforms, making them attractive options for individuals with specialized expertise or domain knowledge. By leveraging their unique skills, users can access higher-paying microtasking opportunities and maximize their potential to [make money online faster]({{< relref "make-money-online" >}}).
+In addition to mainstream platforms, specialized microtasking platforms cater to niche markets and specialized skill sets. Platforms like Spare5 specialize in tasks requiring human intelligence, such as image annotation and sentiment analysis, while platforms like UserTesting focus on itusability testing and user research. These platforms offer higher rates of compensation compared to general-purpose microtasking platforms, making them attractive options for individuals with specialized expertise or domain knowledge. By leveraging their unique skills, users can access higher-paying microtasking opportunities and maximize their potential to [make money online faster]({{< relref "make-money-online" >}}).
 
 ##### Summary
 

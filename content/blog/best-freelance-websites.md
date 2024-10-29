@@ -4,7 +4,7 @@ description: "Find the best freelance websites and opportunities online. Explore
 image: "images/freelance-sites.jpg"
 alt: "Webpages Pointing to Domain Names, Best Freelance Websites Concept."
 date: 2019-10-10T18:19:25+06:00
-categories: ["gig economy"]
+categories: ["freelancing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

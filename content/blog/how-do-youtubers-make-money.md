@@ -4,7 +4,7 @@ description: "Uncover the earnings potential of YouTubers in our guide. Learn ab
 image: "images/youtubers-earnings.jpg"
 alt: "Play Button, Earnings Symbol."
 date: 2024-02-17T18:19:25+06:00
-categories: ["monetizing"]
+categories: ["social media"]
 type: "regular"
 draft: false
 ---

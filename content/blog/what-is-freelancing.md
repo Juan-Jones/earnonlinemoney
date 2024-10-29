@@ -5,7 +5,7 @@ image: "images/whats-freelancing.jpg"
 feature_image: "images/whats-freelancing.jpg"
 feature_image_alt: "free"
 date: 2020-01-11T18:19:25+06:00
-categories: ["gig economy"]
+categories: ["freelancing"]
 type: "regular"
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Managing Freelance Finances"
 description: "Did you know that freelance financial management tips and strategies can help you achieve financial stability and growth?"
 image: "images/make-money-with-fiverr.jpg"
 date: 2019-11-09T18:19:25+06:00
-categories: ["gig economy"]
+categories: ["freelancing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
