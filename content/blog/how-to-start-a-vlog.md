@@ -16,7 +16,7 @@ Below we will walk you through the essential steps of launching a successful vlo
 
 ### How to Start a YouTube Channel
 
-Before you start filming, you'll need to set up your YouTube channel. This involves creating an account, choosing a channel name, and designing a channel banner and logo. Your channel name should reflect your vlog's theme and be easy to remember.
+Before you start filming, you'll need to set up your [YouTube channel]({{< relref "how-to-start-a-youtube-channel" >}}). This involves creating an account, choosing a channel name, and designing a channel banner and logo. Your channel name should reflect your vlog's theme and be easy to remember.
 
 Once your channel is set up, fill out your profile information and include links to your social media accounts and website if you have one. This helps in creating a cohesive online presence and makes it easier for viewers to connect with you. Begin your journey with our YouTube channel guide to get detailed insights into setting up and optimizing your channel effectively.
 

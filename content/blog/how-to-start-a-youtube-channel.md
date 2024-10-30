@@ -42,7 +42,7 @@ Don't forget to optimize your channel settings for searchability by including re
 
 ### 5. Choose a Type of YouTube Channel
 
-* Vlogs: Vlogging channels are personal video diaries where creators share their daily lives, thoughts, and experiences.
+* Vlogs: [Vlogging channels]({{< relref "how-to-start-a-vlog" >}}) are personal video diaries where creators share their daily lives, thoughts, and experiences.
 * Gaming: Gaming channels focus on video game content. This can range from Let's Plays and walkthroughs to reviews and live streaming.
 * Educational: Educational channels provide instructional content on a wide variety of subjects.
 * Beauty and Fashion: These channels are popular for their practical advice and often feature product reviews and collaborations with brands.

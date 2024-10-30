@@ -12,7 +12,7 @@ In today's digital age, there are numerous ways to *earn money online quickly*. 
 
 ## 39 Ways to Get Paid in One Hour
 
-Despite anyones level of education or skill-set theres an array of opportunities to [make money online quick]({{< relref "make-money-online" >}}). To be more specific, there are several quick cash injections tailored towards just about every skill-set, interests, and profession. The internet offers numerous possibilities for quick earnings, so take advantage of these methods and start boosting your income today. Without delay, lets get to it, here are over 30 ways to make money online in one hour;
+Despite anyones level of education or skill-set theres an array of opportunities to [make money online quick]({{< relref "digital-income-ideas" >}}). To be more specific, there are several quick cash injections tailored towards just about every skill-set, interests, and profession. The internet offers numerous possibilities for quick earnings, so take advantage of these methods and start boosting your income today. Without delay, lets get to it, here are over 30 ways to make money online in one hour;
 
 ## 1. Complete Microtasks
 

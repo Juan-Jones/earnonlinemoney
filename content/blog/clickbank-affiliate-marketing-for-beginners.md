@@ -4,7 +4,7 @@ description: "Learn how to start with ClickBank affiliate marketing. Tips, strat
 image: "images/affiliate-marketing-clickbank.jpg"
 alt: "Woman Advertising on Social Media, Clickbank Affiliate Marketing Text."
 date: 2024-05-04T18:19:25+06:00
-categories: ["affiliate marketing"]
+categories: ["passive income"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
