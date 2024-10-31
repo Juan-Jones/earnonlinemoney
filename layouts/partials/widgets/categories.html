@@ -3,18 +3,28 @@
 {{ if not (eq (len site.Taxonomies.categories) 0) }}
 <div class="widget category-widget">
   <div class="widget-title">
-    <h3 class="h5 title-border">{{site.Params.categories_title}}</h3>
+    <h3 class="h5 title-border">{{ site.Params.categories_title }}</h3>
   </div>
 
   <ul class="list-group list-unstyled">
-    {{ range $name, $items := site.Taxonomies.categories }}
     <li>
-      <a href="{{ `/categories/` | relLangURL }}{{ $name | urlize | lower }}/" class="d-flex">
-        {{ $name | humanize }} <small class="ms-auto">{{ len $items }}</small>
+      <a href="{{ relref "blog/digital-income-ideas.md" }}" class="d-flex">
+        Make Money Online Ideas
       </a>
     </li>
-    {{ end }}
+    <li>
+      <a href="{{ relref "blog/monetize-a-blog.md" }}" class="d-flex">
+        Make Money Blogging
+      </a>
+    </li>
+    <li>
+      <a href="{{ relref "blog/best-freelance-websites.md" }}" class="d-flex">
+        Best Freelance Sites
+    </li>
+    <li>
+      <a href="{{ relref "blog/creative-side-hustles.md" }}" class="d-flex">
+        Top Side Hustles
+      </a>
+    </li>
   </ul>
 </div>
-{{ end }}
-{{ end }}
