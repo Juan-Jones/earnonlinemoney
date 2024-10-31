@@ -3,7 +3,7 @@ title: "How to Make Money on YouTube"
 description: "Explore full guide to YouTube monetization features. Find strategies to make money while you sleep!"
 image: "images/youtube-monetization.jpg"
 date: 2019-11-04T19:19:22+06:00
-categories: ["social media"]
+categories: ["passive-income-ideas"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
@@ -14,7 +14,7 @@ Creating content for YouTube is an exciting venture, but turning your passion in
 
 Several years ago, music artists were the main individuals benefiting from YouTube’s platform. Various musicians went from rags to riches overnight because they were able to reach millions on the social video platform. However, the platform has expanded now content creators, advertisers, viewers, marketers and businesses can monetize on the largest social video platform in the world.
 
-Several methods of monetization have been implemented for content creators to benefit from over the past years. YouTube has made several efforts to provide publishers with lucrative [opportunities to earn money online]({{< relref "make-money-online" >}}). This has led to publishers generating more revenue. In fact, many publishers have increased their income from the latest YouTube monetization efforts.
+Several methods of monetization have been implemented for content creators to benefit from over the past years. YouTube has made several efforts to provide publishers with lucrative [opportunities to earn money online]({{< relref "digital-income-ideas" >}}). This has led to publishers generating more revenue. In fact, many publishers have increased their income from the latest YouTube monetization efforts.
 
 ## Ways to Make Money on YouTube
 

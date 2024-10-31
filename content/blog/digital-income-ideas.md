@@ -4,7 +4,7 @@ description: "Discover real digital income ideas to make money online. Find legi
 image: "images/ways-to-make-money-online.jpg"
 alt: "Dollar Sign on Webpage, Make Money Online Illustration."
 date: 2019-11-04T18:19:25+06:00
-categories: ["passive income"]
+categories: ["passive income-ideas"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

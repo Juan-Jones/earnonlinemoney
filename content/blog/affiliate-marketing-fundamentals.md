@@ -4,7 +4,7 @@ description: "Ultimate affiliate marketing guide. Examine the fundamentals, proc
 image: "images/affiliate-marketing-basics.jpg"
 alt: "Circular Black and White Icons, Affiliate Marketing Basics Concept."
 date: 2019-10-24T18:19:25+06:00
-categories: ["passive income"]
+categories: ["passive income-ideas"]
 type: "regular"
 draft: false
 ---

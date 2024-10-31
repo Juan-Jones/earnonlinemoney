@@ -12,7 +12,7 @@ In today's nonprofit landscape, securing funding through grants is essential for
 
 ## Grant Writing Strategies
 
-Before diving into the grant writing process, it's imperative to thoroughly understand your client's needs, goals, and priorities. Take the time to engage in meaningful conversations with your client to gain insight into their organization's mission, programs, target audience, and funding requirements. Understanding the nuances of your client's work will enable you to tailor your grant proposals to align seamlessly with their objectives, increasing the likelihood of success to [generate money online]({{< relref "make-money-online" >}}) through grant writing.
+Before diving into the grant writing process, it's imperative to thoroughly understand your client's needs, goals, and priorities. Take the time to engage in meaningful conversations with your client to gain insight into their organization's mission, programs, target audience, and funding requirements. Understanding the nuances of your client's work will enable you to tailor your grant proposals to align seamlessly with their objectives, increasing the likelihood of success to [generate income on the side]({{< relref "creative-side-hustles" >}}) through grant writing.
 
 ## Alternative Side Hustles
 

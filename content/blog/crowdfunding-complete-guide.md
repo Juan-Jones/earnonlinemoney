@@ -17,11 +17,11 @@ At its core, crowdfunding is a method of raising money from a large number of pe
 
 ## Why People Use Crowdfunding Campaigns
 
-Crowdfunding campaigns have come to be one of the best methods for earning passive income! Here are more specific reasons for crowdfunding;
+Crowdfunding campaigns have come to be one of the best methods for [starting an online business]({{< relref "how-to-start-an-online-business" >}}) Here are more specific reasons for crowdfunding;
 
-* Start a Podcast: Launching a podcast requires significant investment, particularly in equipment, production costs, and marketing efforts. High-quality audio equipment, editing software, and hosting services are essential for producing professional-grade content, but they often come with a hefty price tag.
-* [Writing eBooks]({{< relref "how-to-write-an-ebook" >}}): "Ready to share your knowledge? Discover essential tips and steps to craft, edit, and publish your eBook for maximum impact
-* [Monetizing a Websites]({{< relref "how-to-monetize-a-website" >}}): "Turn your website into a money-making machine with effective strategies to generate income through ads, affiliate links, and more.
+* Start a Podcast: [Launching a podcast platform]({{< relref "how-to-start-a-podcast" >}}) requires significant investment, particularly in equipment, production costs, and marketing efforts. High-quality audio equipment, editing software, and hosting services are essential for producing professional-grade content, but they often come with a hefty price tag.
+* Writing eBooks: "Ready to share your knowledge? Discover essential tips and steps to craft, edit, and publish your eBook for maximum impact
+* Monetizing Websites: "Turn your website into a money-making machine with effective strategies to generate income through ads, affiliate links, and more.
 
 ## Types of Crowdfunding
 
@@ -31,7 +31,7 @@ Crowdfunding encompasses several distinct models, each catering to specific obje
 * Peer-to-Peer Fundraising: P2P fundraising is a dynamic approach that empowers individuals to mobilize their networks and raise funds on behalf of a cause, organization, or campaign.
 * Reward-Based Crowdfunding: Popular with creative projects and startups, this model offers backers a reward or product in return for their pledge..
 * Equity Crowdfunding: Investors receive a share of the company in exchange for their investment. This is more regulated and often used by startups seeking significant funding.
-* Debt Crowdfunding: Also known as peer-to-peer lending, where backers lend money to [make money]({{< relref "make-money-online" >}}) with interest.
+* Debt Crowdfunding: Also known as peer-to-peer lending, where backers lend money to make money with interest.
 
 ## Top Crowdfunding Platforms
 

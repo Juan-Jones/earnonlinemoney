@@ -4,7 +4,7 @@ description: "Find the best affiliate programs on the internet to make money fro
 image: "images/affiliate-programs.jpg"
 alt: "Best Affiliate Programs Concept."
 date: 2020-03-03T18:19:25+06:00
-categories: ["passive income"]
+categories: ["passive income-ideas"]
 type: "regular"
 draft: false
 ---

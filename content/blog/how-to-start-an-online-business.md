@@ -53,6 +53,8 @@ A well-thought-out business plan is the foundation of any successful online busi
 * Marketing and Sales Strategy: Outline your plans for attracting and retaining customers. Include your online business pricing strategy, sales channels, and promotional tactics.
 * Financial Projections: Estimate your startup costs, revenue, and expenses for the first few years. This will help you determine how much capital you need and when you can expect to break even.
 
+Last but not least, you must figure out how you plan to fund your online business. Can you get a loan from friends or the bank? If not, you should consider crowdfunding to raise money for your business. For more information read through our [ultimate crowdfunding guide]({{< relref "crowdfunding-complete-guide" >}})! 
+
 ### 4. Set Up Your Online Store
 
 The next step is to choose an e-commerce platform to build your online store. Popular platforms include Shopify, WooCommerce, and BigCommerce. Consider factors like ease of use, customization options, and scalability when selecting a platform.

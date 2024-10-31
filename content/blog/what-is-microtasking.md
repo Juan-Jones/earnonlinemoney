@@ -4,7 +4,7 @@ description: "Discover the purpose and meaning of microtasking. Find advantages 
 image: "images/microtasking.jpg"
 alt: "Pencil, Checkmark, Microtasking Concept"
 date: 2023-01-03T18:19:25+06:00
-categories: ["freelancing"]
+categories: ["side hustles"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

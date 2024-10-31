@@ -3,7 +3,7 @@ title: "Selling Digital Products"
 description: "Learn how to succeed selling digital products! Find expert tips on selling digital products, from creation to marketing and setting up your online store."
 image: "images/sell-digital-products.jpg"
 date: 2019-10-29T18:19:25+06:00
-categories: ["passive income"]
+categories: ["passive income-ideas"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

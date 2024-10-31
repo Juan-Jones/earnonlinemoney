@@ -3,7 +3,7 @@ title: "Google Adsense Monetization Tricks"
 description: "Maximize earnings by monetizing content, platform, or expertise. Explore revenue streams like advertising, affiliate marketing, and digital products."
 image: "images/make-money-google-ads.jpg"
 date: 2023-12-24T18:19:25+06:00
-categories: ["passive income"]
+categories: ["passive income-ideas"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
@@ -23,7 +23,7 @@ How does all this work? Google has a program called Ad-words, which companies or
 
 ## Google Adsense Monetization Strategies
 
-Want to [make money]({{< relref "make-money-online" >}}) through Google? Here are methods to harness the potential of Google Ads and turn clicks into cash:
+Want to [make money]({{< relref "digital-income-ideas" >}}) through Google? Here are methods to harness the potential of Google Ads and turn clicks into cash:
 
 * Google Ads: AdSense remains a cornerstone for monetizing blog sites. By placing targeted ads on your blog, you can earn revenue based on user interactions, clicks, or impressions.
 * Display Network Advertising: Utilize Google's expansive Display Network to showcase ads across a vast array of websites, reaching a broader audience and increasing brand visibility.

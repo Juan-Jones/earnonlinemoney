@@ -3,7 +3,7 @@ title: "How to Monetize a Website"
 description: "Learn how to monetize your website & maximize your online revenue using affiliate marketing, advertising, selling digital products, and more."
 image: "images/monetize-a-website.jpg"
 date: 2019-11-04T18:19:25+08:00
-categories: ["passive income"]
+categories: ["passive income-ideas"]
 type: "featured"
 draft: false
 ---

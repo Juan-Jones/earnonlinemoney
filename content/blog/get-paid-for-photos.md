@@ -8,7 +8,7 @@ type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Did you know you can **get paid from photos**? You can earn thousands of dollars each month selling stock photos. The market demand for stock photos is not getting any lower. We live in an age, where smartphones boast powerful cameras and social media platforms thrive on visual content, the demand for captivating photographs has skyrocketed. What was once a hobby or a means of preserving memories has transformed into a lucrative avenue for creative expression and financial gain. At the end of the day, the prospect of getting paid for your photos is more attainable than ever before.
+Did you know you can **get paid from photos**? You can earn thousands of dollars each month selling stock photos. The market demand for stock photos is not getting any lower. We live in an age, where smartphones boast powerful cameras and social media platforms thrive on visual content, the demand for captivating photographs has skyrocketed. What was once a hobby or a means of preserving memories has transformed into a [lucrative side hustle]({{< relref "creative-side-hustles" >}}) for creative expression and financial gain. At the end of the day, the prospect of getting paid for your photos is more attainable than ever before.
 
 ## How to Get Paid For Your Photos
 
@@ -41,11 +41,10 @@ The most common types of licenses in stock photograph include:
 
 Once you've honed your craft and built a compelling portfolio, it's time to explore avenues for monetization.
 
-* Stock Photography: Explore stock photography platforms such as 500px.com, [Smugmug](https://www.smugmug.com/), and [iStockPhoto](https://www.istockphoto.com/). You can earn royalties [selling digital downloads]({{< relref "selling-digital-products" >}}). Each time your image is downloaded or licensed for use.
+* Stock Photography: Explore stock photography platforms such as 500px.com, [Smugmug](https://www.smugmug.com/), and [iStockPhoto](https://www.istockphoto.com/). Each time your image is downloaded or licensed for use.
 * Print Sales: Whether through online galleries, art fairs, or exhibitions, there is a growing demand for high-quality prints that adorn homes, offices, and public spaces.
 * Freelance Assignments: From editorial commissions to commercial gigs, freelance opportunities abound for photographers who are willing to network, pitch their ideas, and deliver exceptional results.
 * Social Media Marketing: Social media platforms such as Instagram, Facebook, and TikTok have become powerful tools for photographers to showcase their work, connect with audiences, and attract potential clients.
-* Earn Money on Etsy: Start selling your photos as [products on Etsy]({{< relref "sell-products-on-etsy" >}}).
 
 ### Accept Feedback and Criticism
 
@@ -55,4 +54,4 @@ Seeking constructive criticism and soliciting feedback from peers can help photo
 
 #### Empowerment Through the Lens of Photography
 
-Getting paid for your photos is not just a pipe dream; it's a tangible reality for photographers who are willing to invest the time, effort, and dedication required to succeed in a dynamic and competitive industry. By harnessing your creative vision, building a compelling portfolio, exploring diverse monetization opportunities, and protecting your intellectual property rights, you can turn your passion for photography into a sustainable way to [earn income online]({{< relref "make-money-online" >}}). So, pick up your camera, unleash your creativity, and embark on a journey of artistic expression and financial empowerment through the lens of photography.
+Getting paid for your photos is not just a pipe dream; it's a tangible reality for photographers who are willing to invest the time, effort, and dedication required to succeed in a dynamic and competitive industry. By harnessing your creative vision, building a compelling portfolio, exploring diverse monetization opportunities, and protecting your intellectual property rights, you can turn your passion for photography into a sustainable way to earn income. So, pick up your camera, unleash your creativity, and embark on a journey of artistic expression and financial empowerment through the lens of photography.

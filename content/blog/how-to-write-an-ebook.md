@@ -3,7 +3,7 @@ title: "How to Write and Sell e-Books"
 description: "Step-by-step guide about how to sell an e-book successfully. Discover essential methods of self publication."
 image: "images/write-and-sell-e-books.jpg"
 date: 2021-08-10T18:19:25+06:00
-categories: ["passive income"]
+categories: ["passive income-ideas"]
 type: "regular"
 draft: false
 ---
@@ -20,7 +20,7 @@ When I wrote my first e-book, my primary goal was to provide value to my readers
 
 ### Piece Your Ideas Together
 
-Think of your e-book as a puzzle waiting to be solved. Start by gathering all the pieces—your ideas, research, and experiences. Then, piece them together carefully, ensuring each chapter flows seamlessly into the next. Finally, step back and admire the complete picture you've created—a valuable resource ready to be shared with the world. Want to [learn how to earn money online]({{< relref "make-money-online" >}})? Read our complete guide online income.
+Think of your e-book as a puzzle waiting to be solved. Start by gathering all the pieces—your ideas, research, and experiences. Then, piece them together carefully, ensuring each chapter flows seamlessly into the next. Finally, step back and admire the complete picture you've created—a valuable resource ready to be shared with the world. Want to [learn how to earn money online]({{< relref "digital-income-ideas" >}})? Read our complete guide online income.
 
 ### Select a Topic You Understand
 
