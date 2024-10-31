@@ -1,7 +1,6 @@
 <!-- categories -->
-{{ if isset site.Taxonomies "categories" }}
-{{ if not (eq (len site.Taxonomies.categories) 0) }}
-<div class="widget category-widget">
+{{ if isset site.Params "categories_title" }}
+<div class="widget link-widget">
   <div class="widget-title">
     <h3 class="h5 title-border">{{ site.Params.categories_title }}</h3>
   </div>
@@ -28,3 +27,4 @@
     </li>
   </ul>
 </div>
+{{ end }}

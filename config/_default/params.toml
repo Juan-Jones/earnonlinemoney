@@ -26,7 +26,7 @@ search = true
 
 
 # Posts related Titles & Contents
-categories_title = "Blog Categories"
+categories_title = "Featured Links"
 posts_title = "Featured"
 featured_post_title = "Featured Post"
 recent_post_title = "Recent Post"
