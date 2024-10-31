@@ -30,7 +30,7 @@ There are five steps that take place in the associate marketing process:
 
 * Merchant Partnership: First, a merchant sign up and pays an affiliate network to sell products or offer services.
 * After joining an [affiliate program]({{< relref "best-affiliate-programs" >}}) the publishers receives unique affiliate links to sell digital products, or offer services.
-* Next product or service is promoted on the publishers or associates platform, i.e., (social media page, website, blog).
+* Next product or service is promoted on the publishers or associates platform, i.e., (social media channel, website, blog).
 * A customer purchases a product or service on the publishers platform.
 * Lastly, the publisher earns a commission by sales or leads, and the merchant earns a return on investment.
 
