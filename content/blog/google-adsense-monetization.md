@@ -3,7 +3,7 @@ title: "Google Adsense Monetization Tricks"
 description: "Maximize earnings by monetizing content, platform, or expertise. Explore revenue streams like advertising, affiliate marketing, and digital products."
 image: "images/make-money-google-ads.jpg"
 date: 2023-12-24T18:19:25+06:00
-categories: ["passive income-ideas"]
+categories: ["passive-income-ideas"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

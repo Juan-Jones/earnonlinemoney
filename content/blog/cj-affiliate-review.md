@@ -4,7 +4,7 @@ description: "Complete CJ Affiliate review including advantages, disadvantages, 
 image: "images/cj-affiliate-assessment.jpg"
 alt: "Review Concept, Commission Junction Overview."
 date: 2024-05-04T18:19:25+06:00
-categories: ["passive income-ideas"]
+categories: ["passive-income-ideas"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

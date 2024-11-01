@@ -4,11 +4,11 @@ description: "Discover real digital income ideas to make money online. Find legi
 image: "images/ways-to-make-money-online.jpg"
 alt: "Dollar Sign on Webpage, Make Money Online Illustration."
 date: 2019-11-04T18:19:25+06:00
-categories: ["passive income-ideas"]
+categories: ["passive-income-ideas"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
-
+h2
 The rise of digital technology has fundamentally transformed the job market. According to a 2023 report by Upwork, 36% of the U.S. workforce engages in freelance work, indicating a growing trend toward digital-based income opportunities. The COVID-19 pandemic accelerated this shift, with more individuals seeking alternative ways to earn money as businesses moved online.
 
 ## Digital Income Ideas
@@ -45,7 +45,7 @@ Interested in flexible work? Delivering goods for [Instacart](https://www.instac
 
 ### 7. Write an eBook
 
-Interested in sharing your expertise? Writing an eBook is a fantastic way to showcase your knowledge and potentially earn passive income.
+Interested in sharing your expertise? [Writing an eBook]({{< relref "how-to-write-an-ebook" >}}) is a fantastic way to showcase your knowledge and potentially earn passive income.
 
 With the rise of digital publishing platforms like Amazon Kindle Direct Publishing (KDP), anyone can become an author. In 2021, the eBook market was valued at over $18 billion, underscoring its popularity and profitability. Whether you're passionate about cooking, self-help, or niche hobbies, eBooks allow you to reach a global audience without the traditional barriers of publishing.
 

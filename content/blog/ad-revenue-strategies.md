@@ -4,7 +4,7 @@ description: "Expert ad revenue strategies to boost your earnings. Learn about d
 image: "images/ad-revenue-tips.jpg"
 alt: "Ad, Cash Hovering Over Hand, Woman Inside Monitor, Coin Stack."
 date: 2019-10-30T18:19:25+06:00
-categories: ["passive income-ideas"]
+categories: ["passive-income-ideas"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
