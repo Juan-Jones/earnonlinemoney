@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Investment Roadmap to Success Guide"
+title: "Best Crypto Investments"
 description: "Explore crypto investments: Bitcoin to Altcoins. Navigate volatility, manage risk, seize opportunities in the dynamic market."
 image: "images/top-crypto-investments.jpg"
 alt: "Hand Receiving Currency, Top Crypto Investments Notion."

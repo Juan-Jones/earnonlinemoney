@@ -1,5 +1,5 @@
 ---
-title: "39 Ways to Earn Money in 60 Minutes"
+title: "39 Ways to Earn Money in 1 Hour"
 description: "Learn how to earn money online quicky, find easy ways to make money in under one hour!"
 image: "images/make-money-1-hour.jpg"
 date: 2024-06-17T18:19:25+06:00

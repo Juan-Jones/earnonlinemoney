@@ -1,5 +1,5 @@
 ---
-title: "Earn Cash Back from Creditcards, Apps, Downloads and Shopping Sprees"
+title: "Earn Cash Back & Rebates"
 description: "Discover ways to earn cashback from creditcards, apps, downloads, and shopping sprees. Find ways to earn rewards, coupons, rebates, incentives and more."
 image: "images/cash-back-earning.jpg"
 date: 2019-11-01T18:19:25+06:00

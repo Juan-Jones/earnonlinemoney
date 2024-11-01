@@ -7295,7 +7295,7 @@ h5,
 h6,
 .h6 {
   font-family: "Merriweather Sans", sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   color: #222; }
 
 small,

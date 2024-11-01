@@ -1,5 +1,5 @@
 ---
-title: "What is Freelancing and its Meaning?"
+title: "What is Freelancing?"
 description: "Explore freelancing fundamentals along with key elements, earning potential and more. Discover freelancing components, i.e., meaning, types of work, pros, cons and more."
 image: "images/whats-freelancing.jpg"
 feature_image: "images/whats-freelancing.jpg"
