@@ -5,6 +5,7 @@ image: "images/affiliate-programs.jpg"
 alt: "Best Affiliate Programs Concept."
 date: 2020-03-03T18:19:25+06:00
 categories: ["passive-income-ideas"]
+tags: ["affiliate-marketing"]
 type: "regular"
 draft: false
 ---

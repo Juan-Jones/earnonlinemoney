@@ -4,6 +4,7 @@ description: "What does it to take build online stores? For beginners, you must 
 image: "images/begin-ecommerce-store.jpg"
 date: 2019-10-09T18:19:25+06:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---

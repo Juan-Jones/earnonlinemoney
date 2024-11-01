@@ -4,6 +4,7 @@ description: "The best Shopify apps that can optimize your e-commerce store, str
 image: "images/shopify-applications.jpg"
 date: 2019-11-13T18:19:25+08:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "regular"
 draft: false
 ---

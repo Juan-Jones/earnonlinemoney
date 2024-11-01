@@ -5,6 +5,7 @@ image: "images/b2b-ecommerce.jpg"
 alt: "Arrows, Circle, One Arrow Pointing at Another, B2B Ecommerce Illustration."
 date: 2020-09-02T18:19:25+06:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

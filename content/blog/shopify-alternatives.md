@@ -4,6 +4,7 @@ description: "Choosing the right eCommerce platform is crucial for the success o
 image: "images/shopify-alternatives.jpg"
 date: 2024-05-24T18:19:25+06:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "regular"
 draft: false
 ---

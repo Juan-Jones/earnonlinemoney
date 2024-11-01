@@ -5,6 +5,7 @@ image: "images/top-crypto-investments.jpg"
 alt: "Hand Receiving Currency, Top Crypto Investments Notion."
 date: 2019-10-19T18:19:25+06:00
 categories: ["investing"]
+tags: ["crypto"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

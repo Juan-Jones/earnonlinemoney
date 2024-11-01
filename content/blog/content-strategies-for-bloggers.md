@@ -5,6 +5,7 @@ image: "images/content-marketing.jpg"
 alt: "Media Player, Search Icon, Blogpage Content Marketing Illustration."
 date: 2019-10-06T18:19:25+06:00
 categories: ["blogging"]
+tags: ["content-creation"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

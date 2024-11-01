@@ -4,6 +4,7 @@ description: "Learn how to monetize a blog effectively. Explore diverse revenue 
 image: "images/ways-to-monetize-a-blog.jpg"
 date: 2019-10-28T18:19:25+06:00
 categories: ["blogging"]
+tags: ["content-creation"]
 type: "featured"
 draft: false
 ---

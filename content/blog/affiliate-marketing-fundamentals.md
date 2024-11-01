@@ -5,6 +5,7 @@ image: "images/affiliate-marketing-basics.jpg"
 alt: "Circular Black and White Icons, Affiliate Marketing Basics Concept."
 date: 2019-10-24T18:19:25+06:00
 categories: ["passive-income-ideas"]
+tags: ["affiliate-marketing"]
 type: "regular"
 draft: false
 ---
@@ -34,7 +35,7 @@ There are five steps that take place in the associate marketing process:
 * A customer purchases a product or service on the publishers platform.
 * Lastly, the publisher earns a commission by sales or leads, and the merchant earns a return on investment.
 
-### 5 Types of Affiliate Marketing Programs
+## 5 Types of Affiliate Marketing Programs
 
 Affiliate marketing programs can be categorized into pay-per-click, pay-per-sale, and pay-per-lead. Each type offers different commission structures and benefits, allowing marketers to choose the program that best fits their promotional strategy.
 

@@ -4,6 +4,7 @@ description: "Your gateway to the world of self-employment. Discover how to navi
 image: "images/freelance-beginners.jpg"
 date: 2019-10-08T18:19:25+06:00
 categories: ["freelancing"]
+tags: ["gig-economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

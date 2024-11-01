@@ -2,10 +2,9 @@
 title: "What is Freelancing?"
 description: "Explore freelancing fundamentals along with key elements, earning potential and more. Discover freelancing components, i.e., meaning, types of work, pros, cons and more."
 image: "images/whats-freelancing.jpg"
-feature_image: "images/whats-freelancing.jpg"
-feature_image_alt: "free"
 date: 2020-01-11T18:19:25+06:00
 categories: ["freelancing"]
+tags: ["gig-economy"]
 type: "regular"
 draft: false
 ---

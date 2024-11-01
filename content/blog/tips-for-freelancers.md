@@ -3,7 +3,8 @@ title: "Top Tips for Freelancers"
 description: "Check out freelancing tips on portfolio building, rate setting, financial management, and networking strategies and more."
 image: "images/freelancers-tips.jpg"
 date: 2019-10-10T19:19:25+06:00
-categories: ["gig economy"]
+categories: ["freelancing"]
+tags: ["gig-economy"]
 type: "regular"
 draft: false
 ---

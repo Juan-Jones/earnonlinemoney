@@ -4,6 +4,7 @@ description: "Learn how to earn cash online gaming! Explore cash games online an
 image: "images/games-for-cash.jpg"
 date: 2020-01-05T18:19:25+06:00
 categories: ["side hustles"]
+tags: ["quick-cash"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

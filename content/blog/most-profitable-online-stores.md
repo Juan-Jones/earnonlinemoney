@@ -5,6 +5,7 @@ image: "images/profitable-online-stores.jpg"
 alt: "Profitable Online Stores, Shopify, Etsy, Ebay, Amazon."
 date: 2019-10-15T18:19:25+06:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "regular"
 draft: false
 ---

@@ -4,13 +4,14 @@ description: "Explore the world of eCommerce, a digital realm where virtual mark
 image: "images/ecommerce-101.jpg"
 date: 2019-11-09T18:19:25+06:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
 In recent years, ecommerce has witnessed exponential growth, revolutionizing the way people conduct business transactions. From small-scale entrepreneurs to multinational corporations, ecommerce has become an integral part of modern commerce, reshaping consumer behavior and market dynamics.
 
-## What is Ecommerce?
+## What is Ecoquick-cashmmerce?
 
 Well, **what is ecommerce**? Ecommerce, short for electronic commerce, refers to the buying and selling of goods and services over the internet. This modern business model has transformed the way consumers and businesses interact, offering unprecedented convenience and accessibility. Understanding ecommerce is crucial in today’s digital age, where online transactions have become a norm.
 

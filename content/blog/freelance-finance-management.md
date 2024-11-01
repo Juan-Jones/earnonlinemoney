@@ -4,6 +4,7 @@ description: "Did you know that freelance financial management tips and strategi
 image: "images/make-money-with-fiverr.jpg"
 date: 2019-11-09T18:19:25+06:00
 categories: ["freelancing"]
+tags: ["gig-economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

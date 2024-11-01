@@ -5,6 +5,7 @@ image: "images/mining-crypto.jpg"
 alt: "Hammer Breaking Rocks, Crypto Mining Visualization."
 date: 2019-11-12T18:19:25+06:00
 categories: ["investing"]
+tags: ["crypto"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

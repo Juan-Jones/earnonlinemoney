@@ -5,6 +5,7 @@ image: "images/ebay-affiliate-review.jpg"
 alt: "Review Concept, Commission Junction Overview."
 date: 2020-08-05T18:19:25+06:00
 categories: ["passive-income-ideas"]
+tags: ["affiliate-marketing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

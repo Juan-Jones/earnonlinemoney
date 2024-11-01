@@ -5,6 +5,7 @@ image: "images/ecommerce-marketing.jpg"
 alt: "Review Concept, Commission Junction Overview."
 date: 2019-10-14T18:19:25+06:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

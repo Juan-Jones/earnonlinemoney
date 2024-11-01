@@ -4,6 +4,7 @@ description: "Key steps to establish your podcast's identity, connect with your 
 image: "images/podcast-branding.jpg"
 date: 2020-01-08T18:19:25+06:00
 categories: ["online business"]
+tags: ["podcasts"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

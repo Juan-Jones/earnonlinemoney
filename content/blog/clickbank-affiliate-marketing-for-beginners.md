@@ -5,6 +5,7 @@ image: "images/affiliate-marketing-clickbank.jpg"
 alt: "Woman Advertising on Social Media, Clickbank Affiliate Marketing Text."
 date: 2024-05-04T18:19:25+06:00
 categories: ["passive-income-ideas"]
+tags: ["affiliate-marketing"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

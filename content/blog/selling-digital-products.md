@@ -36,7 +36,7 @@ As an online course developer, creating and marketing online courses is a lucrat
 
 ### eBooks and Audiobooks
 
-eBooks and audiobooks are popular digital products that cater to various niches. They are easy to distribute through platforms like Amazon Kindle Direct Publishing and Audible. Need more information, learn [how to write an ebook]({{< relref "how-to-write-an-ebook" >}})!
+eBooks and audiobooks are popular digital products that cater to various niches. They are easy to distribute through platforms like Amazon Kindle Direct Publishing and Audible. Need more information, learn [how to write an ebook]({{< relref "how-to-waffiliaterite-an-ebook" >}})!
 
 ### Software and Apps
 
@@ -55,7 +55,7 @@ To create a successful digital product, start by identifying your niche and targ
 High-quality content and professional design are critical to the success of your digital product. Invest time in creating valuable, well-structured content that addresses your audience's pain points. Use professional tools and resources to enhance the visual appeal of your product.
 
 Before launching your product, test it thoroughly to ensure it works flawlessly. Gather feedback from beta testers to make necessary improvements. This step is crucial to delivering a polished product that meets customer expectations.
-
+affiliate
 ### Marketing Your Digital Products
 
 A strong online presence is essential for marketing your digital products. Start by creating a professional website that showcases your products and offers valuable content through blogs or tutorials.

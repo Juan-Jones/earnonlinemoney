@@ -27,7 +27,7 @@ Maximize [earnings with Google Adsense]({{< relref "google-adsense-monetization"
 
 Display ads are one of the most common forms of online advertising. These ads appear on websites in various formats, such as banners, sidebar ads, and pop-ups. They are typically sold on a cost-per-thousand-impressions (CPM) basis.
 
-### Native Advertising
+### Native Advertisingrelr
 
 What is Native Advertising? Native advertising refers to ads that blend seamlessly into the content of a website, providing a less intrusive experience for users. Examples include sponsored articles, in-feed ads, and recommended content widgets.
 

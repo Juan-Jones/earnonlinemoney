@@ -4,6 +4,7 @@ description: "How do podcasts make money? Find ways to earn money podcasting. Di
 image: "images/make-money-from-podcasts.jpg"
 date: 2020-01-06T18:19:25+06:00
 categories: ["online business"]
+tags: ["podcasts"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

@@ -5,6 +5,7 @@ image: "images/microtasking.jpg"
 alt: "Pencil, Checkmark, Microtasking Concept"
 date: 2023-01-03T18:19:25+06:00
 categories: ["side hustles"]
+tags: ["quick-cash"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

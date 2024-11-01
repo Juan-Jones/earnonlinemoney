@@ -4,6 +4,7 @@ description: "Podcasting content creation strategies that yield results. Discove
 image: "images/podcast-content-creation.jpg"
 date: 2020-01-09T18:19:25+06:00
 categories: ["online business"]
+tags: ["podcasts"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

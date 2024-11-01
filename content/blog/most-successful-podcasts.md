@@ -5,6 +5,7 @@ image: "images/successful-podcasts.jpg"
 alt: "Golden Microphone, Successful Podcasts Notion."
 date: 2020-01-07T18:19:25+06:00
 categories: ["online business"]
+tags: ["podcasts"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

@@ -5,6 +5,7 @@ image: "images/best-ecommerce-websites.jpg"
 alt: "Man Holding Magnifying Glass Pointing to Search Bar."
 date: 2019-10-13T18:19:25+06:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

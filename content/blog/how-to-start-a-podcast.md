@@ -4,6 +4,7 @@ description: "Learn how to start a podcast from beginning to end. Discover 11 ef
 image: "images/start-a-podcast.jpg"
 date: 2020-01-05T18:19:25+06:00
 categories: ["online business"]
+tags: ["podcasts"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

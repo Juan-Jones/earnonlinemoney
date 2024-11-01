@@ -4,6 +4,7 @@ description: "Learn how to make money on Fiverr, take your freelancing earnings 
 image: "images/earn-income-on-fiverr.jpg"
 date: 2019-11-08T18:19:25+06:00
 categories: ["freelancing"]
+tags: ["gig-economy"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

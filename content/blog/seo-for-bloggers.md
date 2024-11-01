@@ -4,6 +4,7 @@ description: "Find essential SEO strategies for bloggers, including technical an
 image: "images/seo-blogging.jpg"
 date: 2019-10-07T18:19:25+06:00
 categories: ["blogging"]
+tags: ["content-creation"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

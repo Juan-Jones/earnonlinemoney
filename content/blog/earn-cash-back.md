@@ -4,6 +4,7 @@ description: "Discover ways to earn cashback from creditcards, apps, downloads, 
 image: "images/cash-back-earning.jpg"
 date: 2019-11-01T18:19:25+06:00
 categories: ["side hustles"]
+tags: ["quick-cash"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

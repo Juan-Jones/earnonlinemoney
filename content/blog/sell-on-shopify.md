@@ -4,6 +4,7 @@ description: "Learn how to sell on Shopify & optimize your store for success. Ex
 image: "images/shopify-selling-tips.jpg"
 date: 2019-11-10T18:19:25+06:00
 categories: ["ecommerce"]
+tags: ["online-store"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
