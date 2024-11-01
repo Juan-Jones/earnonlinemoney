@@ -1,5 +1,5 @@
 ---
-title: "Play Games for Real Cash"
+title: "Play Games for Cash"
 description: "Learn how to earn cash online gaming! Explore cash games online and discover the best real cash games. Find strategies, platforms, and tips."
 image: "images/games-for-cash.jpg"
 date: 2020-01-05T18:19:25+06:00

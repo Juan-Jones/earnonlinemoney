@@ -1,5 +1,5 @@
 ---
-title: "Ultimate Social Media Marketing Guide"
+title: "Ultimate SMM Guide"
 description: "Discover the ultimate guide to social media marketing tips and strategies for boosting engagement, brand presence, and ROI."
 image: "images/smm-guide.jpg"
 date: 2019-11-03T18:19:25+06:00

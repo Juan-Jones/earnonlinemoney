@@ -1,5 +1,5 @@
 ---
-title: "Top Tips for Freelancers"
+title: "Effective Freelancer Tips"
 description: "Check out freelancing tips on portfolio building, rate setting, financial management, and networking strategies and more."
 image: "images/freelancers-tips.jpg"
 date: 2019-10-10T19:19:25+06:00

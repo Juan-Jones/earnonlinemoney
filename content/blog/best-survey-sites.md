@@ -1,5 +1,5 @@
 ---
-title: "Top 10 Paid Survey Sites"
+title: "Top 10 Survey Sites"
 description: "Find the best survey sites and opportunities and earn cash, rewards, or gift cards. Get paid top dollar opinions completing questionnaires."
 image: "images/survey-sites.jpg"
 alt: "Checkbox, Best Survey Sites Concept."

@@ -1,5 +1,5 @@
 ---
-title: "Google Adsense Monetization Tricks"
+title: "Monetize Google Ads"
 description: "Maximize earnings by monetizing content, platform, or expertise. Explore revenue streams like advertising, affiliate marketing, and digital products."
 image: "images/make-money-google-ads.jpg"
 date: 2023-12-24T18:19:25+06:00

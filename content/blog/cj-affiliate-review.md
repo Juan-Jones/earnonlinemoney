@@ -1,5 +1,5 @@
 ---
-title: "Ultimate Commission Junction Review"
+title: "CJ Affiliate Review"
 description: "Complete CJ Affiliate review including advantages, disadvantages, affiliate product offerings and more!"
 image: "images/cj-affiliate-assessment.jpg"
 alt: "Review Concept, Commission Junction Overview."

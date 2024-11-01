@@ -1,5 +1,5 @@
 ---
-title: "Clickbank Affiliate Marketing Beginners Guide"
+title: "Clickbank Beginners Guide"
 description: "Learn how to start with ClickBank affiliate marketing. Tips, strategies, and alternatives for beginners."
 image: "images/affiliate-marketing-clickbank.jpg"
 alt: "Woman Advertising on Social Media, Clickbank Affiliate Marketing Text."

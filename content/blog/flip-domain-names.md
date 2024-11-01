@@ -1,5 +1,5 @@
 ---
-title: "Unbelievable Domain Flipping Strategies"
+title: "How to Flip Domains"
 description: "Must have domain name flipping tips. Find out how to acquire, enhance, and resell digital real estate for profit."
 image: "images/how-to-flip-domains.jpg"
 date: 2020-01-05T18:19:25+06:00

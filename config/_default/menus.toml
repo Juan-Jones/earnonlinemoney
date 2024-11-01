@@ -7,23 +7,23 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Passive Income Ideas"
-url = "categories/passive-income-ideas/"
+name = "Blogging"
+url = "categories/blogging/"
 weight = 2
 
 [[main]]
-name = "Blogging"
-url = "categories/blogging/"
+name = "Courses"
+url = "categories/courses/"
 weight = 3
-
-[[main]]
-name = "Side Hustles"
-url = "categories/side-hustles/"
-weight = 4
 
 [[main]]
 name = "Ecommerce"
 url = "categories/ecommerce/"
+weight = 4
+
+[[main]]
+name = "Freelancing"
+url = "categories/freelancing/"
 weight = 5
 
 [[main]]
@@ -32,14 +32,19 @@ url = "categories/investing/"
 weight = 6
 
 [[main]]
-name = "Freelancing"
-url = "categories/freelancing/"
+name = "Passive Income Ideas"
+url = "categories/passive-income-ideas/"
 weight = 7
+
+[[main]]
+name = "Side Hustles"
+url = "categories/side-hustles/"
+weight = 8
 
 [[main]]
 name = "Social Media"
 url = "categories/social-media/"
-weight = 8
+weight = 9
 
 # footer menu
 [[footer]]
