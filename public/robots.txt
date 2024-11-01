@@ -1,1 +1,7 @@
 User-agent: *
+Disallow: /privacy-policy/
+Disallow: /search/
+Disallow: /archives/
+Disallow: /tags/
+
+Sitemap: https://earnonlinemoney.org/sitemap.xml

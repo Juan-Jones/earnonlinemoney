@@ -27,7 +27,7 @@ How does it work? First, research the [fundamentals of affiliate marketing]({{< 
 
 ### 4. Write an eBook
 
-Interested in sharing your expertise? [Writing an eBook]({{< relref how-to-write-an-ebook" >}}) is a fantastic way to showcase your knowledge and potentially earn passive income.
+Interested in sharing your expertise? [Writing an eBook]({{< relref "how-to-write-an-ebook" >}}) is a fantastic way to showcase your knowledge and potentially earn passive income.
 
 With the rise of digital publishing platforms like Amazon Kindle Direct Publishing (KDP), anyone can become an author. In 2021, the eBook market was valued at over $18 billion, underscoring its popularity and profitability. Whether you're passionate about cooking, self-help, or niche hobbies, eBooks allow you to reach a global audience without the traditional barriers of publishing.
 

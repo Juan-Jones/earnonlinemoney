@@ -36,7 +36,7 @@ As an online course developer, creating and marketing online courses is a lucrat
 
 ### eBooks and Audiobooks
 
-eBooks and audiobooks are popular digital products that cater to various niches. They are easy to distribute through platforms like Amazon Kindle Direct Publishing and Audible. Need more information, learn [how to write an ebook]({{< relref "how-to-waffiliaterite-an-ebook" >}})!
+eBooks and audiobooks are popular digital products that cater to various niches. They are easy to distribute through platforms like Amazon Kindle Direct Publishing and Audible. Need more information, learn [how to write an ebook]({{< relref "how-to-write-an-ebook" >}})!
 
 ### Software and Apps
 
@@ -86,7 +86,7 @@ Use digital rights management (DRM) tools to protect your products from unauthor
 
 #### Gather and Analyze Data
 
-Track sales, customer feedback, and website analytics to understand what’s working and what needs improvement. Use this data to refine your products and marketing strategies continually.
+Track sales, relcustomer feedback, and website analytics to understand what’s working and what needs improvement. Use this data to refine your products and marketing strategies continually.
 
 #### Network and Collaborate
 
