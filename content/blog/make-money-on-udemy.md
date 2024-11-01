@@ -1,5 +1,5 @@
 ---
-title: "How to Make Money on Udemy"
+title: "Earn Money on Udemy"
 description: "Unlock Udemy's money-making secrets, craft stellar courses, boost visibility, and leverage marketing tools to thrive as an instructor!"
 image: "images/earn-on-udemy.jpg"
 date: 2023-05-15T14:19:25+06:00

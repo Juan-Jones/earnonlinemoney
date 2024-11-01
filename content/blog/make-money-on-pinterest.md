@@ -1,5 +1,5 @@
 ---
-title: "How to Earn Money on Pinterest"
+title: "Earn Money on Pinterest"
 description: "Find out how to make money on Pinterest without using a blog or website. Learn how to get started by utilizing six steps!"
 image: "images/make-money-on-pinterest.jpg"
 date: 2020-08-27T18:19:25+06:00

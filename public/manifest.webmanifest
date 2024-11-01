@@ -1,14 +1,15 @@
 {
-    "name": "Earn Money Online",
-    "short_name": "Earn Money Online",
-    "lang": "en-us",
-    "theme_color": "#168118",
-    "background_color": "#FFF",
+  "name": "Earn Money Online",
+  "short_name": "Earn Money Online",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "https://earnonlinemoney.org?utm_source=web_app_manifest",
+  "background_color": "#FFF",
+  "theme_color": "#168118",
+
   
-    
-    
-    
-    
-    "display": "standalone",
-    "start_url": "/?utm_source=web_app_manifest"
-  }
+  
+  
+  
+}

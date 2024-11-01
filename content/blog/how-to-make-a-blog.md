@@ -1,5 +1,5 @@
 ---
-title: "How to Successfully Make a Blog"
+title: "How to Start a Blog"
 description: "Learn how to successfully start a blog. Learn how to optimize your content, build an audience."
 image: "images/start-a-blog.jpg"
 alt: "Pencil, Image, Make a Blog Site Illustration."

@@ -1,5 +1,5 @@
 ---
-title: "How Much Money Do YouTubers Make"
+title: "YouTuber Earnings Potential"
 description: "Uncover the earnings potential of YouTubers in our guide. Learn about ad revenue, sponsorships, and strategies for maximizing income on the platform."
 image: "images/youtubers-earnings.jpg"
 alt: "Play Button, Earnings Symbol."

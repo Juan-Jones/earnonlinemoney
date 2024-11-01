@@ -1,5 +1,5 @@
 ---
-title: "Facebook Meta Monetization Strategies"
+title: "Facebook Meta Monetization"
 description: "Explore Facebook Meta monetization: Creator Fund, brand partnerships, livestream gifts, and merchandise sales offer creators diverse earning opportunities."
 image: "images/monetize-on-facebook.jpg"
 date: 2020-08-05T18:19:25+06:00

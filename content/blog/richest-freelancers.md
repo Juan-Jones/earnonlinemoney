@@ -1,5 +1,5 @@
 ---
-title: "Who Are the Richest Freelancers"
+title: "Wealthiest Freelancers List"
 description: "Discover the wealthiest freelancers in various industries, analyzing their success stories and key strategies."
 image: "images/wealthy-freelancers.jpg"
 date: 2019-10-11T18:19:25+06:00
