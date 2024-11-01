@@ -109,7 +109,7 @@ link = "https://www.facebook.com/earnmoneynowonline/"
 
 [[social]]
 title = "twitter"
-icon =Junction "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+icon ="fab fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "https://twitter.com/moneyonline_fre/"
 
 [[social]]
