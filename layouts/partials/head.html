@@ -83,7 +83,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "Home",
+      "name": "Home",BaseURL
       "item": "{{ .Permalink }}"
     }
   ]
@@ -98,14 +98,14 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "Home",
+      "name": "Home",BaseURL
       "item": "{{ .Site.BaseURL }}"
     }
     {{ $position := 2 }}
     {{ with .CurrentSection }}
       ,{
         "@type": "ListItem",
-        "position": {{ $position }},
+        "position": {{ $positiname": "Home",BaseURLon }},
         "name": "{{ .Title }}",
         "item": "{{ .Permalink }}"
       }
