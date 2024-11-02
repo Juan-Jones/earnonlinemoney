@@ -20,7 +20,7 @@ When I wrote my first e-book, my primary goal was to provide value to my readers
 
 ### Piece Your Ideas Together
 
-Think of your e-book as a puzzle waiting to be solved. Start by gathering all the pieces—your ideas, research, and experiences. Then, piece them together carefully, ensuring each chapter flows seamlessly into the next. Finally, step back and admire the complete picture you've created—a valuable resource ready to be shared with the world. Want to [learn how to earn money online]({{< relref "digital-income-ideas" >}})? Read our complete guide online income.
+Think of your e-book as a puzzle waiting to be solved. Start by gathering all the pieces—your ideas, research, and experiences. Then, piece them together carefully, ensuring each chapter flows seamlessly into the next. Finally, step back and admire the complete picture you've created—a valuable resource ready to be shared with the world. Want to discover [ideas to earn money online]({{< relref "digital-income-ideas" >}})? Read our complete guide online income.
 
 ### Select a Topic You Understand
 

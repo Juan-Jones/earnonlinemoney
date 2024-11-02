@@ -22,7 +22,7 @@ Selling [virtual goods]({{< relref "selling-digital-products" >}}) on Etsy is co
 
 ### Understand Your Etsy Target Market
 
-Etsy offers a unique platform where you can connect with your audience on a personal level. Conduct a thorough situational analysis to understand your market and its specific needs. Showcase your talents and present your creations as valuable products. Simplicity is key—once you've mastered this, rinse and repeat. Etsy, the bustling marketplace for handmade goods, vintage treasures, and creative crafts, has been connecting buyers and sellers since 2005. In 2020 alone, it recorded over $5 billion worth of trade traffic. As you embark on your journey to [make money on the internet]({{< relref "digital-income-ideas" >}}), remember that Etsy not only helps you achieve your dreams but also makes you feel truly human in the process.
+Etsy offers a unique platform where you can connect with your audience on a personal level. Conduct a thorough situational analysis to understand your market and its specific needs. Showcase your talents and present your creations as valuable products. Simplicity is key—once you've mastered this, rinse and repeat. Etsy, the bustling marketplace for handmade goods, vintage treasures, and creative crafts, has been connecting buyers and sellers since 2005. In 2020 alone, it recorded over $5 billion worth of trade traffic. As you embark on your journey to [earn digital money]({{< relref "digital-income-ideas" >}}), remember that Etsy not only helps you achieve your dreams but also makes you feel truly human in the process.
 
 ### Write Compelling Product Listings
 
