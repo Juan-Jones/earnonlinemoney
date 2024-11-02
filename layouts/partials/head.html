@@ -12,7 +12,56 @@
 <link rel="alternate" hreflang="{{.Lang}}" href="{{ .RelPermalink | absLangURL }}">
 {{ end }}
 <link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
+{{ end }}{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ else }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{ $position := 2 }}
+    {{ with .CurrentSection }}
+      ,{
+        "@type": "ListItem",
+        "position": {{ $position }},
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+      {{ $position = add $position 1 }}
+    {{ end }}
+    {{ range $index, $element := .Pages }}
+      ,{
+        "@type": "ListItem",
+        "position": {{ add $position $index }},
+        "name": "{{ $element.Title }}",
+        "item": "{{ $element.Permalink }}"
+      }
+    {{ end }}
+  ]
+}
+</script>
 {{ end }}
+
 
 <!-- mobile responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">

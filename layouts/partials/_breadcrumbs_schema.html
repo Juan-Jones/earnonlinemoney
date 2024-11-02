@@ -8,7 +8,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "{{ .Permalink }}" 
+      "item": "{{ .Permalink }}"
     }
   ]
 }
@@ -24,14 +24,24 @@
       "position": 1,
       "name": "Home",
       "item": "{{ .Site.BaseURL }}"
-    },
-    {{ range $index, $element := .CurrentSection.Pages }}
-    {
-      "@type": "ListItem",
-      "position": {{ add $index 2 }},
-      "name": "{{ $element.Title }}",
-      "item": "{{ $element.Permalink }}"
-    }{{ if ne (add $index 1) (len .CurrentSection.Pages) }},{{ end }}
+    }
+    {{ $position := 2 }}
+    {{ with .CurrentSection }}
+      ,{
+        "@type": "ListItem",
+        "position": {{ $position }},
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+      {{ $position = add $position 1 }}
+    {{ end }}
+    {{ range $index, $element := .Pages }}
+      ,{
+        "@type": "ListItem",
+        "position": {{ add $position $index }},
+        "name": "{{ $element.Title }}",
+        "item": "{{ $element.Permalink }}"
+      }
     {{ end }}
   ]
 }
