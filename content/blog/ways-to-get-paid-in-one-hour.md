@@ -17,7 +17,7 @@ Despite anyones level of education or skill-set theres an array of opportunities
 
 ## 1. Complete Microtasks
 
-Microtask platforms like Amazon Mechanical Turk and Clickworker pay users to [complete small tasks]({{< relref "what-is-microtasking" >}}), such as data entry, categorization, and transcription. These tasks typically take a few minutes to complete and pay a few cents to a few dollars each.
+Microtask platforms like Amazon Mechanical Turk and Clickworker pay users to complete small tasks, such as data entry, categorization, and transcription. These tasks typically take a few minutes to complete and pay a few cents to a few dollars each.
 
 ### 2. Quick Online Jobs
 

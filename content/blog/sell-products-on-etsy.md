@@ -72,7 +72,7 @@ Vintage aficionados and collectors flock to Etsy in search of unique treasures a
 
 ### Digital Downloads and Printables
 
-In an increasingly digital world, the demand for digital downloads and printables has surged, and Etsy has emerged as a hub for digital creators to monetize their talents. Whether you specialize in graphic design, illustration, photography, or typography, Etsy offers a platform to sell digital art, printable planners, wall art, greeting cards, and more. By leveraging digital tools and platforms, creators can reach a global audience and generate passive income through digital downloads that require minimal overhead and fulfillment. If you have a penchant for digital content, you can also venture into graphic design and [get paid for your photos]({{< relref "get-paid-for-photos" >}}).
+In an increasingly digital world, the demand for digital downloads and printables has surged, and Etsy has emerged as a hub for digital creators to monetize their talents. Whether you specialize in graphic design, illustration, photography, or typography, Etsy offers a platform to sell digital art, printable planners, wall art, greeting cards, and more. By leveraging digital tools and platforms, creators can reach a global audience and generate passive income through digital downloads that require minimal overhead and fulfillment.
 
 ### Customized and Personalized Products
 

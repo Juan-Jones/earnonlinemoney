@@ -1375,7 +1375,7 @@
  by optimizing ad placements. Choose the right ad sizes that fit naturally on your site. Place ads above the fold for better visibility. Use both text and display ads to cater to different audience preferences. Regularly check performance reports to adjust strategies accordingly. Experiment with different ad styles and formats for higher click-through rates.</p>
 <h3 id="understanding-display-ads">Understanding Display Ads</h3>
 <p>Display ads are one of the most common forms of online advertising. These ads appear on websites in various formats, such as banners, sidebar ads, and pop-ups. They are typically sold on a cost-per-thousand-impressions (CPM) basis.</p>
-<h3 id="native-advertisingrelr">Native Advertisingrelr</h3>
+<h3 id="native-advertising">Native Advertising</h3>
 <p>What is Native Advertising? Native advertising refers to ads that blend seamlessly into the content of a website, providing a less intrusive experience for users. Examples include sponsored articles, in-feed ads, and recommended content widgets.</p>
 <p>This format is designed to provide a less intrusive advertising experience, making it more likely to be accepted by users. By aligning closely with the editorial content, native ads can enhance user engagement and increase trust. The approach is particularly effective in building brand awareness and driving user actions without disrupting the user experience.</p>
 <p>Implementing Native Ads</p>
@@ -9056,6 +9056,51 @@ if (searchToggle) {
 
 
 
+  
+    <div id="js-cookie-box" class="cookie-box cookie-box-hide">
+      This site uses cookies. By continuing to use this website, you agree to their use.<span
+        id="js-cookie-button"
+        class="btn btn-sm btn-outline-primary"
+        >I Accept</span
+      >
+    </div>
+<script type="application/javascript">
+  const cookieBox = document.getElementById('js-cookie-box');
+  const cookieButton = document.getElementById('js-cookie-button');
+  if (!Cookies.get('cookie-box')) {
+    cookieBox.classList.remove('cookie-box-hide');
+    cookieButton.onclick = function () {
+      Cookies.set('cookie-box', true, {
+        expires:  2 
+      });
+      cookieBox.classList.add('cookie-box-hide');
+    };
+  }
+</script>
+
+    
+    <style>
+      .cookie-box {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        text-align: center;
+        z-index: 9999;
+        padding: 1rem 2rem;
+        background: rgb(71, 71, 71);
+        transition: all 0.75s cubic-bezier(0.19, 1, 0.22, 1);
+        color: #fdfdfd;
+      }
+
+      .cookie-box-hide {
+        display: none;
+      }
+
+      #js-cookie-button {
+        margin-left: 1rem;
+      }
+    </style>
   
 
 

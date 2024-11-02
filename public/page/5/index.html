@@ -1930,52 +1930,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture>
-  <source  srcset="/images/youtube-monetization_huc0d076cc0e443c9ec3f151773558a356_32185_545x0_resize_q90_h2_box.webp"  media="(max-width: 575px)">
-  <source  srcset="/images/youtube-monetization_huc0d076cc0e443c9ec3f151773558a356_32185_600x0_resize_q90_h2_box.webp"  media="(max-width: 767px)">
-  <source  srcset="/images/youtube-monetization_huc0d076cc0e443c9ec3f151773558a356_32185_700x0_resize_q90_h2_box.webp"  media="(max-width: 991px)">
-  <source  srcset="/images/youtube-monetization_huc0d076cc0e443c9ec3f151773558a356_32185_1110x0_resize_q90_h2_box.webp" >
-  <img  loading="lazy" decoding="async" src="/images/youtube-monetization_huc0d076cc0e443c9ec3f151773558a356_32185_1110x0_resize_q90_box.jpg"class=" img-fluid w-100 rounded-4 img-fluid" alt="Earn Money on YouTube" width="1200" height="675">
-</picture>
- 
- 
  
 
 
@@ -10100,6 +10054,51 @@ if (searchToggle) {
 
 
 
+  
+    <div id="js-cookie-box" class="cookie-box cookie-box-hide">
+      This site uses cookies. By continuing to use this website, you agree to their use.<span
+        id="js-cookie-button"
+        class="btn btn-sm btn-outline-primary"
+        >I Accept</span
+      >
+    </div>
+<script type="application/javascript">
+  const cookieBox = document.getElementById('js-cookie-box');
+  const cookieButton = document.getElementById('js-cookie-button');
+  if (!Cookies.get('cookie-box')) {
+    cookieBox.classList.remove('cookie-box-hide');
+    cookieButton.onclick = function () {
+      Cookies.set('cookie-box', true, {
+        expires:  2 
+      });
+      cookieBox.classList.add('cookie-box-hide');
+    };
+  }
+</script>
+
+    
+    <style>
+      .cookie-box {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        text-align: center;
+        z-index: 9999;
+        padding: 1rem 2rem;
+        background: rgb(71, 71, 71);
+        transition: all 0.75s cubic-bezier(0.19, 1, 0.22, 1);
+        color: #fdfdfd;
+      }
+
+      .cookie-box-hide {
+        display: none;
+      }
+
+      #js-cookie-button {
+        margin-left: 1rem;
+      }
+    </style>
   
 
 
