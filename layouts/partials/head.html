@@ -73,11 +73,55 @@
 {{ partial "basic-seo.html" . }}
 
 <!-- favicon -->
-{{ partialCached "favicon" . }}
-
-
-<!-- manifest -->
-{{ partialCached "manifest" . }}
+{{ partialCached "favicon" .{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ else }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{ $position := 2 }}
+    {{ with .CurrentSection }}
+      ,{
+        "@type": "ListItem",
+        "position": {{ $position }},
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+      {{ $position = add $position 1 }}
+    {{ end }}
+    {{ range $index, $element := .Pages }}
+      ,{
+        "@type": "ListItem",
+        "position": {{ add $position $index }},
+        "name": "{{ $element.Title }}",
+        "item": "{{ $element.Permalink }}"
+      }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
 
 
 <!-- site verifications -->
