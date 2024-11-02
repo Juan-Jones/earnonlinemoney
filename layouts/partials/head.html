@@ -3,8 +3,7 @@
 
 <!-- base url -->
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
-<base href="{{ site.
- }}">
+<base href="{{ site.BaseURL }}">
 {{ end }}
 
 <!-- multilingual SEO optimizations -->
@@ -13,56 +12,7 @@
 <link rel="alternate" hreflang="{{.Lang}}" href="{{ .RelPermalink | absLangURL }}">
 {{ end }}
 <link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
-{{ end }}{{ if .IsHome }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "{{ .Permalink }}"
-    }
-  ]
-}
-</script>
-{{ else }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "{{ .Site.BaseURL }}"
-    }
-    {{ $position := 2 }}
-    {{ with .CurrentSection }}
-      ,{
-        "@type": "ListItem",
-        "position": {{ $position }},
-        "name": "{{ .Title }}",
-        "item": "{{ .Permalink }}"
-      }
-      {{ $position = add $position 1 }}
-    {{ end }}
-    {{ range $index, $element := .Pages }}
-      ,{
-        "@type": "ListItem",
-        "position": {{ add $position $index }},
-        "name": "{{ $element.Title }}",
-        "item": "{{ $element.Permalink }}"
-      }
-    {{ end }}
-  ]
-}
-</script>
 {{ end }}
-
 
 <!-- mobile responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
@@ -74,56 +24,7 @@
 {{ partial "basic-seo.html" . }}
 
 <!-- favicon -->
-{{ partialCached "favicon" .{{ if .IsHome }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",BaseURL
-      "item": "{{ .Permalink }}"
-    }
-  ]
-}
-</script>
-{{ else }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",BaseURL
-      "item": "{{ .Site.BaseURL }}"
-    }
-    {{ $position := 2 }}
-    {{ with .CurrentSection }}
-      ,{
-        "@type": "ListItem",
-        "position": {{ $positiname": "Home",BaseURLon }},
-        "name": "{{ .Title }}",
-        "item": "{{ .Permalink }}"
-      }
-      {{ $position = add $position 1 }}
-    {{ end }}
-    {{ range $index, $element := .Pages }}
-      ,{
-        "@type": "ListItem",
-        "position": {{ add $position $index }},
-        "name": "{{ $element.Title }}",
-        "item": "{{ $element.Permalink }}"
-      }
-    {{ end }}
-  ]
-}
-</script>
-{{ end }}
-
+{{ partialCached "favicon" . }}
 
 <!-- site verifications -->
 {{ partialCached "site-verifications.html" . }}
