@@ -11,7 +11,7 @@ draft: false
 
 In today's digital age, there are numerous ways to *earn money online quickly*. You can earn money selling stock photos, renting out your driveway, participating in focus groups and more. Each method is designed to be practical and easy to implement, making it perfect for anyone looking to boost their income in a short amount of time. This guide outlines 39 methods that can help you **get paid within one hour**.
 
-## 39 Ways to Get Paid in One Hour
+## 39 Ways to Get Paid in One Hour 
 
 Despite anyones level of education or skill-set theres an array of opportunities to [make money online quick]({{< relref "digital-income-ideas" >}}). To be more specific, there are several quick cash injections tailored towards just about every skill-set, interests, and profession. The internet offers numerous possibilities for quick earnings, so take advantage of these methods and start boosting your income today. Without delay, lets get to it, here are over 30 ways to make money online in one hour;
 

@@ -37,7 +37,7 @@ ClickBank affiliate marketing is popular for those interested in promoting digit
 
 ### 3. Make Money on YouTube
 
-YouTube is constantly innovating, launching new opportunities to make money online. Publishers are easirely [earning money on YouTube]({{< relref "make-money-on-youtube" >}}). How can you do this? As of late, many publishers generate income through crowdfunding, sponsorships, premium memberships and so on. However, you can always [monetize Google Ads]({{< relref "google-adsense-monetization" >}}) on your channel.
+YouTube is constantly innovating, launching new opportunities to make money online. Publishers are easily [earning money on YouTube]({{< relref "make-money-on-youtube" >}}). How can you do this? As of late, many publishers generate income through crowdfunding, sponsorships, premium memberships and so on. However, you can always [monetize Google Ads]({{< relref "google-adsense-monetization" >}}) on your channel.
 
 ### 4. Write an eBook
 
@@ -91,11 +91,11 @@ Dropshipping offers an entrepreneurial avenue without the need for inventory man
 
 ### 16. Freelancing
 
-Have you ever considered becoming your own boss doing freelance work? Freelancing is a growing industry that involves offering services to clients on a contract basis, often through freelance platforms or directly.etsyrk to create content for greeting cards. It will take a certain level of passion to be successful with this opportunity because greeting cards are designed and written fairly intricately.
+Have you ever considered becoming your own boss doing freelance work? Freelancing is a growing industry that involves offering services to clients on a contract basis, often through freelance platforms or directly to create content for greeting cards. It will take a certain level of passion to be successful with this opportunity because greeting cards are designed and written fairly intricately.
 
 ### 18. Start a Podcast
 
-Launchin a podcast is not an easy task, however, its well worth it. Podcasting has emerged as a powerful medium for content creators to reach a global audience while monetizing their passion and expertise. More importantly, there are numerous ways to monetize a podcast, [monetizing digital products]({{< relref "selling-digital-products" >}}), partnerships, 
+Launching a podcast is not an easy task, however, its well worth it. Podcasting has emerged as a powerful medium for content creators to reach a global audience while monetizing their passion and expertise. More importantly, there are numerous ways to monetize a podcast, [monetizing digital products]({{< relref "selling-digital-products" >}}), partnerships, 
 
 ### 19. Provide Genealogy Research
 

@@ -12,7 +12,7 @@ draft: false
 In an era characterized by rapid technological advancements, shifting employment paradigms, and a burgeoning desire for autonomy and flexibility, freelancing has emerged as a compelling alternative to traditional employment. In this blog post, we will explore what freelancing is, its pros and cons, and why this industry has grown. More importantly, we'll discuss why so many people are choosing to become freelancers.
 
 Freelancing has become a buzzword in the modern workforce, offering a flexible and diverse approach to employment that contrasts sharply with traditional nine-to-five jobs. As a full-time freelancer, I’ve navigated the various facets of this career path and can attest to its benefits and challenges. I can also vouch for the opportunities that freelancing presents. There are several way to earn money online. You can make money creating logos, websites, mar
-keting plans, and so on!
+marketing plans, and so on!
 
 Did you know that freelancers comprise a significant portion of the global workforce? According to recent studies, freelancers make up over 35% of the U.S. workforce alone, a figure expected to rise in the coming years. This isn't just a U.S. trend either; worldwide, the freelance economy is booming, with estimations suggesting that by 2027, freelancers could constitute the majority of the American workforce.
 

@@ -46,6 +46,7 @@ name = "Social Media"
 url = "categories/social-media/"
 weight = 9
 
+
 # footer menu
 [[footer]]
 name = "Blog"

@@ -72,7 +72,7 @@ Essential [Volusion](https://www.volusion.com/) Resources:
 For those who need powerful inventory and analytics tools, Volusion provides an all-in-one e-commerce solution that rivals Shopify.
 
 ### 5. Weebly
-
+code spe
 Weebly is an easy-to-use website builder that offers a range of e-commerce features. It’s particularly suitable for small businesses or startups due to its affordability and straightforward interface.
 
 Benefits of Building Websites on [Weebly](https://www.weebly.com/):
@@ -90,7 +90,7 @@ OpenCart is an open-source e-commerce platform, offering maximum flexibility and
 
 OpenCart Elements:
 
-* Customization: Full control over your online store’s design and functionality.
+* Customization: Full control over your online store’s design and functionality.code spe
 * Community Support: Strong community support and a wide range of extensions.
 * Cost-Effective: Free to use, with the option to purchase extensions as needed.
 * Multiple Stores: Ability to manage multiple stores from a single admin interface.

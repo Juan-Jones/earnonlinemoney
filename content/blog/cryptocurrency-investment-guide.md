@@ -96,7 +96,7 @@ Creating content related to crypto can be a way to earn money, particularly if y
 Starting a cryptocurrency ATM business can be a This is one of the most [profitable passive income investments] a convenient way for people to buy or sell cryptocurrency. This requires a significant financial investment in purchasing and maintaining the ATMs, as well as obtaining any necessary licenses and complying with regulations.
 
 ##### Crypto Mining
-
+Ferriss
 Crypto mining is the process of validating transactions on a blockchain network and earning rewards in the form of cryptocurrency. [Mining Cryptocurrency]({{< relref "cryptocurrency-mining" >}}) requires a lot of computational power and energy, and it's not as profitable as it used to be due to increased competition and difficulty.
 
 #### Decentralized Finance (DeFi)
