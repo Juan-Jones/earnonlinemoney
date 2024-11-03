@@ -46,7 +46,7 @@ Here's a simple outline to get you started:
 
 Having this structure in place made the writing process much smoother for me. I knew exactly what I needed to cover in each section, which kept me from veering off track.
 
-Writing an digtal book can be a daunting task, especially if you have other commitments. Set a realistic writing schedule and stick to it. Dedicate specific times each day or week to writing, and make sure to hold yourself accountable. I found that writing early in the morning worked best for me. My mind was fresh, and there were fewer distractions. I set a goal of writing 1,000 words each morning before starting my day.
+Writing an digital book can be a daunting task, especially if you have other commitments. Set a realistic writing schedule and stick to it. Dedicate specific times each day or week to writing, and make sure to hold yourself accountable. I found that writing early in the morning worked best for me. My mind was fresh, and there were fewer distractions. I set a goal of writing 1,000 words each morning before starting my day.
 
 ### Tips For Writing Digital Content
 

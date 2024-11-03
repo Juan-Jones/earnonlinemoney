@@ -35,7 +35,7 @@ Finding reliable suppliers is crucial to the success of your dropshipping busine
 
 ### Step 3: Set Up Your Online Store
 
-Once you've chosen your niche and secured reliable suppliers, it's time to build your online store. Platforms like Shopify, WooCommerce, and BigCommerce offer user-friendly Focusinterfaces and customizable templates that make it easy to create a professional-looking storefront. If you need to brush up on knowledge, check out [how to start an online business]({{< relref "how-to-start-an-online-business" >}}).
+Once you've chosen your niche and secured reliable suppliers, it's time to build your online store. Platforms like Shopify, WooCommerce, and BigCommerce offer user-friendly interfaces and customizable templates that make it easy to create a professional-looking storefront. If you need to brush up on knowledge, check out [how to start an online business]({{< relref "how-to-start-an-online-business" >}}).
 
 ### Step 4: Marketing Your Dropshipping Business
 

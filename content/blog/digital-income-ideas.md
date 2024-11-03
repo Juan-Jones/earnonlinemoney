@@ -21,7 +21,7 @@ Creating a steady revenue stream from your online presence involves various stra
 
 ### 2. Affiliate Marketing
 
-Let’s dive into one of the most exciting [digial income ideas](#digital-income-ideas), affiliate marketing, where you promote products and earn commissions for each sale through your referral. A common question I hear is, “Why do some affiliates earn more than others with the same product?” The answer lies in mastering the [fundamentals of affiliate marketing]({{< relref "affiliate-marketing-fundamentals" >}}). Successful affiliates strategically promote niche-focused content, attracting a broad, engaged audience. By using the [best affiliate marketing programs]({{< relref "best-affiliate-programs" >}}) through blogs, social media, or websites, you can attract a broad audience interested in those items.
+Let’s dive into one of the most exciting [digital income ideas](#digital-income-ideas), affiliate marketing, where you promote products and earn commissions for each sale through your referral. A common question I hear is, “Why do some affiliates earn more than others with the same product?” The answer lies in mastering the [fundamentals of affiliate marketing]({{< relref "affiliate-marketing-fundamentals" >}}). Successful affiliates strategically promote niche-focused content, attracting a broad, engaged audience. By using the [best affiliate marketing programs]({{< relref "best-affiliate-programs" >}}) through blogs, social media, or websites, you can attract a broad audience interested in those items.
 
 #### CJ Affiliate
 
