@@ -9,6 +9,8 @@
   ExpiresByType application/javascript "now plus 1 week"
   ExpiresByType application/x-javascript "now plus 1 week"
 
+  Redirect 301 /blog/make-money-online /blog/digital-income-ideas
+
   ## Image files expiration: 1 month after request
   ExpiresByType image/bmp "now plus 1 month"
   ExpiresByType image/gif "now plus 1 month"
