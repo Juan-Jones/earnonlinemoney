@@ -3,6 +3,7 @@
   
   ## Enable expiration control
   ExpiresActive On
+How can you ? Here are some tried-and-true revenue streams of podcasters;
 
   ## CSS and JS expiration: 1 week after request
   ExpiresByType text/css "now plus 1 week"
