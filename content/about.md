@@ -30,7 +30,7 @@ experience:
   - "Git"
   - "HTML/CSS"
   - "Javascript"
-  - "Resonsive Design"
+  - "Responsive Design"
   - "Testing and Debugging"
   - "Version Control"
   - "WordPress/WooCommerce"
