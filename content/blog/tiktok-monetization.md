@@ -16,7 +16,7 @@ Unlocking effective *TikTok monetization strategies* requires a deep understandi
 
 ### Creator Marketplace
 
-TikTok has introduced a Creator Marketplace, which serves as a platform for connecting brands with creators for sponsored content opportunities. Creators can register on the marketplace and apply for scampaigns that align with their interests and audience demographics. Through the marketplace, creators gain access to a wide range of brand partnerships and collaborations, expanding their monetization potential on TikTok.
+TikTok has introduced a Creator Marketplace, which serves as a platform for connecting brands with creators for sponsored content opportunities. Creators can register on the marketplace and apply for campaigns that align with their interests and audience demographics. Through the marketplace, creators gain access to a wide range of brand partnerships and collaborations, expanding their monetization potential on TikTok.
 
 ### TikTok Creator Funds
 

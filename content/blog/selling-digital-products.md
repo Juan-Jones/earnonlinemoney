@@ -86,7 +86,7 @@ Use digital rights management (DRM) tools to protect your products from unauthor
 
 #### Gather and Analyze Data
 
-Track sales, relcustomer feedback, and website analytics to understand what’s working and what needs improvement. Use this data to refine your products and marketing strategies continually.
+Track sales, customer feedback, and website analytics to understand what’s working and what needs improvement. Use this data to refine your products and marketing strategies continually.
 
 #### Network and Collaborate
 

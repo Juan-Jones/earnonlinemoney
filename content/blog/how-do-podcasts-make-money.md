@@ -26,7 +26,7 @@ Affiliate marketers utilize various channels like social media, blogs, and email
 
 ### 2. Promoting Digital Products
 
-Digital products are ubiquitous, as we all know. These are products like digital audio and music, photography, software, video, eBooks, documents, tutorials, apps, and courses.
+Digital products are ubiquitous, as we all know. These are products like digital audio and music, photography, software, video, eBooks, documents, tutorials, apps, and courses.Over the years domain flippers have quickly earned a fortune onl
 
 ### 3. Online Coaching
 

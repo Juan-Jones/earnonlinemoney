@@ -12,7 +12,7 @@ Pricing your online services correctly is crucial for success. This guide covers
 
 ## How to Price Your Online Services
 
-Setting the right price for your online services can be a challenging task. It requires a deep understanding of your costs, your market, and your value proposition. Whether you've just [started an online business]({{< relref "how-to-start-an-online-business" >}}) or becomea freelancer or consultant mastering pricing strategies can significantly impact your profitability and client relationships.
+Setting the right price for your online services can be a challenging task. It requires a deep understanding of your costs, your market, and your value proposition. Whether you've just [started an online business]({{< relref "how-to-start-an-online-business" >}}) or become a freelancer or consultant mastering pricing strategies can significantly impact your profitability and client relationships.
 
 ### Understanding Your Costs
 
