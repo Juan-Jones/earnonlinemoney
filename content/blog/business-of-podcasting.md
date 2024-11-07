@@ -19,11 +19,11 @@ Podcasting has transformed from a niche hobby to a lucrative business opportunit
 
 Before we get into the specifics, let's talk about why podcasting is such a fantastic medium. For starters, it's a platform that allows you to connect with your audience on a deeper level. Your voice, your stories, your personality—all of these come through in a way that written content often can't match. Plus, podcasting is flexible; listeners can tune in while commuting, exercising, or doing household chores.
 
-I [started the podcasting journey]({{< relref "how-to-start-a-podcast" >}}) several years ago, primarily out of curiosity. I'd always loved listening to podcasts and thought, "Why not start my own?" The initial investment was minimal—a decent microphone, some basic editing software, and a lot of enthusiasm. Fast forward to today, my podcast not only serves as a creative outlet but also as a significant source of income. Here's how you can do it too.
+I [started the podcasting journey]({{< ref "how-to-start-a-podcast" >}}) several years ago, primarily out of curiosity. I'd always loved listening to podcasts and thought, "Why not start my own?" The initial investment was minimal—a decent microphone, some basic editing software, and a lot of enthusiasm. Fast forward to today, my podcast not only serves as a creative outlet but also as a significant source of income. Here's how you can do it too.
 
 ## How to Make Money Podcasting
 
-Millions of dollars are being generated through podcasts, with personalities like Joe Rogan and Shannon Sharpe making it look effortless. Shannon Sharpe, for instance, earned over $6 million from a single interview, proving that the sky is truly the limit in podcasting. At any rate, here are a few tried-and-true avenues to [make money podcasting]({{< relref "how-do-podcasts-make-money" >}});
+Millions of dollars are being generated through podcasts, with personalities like Joe Rogan and Shannon Sharpe making it look effortless. Shannon Sharpe, for instance, earned over $6 million from a single interview, proving that the sky is truly the limit in podcasting. At any rate, here are a few tried-and-true avenues to [make money podcasting]({{< ref "how-do-podcasts-make-money" >}});
 
 * Podcast Advertising: Once you have a sizable audience, you can start attracting advertisers who want to reach your listeners.
 * Podcast Sponsorships: Similar to advertising, sponsorships involve partnering with brands that align with your podcast's theme or audience.
@@ -86,7 +86,7 @@ Starting a podcast can seem daunting, but with the right tools and a bit of plan
 
 * Choose Your Topic: Pick a niche you're passionate about and that has a potential audience.
 * Plan Your Episodes: Outline your content and plan your episodes in advance.
-* [Create Podcasting Equipment Budget Plan]({{< relref "podcasting-equipment-budget" >}}): Write down a equipment budget. Find good deals for quality equipment.
+* [Create Podcasting Equipment Budget Plan]({{< ref "podcasting-equipment-budget" >}}): Write down a equipment budget. Find good deals for quality equipment.
 * Record and Edit: Find a quiet space to record and use editing software to polish your episodes.
 * Host and Distribute: Choose a podcast hosting platform and distribute your episodes to major podcast directories like Apple Podcasts and Spotify.
 

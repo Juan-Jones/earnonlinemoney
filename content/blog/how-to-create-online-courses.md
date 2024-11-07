@@ -36,7 +36,7 @@ Clearly defined learning objectives help students understand what they'll gain f
 
 ### Choose the Best Platforms for Online Courses
 
-Selecting the [best platforms for online courses]({{< relref "best-online-course-platforms" >}}) to host your content is crucial for the success of your course. Consider factors like ease of use, features, pricing, and audience reach. Some popular options include:
+Selecting the [best platforms for online courses]({{< ref "best-online-course-platforms" >}}) to host your content is crucial for the success of your course. Consider factors like ease of use, features, pricing, and audience reach. Some popular options include:
 
 * Teachable: Known for its user-friendly interface and powerful marketing tools.
 * Udemy: Offers a massive audience and extensive marketing support.
@@ -48,11 +48,11 @@ Once you've chosen a platform, it's time to set up your course. This typically i
 
 ### Market Your Online Course
 
-An effective marketing strategy is essential for attracting students. To successfully [market your online course]({{< relref "marketing-your-online-course" >}}), use various channels such as social media, email marketing, and SEO. Engaging content and testimonials can attract potential students. Additionally, offering free previews or discounts can entice users to enroll in the course.
+An effective marketing strategy is essential for attracting students. To successfully [market your online course]({{< ref "marketing-your-online-course" >}}), use various channels such as social media, email marketing, and SEO. Engaging content and testimonials can attract potential students. Additionally, offering free previews or discounts can entice users to enroll in the course.
 
 ### Monetize Your Online Course
 
-[Monetizing online courses]({{< relref "make-money-teaching-online-courses" >}}) can be achieved through different methods such as subscription models, one-time fees, or offering certification upon completion. Partnering with educational platforms and promoting courses through social media can enhance visibility and sales.
+[Monetizing online courses]({{< ref "make-money-teaching-online-courses" >}}) can be achieved through different methods such as subscription models, one-time fees, or offering certification upon completion. Partnering with educational platforms and promoting courses through social media can enhance visibility and sales.
 
 ### Pricing Your Course
 

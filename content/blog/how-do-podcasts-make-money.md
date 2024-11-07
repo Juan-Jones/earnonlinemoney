@@ -17,8 +17,8 @@ To begin, this market is booming, and it’s diverse. People listen to or watch 
 
 In recent years, podcasts have surged in popularity, captivating audiences with their diverse range of topics and engaging content. But amidst the captivating storytelling and insightful discussions, have you ever wondered how podcasters actually make money?
 
-* The Business of Side Podcasting: There are several ways to earn revenue podcasting. But first, you must focus on the [business aspects of podcasting]({{< relref "business-of-podcasting" >}}). That way your platform is at it's best from start to finish. Building a powerful podcast business takes time, effort, and dedication.
-* Start Developing Your Podcasts: With dedication, creativity, and persistence, anyone can [start a podcast]({{< relref "how-to-start-a-podcast" >}}) and share their voice with the world. Embrace the journey, learn from your experiences, and enjoy the process of creating meaningful content that resonates with your audience. Here are 9 ways to make money podcasting:
+* The Business of Side Podcasting: There are several ways to earn revenue podcasting. But first, you must focus on the [business aspects of podcasting]({{< ref "business-of-podcasting" >}}). That way your platform is at it's best from start to finish. Building a powerful podcast business takes time, effort, and dedication.
+* Start Developing Your Podcasts: With dedication, creativity, and persistence, anyone can [start a podcast]({{< ref "how-to-start-a-podcast" >}}) and share their voice with the world. Embrace the journey, learn from your experiences, and enjoy the process of creating meaningful content that resonates with your audience. Here are 9 ways to make money podcasting:
 
 ### 1. Advertising Affiliate Programs
 
@@ -80,7 +80,7 @@ Platforms like Spotify have been signing exclusive deals with popular podcasts t
 
 #### Do Podcasts Cost Money?
 
-Yes, starting a podcast can involve various costs, so it's important to consider your [podcast budget]({{< relref "podcasting-equipment-budget" >}})x carefully. When starting a business, especially in the podcasting realm, expenses such as equipment, hosting, and marketing can add up quickly. While some platforms offer free services, investing in quality tools and promotion often yields better results. Planning your podcast budget from the beginning ensures you allocate resources efficiently and helps set a strong foundation for your new venture.
+Yes, starting a podcast can involve various costs, so it's important to consider your [podcast budget]({{< ref "podcasting-equipment-budget" >}})x carefully. When starting a business, especially in the podcasting realm, expenses such as equipment, hosting, and marketing can add up quickly. While some platforms offer free services, investing in quality tools and promotion often yields better results. Planning your podcast budget from the beginning ensures you allocate resources efficiently and helps set a strong foundation for your new venture.
 
 develop professional content, the entrepreneur creating the podcast must have the proper equipment. There are two ways to develop content for a podcast. The first way is to record content at a studio. Whereas the second way is to record content yourself.
 

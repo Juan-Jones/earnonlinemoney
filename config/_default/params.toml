@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "/favicon.ico"
+favicon = "logo.png"
 # logo
 logo = "images/logo.png"
 # use `x` with logo_width, example: "100x".

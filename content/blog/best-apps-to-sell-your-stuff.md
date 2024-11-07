@@ -14,7 +14,7 @@ Did you know each year billions of dollars are earned through selling items? In 
 
 ## Best Apps to Sell Your Stuff
 
-Today, there's a plethora of apps available that allow you to sell your stuff quickly and efficiently right from your smartphone. Whether you're looking to declutter your home or a [creative side hustle]({{< relref "creative-side-hustles" >}}) to make some extra cash, these apps offer a convenient platform to connect with buyers worldwide. Without further due, lets dive into the **best apps to sell your stuff**.
+Today, there's a plethora of apps available that allow you to sell your stuff quickly and efficiently right from your smartphone. Whether you're looking to declutter your home or a [creative side hustle]({{< ref "creative-side-hustles" >}}) to make some extra cash, these apps offer a convenient platform to connect with buyers worldwide. Without further due, lets dive into the **best apps to sell your stuff**.
 
 ### 1. eBay
 
@@ -58,7 +58,7 @@ Carousell.com is a mobile marketplace app that originated in Singapore and has s
 
 ### 11. Craigslist
 
-Craigslist.org has been a major resource for sellers since. Across the globe, internet entrepreneurs have earned thousands selling products through classified ad sites. It's one of the best side hustles of the internet. Many people around the world use these basic techniques to [sell items on Craigslist]({{< relref "make-money-on-craigslist" >}}), and so can you.
+Craigslist.org has been a major resource for sellers since. Across the globe, internet entrepreneurs have earned thousands selling products through classified ad sites. It's one of the best side hustles of the internet. Many people around the world use these basic techniques to [sell items on Craigslist]({{< ref "make-money-on-craigslist" >}}), and so can you.
 
 ### 12. Decluttr
 
@@ -66,4 +66,4 @@ DeCluttr.com is a place to get rid of things you have lying around. Have you eve
 
 #### Turn Unwanted Items Into Cash
 
-In conclusion, there are numerous apps available to help you sell your stuff online, each offering its own unique features and benefits, like [opportunities to earn cashback]({{< relref "earn-cash-back" >}}), ways to earn rewards etc. Whether you're looking to declutter your home, make some extra cash, or find unique treasures. By leveraging the power of technology, you can turn your unwanted items into cash with just a few taps on your smartphone. So why wait? Start decluttering and selling your stuff today!
+In conclusion, there are numerous apps available to help you sell your stuff online, each offering its own unique features and benefits, like [opportunities to earn cashback]({{< ref "earn-cash-back" >}}), ways to earn rewards etc. Whether you're looking to declutter your home, make some extra cash, or find unique treasures. By leveraging the power of technology, you can turn your unwanted items into cash with just a few taps on your smartphone. So why wait? Start decluttering and selling your stuff today!

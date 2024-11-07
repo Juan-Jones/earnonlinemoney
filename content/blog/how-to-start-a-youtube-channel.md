@@ -22,7 +22,7 @@ Many publishers have partnered with YouTube’s network to make money over the l
 
 ### 2. Create a YouTube Brand Identity
 
-Your YouTube channel is an extension of your brand, so it's essential to develop a cohesive YouTube brand identity that reflects your personality and values. Choose a memorable channel name that resonates with your niche and audience. You may also want to create a compelling logo and channel art that visually represent your brand.
+Your YouTube channel is an extension of your brand, so it's essential to develop a cohesive YouTube brand identity that reflects your personali/favicon.icoty and values. Choose a memorable channel name that resonates with your niche and audience. You may also want to create a compelling logo and channel art that visually represent your brand.
 
 Consistency is key when building your brand identity. Use the same color scheme, fonts, and imagery across all your channel assets to create a cohesive look and feel.
 
@@ -42,7 +42,7 @@ Don't forget to optimize your channel settings for searchability by including re
 
 ### 5. Choose a Type of YouTube Channel
 
-* Vlogs: [Vlogging channels]({{< relref "how-to-start-a-vlog" >}}) are personal video diaries where creators share their daily lives, thoughts, and experiences.
+* Vlogs: [Vlogging channels]({{< ref "how-to-start-a-vlog" >}}) are personal video diaries where creators share their daily lives, thoughts, and experiences.
 * Gaming: Gaming channels focus on video game content. This can range from Let's Plays and walkthroughs to reviews and live streaming.
 * Educational: Educational channels provide instructional content on a wide variety of subjects.
 * Beauty and Fashion: These channels are popular for their practical advice and often feature product reviews and collaborations with brands.
@@ -90,7 +90,7 @@ Once you've built a loyal audience and consistently produce high-quality content
 
 ### 10. Grow Social Media Presense
 
-Building an audience on YouTube takes time and effort. Consistently posting high-quality content and engaging with your audience is essential to [grow your social media presence]({{< relref "building-a-social-media-presence" >}}). Use eye-catching thumbnails and compelling titles to attract viewers. Interacting with comments and participating in community discussions can foster a loyal subscriber base.
+Building an audience on YouTube takes time and effort. Consistently posting high-quality content and engaging with your audience is essential to [grow your social media presence]({{< ref "building-a-social-media-presence" >}}). Use eye-catching thumbnails and compelling titles to attract viewers. Interacting with comments and participating in community discussions can foster a loyal subscriber base.
 
 #### How to Boost Traffic on YT
 

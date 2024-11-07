@@ -15,7 +15,7 @@ Cash back rewards are incentives offered by credit card companies, retailers, an
 
 ## How Does it Work?
 
-Let's start with the basics. Cash back is like a hidden treasure waiting to be discovered. It's essentially a percentage of the amount you spend that is returned to you. Picture it as a thank you bonus for being an avid app user. Or, a [way to make money on the side]({{< relref "creative-side-hustles" >}}) for being a loyal customer. Here is a easy . Instead of businesses paying billions for millions for ads on the T.V. or radio, they would rather pay you! This is cost-friendly for them, for you, a side hustle to earn additional cash.
+Let's start with the basics. Cash back is like a hidden treasure waiting to be discovered. It's essentially a percentage of the amount you spend that is returned to you. Picture it as a thank you bonus for being an avid app user. Or, a [way to make money on the side]({{< ref "creative-side-hustles" >}}) for being a loyal customer. Here is a easy . Instead of businesses paying billions for millions for ads on the T.V. or radio, they would rather pay you! This is cost-friendly for them, for you, a side hustle to earn additional cash.
 
 ## How to Earn Cashback From Apps and Credit Cards
 
@@ -24,7 +24,7 @@ Enter the world of earning cash back from apps app. There are several apps desig
 ### Maximizing Rebates on Online Purchases
 
 Online shopping has made it easier than ever to earn rebates. Many websites and apps offer cash back for purchases made through their platforms.
-]({{< relref "creative-side-hustles" >}}) for being a loyal customer. Here is a easy . Instead of businesses paying billions for millions for ads on the T.V. or radio, they would rather pay you! This is cost-friendly for them, for you, a side hustle to earn additional cash.
+]({{< ref "creative-side-hustles" >}}) for being a loyal customer. Here is a easy . Instead of businesses paying billions for millions for ads on the T.V. or radio, they would rather pay you! This is cost-friendly for them, for you, a side hustle to earn additional cash.
 
 * Rakuten: Formerly known as Ebates, [Rakuten](https://www.rakuten.com/r/JONESD1531?eeid=28187) provides up to 40% cash back at over 2,500 stores.
 * Honey: Besides finding discount codes, Honey offers cash back through its Honey Gold program.
@@ -64,7 +64,7 @@ Many retailers have their own rewards programs, allowing loyal customers to earn
 
 ### Exploring Cash Back Apps
 
-There are numerous apps designed to help consumers earn cash back on their everyday purchases, you can also [earn cash playing games]({{< relref  "play-games-for-cash" >}}).
+There are numerous apps designed to help consumers earn cash back on their everyday purchases, you can also [earn cash playing games]({{< ref  "play-games-for-cash" >}}).
 
 * Ibotta: Offers cash back on groceries, apparel, electronics, and more.
 * Dosh: Automatically gives cash back when you shop at participating stores and restaurants.
@@ -93,7 +93,7 @@ Selecting the right credit card is the first step in maximizing rewards. Differe
 * Rakuten: Rakuten, formerly known as Ebates, is a place to go online shopping. In addition, it is one of the largest eCommerce sites in the world. Members can receive up to % from purchases. You can also receive $ for every member you refer. Signing up for a Rakuten membership is free!
 * CheckOut: At Checkout, members can find multiple ways to earn money. You can get rebates for gas or groceries. You can easily start saving money on brands that you love! Then earn money or rewards every time you make a purchase. In the event you leave your cell phone at home, don't worry, you can use Checkout from any device.
 * Dosh: Dosh is definitely one of the easiest systems to use. All you have to do is provide your credit or debit card number to be reimbursed, and Dosh does the rest. Most sites will require you to take a snapshot of your receipt to be reimbursed. Dosh gives members cash back automatically for dining, shopping, booking hotels, and much more.
-* Ibotta: If you like freebies, you'll love Ibotta! Ibotta not only [pays you for surveys]({{< relref "best-survey-sites" >}}) but they will will give you $ just to sign up and use their services. People have saved over million dollars using Ibotta’s site. The company partners with over, retailers. This provides you with many options to earn rewards.
+* Ibotta: If you like freebies, you'll love Ibotta! Ibotta not only [pays you for surveys]({{< ref "best-survey-sites" >}}) but they will will give you $ just to sign up and use their services. People have saved over million dollars using Ibotta’s site. The company partners with over, retailers. This provides you with many options to earn rewards.
 * MyGiftCards: MyGiftCards is an app you can use to buy gift cards and get cashback! They have some of the most popular companies in the U.S. You can find gift cards for Lowes, Target, Nike, and many others. So if you need extra money for the holidays, try MyGiftCards.
 * SavingStar: SavingStar.com has several opportunities for members to get cashback or rebates. They partner with over, stores, providing you with many options for savings. When your account reaches $, you can withdraw your funds to your bank PayPal account or donate to charity.
 * Wikibuy: WikiBuy is an excellent resource to find the best deals on items for your household. You can use this site to compare prices on products that you need. Wikibuy also comes with a browser extension for those who shop from desktops.

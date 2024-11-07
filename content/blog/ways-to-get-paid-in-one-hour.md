@@ -13,7 +13,7 @@ In today's digital age, there are numerous ways to *earn money online quickly*. 
 
 ## 39 Ways to Get Paid in One Hour 
 
-Despite anyones level of education or skill-set theres an array of opportunities to [make money online quick]({{< relref "digital-income-ideas" >}}). To be more specific, there are several quick cash injections tailored towards just about every skill-set, interests, and profession. The internet offers numerous possibilities for quick earnings, so take advantage of these methods and start boosting your income today. Without delay, lets get to it, here are over 30 ways to make money online in one hour;
+Despite anyones level of education or skill-set theres an array of opportunities to [make money online quick]({{< ref "digital-income-ideas" >}}). To be more specific, there are several quick cash injections tailored towards just about every skill-set, interests, and profession. The internet offers numerous possibilities for quick earnings, so take advantage of these methods and start boosting your income today. Without delay, lets get to it, here are over 30 ways to make money online in one hour;
 
 ## 1. Complete Microtasks
 
@@ -29,7 +29,7 @@ Do you have stock photos in your possession? If so you can get paid selling phot
 
 ### 4. Create a Quick E-book
 
-If you have knowledge in a particular area, consider [writing a short e-book]({{< relref "how-to-write-an-ebook" >}}). With tools like Amazon Kindle Direct Publishing and Smashwords, you can publish and start selling your e-book within an hour. Earnings depend on the price and number of sales.
+If you have knowledge in a particular area, consider [writing a short e-book]({{< ref "how-to-write-an-ebook" >}}). With tools like Amazon Kindle Direct Publishing and Smashwords, you can publish and start selling your e-book within an hour. Earnings depend on the price and number of sales.
 
 ### 6. Rent Out Your Driveway
 
@@ -69,7 +69,7 @@ If you have expertise in a specific field, consider offering consulting services
 
 ### 14. Create and Sell Digital Products
 
-Creating and selling digital products, such as printables, templates, and design assets, can be a profitable venture. Websites like Etsy and Creative Market allow you to [sell your digital products]({{< relref "selling-digital-products" >}}) to a wide audience.
+Creating and selling digital products, such as printables, templates, and design assets, can be a profitable venture. Websites like Etsy and Creative Market allow you to [sell your digital products]({{< ref "selling-digital-products" >}}) to a wide audience.
 
 ### 15. Participate in Affiliate Marketing
 
@@ -77,7 +77,7 @@ Affiliate marketing involves promoting products and earning a commission for eac
 
 ### 16. Take Online Surveys
 
-Online surveys are a quick and easy way to make money. Companies like Swagbucks, Survey Junkie, and Vindale Research pay users to share their opinions on products and services. You can earn anywhere from $1 to $50 using the [best survey sites]({{< relref "best-survey-sites" >}}), depending on the length and complexity.
+Online surveys are a quick and easy way to make money. Companies like Swagbucks, Survey Junkie, and Vindale Research pay users to share their opinions on products and services. You can earn anywhere from $1 to $50 using the [best survey sites]({{< ref "best-survey-sites" >}}), depending on the length and complexity.
 
 ### 17. Offer Pet Sitting or Dog Walking Services
 

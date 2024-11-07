@@ -12,10 +12,10 @@ draft: false
 
 The concept of microtasks has gained significant traction, revolutionizing how work is distributed, completed, and managed across various industries. Microtasks, often characterized by their small, manageable nature, play a crucial role in streamlining processes, optimizing efficiency, and harnessing the power of distributed labor.
 ## What is Microtasks
-A microtask is an [online side hustle]({{< relref "creative-side-hustles" >}}) or task that can be completed in a relatively short amount of time, typically ranging from seconds to a few minutes. These tasks are often simple, repetitive, and require minimal cognitive effort, making them ideal for crowdsourcing and outsourcing to a distributed workforce.
+A microtask is an [online side hustle]({{< ref "creative-side-hustles" >}}) or task that can be completed in a relatively short amount of time, typically ranging from seconds to a few minutes. These tasks are often simple, repetitive, and require minimal cognitive effort, making them ideal for crowdsourcing and outsourcing to a distributed workforce.
 ### Advantages of Micro-Tasking
 * Diverse Opportunities: The range of micro-tasks available is extensive, catering to different skills and interests. Whether you excel in data entry, content creation, or graphic design, there are micro-tasks suited to your abilities.
-* Quick Turnaround: Micro-tasking often involves completing tasks within a short timeframe, just as fast as [taking surveys]({{< relref "best-survey-sites" >}}) This quick turnaround not only benefits task providers but also allows workers to see the results of their efforts promptly.
+* Quick Turnaround: Micro-tasking often involves completing tasks within a short timeframe, just as fast as [taking surveys]({{< ref "best-survey-sites" >}}) This quick turnaround not only benefits task providers but also allows workers to see the results of their efforts promptly.
 ## Disadvantages of Micro-Tasking
 While micro-tasking presents numerous advantages, it's essential to acknowledge and address potential challenges:
 
@@ -25,7 +25,7 @@ While micro-tasking presents numerous advantages, it's essential to acknowledge 
 ## Where to Find Find Microtask Gigs
 Microtasking has emerged as a flexible and accessible way for individuals to earn extra income. Several online platforms offer a plethora of microtasking opportunities, catering to a wide range of skills and interests.
 
-For those with a flair for creativity, you can [get paid for your photos]({{< relref "get-paid-for-photos" >}}). You can also find featured microtasking gigs on Upwork in areas like graphic design, writing, and digital marketing.
+For those with a flair for creativity, you can [get paid for your photos]({{< ref "get-paid-for-photos" >}}). You can also find featured microtasking gigs on Upwork in areas like graphic design, writing, and digital marketing.
 ### Your Favorite Social Media Channels
 Social media platforms often host microtasking opportunities as well, with companies seeking assistance in content moderation, data entry, and online research. Exploring these diverse avenues allows individuals to tap into the world of microtasking, finding gigs that align with their skills and interests while offering the flexibility to work on their terms.
 ### CrowdSourcing Platforms

@@ -18,7 +18,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
-<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+{{- if .Params.description -}}
+  <meta name="description" content="{{ .Params.description | htmlEscape }}">
+{{- else if .Content -}}
+  <meta name="description" content="{{ .Content | plainify | truncate 160 | htmlEscape }}">
+{{- else -}}
+  <meta name="description" content="Default site description for {{ .Site.Title }}">
+{{- end -}}
+
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
 {{ partial "basic-seo.html" . }}
