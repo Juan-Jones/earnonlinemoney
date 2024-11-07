@@ -1,5 +1,5 @@
 ---
-title: "What is Freelancing?"
+title: "What is Freelancing"
 description: "Explore freelancing fundamentals along with key elements, earning potential and more."
 image: "images/whats-freelancing.jpg"
 date: 2020-01-11T18:19:25+06:00

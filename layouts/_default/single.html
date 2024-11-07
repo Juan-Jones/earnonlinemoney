@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-<!-- Checking if the content belongs to specific blog-related sections -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") }}
+<!-- checking blog -->
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
 <!--=================== section start ===================-->
 <section class="section-sm">
@@ -9,15 +9,23 @@
     <div class="row">
       <div class="col-lg-8 mb-5 mb-lg-0">
         <!-- image path -->
-        {{ $imagePath := .Params.image }}
-        {{ $altText := .Params.alt | default .Title }} <!-- Fetching alt text from front matter, fallback to post title -->
+        {{ $imagePath:= .Params.image }}
         {{ if $imagePath }}
         <div class="position-relative">
-          <!-- Updated to include alt text -->
-          {{ partial "image.html" (dict "Src" $imagePath "Alt" $altText "Class" "img-fluid mb-5 w-100 rounded-4" ) }}
+          {{ partial "image.html" (dict "Src" $imagePath "Alt" .Title "Class" "img-fluid mb-5 w-100 rounded-4" ) }}
+          <ul class="list-inline card-badge">
+            {{ range .Params.categories }}
+            <li class="list-inline-item">
+              <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
+            </li>
+            {{ end }}
+          </ul>
         </div>
+        {{ else }}
+        {{ range .Params.categories }}
+        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary mb-4 d-inline-block">{{. | title}}</a>
         {{ end }}
-        
+        {{ end }}
         <h1 class="h3 mb-4">{{.Title | markdownify}}</h1>
         <ul class="list-inline card-meta d-flex align-items-center mb-4">
           <li class="list-inline-item d-flex align-items-center">
@@ -30,21 +38,43 @@
           </li>
         </ul>
         <div class="content drop-cap">{{.Content}}</div>
-        
-      <!-- Include BreadcrumbList Schema -->
-      {{ partial "_blogposting_schema.html" . }}
+      </div>
       <!-- sidebar widgets -->
       <aside class="col-lg-4">
-        {{ $widget := site.Params.widgets.sidebar }}
+        {{ $widget:= site.Params.widgets.sidebar }}
         {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
       </aside>
     </div>
   </div>
 </section>
-<!--=================== Blog Section End ===================-->
+<!--=================== section end ===================-->
 
+<!--=================== section start ===================-->
+<section class="section-sm pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2 class="h4 title-border">{{ site.Params.related_posts }}</h2>
+        </div>
+      </div>
+    </div>
 
-<!-- Handling regular pages -->
+    <!-- related post -->
+<div class="row">
+  {{ $currentCategories := .Params.categories }}
+  {{ $related := where (where site.RegularPages "Params.categories" "intersect" $currentCategories) "Title" "!=" .Title }}
+  
+  {{ range first 3 $related }}
+  <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+    {{ .Render "post" }}
+  </div>
+  {{ end }}
+</div>
+</section>
+<!--=================== section end ===================-->
+
+<!-- regular page -->
 {{ else }}
 {{ partial "page-header.html" . }}
 <section class="section-sm">
@@ -52,7 +82,7 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         <div class="content">
-          {{ .Content }}
+          {{.Content}}
         </div>
       </div>
     </div>
@@ -60,6 +90,5 @@
 </section>
 {{ end }}
 <!-- /regular page -->
-
 
 {{ end }}

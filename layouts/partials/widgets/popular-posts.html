@@ -1,0 +1,16 @@
+<div class="widget popular-posts-widget">
+  <div class="widget-title">
+    <h3 class="h5 title-border">Popular Posts</h3>
+  </div>
+<ul class="list-unstyled">
+  {{ $pages := where .Site.RegularPages "Params.popular_posts" true }}
+  {{ if gt (len $pages) 0 }}
+    {{ range first 4 $pages }}
+      <li class="mb-2">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  {{ else }}
+    <li>No popular posts found.</li>
+  {{ end }}
+</ul>
