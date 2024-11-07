@@ -29,7 +29,7 @@ The eBay Affiliate Program allows affiliates to promote millions of products ava
 #### 2.3 ClickBank Affiliate Marketing
 
 ClickBank affiliate marketing is popular for those interested in promoting digital products, such as e-books, courses, and software. With a high payout rate and access to products in many categories, affiliates have a chance to earn substantial commissions. For those seeking digital-focused income streams, [ClickBank affiliate marketing]({{< ref "clickbank-affiliate-marketing-for-beginners" >}}) provides a lucrative option.
-[text](clickbank-affiliate-marketing-for-beginners.md)
+
 ### 3. Make Money on YouTube
 
 YouTube is constantly innovating, launching new opportunities to make money online. Publishers are easily [earning money on YouTube]({{< ref "make-money-on-youtube" >}}). How can you do this? As of late, many publishers generate income through crowdfunding, sponsorships, premium memberships and so on. However, you can always [monetize Google Ads]({{< ref "google-adsense-monetization" >}}) on your channel.
