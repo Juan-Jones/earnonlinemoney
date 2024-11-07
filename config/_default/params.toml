@@ -69,7 +69,6 @@ image = "images/article-img.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Complete online earning guide for beginners, students, and stay-at-home moms. Discover tips for freelancing, marketing, investing, and more. Start your journey today!"
 
-
 # Advertise
 [advertisement]
 image = "images/earn-internet-income.png"
