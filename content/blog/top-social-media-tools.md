@@ -8,7 +8,7 @@ type: "regular" # available types: [featured/]
 draft: false
 ---
 
-In the digital age, social media has become an indispensable tool for businesses looking to enhance their online presence, engage with customers, and drive growth. However, navigating the myriad of social media platforms and tools available can be daunting. But if you have the right social media tools, you can easily [build a social media presence]({{< ref "building-a-social-media-presence" >}}).
+In the digital age, social media has become an indispensable tool for businesses looking to enhance their online presence, engage with customers, and drive growth. However, navigating the myriad of social media platforms and tools available can be daunting. But if you have the right social media tools, you can easily [build a social media presence]({{< relref "building-a-social-media-presence" >}}).
 
 ## Best Social Media Tools
 

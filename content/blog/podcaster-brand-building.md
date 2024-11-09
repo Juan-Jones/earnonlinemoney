@@ -15,7 +15,7 @@ In today's digital age, podcasting has emerged as one of the most powerful mediu
 
 One of the first steps in creating a podcast is finding your unique voice. Think about what makes your perspective different from others. What unique experiences, insights, or humor do you bring to the table?
 
-I remember when I started my first podcast. I was nervous about being just another voice among thousands. Then, I realized that my quirky sense of humor and love for obscure history could be my niche. By focusing on what I genuinely enjoyed and was passionate about, I found my unique voice. It made recording episodes fun and resonated with my audience. Hence, if this if your first time [launching a podcast]({{< ref "how-to-start-a-podcast" >}}) it may not feel comfortable right away. But the more you do it, the more comfortable you will feel.
+I remember when I started my first podcast. I was nervous about being just another voice among thousands. Then, I realized that my quirky sense of humor and love for obscure history could be my niche. By focusing on what I genuinely enjoyed and was passionate about, I found my unique voice. It made recording episodes fun and resonated with my audience. Hence, if this if your first time [launching a podcast]({{< relref "how-to-start-a-podcast" >}}) it may not feel comfortable right away. But the more you do it, the more comfortable you will feel.
 
 * Developing a Distinctive Podcast Personality: Your podcast’s personality is an extension of your own. Are you serious and informative, or casual and comedic? Whatever it is, consistency is key. Listeners come back because they connect with the personality behind the microphone. For example, a friend of mine started a tech podcast. At first, he struggled to find his footing, but once he embraced his naturally enthusiastic and slightly nerdy personality, his podcast took off. His listeners loved the genuine excitement he brought to each episode.
 * Establishing Your Podcast's Unique Selling Proposition (USP): Your USP sets you apart from other podcasts. It's the unique benefit that listeners get from tuning into your show. This could be a unique format, expert guests, or exclusive insights. Take some time to brainstorm what makes your podcast special. Maybe you offer in-depth interviews with industry leaders or a unique storytelling style. Whatever it is, make sure it’s clear to your audience.
@@ -189,7 +189,7 @@ A fellow podcaster I know started with a broad tech podcast but later rebranded 
 
 ### Create a Podcast Equipment Budget
 
-For beginners, if you're working with a small budget. Create a [podcasting equipment budget]({{< ref "podcasting-equipment-budget" >}}). Investing in quality equipment is crucial for producing professional-sounding podcasts, i.e., good microphone, headphones, and recording software. However, you can. However, don't break yourself!
+For beginners, if you're working with a small budget. Create a [podcasting equipment budget]({{< relref "podcasting-equipment-budget" >}}). Investing in quality equipment is crucial for producing professional-sounding podcasts, i.e., good microphone, headphones, and recording software. However, you can. However, don't break yourself!
 
 #### Conclusion
 

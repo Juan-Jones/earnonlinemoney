@@ -14,7 +14,7 @@ In the ever-evolving landscape of online commerce, choosing the right ecommerce 
 
 3 Ingredients to Launch an Successful Online Store:
 
-1. Define Your Business Goals: What are your primary objectives to [launch an ecommerce store]({{< ref "launch-an-ecommerce-store" >}})? Are you looking to increase sales, expand your reach, or streamline your operations? Clearly outlining your business goals will guide your platform selection process and enable you to prioritize features that are essential to your success.
+1. Define Your Business Goals: What are your primary objectives to [launch an ecommerce store]({{< relref "launch-an-ecommerce-store" >}})? Are you looking to increase sales, expand your reach, or streamline your operations? Clearly outlining your business goals will guide your platform selection process and enable you to prioritize features that are essential to your success.
 2. Know Your Audience: Understanding your target audience is paramount in creating a seamless shopping experience.
 3. Evaluate Your Product Range: Whether you're selling physical goods, digital products, or services, the nature of your offerings will influence your platform requirements.
 
@@ -26,7 +26,7 @@ Before diving into the array of ecommerce platforms, it's essential to assess yo
 
 ### 1. Shopify
 
-Want to [sell on Shopify]({{< ref "sell-on-shopify" >}})? Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With Shopifys extensive app stores and intuitive interface users can create customizable online stores with ease. Key features include:
+Want to [sell on Shopify]({{< relref "sell-on-shopify" >}})? Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With Shopifys extensive app stores and intuitive interface users can create customizable online stores with ease. Key features include:
 
 * User-friendly interface,
 * Extensive app store for additional functionalities,
@@ -34,7 +34,7 @@ Want to [sell on Shopify]({{< ref "sell-on-shopify" >}})? Shopify stands as one 
 * Mobile-responsive themes,
 * Built-in SEO features.
 
-Explore [Shopify Alternative Stores]({{< ref "shopify-alternatives" >}})!
+Explore [Shopify Alternative Stores]({{< relref "shopify-alternatives" >}})!
 
 ### 2. WooCommerce
 
@@ -114,7 +114,7 @@ Reach out to fellow entrepreneurs, industry peers, and online communities for fe
 
 ### Implement Ecommerce Marketing Strategies
 
-Once your store is set up, it's crucial to implement [ecommerce marketing strategies]({{< ref "ecommerce-marketing-tips" >}}). Techniques such as SEO, social media marketing, and email campaigns are vital. They help increase visibility and drive traffic to your site. Consistent analysis and optimization of these strategies ensure continued growth and success.
+Once your store is set up, it's crucial to implement [ecommerce marketing strategies]({{< relref "ecommerce-marketing-tips" >}}). Techniques such as SEO, social media marketing, and email campaigns are vital. They help increase visibility and drive traffic to your site. Consistent analysis and optimization of these strategies ensure continued growth and success.
 
 ### Selecting the Best Ecommerce Platform
 

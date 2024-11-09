@@ -12,11 +12,11 @@ Investing is both an art and a science, requiring a keen understanding of market
 
 ## Top 12 Investors
 
-Top investors are known for their keen market insights, strategic risk management, and knack for [passive income investments]({{< ref "passive-income-ideas" >}}). They often diversify their portfolios across various sectors to minimize risk and maximize returns. Consistent research and staying informed about global economic trends are crucial to their success. Their ability to identify undervalued assets and long-term growth opportunities sets them apart.
+Top investors are known for their keen market insights, strategic risk management, and knack for [passive income investments]({{< relref "passive-income-ideas" >}}). They often diversify their portfolios across various sectors to minimize risk and maximize returns. Consistent research and staying informed about global economic trends are crucial to their success. Their ability to identify undervalued assets and long-term growth opportunities sets them apart.
 
 ### 1. Warren Buffett
 
-Warren Buffett, known as the "Oracle of Omaha," follows a value investing approach. He focuses on companies with strong fundamentals, [purchasing stocks]({{< ref "stocks-vs-bonds" >}}) and holding them for the long term.
+Warren Buffett, known as the "Oracle of Omaha," follows a value investing approach. He focuses on companies with strong fundamentals, [purchasing stocks]({{< relref "stocks-vs-bonds" >}}) and holding them for the long term.
 
 Notable Achievements
 
@@ -90,4 +90,4 @@ Jim Simons, founder of Renaissance Technologies, employs quantitative analysis a
 
 Simons' Medallion Fund is renowned for its high returns, averaging around 40% annually, making it one of the most successful hedge funds in history.
 
-These twelve investors have not only achieved remarkable financial success but have also influenced the broader investment community by sharing [investment strategies]({{< ref "introduction-to-investing" >}}) and insights. Their contributions continue to shape the financial landscape, offering valuable lessons for both novice and experienced investors alike.
+These twelve investors have not only achieved remarkable financial success but have also influenced the broader investment community by sharing [investment strategies]({{< relref "introduction-to-investing" >}}) and insights. Their contributions continue to shape the financial landscape, offering valuable lessons for both novice and experienced investors alike.

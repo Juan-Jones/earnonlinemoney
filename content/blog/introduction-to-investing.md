@@ -16,7 +16,7 @@ Investing involves committing money or capital to an asset, such as stocks, bond
 
 ## Popular Investments and Strategies
 
-Investing offers several [opportunities to earn passive income]({{< ref "passive-income-ideas" >}}). One of the primary benefits is the potential for higher returns. Historical data shows that investments in diversified portfolios of [stocks and bonds]({{< ref "stocks-vs-bonds" >}}) have consistently outpaced inflation over the long term. For instance, the S&P 500, a benchmark index of U.S. stocks, has averaged around 10% annual returns over several decades, demonstrating the power of compounding and growth.
+Investing offers several [opportunities to earn passive income]({{< relref "passive-income-ideas" >}}). One of the primary benefits is the potential for higher returns. Historical data shows that investments in diversified portfolios of [stocks and bonds]({{< relref "stocks-vs-bonds" >}}) have consistently outpaced inflation over the long term. For instance, the S&P 500, a benchmark index of U.S. stocks, has averaged around 10% annual returns over several decades, demonstrating the power of compounding and growth.
 
 ### 1. Stocks
 
@@ -32,7 +32,7 @@ Mutual funds pool money from multiple investors to invest in a diversified portf
 
 ### Crypto Investments
 
-Cryptocurrency has gained popularity due to its potential for high returns. However, they come with significant risk and volatility. Investors should thoroughly research and understand the market before committing funds to [crypto investments]({{< ref "cryptocurrency-investment-guide" >}}).
+Cryptocurrency has gained popularity due to its potential for high returns. However, they come with significant risk and volatility. Investors should thoroughly research and understand the market before committing funds to [crypto investments]({{< relref "cryptocurrency-investment-guide" >}}).
 
 ### Strategies for Investing
 
@@ -41,7 +41,7 @@ Cryptocurrency has gained popularity due to its potential for high returns. Howe
 
 ### Top Investors' Mindset
 
-Learning from [successful investors]({{< ref "top-investors" >}}) can provide valuable insights. Figures like Warren Buffett and Ray Dalio have proven methods that new investors can emulate. Studying their approaches to stocks, bonds, and other investments can be highly beneficial. Successful investors often share common traits, including discipline, patience, and a long-term perspective. They focus on understanding the fundamentals of their investments, staying informed about market trends, and making decisions based on research rather than emotions.
+Learning from [successful investors]({{< relref "top-investors" >}}) can provide valuable insights. Figures like Warren Buffett and Ray Dalio have proven methods that new investors can emulate. Studying their approaches to stocks, bonds, and other investments can be highly beneficial. Successful investors often share common traits, including discipline, patience, and a long-term perspective. They focus on understanding the fundamentals of their investments, staying informed about market trends, and making decisions based on research rather than emotions.
 
 ### Conclusion
 

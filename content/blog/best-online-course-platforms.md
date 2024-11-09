@@ -21,7 +21,7 @@ Coursera is a leading online learning website that partners with top universitie
 
 ## 2. Udemy
 
-Udemy is a popular online course platform known for its vast library of affordable courses taught by expert instructors. With over 150,000 courses available in various languages, there are several ways to [make money on Udemy]({{< ref "make-money-on-udemy" >}}). The platform offers opportunities for learners to explore diverse topics and acquire new skills. Key features of Udemy include:
+Udemy is a popular online course platform known for its vast library of affordable courses taught by expert instructors. With over 150,000 courses available in various languages, there are several ways to [make money on Udemy]({{< relref "make-money-on-udemy" >}}). The platform offers opportunities for learners to explore diverse topics and acquire new skills. Key features of Udemy include:
 
 * Wide Range of Topics: From photography and music to business and technology, Udemy offers courses on virtually every subject imaginable, making it easy for learners to find courses aligned with their interests and goals.
 * Lifetime Access: Once enrolled in a course, learners have lifetime access to course materials, allowing them to revisit lectures and resources whenever needed.
@@ -33,11 +33,11 @@ edX is a non-profit online learning platform founded by Harvard University and M
 
 * University Partnerships: edX partners with prestigious universities and institutions to offer courses and programs in disciplines such as engineering, computer science, humanities, and more.
 * MicroMasters and MicroBachelors Programs: edX offers MicroMasters and MicroBachelors programs, which allow learners to earn credentials in specific areas of study and transfer credits toward full degree programs.
-* Open edX Platform: In addition to its curated courses, edX offers the Open edX platform, which enables institutions to [create and deliver online courses]({{< ref "how-to-create-online-courses" >}}) and programs.
+* Open edX Platform: In addition to its curated courses, edX offers the Open edX platform, which enables institutions to [create and deliver online courses]({{< relref "how-to-create-online-courses" >}}) and programs.
 
 ## 4. LinkedIn Learning
 
-LinkedIn Learning, formerly known as Lynda.com, is an online learning platform owned by LinkedIn, offering a vast library of courses taught by industry experts. With a focus on professional development and career advancement, LinkedIn Learning provides learners with access to [online courses marketing tools]({{< ref "marketing-your-online-course" >}}),  leadership resources, software development technology, and more. Key features of LinkedIn Learning include:
+LinkedIn Learning, formerly known as Lynda.com, is an online learning platform owned by LinkedIn, offering a vast library of courses taught by industry experts. With a focus on professional development and career advancement, LinkedIn Learning provides learners with access to [online courses marketing tools]({{< relref "marketing-your-online-course" >}}),  leadership resources, software development technology, and more. Key features of LinkedIn Learning include:
 
 * Personalized Recommendations: LinkedIn Learning uses data-driven algorithms to provide personalized course recommendations based on learners' skills, interests, and career goals.
 * Integration with LinkedIn Profile: Learners can add completed courses and certificates to their LinkedIn profiles, showcasing their skills and expertise to potential employers and professional networks.
@@ -53,4 +53,4 @@ Skillshare is an online learning community that offers thousands of classes taug
 
 ### Conclusion
 
-In conclusion, there are thousands of lucrative opportunities for passionate individuals to [earn money teaching online courses]({{< ref "make-money-teaching-online-courses" >}}); simply sharing their knowledge and skills while making a positive impact on learners worldwide. By creating high-quality courses, leveraging promotional strategies, and building your brand, you can unlock your earning potential and pave the way for a fulfilling career as an online educator.
+In conclusion, there are thousands of lucrative opportunities for passionate individuals to [earn money teaching online courses]({{< relref "make-money-teaching-online-courses" >}}); simply sharing their knowledge and skills while making a positive impact on learners worldwide. By creating high-quality courses, leveraging promotional strategies, and building your brand, you can unlock your earning potential and pave the way for a fulfilling career as an online educator.

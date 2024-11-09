@@ -56,7 +56,7 @@ Tracking your performance is crucial for optimizing your strategies. Use tools l
 
 ### 7. Explore ClickBank University
 
-ClickBank University is an educational program designed to help beginners succeed in affiliate marketing. It offers comprehensive courses on various [aspects of affiliate marketing]({{< ref "affiliate-marketing-fundamentals" >}}), from product selection to traffic generation and conversion optimization. Enrolling in ClickBank University can provide valuable insights and practical tips.
+ClickBank University is an educational program designed to help beginners succeed in affiliate marketing. It offers comprehensive courses on various [aspects of affiliate marketing]({{< relref "affiliate-marketing-fundamentals" >}}), from product selection to traffic generation and conversion optimization. Enrolling in ClickBank University can provide valuable insights and practical tips.
 
 ### 8. Visit Affiliate Marketing Forums
 
@@ -75,7 +75,7 @@ While ClickBank is a popular choice, there are other affiliate marketing network
 
 ### Amazon Associates
 
-Amazon Associates is one of the largest and [most trusted affiliate programs]({{< ref "best-affiliate-programs" >}}). It offers a vast range of products and is ideal for affiliates who prefer physical products. However, commission rates are generally lower compared to ClickBank.
+Amazon Associates is one of the largest and [most trusted affiliate programs]({{< relref "best-affiliate-programs" >}}). It offers a vast range of products and is ideal for affiliates who prefer physical products. However, commission rates are generally lower compared to ClickBank.
 
 ### ShareASale
 
@@ -83,7 +83,7 @@ ShareASale is another well-established affiliate network with a variety of produ
 
 ### CJ Affiliate
 
-CJ Affiliate (formerly Commission Junction) is a leading affiliate marketing network. It offers a wide range of products and services and is known for its robust reporting and analytics tools. Check out our [CJ Affiliate Review]({{< ref "cj-affiliate-review" >}}).
+CJ Affiliate (formerly Commission Junction) is a leading affiliate marketing network. It offers a wide range of products and services and is known for its robust reporting and analytics tools. Check out our [CJ Affiliate Review]({{< relref "cj-affiliate-review" >}}).
 
 ### Rakuten Advertising
 

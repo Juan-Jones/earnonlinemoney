@@ -13,13 +13,13 @@ In today's nonprofit landscape, securing funding through grants is essential for
 
 ## Grant Writing Strategies
 
-Before diving into the grant writing process, it's imperative to thoroughly understand your client's needs, goals, and priorities. Take the time to engage in meaningful conversations with your client to gain insight into their organization's mission, programs, target audience, and funding requirements. Understanding the nuances of your client's work will enable you to tailor your grant proposals to align seamlessly with their objectives, increasing the likelihood of success to [generate income on the side]({{< ref "creative-side-hustles" >}}) through grant writing.
+Before diving into the grant writing process, it's imperative to thoroughly understand your client's needs, goals, and priorities. Take the time to engage in meaningful conversations with your client to gain insight into their organization's mission, programs, target audience, and funding requirements. Understanding the nuances of your client's work will enable you to tailor your grant proposals to align seamlessly with their objectives, increasing the likelihood of success to [generate income on the side]({{< relref "creative-side-hustles" >}}) through grant writing.
 
 ## Alternative Side Hustles
 
-Finding funding doesn't always require extensive grant applications. Here are five quick alternatives , including a tip on [how to make money in one hour]({{< ref "ways-to-get-paid-in-one-hour" >}}).
+Finding funding doesn't always require extensive grant applications. Here are five quick alternatives , including a tip on [how to make money in one hour]({{< relref "ways-to-get-paid-in-one-hour" >}}).
 
-* Crowdfunding Platforms: Use [crowdfunding sites]({{< ref "crowdfunding-complete-guide" >}}) like Kickstarter or GoFundMe to raise funds quickly by appealing to the public with a compelling story.
+* Crowdfunding Platforms: Use [crowdfunding sites]({{< relref "crowdfunding-complete-guide" >}}) like Kickstarter or GoFundMe to raise funds quickly by appealing to the public with a compelling story.
 * Local Business Sponsorships: Partner with local businesses for sponsorship in exchange for promotional benefits.
 * Angel Investors: Pitch your scalable idea to angel investors who are looking for new opportunities.
 * Freelancing: Utilize platforms like Upwork or Fiverr to offer your skills and earn money quickly.

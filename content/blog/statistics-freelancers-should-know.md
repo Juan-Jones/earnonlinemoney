@@ -14,7 +14,7 @@ As a freelancer or on-demand worker, staying informed about industry trends, mar
 
 ## What is Freelancing?
 
-Freelancing refers to a type of work where individuals offer their services on a project or contract basis, rather than being employed full-time by a single employer. Freelancers also known as on-demand workers typically work for multiple clients and enjoy the flexibility to choose their projects and work hours. Explore a complete guide on [meaning of freelancing]({{< ref "what-is-freelancing" >}}).
+Freelancing refers to a type of work where individuals offer their services on a project or contract basis, rather than being employed full-time by a single employer. Freelancers also known as on-demand workers typically work for multiple clients and enjoy the flexibility to choose their projects and work hours. Explore a complete guide on [meaning of freelancing]({{< relref "what-is-freelancing" >}}).
 
 ### 1. The Gig Economy is Thriving
 
@@ -22,13 +22,13 @@ The gig economy's prosperity stems from several factors, including technological
 
 ### 2. Freelancing Offers Financial Freedom
 
-Freelancing presents a viable path to financial independence, allowing you to earn income on your own terms. However, its essential to understand how to [manage your freelance finances]({{< ref "freelance-finance-management" >}}).
+Freelancing presents a viable path to financial independence, allowing you to earn income on your own terms. However, its essential to understand how to [manage your freelance finances]({{< relref "freelance-finance-management" >}}).
 
 *77% of on-demand workers are optimistic about there personal income salary.* Source: Upwork's Freelancing to Financial Freedom.
 
 ### 3. Remote Work is the New Norm
 
-Remote work has become the new norm due to advancements in technology, enabling seamless communication and collaboration from anywhere. Organizations recognize the cost-saving benefits, increased productivity, and access to a global talent pool, solidifying remote work as a permanent fixture in modern work culture. With the right skills and strategies, you can begin your journey to [start freelancing]({{< ref "how-to-start-freelancing" >}}) from home.
+Remote work has become the new norm due to advancements in technology, enabling seamless communication and collaboration from anywhere. Organizations recognize the cost-saving benefits, increased productivity, and access to a global talent pool, solidifying remote work as a permanent fixture in modern work culture. With the right skills and strategies, you can begin your journey to [start freelancing]({{< relref "how-to-start-freelancing" >}}) from home.
 
 *98% of respondents want to work remotely, at least some of the time, for the rest of their careers (Source: Buffer's State of Remote Work report).*
 
@@ -120,4 +120,4 @@ Freelancers should embrace collaboration wholeheartedly as it fuels creativity. 
 
 #### All in All
 
-Armed with the [freelancers tips]({{< ref "tips-for-freelancers" >}}), knowledge and tools presented in this guide, on-demand workers can unlock new opportunities, mitigate risks, and achieve greater success in their careers. Statistics isn't just a subject for academics and researchers; it's a practical toolkit for those seeking to thrive in today's data-driven world. So embrace the power of statistics, and watch your freelance career soar to new heights.
+Armed with the [freelancers tips]({{< relref "tips-for-freelancers" >}}), knowledge and tools presented in this guide, on-demand workers can unlock new opportunities, mitigate risks, and achieve greater success in their careers. Statistics isn't just a subject for academics and researchers; it's a practical toolkit for those seeking to thrive in today's data-driven world. So embrace the power of statistics, and watch your freelance career soar to new heights.

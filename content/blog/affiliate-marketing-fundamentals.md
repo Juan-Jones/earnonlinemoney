@@ -24,7 +24,7 @@ A short version would be, affiliate marketing is a performance-based advertising
 * Affiliates (Publishers): These are individuals or companies that promote the merchant's products to earn commissions.
 * Consumers (Customers): These are the end users who purchase products through the affiliate's promotional efforts.
 * Affiliate Networks (Intermediaries): These platforms connect affiliates with merchants and handle tracking, reporting, and payments.
-
+[affiliate marketing program]({{< ref "best-affiliate-programs" >}})
 ## How Does it Work?
 
 There are five steps that take place in the associate marketing process:

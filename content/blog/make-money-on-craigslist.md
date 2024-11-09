@@ -13,7 +13,7 @@ Craigslist is more than just a place to find used furniture or rent an apartment
 
 ## How to Make Money on Craigslist
 
-Ready to exploit a [profitable side hustle]({{< ref "creative-side-hustles" >}})? Making money on Craigslist (CL) involves leveraging the platform's extensive reach to sell items or offer services. You can earn quick cash by listing items around your home, such as furniture, electronics, and clothing, with clear descriptions and high-quality photos to attract buyers. Additionally, you can offer freelance services like writing, tutoring, or home repairs, ensuring your posts are detailed and professional. Consistently updating your listings and responding promptly to inquiries can help maximize your earnings on Craigslist.
+Ready to exploit a [profitable side hustle]({{< relref "creative-side-hustles" >}})? Making money on Craigslist (CL) involves leveraging the platform's extensive reach to sell items or offer services. You can earn quick cash by listing items around your home, such as furniture, electronics, and clothing, with clear descriptions and high-quality photos to attract buyers. Additionally, you can offer freelance services like writing, tutoring, or home repairs, ensuring your posts are detailed and professional. Consistently updating your listings and responding promptly to inquiries can help maximize your earnings on Craigslist.
 
 ### Selling Your Stuff
 
@@ -66,7 +66,7 @@ Unfortunately, scams are prevalent on Craigslist. Red flags include prices that 
 
 Businesses can post ads in the “Services” section to reach local customers. Whether you offer landscaping, tutoring, or handyman services, Craigslist can help you connect with potential clients.
 
-Searching for another way to make money? Start [earning cashback]({{< ref "earn-cash-back" >}}) and rebates today!
+Searching for another way to make money? Start [earning cashback]({{< relref "earn-cash-back" >}}) and rebates today!
 
 ### 10. Find Freelancers
 

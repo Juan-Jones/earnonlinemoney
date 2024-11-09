@@ -22,7 +22,7 @@ Social media platforms offer businesses a unique opportunity to engage with thei
 
 ### Building a Social Media Presence
 
-Creating a strong [social media presence]({{< ref "building-a-social-media-presence" >}}) is the first step in leveraging these platforms for business success. This involves setting up profiles, consistently posting relevant content, and engaging with your audience.
+Creating a strong [social media presence]({{< relref "building-a-social-media-presence" >}}) is the first step in leveraging these platforms for business success. This involves setting up profiles, consistently posting relevant content, and engaging with your audience.
 
 ### Steps to Establish Your Social Media Presence
 
@@ -43,11 +43,11 @@ Once you have established a presence on social media, the next step is to implem
 * Leverage Influencer Marketing: Partnering with influencers can help you reach a larger audience. Choose influencers whose followers match your target demographic.
 * Monitor and Respond: Always monitor your social media channels for comments, messages, and mentions. Respond promptly to show your audience that you value their interaction.
 
-Apply these [social media marketing tips]({{< ref "social-media-marketing-tips" >}}) to your business to enhance your social media presence and engagement.
+Apply these [social media marketing tips]({{< relref "social-media-marketing-tips" >}}) to your business to enhance your social media presence and engagement.
 
 ### Social Media Monetization
 
-Social media platforms offer more than just connectivity and entertainment; they present lucrative opportunities for individuals and businesses to generate income. [Monetizing social media]({{< ref "social-media-monetization" >}}) involves leveraging a platform's features to earn revenue, whether through ads, sponsored posts, affiliate marketing, or selling products directly. This pillar page will delve into various aspects of social media monetization, providing valuable insights and practical tips.
+Social media platforms offer more than just connectivity and entertainment; they present lucrative opportunities for individuals and businesses to generate income. [Monetizing social media]({{< relref "social-media-monetization" >}}) involves leveraging a platform's features to earn revenue, whether through ads, sponsored posts, affiliate marketing, or selling products directly. This pillar page will delve into various aspects of social media monetization, providing valuable insights and practical tips.
 
 ### Effective Social Media Tools
 
@@ -55,7 +55,7 @@ Social media platforms offer more than just connectivity and entertainment; they
 * Engage Regularly: Regular engagement is crucial for building relationships with your audience. Respond to comments, participate in conversations, and show appreciation for your followers.
 * Analyze Performance: Regularly review your social media analytics to understand what’s working and what’s not. Use this data to refine your strategy.
 * Stay Updated: Social media trends are constantly evolving. Stay updated with the latest trends and incorporate them into your strategy where relevant.
-* Use [Social Media Tools]({{< ref "top-social-media-tools" >}}): Management tools like Hootsuite, Buffer, and Sprout Social can help you manage multiple social media accounts, schedule posts, and analyze performance efficiently.
+* Use [Social Media Tools]({{< relref "top-social-media-tools" >}}): Management tools like Hootsuite, Buffer, and Sprout Social can help you manage multiple social media accounts, schedule posts, and analyze performance efficiently.
 
 ### Case Studies: Success Stories
 

@@ -13,9 +13,9 @@ So, you've decided to start podcasting. Awesome! But now you're staring at a sea
 
 ## Identifying Essential Equipment
 
-Before you start shopping for your [podcasting business]({{< ref "business-of-podcasting" >}}), it's crucial to understand what you really need. Are you hosting a solo podcast, or do you have multiple co-hosts or guests? Are you planning to do audio-only, or are you venturing into video podcasting as well? Your answers to these questions will guide your equipment choices.
+Before you start shopping for your [podcasting business]({{< relref "business-of-podcasting" >}}), it's crucial to understand what you really need. Are you hosting a solo podcast, or do you have multiple co-hosts or guests? Are you planning to do audio-only, or are you venturing into video podcasting as well? Your answers to these questions will guide your equipment choices.
 
-When I first [started my podcast]({{< ref "how-to-start-a-podcast" >}}), I was flying solo, recording from a small corner in my basement. Knowing this helped me avoid spending on unnecessary gear like extra microphones and complex mixers. Instead, I focused on the essentials that would give me the best audio quality for my situation.
+When I first [started my podcast]({{< relref "how-to-start-a-podcast" >}}), I was flying solo, recording from a small corner in my basement. Knowing this helped me avoid spending on unnecessary gear like extra microphones and complex mixers. Instead, I focused on the essentials that would give me the best audio quality for my situation.
 
 Let's break down the basic gear you'll need:
 
@@ -149,7 +149,7 @@ Starting a podcast on a budget is entirely feasible with the right equipment and
 
 Here are some useful links and tools to help you on your podcasting journey:
 
-* Recommended Reading: [Podcasting SEO Strategies]({{< ref "podcasting-seo-strategies" >}}), Is your podcast website hurting your SEO? Find out why!
+* Recommended Reading: [Podcasting SEO Strategies]({{< relref "podcasting-seo-strategies" >}}), Is your podcast website hurting your SEO? Find out why!
 * Useful Tools and Platforms: Canva (graphic design), Mailchimp (email marketing), Buffer (social media scheduling).
 
 ### FAQs
