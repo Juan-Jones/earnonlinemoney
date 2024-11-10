@@ -1,6 +1,6 @@
 ---
 title: "Let's, Talk About You"
-description: "this is meta-description"
+description: "Please contact us via e-mail if you have any questions or concerns."
 layout: "contact"
 draft: false
 

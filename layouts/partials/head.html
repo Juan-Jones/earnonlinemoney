@@ -18,14 +18,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
-{{- if .Params.description -}}
-  <meta name="description" content="{{ .Params.description | htmlEscape }}">
-{{- else if .Content -}}
-  <meta name="description" content="{{ .Content | plainify | truncate 160 | htmlEscape }}">
-{{- else -}}
-  <meta name="description" content="Default site description for {{ .Site.Title }}">
-{{- end -}}
-
+<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
 {{ partial "basic-seo.html" . }}
@@ -36,8 +31,10 @@
 <!-- site verifications -->
 {{ partialCached "site-verifications.html" . }}
 
-<!-- custom script -->
-{{ site.Params.custom_script | safeHTML}}
+<<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
 <!-- google analytics -->
 {{ template "_internal/google_analytics.html" . }}
@@ -48,3 +45,9 @@
 
 <!-- Include BreadcrumbList Schema -->
 {{ partial "_breadcrumbs_schema.html" . }}
+
+<!-- Include WebpageList Schema -->
+{{ partial "_webpage_schema.html" . }}
+
+<!-- Include BlogpostingList Schema -->
+{{ partial "_blogposting_schema.html" . }}
