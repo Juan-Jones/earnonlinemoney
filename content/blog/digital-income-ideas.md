@@ -5,12 +5,12 @@ image: "images/ways-to-make-money-online.jpg"
 alt: "Dollar Sign on Webpage, Make Money Online Illustration."
 date: 2019-11-04T18:19:25+06:00
 categories: ["passive-income-ideas"]
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 popular_posts: true
 ---
 
-If you've been searching for digital income ideas, you're in good company! The rapid advancement of digital technology has reshaped the job market, leading thousands to leave traditional jobs in pursuit of opportunities to make money online. In fact, statistics reveal that around 27 million people in the U.S. earned money online in 2023. The COVID-19 pandemic further fueled this shift, with more people exploring alternative income sources as businesses increasingly moved online.
+If you've been searching for digital income ideas, you're in good company! The rapid advancement of digital technology has reshaped the job market, leading thousands to leave traditional jobs in pursuit of opportunities to make money online. In fact, statistics reveal that around 27 million people in the U.S. earned money online in 2023. The COVID-19 pandemic further fueled this shift, with more people exploring alternative normalincome sources as businesses increasingly moved online.
 ## Digital Income Ideas
 As noted above, the digital economy is booming. Hence, there are several opportunities to earn digital income. In fact, there are [ways to make money online in 1 hour]({{< relref "ways-to-get-paid-in-one-hour" >}}) as well as long term opportunities to become financially free. Given the information, many Americans have converted from days jobs to online entrepreneurship.
 ### 1. Monetize a Website

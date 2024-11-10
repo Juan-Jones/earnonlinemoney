@@ -71,7 +71,7 @@ Offering coaching or consulting services is an excellent way to monetize your ex
 
 ### 9. Selling Ebooks
 
-Writing and selling ebooks is another effective way to monetize your blog. Ebooks allow you to package your knowledge and expertise into a convenient format that your audience can purchase.
+Writing and [selling ebooks]({{< relref "how-to-write-an-ebook" >}}) is another effective way to monetize your blog. Ebooks allow you to package your knowledge and expertise into a convenient format that your audience can purchase.
 
 Use your blog, email list, and social media channels to promote your ebook. Consider running special promotions or offering bonuses to boost sales.
 

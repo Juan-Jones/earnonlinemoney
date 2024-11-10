@@ -6,7 +6,7 @@ alt: "Thinking, Hands Open to Opportunity, Lightbulb, Cash Side Hustle Ideas Mot
 date: 2019-10-29T18:19:25+06:00
 categories: ["side hustles"]
 tags: ["quick-cash"]
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 popular_posts: true
 ---

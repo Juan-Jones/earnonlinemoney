@@ -4,11 +4,11 @@ description: "Discover step-by-step tips on starting an online business. Learn f
 image: "images/start-online-business.jpg"
 date: 2019-10-25T18:19:25+06:00
 categories: ["online business"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Starting an online business is an exciting and rewarding venture that offers flexibility, independence, and the potential for significant income. Whether you're looking to create a side hustle or replace your full-time job, this guide will walk you through everything you need to know to launch a successful online business.
+Starting an online business is an exciting and rewarding venture that offers flexibility, independence, and the potential for significant income. Whether you're looking to create a side hustle or replace your full-time job, thegis gude will walk you through everything you need to know to launch a successful online business.
 
 ## Starting an Online Business
 
