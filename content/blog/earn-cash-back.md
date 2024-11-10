@@ -23,8 +23,7 @@ Enter the world of earning cash back from apps app. There are several apps desig
 
 ### Maximizing Rebates on Online Purchases
 
-Online shopping has made it easier than ever to earn rebates. Many websites and apps offer cash back for purchases made through their platforms.
-]({{< relref "creative-side-hustles" >}}) for being a loyal customer. Here is a easy . Instead of businesses paying billions for millions for ads on the T.V. or radio, they would rather pay you! This is cost-friendly for them, for you, a side hustle to earn additional cash.
+Online shopping has made it easier than ever to earn rebates. Many websites and apps offer cash back for purchases made through their platforms. In other words, you can earn money when you shop. Hence, get paid for doing something you already do!
 
 * Rakuten: Formerly known as Ebates, [Rakuten](https://www.rakuten.com/r/JONESD1531?eeid=28187) provides up to 40% cash back at over 2,500 stores.
 * Honey: Besides finding discount codes, Honey offers cash back through its Honey Gold program.

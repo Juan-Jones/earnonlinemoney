@@ -69,9 +69,9 @@ Rejection is part of the freelance writing journey. Learn from the feedback and 
 
 ### 10. Diversify Your Income Streams
 
-Relying on a single client or type of writing can be risky. Diversify your income by exploring different writing opportunities, such as blogging, copywriting, technical writing, and content marketing. Consider creating your own products, like eBooks or online courses.
+Relying on a single client or type of writing can be risky. Diversify your income by exploring different writing opportunities, such as blogging, copywriting, technical writing, or [grant writing]({{< relref "grant-writing-strategies" >}}). Consider creating your own products, like eBooks or online courses.
 
-### 11. Find the Best Freelance Platforms
+### 11. Find Solid Freelance Platforms
 
 Freelancing has become a popular career choice, offering flexibility and independence. The [best freelance platforms]({{< relref "best-freelance-websites" >}}) cater to various skill sets and industries, providing platforms for freelancers to connect with potential clients. Upwork is renowned for its vast marketplace, featuring jobs in writing, design, and tech. Fiverr allows freelancers to offer specific services at competitive prices, ideal for quick gigs. Toptal targets top-tier professionals in software development, design, and finance, ensuring high-quality matches. Freelancer.com offers diverse projects and contests to showcase skills. These websites offer robust support, including secure payment systems, project management tools, and community resources, making them invaluable for freelancers looking to build and sustain successful careers.
 

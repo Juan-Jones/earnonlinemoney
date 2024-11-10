@@ -1,5 +1,5 @@
 ---
-title: "Real Digital Income Ideas"
+title: "Make Money Online Ideas"
 description: "Discover real digital income ideas to make money online. Find legit ways to earn cash on the internet today."
 image: "images/ways-to-make-money-online.jpg"
 alt: "Dollar Sign on Webpage, Make Money Online Illustration."
@@ -32,7 +32,7 @@ ClickBank affiliate marketing is popular for those interested in promoting digit
 
 ### 3. Make Money on YouTube
 
-YouTube is constantly innovating, launching new opportunities to make money online. Publishers are easily [earning money on YouTube]({{< relref "make-money-on-youtube" >}}). How can you do this? As of late, many publishers generate income through crowdfunding, sponsorships, premium memberships and so on. However, you can always [monetize Google Ads]({{< relref "google-adsense-monetization" >}}) on your channel.
+YouTube is constantl          {{ partial "image.html" (dict "Src" "images/about.jpg" "Alt" "About The Author" "Class" "img-fluid mb-5 w-100 rounded-4") }}y innovating, launching new opportunities to make money online. Publishers are easily [earning money on YouTube]({{< relref "make-money-on-youtube" >}}). How can you do this? As of late, many publishers generate income through crowdfunding, sponsorships, premium memberships and so on. However, you can always [monetize Google Ads]({{< relref "google-adsense-monetization" >}}) on your channel.
 
 ### 4. Write an eBook
 
