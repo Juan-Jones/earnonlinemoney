@@ -114,7 +114,7 @@ If you are a musician or sound engineer, consider selling your music or audio fi
 ### 24. Participate in Paid Webinars
 
 Paid webinars are a great way to share your expertise and make money. Websites like WebinarJam and Zoom allow you to host and charge for webinars. You can earn money based on the number of attendees. How to host a successful webinar?
-
+relref
 * Choose a topic that interests your audience.
 * Use engaging and interactive content.
 * Promote your webinar through social media and email marketing.
