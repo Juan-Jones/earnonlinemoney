@@ -7,45 +7,19 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Blogging"
-url = "categories/blogging/"
+name = "Make Money Online Ideas"
+url = "/blog/digital-income-ideas/"
 weight = 2
 
 [[main]]
-name = "Courses"
-url = "categories/courses/"
+name = "Creative Side Hustles"
+url = "/blog/creative-side-hustles/"
 weight = 3
 
 [[main]]
-name = "Ecommerce"
-url = "categories/ecommerce/"
+name = "Passive Income Ideas/"
+url  = "/blog/passive-income-ideas/"
 weight = 4
-
-[[main]]
-name = "Freelancing"
-url = "categories/freelancing/"
-weight = 5
-
-[[main]]
-name = "Investing"
-url = "categories/investing/"
-weight = 6
-
-[[main]]
-name = "Passive Income Ideas"
-url = "categories/passive-income-ideas/"
-weight = 7
-
-[[main]]
-name = "Side Hustles"
-url = "categories/side-hustles/"
-weight = 8
-
-[[main]]
-name = "Social Media"
-url = "categories/social-media/"
-weight = 9
-
 
 # footer menu
 [[footer]]

@@ -7,7 +7,6 @@ date: 2019-11-04T18:19:25+06:00
 categories: ["passive-income-ideas"]
 type: "featured" # available types: [featured/regular]
 draft: false
-popular_posts: true
 ---
 
 If you've been searching for digital income ideas, you're in good company! The rapid advancement of digital technology has reshaped the job market, leading thousands to leave traditional jobs in pursuit of opportunities to make money online. In fact, statistics reveal that around 27 million people in the U.S. earned money online in 2023. The COVID-19 pandemic further fueled this shift, with more people exploring alternative normalincome sources as businesses increasingly moved online.

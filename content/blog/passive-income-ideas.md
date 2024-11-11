@@ -5,7 +5,7 @@ image: "images/passive-income-ideas.jpg"
 alt: "Money Symbols, Man Lying in Bed, Earning Passive Income."
 date: 2019-10-11T18:19:25+06:00
 categories: ["investing"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 

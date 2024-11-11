@@ -6,9 +6,8 @@ alt: "Thinking, Hands Open to Opportunity, Lightbulb, Cash Side Hustle Ideas Mot
 date: 2019-10-29T18:19:25+06:00
 categories: ["side hustles"]
 tags: ["quick-cash"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
-popular_posts: true
 ---
 
 Why are **creative side hustles** becoming more relevant nowadays? To start with, it's expensive to live this day and age. You can't live comfortable unless you're not earning six figures; even more in many cities. Therefore, you must find an opportunity to earn additional income.
