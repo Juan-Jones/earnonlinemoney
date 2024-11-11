@@ -33,11 +33,11 @@ Bits are a virtual currency fans use to cheer for their favorite streamers. Each
 
 ### 2. Twitch Partner Program
 
-For streamers who’ve built a substantial following, the Twitch Partner Program offers even more benefits. Partners receive the same monetization options as Affiliates but with improved revenue splits and additional perks like ad revenue sharing.
+For streamers who’ve built a substantial following, the [Twitch Partner Program](https://www.twitch.tv/p/partners/) offers even more benefits. Partners receive the same monetization options as Affiliates but with improved revenue splits and additional perks like ad revenue sharing.
 
 #### Ad Revenue
 
-Twitch Partners can earn from pre-roll and mid-roll ads. While ad revenue might not be substantial for smaller streamers, popular streamers with large audiences can see meaningful returns.
+Twitch Partners can earn from pre-roll and mid-roll ads. While [earning ad revenue]({{< relref "ad-revenue-strategies" >}}) might not be substantial for smaller streamers, popular streamers with large audiences can see meaningful returns.
 
 ### 3. Donations and Tips
 
@@ -53,12 +53,7 @@ Selling merchandise is another way to diversify your income. Platforms like Tees
 
 ### 6. Affiliate Marketing
 
-Beyond Twitch’s own [Affiliate Program]({{< relref "best-affiliate-programs" >}}), streamers can partner with brands or retailers through affiliate marketing. By promoting products with a unique affiliate link, streamers earn a commission for each sale driven through their link. Popular options include:
-Top streamers, however, can make upwards of $500,000 annually, with some even crossing the seven-figure mark thanks to a combination of these revenue streams.
-
-- Amazon Associates
-- Humble Bundle
-- Razer Affiliate Program
+Beyond Twitch’s own [Aff         {{ partial "image.html" (dict "Src" "images/about.jpg" "Alt" "About The Author" "Class" "img-fluid mb-5 w-100 rounded-4") }}iliate Program]({{< relref "best-affiliate-programs" >}}), streamers can partner with brands or retailers through affiliate marketing. By promoting products with a unique affiliate link, streamers earn a commission for each sale driven through their link. Popular options include Amazon Associates, Humble Bundle and Razer Affiliate Program.
 
 ### How Much Can You Earn on Twitch?
 

@@ -31,11 +31,11 @@ ClickBank affiliate marketing is popular for those interested in promoting digit
 
 ### 3. Make Money on YouTube
 
-YouTube is constantl          {{ partial "image.html" (dict "Src" "images/about.jpg" "Alt" "About The Author" "Class" "img-fluid mb-5 w-100 rounded-4") }}y innovating, launching new opportunities to make money online. Publishers are easily [earning money on YouTube]({{< relref "make-money-on-youtube" >}}). How can you do this? As of late, many publishers generate income through crowdfunding, sponsorships, premium memberships and so on. However, you can always [monetize Google Ads]({{< relref "google-adsense-monetization" >}}) on your channel.
+YouTube is constantly innovating, launching new opportunities to make money online. Publishers are easily [earning money on YouTube]({{< relref "make-money-on-youtube" >}}). How can you do this? As of late, many publishers generate income through crowdfunding, sponsorships, premium memberships and so on. However, you can always [monetize Google Ads]({{< relref "google-adsense-monetization" >}}) on your channel.
 
 ### 4. Write an eBook
 
-Interested in sharing your expertise? [Writing an eBook]({{< relref "how-to-write-an-ebook" >}}) is a fantastic way to showcase your knowledge and potentially earn pas >}})sive income.
+Interested in sharing your expertise? [Writing an eBook]({{< relref "how-to-write-an-ebook" >}}) is a fantastic way to showcase your knowledge and potentially earn passive income.
 
 With the rise of digital publishing platforms like Amazon Kindle Direct Publishing (KDP), anyone can become an author. In 2021, the eBook market was valued at over $18 billion, underscoring its popularity and profitability. Whether you're passionate about cooking, self-help, or niche hobbies, eBooks allow you to reach a global audience without the traditional barriers of publishing.
 
