@@ -28,7 +28,7 @@ Accepting donations can generate huge earnings. It's one of the most profitable 
 ### 4. House Cleaning
 Are you a person who likes to clear? Offer your cleaning expertise to individuals and businesses, providing meticulous cleaning services to create tidy and welcoming spaces. A few place to start HomeAdvisor.com,MerryMaids.com, and MollyMaids.com.
 ### 5. Get Paid to Click Ads
-Visiting websites is a fun side hustle. It will expand your horizon by visiting websites you've yet to see. Which can teach you a-lot and open your mind as well. But to be honest, you can't get rich visiting websites, but you can get paid to click ads and earn pocket change. In order to make it worth your while, you need visit these sites regularly. Additionally, use more than one site to ensure your making the most out of your time.
+Visiting websites is a fun side hustle. It will expand your horizon by visiting websites you've yet to see. Which can teach you a-lot and open your mind as well. But to be honest, you can't get rich visiting websites, but you can [get paid to click ads]({{< relref "get-paid-to-click-ads" >}}) and earn pocket change. In order to make it worth your while, you need visit these sites regularly. Additionally, use more than one site to ensure your making the most out of your time.
 ### 6. Start a Laundromat Business
 Why not start a laundromat business? Starting a laundry business requires a huge start-up fee. However, a laundry business will pay off in the long haul. On average, a laundromat business costs around $200,000 - $100,0000 to start up. It can take anywhere between 2 and 6 years to earn back your total return on investment. The amount of revenue your business earns depends on how busy your business is and which city you live in. The average laundromat profits $3000 - $8000 per month.
 ### 7. Sell Information
@@ -45,7 +45,7 @@ Craigslist, often dubbed the online classifieds giant, connects millions of user
 Are you searching for legitimate ways to earn additional income from home? Well, look no further, below you'll discover over 100 additional creative side hustle ideas:
 
 1. [Earn cash back]({{< relref "earn-cash-back" >}}),
-2. Arts and crafts,
+2. Arts and crafts,Offernation.com
 3. Assemble easter egg baskets,
 4. Attend focus groups,
 5. Babysit,
@@ -96,7 +96,7 @@ Are you searching for legitimate ways to earn additional income from home? Well,
 50. Promote your own products,
 51. Proofreading and editing,
 52. Provide music lessons,
-53. Pumpkin patch farming biz,
+53. Pumpkin patch farming biz,image: "images/make-money-google-ads.jpg"
 54. Purchase a coffee stand,
 55. Purchase a hot-dog stand,
 56. Put gift baskets together,
@@ -113,7 +113,7 @@ Are you searching for legitimate ways to earn additional income from home? Well,
 67. Sell vegetables,
 68. Start a cleaning business,
 69. Start daycare center,
-70. Teach people how to do things,
+70. Teach people how tcreative-side-hustle-ideaso do things,
 71. Teach sign language,
 72. Test video games,
 73. Trade in mobile phone,

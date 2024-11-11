@@ -1,0 +1,13 @@
+<!-- /layouts/shortcodes/cloakedlink.html -->
+
+
+
+{{ $text := .Get 0 }}
+
+{{ $url := .Get 1 }}
+
+{{ $title := .Get 2 }}
+
+
+
+<a href="{{ $url }}" title="{{ $title }}" rel="noopener noreferrer" target="_blank">{{ $text }}</a>
