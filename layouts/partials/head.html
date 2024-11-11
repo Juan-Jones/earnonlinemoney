@@ -31,7 +31,7 @@
 <!-- site verifications -->
 {{ partialCached "site-verifications.html" . }}
 
-<<!-- mobile responsive meta -->
+<!-- mobile responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <meta name="description" content="{{ .Params.Description | default site.Params.description }}">
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}

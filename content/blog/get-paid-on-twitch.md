@@ -53,7 +53,7 @@ Selling merchandise is another way to diversify your income. Platforms like Tees
 
 ### 6. Affiliate Marketing
 
-Beyond Twitch’s own [Aff         {{ partial "image.html" (dict "Src" "images/about.jpg" "Alt" "About The Author" "Class" "img-fluid mb-5 w-100 rounded-4") }}iliate Program]({{< relref "best-affiliate-programs" >}}), streamers can partner with brands or retailers through affiliate marketing. By promoting products with a unique affiliate link, streamers earn a commission for each sale driven through their link. Popular options include Amazon Associates, Humble Bundle and Razer Affiliate Program.
+Beyond Twitch’s own [Affiliate Program]({{< relref "best-affiliate-programs" >}}), streamers can partner with brands or retailers through affiliate marketing. By promoting products with a unique affiliate link, streamers earn a commission for each sale driven through their link. Popular options include Amazon Associates, Humble Bundle and Razer Affiliate Program.
 
 ### How Much Can You Earn on Twitch?
 
