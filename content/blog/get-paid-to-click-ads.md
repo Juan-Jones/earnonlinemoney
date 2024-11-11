@@ -18,13 +18,13 @@ As you may already know, you’ll need an internet connection if you want to get
 
 Are there other opportunities available? Yes, there are additional opportunities. You don’t have to limit yourself to clicking ads. You can make money by watching video ads, completing offers, and taking surveys. In addition, you can earn rewards by purchasing items online, posting reviews, and recruiting new members.
 
-Besides that, these are the best side hustle ideas for people that are low on funds because they are free to join. You do not have to pay one penny out-of-pocket to get started. Below are 15 websites where you can get paid to click ads:
+Besides that, these are the [best side hustle ideas]({{< relref "creative-side-hustles" >}}) for people that are low on funds because they are free to join. You do not have to pay one penny out-of-pocket to get started. Below are 15 websites where you can get paid to click ads:
 ### 1. Ayuwage
-Ayuwage has several opportunities to earn money. Not only can you make money by clicking ads, but you can also get paid to search the Web, complete surveys, refer members, and share A]({{< relref "play-games-for-cash" >}})yuwage on social media. This small business takes pride in paying members.
+Ayuwage has several opportunities to earn money. Not only can you make money by clicking ads, but you can also get paid to search the Web, complete surveys, refer members, and share Ayuwage on social media. This small business takes pride in paying members.
 ### 2. BuxInside.com
 BuxInside provides its members with a few ways to make money. You can make money from surveys, referrals, and clicking ads. Even more, you can purchase or rent referrals. There are also a few payment options. Members can get paid through PayPal, Coinbase (Crypto., AdvCash), along with a few others. The minimum amount for payout is $2.
 ### 3. Donkeymails.com
-There are several ways you can earn with Donkeymails. You can get paid to play games, read emails, surf the Web, and much more. Above all else, you can get paid to click ads!
+There are several ways you can earn with Donkeymails. You can [get paid to play games]({{< relref "play-games-for-cash" >}}), read emails, surf the Web, and much more. Above all else, you can get paid to click ads!
 ### 4. EasyHits4U.com
 EasyHits4U is a traffic exchange site that has been around since 2003. Here you can earn bonuses by surfing the Web and referring new members. You can also use your rewards for website traffic. If you are planning to advertise your website on this platform, upgrading to a paid plan will help you maximize your traffic.
 ### 5. FusionCash.com
