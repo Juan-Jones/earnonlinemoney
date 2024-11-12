@@ -1,5 +1,5 @@
 ---
-title: Components of B2B Ecommerce"
+title: "Components of B2B Ecommerce"
 description: "Unlock B2B ecommerce potential with tailored solutions, streamlining transactions and fostering collaboration, ensuring seamless operations and data security."
 image: "images/b2b-ecommerce.jpg"
 alt: "Arrows, Circle, One Arrow Pointing at Another, B2B Ecommerce Illustration."

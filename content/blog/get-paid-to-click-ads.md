@@ -34,7 +34,7 @@ Formerly known as GPTreasure is a Get-Paid-To (GPT). website based in the United
 ### 7. GPTPlanet.com
 There are many benefits to signing up with GPTPlanet. To begin, it’s free. In addition, this opportunity is global, you can join no matter where you live. You can also earn 100% from your referrals, unlike other sites that pay you a percentage. Last but not least, you only need $1 in your account to receive payouts.
 ### 8. InboxDollars.com
-Why is this site called {{< cloakedlink "InboxDollars" " https://www.inboxdollars.com?rb=106454892&ref_src=link" "Recommends Inboxdollars" >}}? Well, they send advertisements to your email inbox. InboxDollars have been around since the year 2000. Over the last twenty years, they have paid out over $80 million to members. To get started, Inbox gives you a nice $5 bonus. Here you can earn from surveys, videos, games, shopping emails, and more!
+Why is this site called {{< cloakedlink "InboxDollars" "https://www.inboxdollars.com?rb=106454892&ref_src=link" "Recommends Inboxdollars" >}}? Well, they send advertisements to your email inbox. InboxDollars have been around since the year 2000. Over the last twenty years, they have paid out over $80 million to members. To get started, Inbox gives you a nice $5 bonus. Here you can earn from surveys, videos, games, shopping emails, and more!
 ### 9. NeoBux.com
 Like its competitors, NeoBux offers members several ways to earn. Members can get paid to click ads, complete tasks, take surveys, and more. According to research, the jury is tied. Out of five stars, they rank close to the middle. Some members are happy, others are not.
 ### 10. Offernation.com
@@ -46,11 +46,10 @@ ScarletClicks partners with some of the most popular companies in different indu
 ### 13. PrizeRebel.com
 One of the most important elements of business is longevity. I strongly believe if a company has been around for years, they’re doing something right. PrizeRebel is doing just that! Established in 2007 Prize Rebel remains as one of the most trusted get paid to click websites. They pay members by cash or gift cards. Here you can earn 30% of your referrals’ earnings for a lifetime.
 ### 14. Star-Clicks.com
-Star-Clicks is in fact one of the fastest growing online advertising networks on the web today. Many are finding themselves joining the network because of the memberships (silver, gold, platinum). Each membership has a different compensation plan. The silver membership is free but has limited ads in which you earn $0.11 a day. The gold membership is currently $19.95 a month but allows members to earn $5.00 a day. The platinum membership costs $49.95 and allows members to earn $7.50 a day. There are no yearly fees or hidden costs at {{< cloakedlink "Star-Clicks" " http://www.star-clicks.com/?ref=51359815" "Recommends Star-Clicks" >}}.
+Star-Clicks is in fact one of the fastest growing online advertising networks on the web today. Many are finding themselves joining the network because of the memberships (silver, gold, platinum). Each membership has a different compensation plan. The silver membership is free but has limited ads in which you earn $0.11 a day. The gold membership is currently $19.95 a month but allows members to earn $5.00 a day. The platinum membership costs $49.95 and allows members to earn $7.50 a day. There are no yearly fees or hidden costs at {{< cloakedlink "Star-Clicks" "http://www.star-clicks.com/?ref=51359815" "Recommends Star-Clicks" >}}.
 ### 15. Ysense.com
 Ysense is one of the most popular get paid to (GTP) websites on the internet. In my opinion, it’s also one of the most profitable platforms. Recently, a member from the U.K. profited $149 in one day. Last year, they credited 115 members with a share of $2500 through Ysense. This site has lucrative rewards and impressive bonuses.
-### FAQ
-Frequently Asked Questions
+### FAQs
 
 _How do you get paid to click_? If you spend time on the internet, you probably see advertisements daily. The ads or advertisements are from businesses pursuing leads. They are trying to attract prospects, and turn them into customers. Therefore, they are willing to pay for leads. To be more specific, they pay for clicks.
 
