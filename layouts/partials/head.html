@@ -14,8 +14,6 @@
 <link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
 {{ end }}
 
-<!-- mobile responsive meta -->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
 <!-- mobile responsive meta -->
@@ -30,11 +28,6 @@
 
 <!-- site verifications -->
 {{ partialCached "site-verifications.html" . }}
-
-<!-- mobile responsive meta -->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
-{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
 <!-- google analytics -->
 {{ template "_internal/google_analytics.html" . }}

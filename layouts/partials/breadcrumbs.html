@@ -1,15 +1,18 @@
 {{- define "recursive-breadcrumbs" -}}
     {{- if .Parent -}}
         {{- template "recursive-breadcrumbs" .Parent -}}
+        <span> &raquo; </span>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
     {{- end -}}
 {{- end -}}
 
-<!-- Render the breadcrumb trail starting from 'Home' -->
-<a href="{{ .Site.BaseURL }}">Home</a>
+<nav aria-label="breadcrumb">
+    <a href="{{ .Site.BaseURL }}">Home</a>
+    
+    {{- if .Parent -}}
+        <span> &raquo; </span>
+        {{- template "recursive-breadcrumbs" . -}}
+    {{- end -}}
 
-{{- if .Parent -}}
-    {{- template "recursive-breadcrumbs" .Parent -}}
-{{- end -}}
-
-<a href="{{ .Permalink }}">{{ .Title }}</a>
+   
+</nav>
