@@ -60,10 +60,6 @@ TikTok's live streaming feature allows creators to connect with their audience i
 
 Beyond one-off sponsored content, TikTok creators can establish long-term relationships with brands as brand ambassadors. These partnerships often involve ongoing promotion of products or services, exclusive access to new releases or events, and deeper integration of brand messaging into the creator's content. By cultivating authentic relationships with brands aligned with their values and interests, creators can secure reliable income streams while fostering trust with their audience.
 
-### Selling NFTs (Non-Fungible Tokens)
-
-The rise of NFTs has opened up new avenues for creators to monetize their digital artwork, memes, and viral moments on TikTok. By tokenizing their content as NFTs, creators can sell unique digital assets to collectors and fans, leveraging blockchain technology to authenticate ownership and establish scarcity. Platforms like Rarible and OpenSea provide creators with the infrastructure to mint, sell, and auction their NFT creations, tapping into a burgeoning market at the intersection of art, technology, and culture.
-
 ### Crowdfunding and Fan Support
 
 With the advent of crowdfunding websites like Fundly, LendingClub, and StartEngine.com (formerly known as SeedInvest.com), TikTok creators can harness the power of collective support to fund passion projects, creative endeavors, and philanthropic initiatives. By sharing their aspirations and rallying their audience around a common cause, creators can solicit donations, pledges, and contributions from fans eager to see their visions come to life. Whether funding a documentary film, launching a charitable campaign, or embarking on a world tour, crowdfunding empowers creators to realize their dreams while fostering a sense of community and belonging among their supporters.

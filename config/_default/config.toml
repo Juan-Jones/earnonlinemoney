@@ -73,10 +73,5 @@ rel = "manifest"
 [sitemap]
   changeFreq = 'daily'
   filename = 'sitemap.xml'
-  priority = 0
-
-
-############################ exclude from sitemap  ###########################
-[params]
-taxonomiesExcludedFromSitemap = ["tags", "categories"]
+  priority = 0.5
   
