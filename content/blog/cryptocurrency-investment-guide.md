@@ -20,7 +20,7 @@ Unlike traditional financial markets that operate within specific hours, the cry
 
 ## How to Earn Profits from Crypto
 
-Crafting a well-defined investment strategy is paramount to navigating the complexities of the cryptocurrency market successfully. To earn profits you must conduct thorough research to understand the fundamentals, technology, and market dynamics of cryptocurrencies. Here are additional strategies to earn profits from crypto:
+Crafting a well-defined investment strategy is paramount to navigating the complexities of the cryptocurrency market successfully. To earn profits you must conduct thorough research to understand the fundamentals, technology, and market dynamics of cryptocurrencies. Here are additional strategies to earn profits from crypto;
 
 * Long-Term Holding (HODLing): This approach requires patience and conviction but has historically rewarded those who stayed the course. HODLers buy and hold onto their cryptocurrencies for the long term, believing in their potential for future growth.
 * Day Trading and Swing Trading: Day traders aim to profit from short-term price fluctuations by executing multiple trades within a single day, while swing traders seek to capitalize on medium-term trends by holding positions for days or weeks.
@@ -41,7 +41,7 @@ Many cryptocurrency exchanges and wallets offer affiliate programs that reward u
 
 ### Become a Crypto Day Trader
 
-Becoming a day trader involves buying and selling crypto in short timeframes in order to profit from the price fluctuations. Crypto day trading requires knowledge of technical analysis and market trends and can be a high-risk, high-reward strategy.
+Becoming a day trader involves buying and selling crypto in short time frames in order to profit from the price fluctuations. Crypto day trading requires knowledge of technical analysis and market trends and can be a high-risk, high-reward strategy.
 
 ### Content Creation
 
