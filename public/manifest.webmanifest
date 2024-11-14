@@ -1,14 +1,1 @@
-{
-  "name": "Earn Money Online",
-  "short_name": "Earn Money Online",
-  "lang": "en-us",
-  "theme_color": "#2ba283",
-  "background_color": "#FFF",
-
-  
-  
-  
-  
-  "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
-}
+{"name":"Earn Money Online","short_name":"Earn Money Online","lang":"en-us","theme_color":"#2ba283","background_color":"#FFF","display":"standalone","start_url":"/?utm_source=web_app_manifest"}
