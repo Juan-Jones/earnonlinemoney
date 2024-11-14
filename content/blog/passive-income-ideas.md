@@ -75,7 +75,7 @@ Mutual funds are investment vehicles that allow you to pool your money with othe
 
 Savings accounts are a type of deposit account that offer a low rate of return but provide easy access to your money. Savings accounts are a safe way to save your money, but they generally have lower returns than other types of investments.
 
-### 11. Peer-to-Peer (P2P) Lending
+### 11. Peer-to-Peer Lending
 
 Peer-to-peer lending platforms facilitate direct lending between investors and borrowers, bypassing traditional financial institutions. Investors can earn generous profits by funding loans to individuals or businesses, diversifying their portfolios across various loan types and risk profiles.
 
@@ -87,7 +87,7 @@ Investing in e-commerce companies can be a way to potentially benefit from the g
 
 Index funds are a type of mutual fund or ETF that tracks the performance of a specific market index, such as the S&P 500. Index funds offer a low-cost way to invest in a diverse range of stocks or bonds and are often used as a passive investment strategy.
 
-### 14. Real Estate Investment Trusts (REITs)
+### 14. Real Estate Investment Trusts
 
 REITs are a type of investment vehicle that allows you to invest in a diversified portfolio of commercial real estate properties, such as office buildings, shopping malls, and apartment complexes. REITs offer the opportunity to invest in real estate without the burden of owning and managing physical property.
 
@@ -139,11 +139,11 @@ U.S. Treasury bonds are a type of debt security issued by the U.S. government to
 
 Emerging markets stocks are stocks of companies in developing countries that are not yet mature enough to be considered developed markets. These stocks can offer the potential for high returns, but they also carry higher risks due to the uncertain political and economic environments of developing countries.
 
-### 27. Corporate Social Responsibility (CSR) Funds
+### 27. Corporate Social Responsibility Funds
 
 CSR funds are mutual funds or ETFs that invest in companies that have a positive impact on society and the environment. CSR funds can be a way to invest in line with your values, but they may also have lower returns than other types of investments.
 
-### 28. Environmental, Social, and Governance (ESG) Funds
+### 28. Environmental, Social, and Governance Funds
 
 ESG funds are mutual funds or ETFs that invest in companies that meet certain environmental, social, and governance criteria. ESG funds can be a way to invest in line with your values, but they may also have lower returns than other types of investments.
 
@@ -163,7 +163,7 @@ Checking accounts are a type of deposit account that offer easy access to your m
 
 Cash equivalents are short-term financial investments that are not as risky. Investors can quickly convert this type of underwriting to cash. Underwriting is a cash equivalent when it's highly liquidated, with short maturity of 3 months or less.
 
-### 33. Exchange-Traded Funds (ETFs)
+### 33. Exchange-Traded Funds
 
 ETFs are similar to mutual funds in that they allow you to invest in a diversified portfolio of stocks, bonds, and other securities. However, unlike mutual funds, ETFs are traded on stock exchanges and can be bought and sold throughout the day.
 
@@ -191,7 +191,7 @@ Investing in timberland involves buying land for the purpose of growing and harv
 
 One of the most important ways to invest your money is to save money for retirement. There are several options for saving for retirement, including 401(k) plans, individual retirement accounts (IRAs), and pension plans.
 
-### 40. Certificate of Deposit (CD)
+### 40. Certificate of Deposit
 
 A CD is a type of deposit account that offers a fixed rate of return in exchange for keeping your money in the account for a specific period of time. CDs are generally considered low-risk investments and can be a good option for saving money for short-term goals.
 

@@ -1,6 +1,6 @@
 ---
 title: "Dropshipping Beginner's Guide"
-description: "Learn how to start a dropshipping company, pick your niche, secure suppliers, build your store, drive traffic, and prioritize stellar customer service for growth."
+description: "Learn how to start a dropshipping company, pick your niche, secure suppliers and build your store. Discover ways to impress customers, drive traffic, and grow."
 image: "images/start-dropshipping-company.jpg"
 date: 2020-09-09T18:19:25+06:00
 categories: ["online business"]

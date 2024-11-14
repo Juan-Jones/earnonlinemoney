@@ -1,4 +1,4 @@
 ---
 title: "Online Business Category"
-description: "Find information and resources for starting an online business."
+description: "The online business category contains endless tips, information and instructions for launching, maintaining and growing a small business operation."
 ---
