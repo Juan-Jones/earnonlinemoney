@@ -13,7 +13,7 @@ If you've been searching for digital income ideas, you're in good company! The r
 
 * [Ways to Make Money Online](#ways-to-make-money-online)
 * [How to Earn Money Online Free](#2-affiliate-marketing)
-* [How to Make Money Online Quick]
+* [How to Make Money Online Quick](#13-earn-cash-on-twitch)
 
 ## Ways to Make Money Online
 As noted above, the digital economy is booming. Hence, there are several opportunities to earn digital income. In fact, there are [ways to make money online in 1 hour]({{< relref "ways-to-get-paid-in-one-hour" >}}) as well as long term opportunities to become financially free. Given the information, many Americans have converted from days jobs to online entrepreneurship.
@@ -51,18 +51,6 @@ With the rise of digital publishing platforms like Amazon Kindle Direct Publishi
 ### 5. Deliver Goods for Instacart
 
 Interested in flexible work? Delivering goods for [Instacart](https://www.instacart.com/) could be your ticket. Instacart, a leading grocery delivery service, allows independent contractors to shop and deliver groceries to customers' doors.
-.h1 {
-  font-size: 72.402135px;
-  line-height: calc(2px + 2ex + 2px);
-  margin-bottom: 0.65em; }
-  @media (max-width: 767px) {
-    h1,
-    .h1 {
-      font-size: calc( 72.402135px * .85); } }
-  @media (max-width: 575px) {
-    h1,
-    .h1 {
-      font-size: calc( 72.402135px * .65); } }
 ### 6. Selling Online Courses
 
 The e-learning industry has seen massive growth, making it an ideal time to create and sell online courses. Platforms like Teachable, Udemy, and Kajabi enable content creators to monetize their knowledge by offering courses on virtually any topic.
