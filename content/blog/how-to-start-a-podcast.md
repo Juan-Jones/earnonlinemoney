@@ -9,13 +9,13 @@ type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Countless podcasters attest, and I concur that learning how to **start a podcast** marks an unparalleled milestone. This transformative endeavor not only empowers you to share your voice on a global scale, but also grants you the remarkable power to impact and inspire countless individuals. Consequently, advertising has surged dramatically over the years.
+Countless podcasters attest, and I concur that learning how to *start a podcast* marks an unparalleled milestone. This transformative endeavor not only empowers you to share your voice on a global scale, but also grants you the remarkable power to impact and inspire countless individuals. Consequently, advertising has surged dramatically over the years.
 
 Yes, it's true. The spending on podcast advertising has skyrocketed over the past decade. In 2015, advertisers spent $69 million on ads. Two years later (2017), advertisers spent $314 million on advertisements. In 2019, businesses spent $514 million on podcast ads. According to data from the Interactive Advertising Bureau (IAB) and PwC, in 2020, experts expected ad revenue to exceed $1 billion dollars in 2021. Sure enough, they were correct, in 2021, podcast revenue crossed the $1 billion threshold for the first time.
 
 | Year    | Podcast Ad Revenue |
 | -------- | ------- |
-| 2015  | $69 Million |ref
+| 2015  | $69 Million |
 | 2017  | $314 Million |
 | 2019  | $514 Million |
 | 2023  | $1.93 Billion |

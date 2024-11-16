@@ -53,9 +53,7 @@ A survey by Sprout Social revealed that 64% of consumers want brands to connect 
 
 ### Use of Influencers
 
-Influencer marketing has become a powerful tool for expanding your reach. Partnering with influencers who align with your brand can introduce you to new audiences and enhance your credibility. When choosing influencers, consider:
-
-According to a report by Influencer Marketing Hub, businesses make an average of $5.20 for every $1 spent on influencer marketing, highlighting its effectiveness.
+Influencer marketing has become a powerful tool for expanding your reach. Partnering with influencers who align with your brand can introduce you to new audiences and enhance your credibility. According to a report by Influencer Marketing Hub, businesses make an average of $5.20 for every $1 spent on influencer marketing, highlighting its effectiveness.
 
 ### Whats Trending
 

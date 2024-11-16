@@ -27,43 +27,43 @@ There are many benefits of using survey sites, here are a few;
 
 There are several survey sites online. However, the best survey sites provide users with several options to make money. Members can earn money from referrals, chiming contests, and opinion polls. Users can also [earn money playing games]({{< relref "play-games-for-cash" >}}), reviews, and complete tasks. Best of all, legitimate survey sites don’t cost a dime. As noted, they will not replace a full time job, but they offer a steady stream of additional income. Without further due, here are the best survey sites;
 
-### 1. Swagbucks
+### 1. Swagbucks.com
 
 Known for its versatility and numerous earning opportunities [Swagbucks](https://www.swagbucks.com/) is one of the most popular survey sites. Beyond surveys, users can earn rewards by watching videos, shopping online, and even playing games.
 
-### 2. Survey Junkie
+### 2. SurveyJunkie.com
 
 With well over 10 million members [SurveyJunkie](https://www.surveyjunkie.com/) focuses solely on surveys, making it ideal for those who enjoy sharing their opinions. The platform is straightforward, ensuring users can quickly get started.
 
-### 3. InboxDollars
+### 3. InboxDollars.com
 
 InboxDollars offers a variety of ways to earn money, including taking surveys, reading emails, and shopping to [earn rebates]({{< relref "earn-cash-back" >}}). It's a comprehensive platform for those looking to diversify their income streams.
 
-### 4. Pinecone Research
+### 4. PineconeResearch.com
 
 Would you like to learn about products before they hit the market, or have a say in products that make it to retail stores?  Well known for its high-paying surveys and reliable payment system Pinecone Research is one of the best according to survey takers. It is invitation-only, which can make it harder to join but ensures high-quality surveys.
 
-### 5. Toluna
+### 5. Toluna.com
 
 As a community-based platform, Toluna offers surveys along with polls and other engagement activities. It’s perfect for those who enjoy interacting with others while earning rewards.
 
-### 6. LifePoints
+### 6. LifePoints.com
 
 This company compensates you for your opinion! In 2020, LifePoints paid out over $22 million. You can earn e-gift cards or PayPal on this site. You can also win valuable gifts with this site as well.
 
-### 7. Vindale Research
+### 7. VindaleResearch.com
 
 Vindale Research pays members $5 for referrals. The referral must complete a company’s tutorial or inquiry for the member to earn cash. Vindale pays their members checks or PayPal payments. Members can also earn money completing inquiries and offers. Vindale has a superb reputation online. And the back office is user-friendly.
 
-### 8. SurveyMonkey
+### 8. SurveyMonkey.com
 
 [Surveymonkey](https://www.surveymonkey.com/) has an exclusive process for referrals. You can receive $500 for qualifying referrals with SurveyMonkey. This site has a free version and a paid version where members can complete offers.
 
-### 9. Opinion Outpost
+### 9. OpinionOutpost.com
 
 Opinion Outpost is one of the best survey sites. This market research panel pays members to test products, watch advertisements, take surveys, and more. Every time you take part, they offer a reward. These rewards can be redeemable by PayPal, Visa debit cards, or e-gift cards.
 
-### 10. OneOpinion
+### 10. OneOpinion.com
 
 OneOpinion has been around since 2011. And, they have maintained healthy relationships with customers and members. Most people have nothing but good things to say about [OneOpinion](https://www.oneopinion.com/). Here you can get paid to share your opinion, sample products, and complete offers.
 

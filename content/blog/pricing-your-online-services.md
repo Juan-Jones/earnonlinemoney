@@ -16,7 +16,7 @@ Setting the right price for your online services can be a challenging task. It r
 
 ### Understanding Your Costs
 
-To begin with, you need a clear understanding of your costs. These can be divided into fixed costs and variable costs. Fixed costs include expenses like software subscriptions, website hosting, and marketing tools, while variable costs cover things like projectrefspecific materials or freelance help.
+To begin with, you need a clear understanding of your costs. These can be divided into fixed costs and variable costs. Fixed costs include expenses like software subscriptions, website hosting, and marketing tools, while variable costs cover things like project specific materials or freelance help.
 
 Transitioning from identifying costs, the next step is to consider your time. Your time is one of your most valuable resources, and it should be factored into your pricing model. Estimate the hours required for each service and assign a fair hourly rate.
 

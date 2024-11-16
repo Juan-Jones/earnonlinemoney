@@ -9,7 +9,7 @@ type: "regular"
 draft: false
 ---
 
-Have you ever wondered **how much money YouTubers earn**? If you have asked yourself that question, you’re not alone. Many people wonder how much money do YouTubers make? However, you must evaluate many factors to answer this question.
+Have you ever wondered *how much money YouTubers earn*? If you have asked yourself that question, you’re not alone. Many people wonder how much money do YouTubers make? However, you must evaluate many factors to answer this question.
 
 To begin, the most dominant video-sharing website has affected many people in different ways. On one end, viewers have been able to educate themselves on just about any matter or subject. On the other end, publishers use YouTube’ as a source of income. In each case, the platform has benefited both parties for years.
 

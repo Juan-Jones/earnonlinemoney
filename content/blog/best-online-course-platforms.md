@@ -13,17 +13,17 @@ In today's fast-paced world, continuous learning has become essential for person
 
 ## Best Online Courses
 
-Let's explore the **best online course platforms**;
+Let's explore the *best online course platforms*;
 
-### 1. Coursera
+### 1. Coursera.org
 
 Coursera is a leading online learning website that partners with top universities and organizations to offer courses, certificates, and degree programs across various disciplines. With over 5,000 courses available, Coursera provides learners with access to high-quality content taught by experts in fields such as business, technology, healthcare, and the arts.
 
-### 2. Udemy
+### 2. Udemy.com
 
 Udemy is a popular online course platform known for its vast library of affordable courses taught by expert instructors. With over 150,000 courses available in various languages, there are several ways to [make money on Udemy]({{< relref "make-money-on-udemy" >}}). The platform offers opportunities for learners to explore diverse topics and acquire new skills.
 
-### 3. edX
+### 3. edX.com
 
 edX is a non-profit online learning platform founded by Harvard University and MIT, offering courses, certificates, and degree programs from leading universities and institutions around the world. With a focus on quality and accessibility, edX aims to provide learners with opportunities for academic and professional advancement.
 
@@ -31,7 +31,7 @@ edX is a non-profit online learning platform founded by Harvard University and M
 
 LinkedIn Learning, formerly known as Lynda.com, is an online learning platform owned by LinkedIn, offering a vast library of courses taught by industry experts. With a focus on professional development and career advancement, LinkedIn Learning provides learners with access to [online courses marketing tools]({{< relref "marketing-your-online-course" >}}),  leadership resources, software development technology, and more.
 
-### 5. Skillshare
+### 5. Skillshare.com
 
 Skillshare is an online learning community that offers thousands of classes taught by creators, professionals, and industry experts. With a focus on creativity, entrepreneurship, and lifestyle, Skillshare provides learners with opportunities to explore their passions and interests while developing practical skills.
 

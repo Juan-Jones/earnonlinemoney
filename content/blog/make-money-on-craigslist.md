@@ -9,7 +9,7 @@ type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Craigslist is more than just a place to find used furniture or rent an apartment. It’s a treasure trove of opportunities to make money on CL by selling items you no longer need, offering services, or even flipping goods for profit. With its vast audience and easy-to-use platform, Craigslist can be a goldmine. In this post we will explore the secrets to buying, selling and trading on CL. Here’s **how to make money on Craigslist**, step-by-step.
+Craigslist is more than just a place to find used furniture or rent an apartment. It’s a treasure trove of opportunities to make money on CL by selling items you no longer need, offering services, or even flipping goods for profit. With its vast audience and easy-to-use platform, Craigslist can be a goldmine. In this post we will explore the secrets to buying, selling and trading on CL. Here’s *how to make money on Craigslist*;
 
 ## How to Make Money on Craigslist
 
@@ -110,7 +110,7 @@ If you have time on your hands, you can always find a job under the gigs section
 
 ### 20. Start Trading Products
 
-Have you ever heard the [red paperclip story](https://en.wikipedia.org/wiki/One_red_paperclip)? This story is about Kyle MacDonald. A man who started by trading a red paperclip on Craigslist and ended up with a farmhouse. He achieved it in fourteen transactions!
+Have you ever heard the [red paperclip story](https://en.wikipedia.org/wiki/One_red_paperclip/)? This story is about Kyle MacDonald. A man who started by trading a red paperclip on Craigslist and ended up with a farmhouse. He achieved it in fourteen transactions!
 
 #### Paperclip to Farm House Story
 

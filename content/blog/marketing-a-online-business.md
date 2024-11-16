@@ -8,7 +8,7 @@ type: "regular"
 draft: false
 ---
 
-Are you planning to **market an online business**? If so, you've found the right post! This blog post explores key marketing tactics, from building a strong brand to leveraging social media and SEO, providing practical tips and statistics to help online businesses thrive.
+Are you planning to *market an online business*? If so, you've found the right post! This blog post explores key marketing tactics, from building a strong brand to leveraging social media and SEO, providing practical tips and statistics to help online businesses thrive.
 
 ## Online Business Marketing Tips
 

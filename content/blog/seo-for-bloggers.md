@@ -60,9 +60,9 @@ Beyond content, off-page optimization or technical SEO aspects ensure that searc
 * Secure Your Site: Use HTTPS to secure your site. Search engines favor secure sites, and it builds trust with your audience.
 * Sitemap and Robots.txt: Submit a sitemap to search engines and use a robots.txt file to guide search engine crawler.
 
-### Building Backlinks
+### Building Back-links
 
-Backlinks, or inbound links, are links from other websites to your blog. They are a critical factor in SEO as they signal to search engines that your content is valuable and credible. You can gain backlinks by writing guest posts, receiving sponsored posts, create quality content and more. Write guest posts for reputable sites in your niche. This can help you gain exposure and earn high-quality backlinks. Reach out to other bloggers and websites to share your content. Building relationships can lead to natural backlinks. Lastly, publish comprehensive guides, original research, or unique insights that others will want to link to.
+Back-links, or inbound links, are links from other websites to your blog. They are a critical factor in SEO as they signal to search engines that your content is valuable and credible. You can gain back-links by writing guest posts, receiving sponsored posts, create quality content and more. Write guest posts for reputable sites in your niche. This can help you gain exposure and earn high-quality back-links. Reach out to other bloggers and websites to share your content. Building relationships can lead to natural back-links. Lastly, publish comprehensive guides, original research, or unique insights that others will want to link to.
 
 ### Conclusion
 

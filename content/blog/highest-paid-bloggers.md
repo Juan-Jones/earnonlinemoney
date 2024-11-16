@@ -38,7 +38,7 @@ Jeff Rose, a certified financial planner, created Good Financial Cents to educat
 
 ### 6. Darren Rowse – ProBlogger
 
-Darren Rowse is the owner of one of the [best blog sites]({{< relref "best-blog-platforms" >}}) ProBlogger, one of the [best blog sites]. This blog helps those interested in building a successful blog. His site offers valuable tips, tutorials, and resources for bloggers of all levels. Darren’s income, which is approximately $40,000 per month, is derived from eBooks, online courses, and affiliate marketing.
+Darren Rowse is the owner of one of the [best blog sites]({{< relref "best-blog-platforms" >}}) ProBlogger, one of the best blog sites. This blog helps those interested in building a successful blog. His site offers valuable tips, tutorials, and resources for bloggers of all levels. Darren’s income, which is approximately $40,000 per month, is derived from eBooks, online courses, and affiliate marketing.
 
 ### 7. John Lee Dumas – Entrepreneurs on Fire
 

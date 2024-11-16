@@ -9,7 +9,7 @@ type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-In the continuously changing environment of the digital era, freelance writing has emerged as a dynamic and lucrative profession for those with a passion for words. The freedom to choose assignments, set one's schedule, and work from anywhere in the world has attracted a diverse pool of individuals to the realm of **freelance writing**.
+In the continuously changing environment of the digital era, freelance writing has emerged as a dynamic and lucrative profession for those with a passion for words. The freedom to choose assignments, set one's schedule, and work from anywhere in the world has attracted a diverse pool of individuals to the realm of *freelance writing*.
 
 ## What is Freelance Writing
 

@@ -9,7 +9,7 @@ type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-If you’ve been online in the last year, you’ve probably noticed how widespread podcasting has become. But the bigger question is, "**how do podcasts make money**"? Better yet how can you make money from podcasts? Understanding how podcasts make money is crucial for aspiring podcasters to effectively monetize their content and sustain their ventures. Below we will dive into ways to monetize a podcast.
+If you’ve been online in the last year, you’ve probably noticed how widespread podcasting has become. But the bigger question is, "*how do podcasts make money*"? Better yet how can you make money from podcasts? Understanding how podcasts make money is crucial for aspiring podcasters to effectively monetize their content and sustain their ventures. Below we will dive into ways to monetize a podcast.
 
 To begin, this market is booming, and it’s diverse. People listen to or watch episodes daily from all corners of the earth. Subsequently, more advertisers are investing in this market to reach potential customers. As a result, the ad revenue generated from podcasting continues to increase.
 
