@@ -18,8 +18,6 @@ Top investors are known for their keen market insights, strategic risk managemen
 
 Warren Buffett, known as the "Oracle of Omaha," follows a value investing approach. He focuses on companies with strong fundamentals, [purchasing stocks]({{< relref "stocks-vs-bonds" >}}) and holding them for the long term.
 
-Notable Achievements
-
 Buffett's Berkshire Hathaway has delivered compounded annual gains of over 20% for its shareholders. His investment in Coca-Cola and American Express are prime examples of his successful long-term strategy.
 
 ### 2. Peter Lynch
@@ -89,5 +87,7 @@ Klarman’s investment firm, Baupost Group, has delivered impressive returns ove
 Jim Simons, founder of Renaissance Technologies, employs quantitative analysis and algorithms to make investment decisions. His approach relies heavily on mathematical models and big data.
 
 Simons' Medallion Fund is renowned for its high returns, averaging around 40% annually, making it one of the most successful hedge funds in history.
+
+### Conclusion
 
 These twelve investors have not only achieved remarkable financial success but have also influenced the broader investment community by sharing [investment strategies]({{< relref "introduction-to-investing" >}}) and insights. Their contributions continue to shape the financial landscape, offering valuable lessons for both novice and experienced investors alike.

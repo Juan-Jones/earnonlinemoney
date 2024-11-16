@@ -64,10 +64,6 @@ Content marketing involves creating and sharing valuable content to attract and 
 * Educational Content: Share tips, tutorials, and insights related to your course topic.
 * Guest Posts: Write guest posts for popular blogs in your niche to reach a wider audience.
 
-### On Page Optimization
-
-Optimize your content for search engines to increase organic traffic to your course landing page.
-
 ### Partnering with Influencers
 
 Collaborate with influencers in your niche to reach a broader audience. Influencers can promote your course to their followers through reviews, mentions, and sponsored content.
