@@ -1,7 +1,7 @@
 ---
 title: "Sensational Grant Writing Tips"
 description: "Master grant writing for your clients with our comprehensive guide. Find strategies, tips, and best practices to craft compelling proposals successfully."
-image: "images/write-grants.jpg"
+image: "images/grant-writing-techniques.jpg"
 date: 2019-11-04T18:19:25+06:00
 categories: ["freelancing"]
 tags: ["gig-economy"]

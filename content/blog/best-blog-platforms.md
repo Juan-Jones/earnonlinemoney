@@ -1,7 +1,7 @@
 ---
 title: "Best Blog Platforms"
 description: "Discover the top 20 blog platforms and their key features in this comprehensive guide. Discover options to help fit your goals."
-image: "images/start-a-blog.jpg"
+image: "images/best-blog-websites.jpg"
 alt: "Pencil, Image, Make a Blog Site Illustration."
 date: 2019-10-05T18:19:25+06:00
 categories: ["blogging"]

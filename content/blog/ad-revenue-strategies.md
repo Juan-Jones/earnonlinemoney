@@ -1,7 +1,7 @@
 ---
 title: "Powerful Ad Revenue Strategies"
 description: "Expert ad revenue strategies to boost your earnings. Learn about display ads, native advertising, affiliate marketing."
-image: "images/ad-revenue-tips.jpg"
+image: "images/ad-revenue-advice.jpg"
 alt: "Ad, Cash Hovering Over Hand, Woman Inside Monitor, Coin Stack."
 date: 2019-10-30T18:19:25+06:00
 categories: ["passive-income-ideas"]

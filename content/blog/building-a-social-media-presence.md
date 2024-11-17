@@ -1,7 +1,7 @@
 ---
 title: "Building a Social Media Presence"
 description: "Key strategies for building a strong social media presence to boost your brand and engage your audience effectively."
-image: "images/social-media-presence.jpg"
+image: "images/social-media-building.jpg"
 alt: "Man Promoting on Social Media Building Online Presence Concept."
 date: 2019-11-02T18:19:25+06:00
 categories: ["social media"]

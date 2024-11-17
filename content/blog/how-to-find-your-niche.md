@@ -1,7 +1,7 @@
 ---
 title: "How to Find Your Niche"
 description: "Learn how to find your niche, discover your passion and tap into your hidden talents."
-image: "images/find-your-niche.jpg"
+image: "images/select-your-niche.jpg"
 date: 2020-09-08T16:20:25+06:10
 categories: ["blogging"]
 type: "regular" # available types: [featured/regular]

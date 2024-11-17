@@ -1,7 +1,7 @@
 ---
 title: "Keys to Marketing Online Courses"
 description: "Learn how to effectively market and monetize your online course with expert strategies in social media, email marketing, content marketing, and more."
-image: "images/online-course-marketing.jpg"
+image: "images/online-course-promotion.jpg"
 date: 2019-10-22T18:19:25+06:00
 categories: ["courses"]
 type: "regular" # available types: [featured/regular]

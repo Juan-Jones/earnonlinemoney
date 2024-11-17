@@ -1,7 +1,7 @@
 ---
 title: "Top Social Media Tools"
 description: "Top social media tools for effective marketing uncovered! Explore valuable SMM tips and strategies to optimize your promotional efforts."
-image: "images/best-social-media-tools.jpg"
+image: "images/social-media-tools.jpg"
 date: 2019-11-05T18:19:25+06:00
 categories: ["social media"]
 type: "regular" # available types: [featured/]

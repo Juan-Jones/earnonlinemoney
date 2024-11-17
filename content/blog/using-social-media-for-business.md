@@ -1,7 +1,7 @@
 ---
-title: "Small Biz Social Media Tips"
+title: "Using Social Media For Business"
 description: "Learn how to start utilizing social media sites to grow your business."
-image: "images/social-media-for-business.jpg"
+image: "images/social-media-business.jpg"
 alt: "Play Button, Use Social Media for Business Concept."
 date: 2019-11-04T18:19:25+06:00
 categories: ["social media"]

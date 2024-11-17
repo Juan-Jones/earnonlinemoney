@@ -1,7 +1,7 @@
 ---
 title: 'Get Paid on Twitch'
 description: "Discover how to make money on Twitch with tips, strategies, and income streams for streamers of all levels."
-image: "images/make-money-twitch.jpg"
+image: "images/make-money-on-twitch.jpg"
 date: 2024-11-07T06:52:26-08:00
 categories: ["passive-income-ideas"]
 type: "regular" # available types: [featured/regular]

@@ -1,7 +1,7 @@
 ---
 title: "Most Successful Podcasts"
 description: "What are the most successful podcast platforms, how much do they earn? Explore the top ranked podcasters online and their estimated earnings."
-image: "images/successful-podcasts.jpg"
+image: "images/most-accomplished-podcast.jpg"
 alt: "Golden Microphone, Successful Podcasts Notion."
 date: 2020-01-07T18:19:25+06:00
 categories: ["online business"]

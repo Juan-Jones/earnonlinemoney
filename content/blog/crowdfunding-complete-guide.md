@@ -1,7 +1,7 @@
 ---
 title: "Crowdfunding Complete Startup Guide"
 description: "Discover the ultimate crowdfunding guide! Learn how to launch successful campaigns, engage backers, and fund your next big idea effectively."
-image: "images/crowdfunding.jpg"
+image: "images/crowdfunding-guide.jpg"
 alt: "Crowdfunding Startup Illustration."
 date: 2024-02-17T18:19:25+06:00
 categories: ["online business"]

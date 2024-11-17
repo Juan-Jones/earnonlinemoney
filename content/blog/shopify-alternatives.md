@@ -1,7 +1,7 @@
 ---
 title: "8 Shopify Alternatives"
 description: "Choosing the right e-commerce platform is crucial for the success of your online business. Find Shopify alternatives."
-image: "images/shopify-alternatives.jpg"
+image: "images/shopify-other-options.jpg"
 date: 2024-05-24T18:19:25+06:00
 categories: ["ecommerce"]
 tags: ["online-store"]

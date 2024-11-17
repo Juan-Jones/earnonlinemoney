@@ -1,7 +1,7 @@
 ---
 title: "Pricing Your Online Services"
 description: "Learn how to price your online services to maximize profits and client satisfaction."
-image: "images/price-online-services.jpg"
+image: "images/price-internet-services.jpg"
 date: 2019-10-26T18:19:25+06:00
 categories: ["online business"]
 type: "regular"

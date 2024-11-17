@@ -1,7 +1,7 @@
 ---
 title: "Online Business Startup"
 description: "Discover step-by-step tips on starting an online business. Learn from idea generation to marketing strategies in this comprehensive guide."
-image: "images/start-online-business.jpg"
+image: "images/online-business-startup.jpg"
 date: 2019-10-25T18:19:25+06:00
 categories: ["online business"]
 type: "featured" # available types: [featured/regular]

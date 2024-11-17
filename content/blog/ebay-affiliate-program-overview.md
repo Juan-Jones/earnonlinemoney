@@ -1,7 +1,7 @@
 ---
 title: "Ebay Affiliate Program Overview"
 description: "Everything you need to know about the eBay Affiliate Program, from joining and requirements to maximizing earnings and advanced strategies."
-image: "images/ebay-affiliate-review.jpg"
+image: "images/ebay-affiliate-program.jpg"
 alt: "Review Concept, Commission Junction Overview."
 date: 2020-08-05T18:19:25+06:00
 categories: ["passive-income-ideas"]

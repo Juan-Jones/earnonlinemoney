@@ -1,7 +1,7 @@
 ---
 title: "Podcasting Business Success Tools"
 description: "Learn how to build a successful podcast business with these models. Explore the business of podcasting, its components and more."
-image: "images/social-media-presence.jpg"
+image: "images/podcasting-business.jpg"
 alt: "Business of Podcasting Concept."
 date: 2020-01-04T18:19:25+06:00
 categories: ["online business"]

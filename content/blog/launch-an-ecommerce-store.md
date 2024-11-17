@@ -1,7 +1,7 @@
 ---
 title: "Start an E-commerce Store"
 description: "What does it to take build online stores? For beginners, you must find a market, create a brand, and find hosting to start."
-image: "images/begin-ecommerce-store.jpg"
+image: "images/build-ecommerce-store.jpg"
 date: 2019-10-09T18:19:25+06:00
 categories: ["ecommerce"]
 tags: ["online-store"]
