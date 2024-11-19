@@ -9,7 +9,7 @@ type: "featured" # available types: [featured/regular]
 draft: false
 ---
 
-Are you tired of the traditional 9-to-5 grind? Do you yearn for the freedom to choose your projects, set your own hours, and work from anywhere in the world? In this blog post, we will explore how to earn money online freelancing!
+Are you tired of the traditional 9-to-5 grind? Do you yearn for the freedom to choose your projects, set your own hours, and work from anywhere in the world? In this blog post, we will explore [how to earn money online]({{< relref "digital-income-ideas" >}}) freelancing!
 
 Imagine waking up to the sound of your alarm, not with a sense of dread, but with excitement for the day ahead. Picture yourself enjoying your morning coffee, not in a rush to beat traffic, but in a relaxed state of mind, knowing that your office is just a few steps away. This isn’t a dream—it's the life of a freelancer. Let's dive in!
 

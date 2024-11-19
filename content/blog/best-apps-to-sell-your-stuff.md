@@ -4,7 +4,7 @@ description: "Check out the best apps to sell stuff in 2024. Find easy ways to e
 image: "images/best-apps-selling-stuff.jpg"
 alt: "Mobile Device, Card, Best Apps to Sell Stuff Concept."
 date: 2019-10-30T18:19:25+06:00
-categories: ["side hustles"]
+categories: ["side-hustles"]
 tags: ["quick-cash"]
 type: "regular" # available types: [featured/regular]
 draft: false

@@ -4,7 +4,7 @@ description: "Discover the ultimate crowdfunding guide! Learn how to launch succ
 image: "images/crowdfunding-guide.jpg"
 alt: "Crowdfunding Startup Illustration."
 date: 2024-02-17T18:19:25+06:00
-categories: ["online business"]
+categories: ["online-business"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

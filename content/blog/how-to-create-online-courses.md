@@ -9,7 +9,7 @@ type: "featured" # available types: [featured/regular]
 draft: false
 ---
 
-Online learning and education continues to grow at a record setting pace. According to Global Market Insights, the e-learning market is expected to surpass $375 billion by 2026. This surge is driven by the flexibility, accessibility, and variety of online courses available to learners worldwide. For creators, this presents an incredible opportunity to reach a global audience and generate income from their expertise.
+Online learning and education continues to grow at a record setting pace. According to Global Market Insights, the e-learning market is expected to surpass $375 billion by 2026. This surge is driven by the flexibility, accessibility, and variety of online courses available to learners worldwide. For creators, this presents an incredible opportunity to reach a global audience and [generate income]({{< relref "digital-income-ideas" >}}) from their expertise.
 
 ## How to Create Online Courses
 

@@ -2,9 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 description: "This is meta description"
 date: {{ .Date }}
+image: "images/{{ .Name }}.jpg"
 alt: "Describe the image visually."
-tags: ["tag1", "tag2"]
-categories: ["Blogging"]
+tags: ["tag"]
+categories: ["categories"]
 draft: true
 type: "regular"
 ---

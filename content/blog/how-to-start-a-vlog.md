@@ -3,7 +3,7 @@ title: "Vlogging Tips and Strategies"
 description: "Discover how to start a vlog and share your unique perspective with the world! Learn essential steps, tips, and strategies to begin your vlogging journey."
 image: "images/start-a-vlog.jpg"
 date: 2020-01-05T18:19:25+06:00
-categories: ["social media"]
+categories: ["social-media"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

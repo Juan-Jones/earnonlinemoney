@@ -5,7 +5,7 @@ image: "images/ad-revenue-advice.jpg"
 alt: "Ad, Cash Hovering Over Hand, Woman Inside Monitor, Coin Stack."
 date: 2019-10-30T18:19:25+06:00
 categories: ["passive-income-ideas"]
-type: "regular" # available types: [featured/regular]
+type: "regular"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ description: "What are the most successful podcast platforms, how much do they e
 image: "images/most-accomplished-podcast.jpg"
 alt: "Golden Microphone, Successful Podcasts Notion."
 date: 2020-01-07T18:19:25+06:00
-categories: ["online business"]
+categories: ["online-business"]
 tags: ["podcasts"]
 type: "regular" # available types: [featured/regular]
 draft: false

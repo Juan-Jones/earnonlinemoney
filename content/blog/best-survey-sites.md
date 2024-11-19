@@ -4,7 +4,7 @@ description: "Find the best survey sites and opportunities and earn cash, reward
 image: "images/survey-sites.jpg"
 alt: "Checkbox, Best Survey Sites Concept."
 date: 2019-11-06T18:19:25+06:00
-categories: ["side hustles"]
+categories: ["side-hustles"]
 tags: ["quick-cash"]
 type: "regular" # available types: [featured/regular]
 draft: false

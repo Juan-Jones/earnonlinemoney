@@ -4,7 +4,7 @@ description: "Key strategies for building a strong social media presence to boos
 image: "images/social-media-building.jpg"
 alt: "Man Promoting on Social Media Building Online Presence Concept."
 date: 2019-05-20T18:19:25+06:00
-categories: ["social media"]
+categories: ["social-media"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

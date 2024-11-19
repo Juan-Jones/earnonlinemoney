@@ -4,8 +4,8 @@ description: "Learn how to build a successful podcast business with these models
 image: "images/podcasting-business.jpg"
 alt: "Business of Podcasting Concept."
 date: 2020-01-04T18:19:25+06:00
-categories: ["online business"]
-type: "regular" # available types: [featured/regular]
+categories: ["online-business"]
+type: "regular"
 draft: false
 ---
 

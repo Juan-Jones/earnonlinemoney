@@ -4,7 +4,7 @@ description: "Learn how to start utilizing social media sites to grow your busin
 image: "images/social-media-business.jpg"
 alt: "Play Button, Use Social Media for Business Concept."
 date: 2019-11-04T18:19:25+06:00
-categories: ["social media"]
+categories: ["social-media"]
 type: "regular" # available types: [featured/]
 draft: false
 ---

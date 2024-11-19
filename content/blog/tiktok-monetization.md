@@ -3,7 +3,7 @@ title: "TikTok Monetization Guide"
 description: "Learn how to monetize your TikTok content with our complete guide featuring 25+ opportunities, like Creator Funds, brand partnerships, merchandise sales & more."
 image: "images/monetize-tiktok-channel.jpg"
 date: 2019-11-19T18:19:25+08:00
-categories: ["social media"]
+categories: ["social-media"]
 type: "regular"
 draft: false
 ---

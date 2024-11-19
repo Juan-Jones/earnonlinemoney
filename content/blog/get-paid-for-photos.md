@@ -3,7 +3,7 @@ title: "Get Paid for Photos"
 description: "Learn to monetize your photos: Sell stock, master your craft, create marketing content, accept feedback, explore licensing options, and more."
 image: "images/paid-for-photo.jpg"
 date: 2024-02-17T18:19:25+06:00
-categories: ["side hustles"]
+categories: ["side-hustles"]
 tags: ["quick-cash"]
 type: "regular" # available types: [featured/regular]
 draft: false

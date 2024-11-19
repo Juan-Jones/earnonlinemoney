@@ -3,7 +3,7 @@ title: "Richest Internet Entrepreneurs"
 description: "Authentic list of the top richest internet entrepreneurs, their staggering net worth, significant influences, and fun facts about their journeys to success."
 image: "images/top-internet-entrepreneurs.jpg"
 date: 2019-10-28T18:19:25+06:00
-categories: ["online business"]
+categories: ["online-business"]
 type: "regular"
 draft: false
 ---

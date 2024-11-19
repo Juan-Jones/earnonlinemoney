@@ -9,7 +9,7 @@ type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Launching a shopify store can be daunting. But w As a leading e-commerce platform, Shopify has revolutionized the way entrepreneurs sell products online. Shopify offers a user-friendly interface, robust features, and powerful tools to help you create, manage, and grow your online store. This guide will walk you through the process of selling on Shopify, from setting up your store to scaling your business for success.
+Launching a shopify store can be daunting. As a leading e-commerce platform, Shopify has revolutionized the way entrepreneurs sell products online. Shopify offers a user-friendly interface, robust features, and powerful tools to help you create, manage, and grow your online store. This guide will walk you through the process of selling on Shopify, from setting up your store to scaling your business for success.
 
 ## What is Shopify?
 

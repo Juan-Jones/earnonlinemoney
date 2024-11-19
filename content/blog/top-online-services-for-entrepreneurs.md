@@ -3,7 +3,7 @@ title: "Best Online Services for Entrepreneurs"
 description: "Explore essential online services for entrepreneurs to streamline operations and enhance productivity. Find effective pricing strategies."
 image: "images/best-online-services-for-entrepreneurs.jpg"
 date: 2019-10-24T18:19:25+06:00
-categories: ["online business"]
+categories: ["online-business"]
 type: "regular"
 draft: false
 ---
