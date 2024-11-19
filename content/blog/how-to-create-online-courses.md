@@ -4,7 +4,8 @@ description: "Online courses creation step-by-step guide. Master eLearning strat
 image: "images/create-online-courses.jpg"
 date: 2019-10-20T18:19:25+06:00
 categories: ["courses"]
-type: "regular" # available types: [featured/regular]
+tags: ["eLearning"]
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 

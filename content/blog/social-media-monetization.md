@@ -2,9 +2,9 @@
 title: "Social Media Monetization"
 description: "Unveiling strategies to turn your online presence into profit. Explore methods, platforms, and tips to monetize your social media content effectively."
 image: "images/earn-social-media-money.jpg"
-date: 2023-05-20T18:19:25+06:00
+date: 2023-11-02T18:19:25+06:00
 categories: ["social media"]
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 

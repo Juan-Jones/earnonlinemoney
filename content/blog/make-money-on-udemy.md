@@ -4,6 +4,7 @@ description: "Unlock Udemy's money-making secrets, craft stellar courses, boost 
 image: "images/earn-on-udemy.jpg"
 date: 2023-05-15T14:19:25+06:00
 categories: ["courses"]
+tags: ["eLearning"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

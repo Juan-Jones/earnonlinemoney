@@ -4,6 +4,7 @@ description: "Ultimate guide on teaching online courses. Discover key features o
 image: "images/teach-online-courses.jpg"
 date: 2019-10-23T18:19:25+06:00
 categories: ["courses"]
+tags: ["eLearning"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

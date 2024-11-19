@@ -4,7 +4,7 @@ description: "Learn how to monetize your website & maximize your online revenue 
 image: "images/monetize-a-website.jpg"
 date: 2019-11-04T18:19:25+08:00
 categories: ["passive-income-ideas"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 

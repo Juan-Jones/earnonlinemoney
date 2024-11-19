@@ -52,7 +52,7 @@ Efficiency is key to maximizing your mining profits. By optimizing your mining o
 
 ### Exploring Opportunities for Passive Income
 
-In addition to actively mining cryptocurrencies, there are [opportunities to earn passive income]({{< relref "passive-income-ideas" >}}) in the crypto space. One such method is through staking, where users lock up their coins to support the operations of a blockchain network and earn rewards in return.
+In addition to actively mining cryptocurrencies, there are [opportunities to earn passive income]({{< relref "passive-income-investments" >}}) in the crypto space. One such method is through staking, where users lock up their coins to support the operations of a blockchain network and earn rewards in return.
 
 * Crypto Mine Flipping: Purchase on one exchange then sell it on another.
 * Mine Trading: Trade: Find a coin that is in high demand and mine it using a mining ring.

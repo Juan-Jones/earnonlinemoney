@@ -5,7 +5,7 @@ image: "images/start-a-blog.jpg"
 alt: "Pencil, Image, Make a Blog Site Illustration."
 date: 2019-10-05T18:19:25+06:00
 categories: ["blogging"]
-type: "regular" # available types: [featured/regular]
+type: "featured"
 draft: false
 ---
 

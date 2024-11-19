@@ -4,7 +4,8 @@ description: "Learn how to effectively market and monetize your online course wi
 image: "images/online-course-promotion.jpg"
 date: 2019-10-22T18:19:25+06:00
 categories: ["courses"]
-type: "regular" # available types: [featured/regular]
+tags: ["eLearning"]
+type: "regular"
 draft: false
 ---
 

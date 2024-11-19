@@ -5,6 +5,7 @@ image: "images/best-online-course.jpg"
 alt: "Play Button on Webpage."
 date: 2019-10-21T18:19:25+06:00
 categories: ["courses"]
+tags: ["eLearning"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
@@ -25,7 +26,7 @@ Udemy is a popular online course platform known for its vast library of affordab
 
 ### 3. edX.com
 
-edX is a non-profit online learning platform founded by Harvard University and MIT, offering courses, certificates, and degree programs from leading universities and institutions around the world. With a focus on quality and accessibility, edX aims to provide learners with opportunities for academic and professional advancement.
+edX is a non-profit online learning platform founded by Harvard University and MIT, offering courses, certificates, and degree programs from leading universities and institutions around the world. With a focus on quality and accessibility, [edX free online courses]({{< relref "edx-free-online-course" >}}) aims to provide learners with opportunities for academic and professional advancement.
 
 ### 4. LinkedIn Learning
 

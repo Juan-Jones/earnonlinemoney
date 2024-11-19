@@ -16,7 +16,7 @@ Investing involves committing money or capital to an asset, such as stocks, bond
 
 ## Popular Investments and Strategies
 
-Investing offers several [opportunities to earn passive income]({{< relref "passive-income-ideas" >}}). One of the primary benefits is the potential for higher returns. Historical data shows that investments in diversified portfolios of stocks have consistently outpaced inflation over the long term. For instance, the S&P 500, a benchmark index of U.S. stocks, has averaged around 10% annual returns over several decades, demonstrating the power of compounding and growth.
+Investing offers several [passive income investment opportunities]({{< relref "passive-income-investments" >}}). One of the primary benefits is the potential for higher returns. Historical data shows that investments in diversified portfolios of stocks have consistently outpaced inflation over the long term. For instance, the S&P 500, a benchmark index of U.S. stocks, has averaged around 10% annual returns over several decades, demonstrating the power of compounding and growth.
 
 ### Stocks vs Bonds
 

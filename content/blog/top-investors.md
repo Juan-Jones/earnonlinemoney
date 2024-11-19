@@ -12,7 +12,7 @@ Investing is both an art and a science, requiring a keen understanding of market
 
 ## Top 12 Investors
 
-Top investors are known for their keen market insights, strategic risk management, and knack for [passive income investments]({{< relref "passive-income-ideas" >}}). They often diversify their portfolios across various sectors to minimize risk and maximize returns. Consistent research and staying informed about global economic trends are crucial to their success. Their ability to identify undervalued assets and long-term growth opportunities sets them apart.
+Top investors are known for their keen market insights, strategic risk management, and knack for [passive income investments]({{< relref "passive-income-investments" >}}). They often diversify their portfolios across various sectors to minimize risk and maximize returns. Consistent research and staying informed about global economic trends are crucial to their success. Their ability to identify undervalued assets and long-term growth opportunities sets them apart.
 
 ### 1. Warren Buffett
 

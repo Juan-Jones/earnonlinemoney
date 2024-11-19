@@ -35,7 +35,7 @@ Domain flipping is one of the most profitable investments on the Web. When execu
 
 ## Types of Domain Names
 
-There are many types of domains, i.e.,ine. In 2007 VacationRentals.com sold for $35 million. Three years later CarInsurance.com sold for $49.7 million. However, in 2019 Voice.com sold for $30 million. Hence, selling digital real-estate is one of the [best passive income ideas]({{< relref "passive-income-ideas" >}})! With strategic investment decisions and effective marketing strategies, you can capitalize on the booming online marketplace to generate substantial income streams. Below we will explore how to attain digital real-estate step-by-step:
+There are many types of domains, i.e.,ine. In 2007 VacationRentals.com sold for $35 million. Three years later CarInsurance.com sold for $49.7 million. However, in 2019 Voice.com sold for $30 million. Hence, selling digital real-estate is one of the [best passive income ideas]({{< relref "passive-income-investments" >}})! With strategic investment decisions and effective marketing strategies, you can capitalize on the booming online marketplace to generate substantial income streams. Below we will explore how to attain digital real-estate step-by-step:
 
 ### 1. Search for Profitable Domain Names
 
