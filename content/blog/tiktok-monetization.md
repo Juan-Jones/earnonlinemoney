@@ -12,7 +12,7 @@ In the fast-paced world of social media, TikTok has emerged as a powerhouse plat
 
 ## TikTok Monetization Opportunities
 
-Unlocking effective *TikTok monetization strategies* requires a deep understanding of the platform's features and opportunities for generating revenue. You can [monetize your social media channel]({{< relref "social-media-monetization" >}}) easily on TikTok. Utilize its unique features to generate income. Engage with your audience through creative content. Use TikTok’s Creator Fund and live gifts. Collaborate with brands for sponsored posts. Maximize your reach with trending challenges. Grow your follower base to unlock more earning potential. Leverage your creativity to stand out and attract more partnerships. To capitalize on TikTok as a monetization avenue, consider implementing the following monetization methods:
+Unlocking effective *TikTok monetization strategies* requires a deep understanding of the platform's features and opportunities for generating revenue. You can monetize your social media channels easily on TikTok. Utilize its unique features to generate income. Engage with your audience through creative content. Use TikTok’s Creator Fund and live gifts. Collaborate with brands for sponsored posts. Maximize your reach with trending challenges. Grow your follower base to unlock more [web-based earning potential]({{< relref "digital-income-ideas" >}}). Leverage your creativity to stand out and attract more partnerships. To capitalize on TikTok as a monetization avenue, consider implementing the following monetization methods:
 
 ### Creator Marketplace
 
@@ -104,7 +104,7 @@ TikTok creators can organize and host digital events, such as virtual concerts, 
 
 Exploring monetization opportunities beyond TikTok can open up a world of potential income streams. Each platform offers unique ways to turn creativity into cash. Here's a look at a few alternatives;
 
-* Facebook Monetization: [Monetize Your Facebook Channel]({{< relref "facebook-monetization" >}}) by incorporating ad breaks within video content to earn revenue from short advertisements.
+* Facebook Monetization: [Earn Money on Meta]({{< relref "facebook-monetization" >}}) by incorporating ad breaks within video content to earn revenue from short advertisements.
 * Launch a YouTube Channel: [Start a Your Channel]({{< relref "how-to-start-a-youtube-channel" >}}) and and earn money by generating ad revenue from views on your video content.
 * Pinterest Monetization Opportunities: [Earn Money on Pinterest]({{< relref "make-money-on-pinterest" >}}) by designing sponsored pins that highlight brands' products to your audience.
 

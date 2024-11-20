@@ -40,7 +40,7 @@ Once you have a strong brand and an engaged audience, you can start exploring va
 
 Each social media platform offers unique opportunities for monetization. Here’s how to leverage the major platforms:
 
-#### Pinterest
+#### Make Money on Pinterest
 
 To [monetize your Pinterest account]({{< relref "make-money-on-pinterest" >}}), focus on creating visually appealing pins that link to affiliate products or your own merchandise. Join group boards to increase your reach and drive traffic to your pins. Consistent pinning and engagement are crucial for success.
 
@@ -50,17 +50,17 @@ To [monetize your Pinterest account]({{< relref "make-money-on-pinterest" >}}), 
 * Super Chat and Super Stickers: Engage with your live stream audience through paid Super Chats and Super Stickers.
 * Channel Memberships: Offer exclusive content to paying subscribers through channel memberships.
 
-#### Facebook
+#### Make Money on Facebook
 
-Creating engaging and shareable content is key to [monetizing Facebook]({{< relref "facebook-monetization" >}}). Utilize Facebook Ads, in-stream ads, and fan subscriptions to generate revenue from your audience. Engaging with your followers regularly can boost your visibility and earnings.
+Creating engaging and shareable content is key to [making money on Facebook]({{< relref "facebook-monetization" >}}). Utilize Facebook Ads, in-stream ads, and fan subscriptions to generate revenue from your audience. Engaging with your followers regularly can boost your visibility and earnings.
 
 * In-Stream Ads: Make money on Facebook by placing ads in your videos.
 * Fan Subscriptions: Offer exclusive content to fans who subscribe to your page for a monthly fee.
 * Facebook Stars: Receive virtual gifts from your audience during live streams, which can be converted to cash.
 
-#### TikTok
+#### Earn Money on TikTok
 
-On TikTok, creating viral content and participating in popular challenges can attract a large audience. There are several opportunities when it comes to [TikTok monetization]({{< relref "tiktok-monetization" >}}), including brand partnerships and the TikTok Creator Fund offer. Consistently posting and engaging with trends helps maximize your earnings.
+On TikTok, creating viral content and participating in popular challenges can attract a large audience. There are several opportunities to [earn legit money on TikTok]({{< relref "tiktok-monetization" >}}), including brand partnerships and the TikTok Creator Fund offer. Consistently posting and engaging with trends helps maximize your earnings.
 
 * TikTok Creator Fund: Join the Creator Fund to earn money based on your video views and engagement.
 * Brand Collaborations: Partner with brands for sponsored content.
