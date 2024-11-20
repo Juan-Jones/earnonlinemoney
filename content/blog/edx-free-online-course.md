@@ -14,7 +14,7 @@ In todays world, education is no longer confined to traditional classrooms. The 
 
 ## What is edX?
 
-Founded in 2012 by Harvard University and the Massachusetts Institute of Technology (MIT), edX operates as a non-profit organization. Its mission is simple yet profound: to increase global access to high-quality education. By partnering with over 160 institutions, including world-renowned universities like Berkeley, Oxford, and Stanford, as well as organizations such as Microsoft and Google, edX has created a diverse learning ecosystem.
+Founded in 2012 by Harvard University and the Massachusetts Institute of Technology (MIT), edX is one of the [best online course sites]({{< relref "best-online-course-platforms" >}}). Its mission is simple yet profound: to increase global access to high-quality education. By partnering with over 160 institutions, including world-renowned universities like Berkeley, Oxford, and Stanford, as well as organizations such as Microsoft and Google, edX has created a diverse learning ecosystem.
 
 ## Benefits of edX
 

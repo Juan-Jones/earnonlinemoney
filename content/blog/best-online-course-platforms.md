@@ -30,7 +30,7 @@ edX is a non-profit online learning platform founded by Harvard University and M
 
 ### 4. LinkedIn Learning
 
-LinkedIn Learning, formerly known as Lynda.com, is an online learning platform owned by LinkedIn, offering a vast library of courses taught by industry experts. With a focus on professional development and career advancement, LinkedIn Learning provides learners with access to [online courses marketing tools]({{< relref "marketing-your-online-course" >}}),  leadership resources, software development technology, and more.
+LinkedIn Learning, formerly known as Lynda.com, is an online learning platform owned by LinkedIn, offering a vast library of courses taught by industry experts. With a focus on professional development and career advancement, LinkedIn Learning provides learners with access to free marketing tools,  leadership resources, software development technology, and more.
 
 ### 5. Skillshare.com
 
@@ -38,4 +38,4 @@ Skillshare is an online learning community that offers thousands of classes taug
 
 ### Conclusion
 
-In conclusion, there are thousands of lucrative opportunities for passionate individuals to [earn money teaching online courses]({{< relref "make-money-teaching-online-courses" >}}); simply sharing their knowledge and skills while making a positive impact on learners worldwide. By creating high-quality courses, leveraging promotional strategies, and building your brand, you can unlock your earning potential and pave the way for a fulfilling career as an online educator.
+In conclusion, there are thousands of lucrative opportunities for passionate individuals to [develop online courses]({{< relref "how-to-create-online-courses" >}}) simply sharing their knowledge and skills while making a positive impact on learners worldwide. By creating high-quality courses, leveraging promotional strategies, and building your brand, you can unlock your earning potential and pave the way for a fulfilling career as an online educator.

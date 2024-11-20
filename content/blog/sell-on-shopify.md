@@ -16,6 +16,7 @@ Launching a shopify store can be daunting. As a leading e-commerce platform, Sho
 Shopify is an all-in-one e-commerce platform that empowers individuals and businesses to create, manage, and scale their online stores with ease. Founded in 2006 by Tobias Lütke, Daniel Weinand, and Scott Lake, Shopify has evolved from a humble startup to a global juggernaut, powering over a million businesses in more than 175 countries.
 
 ## How to Set Up a Shopify Store
+
 Before you can start selling, you need to [set up your eCommerce store]({{< relref "launch-an-ecommerce-store" >}}). This process is straightforward but requires careful planning and execution.
 
 First, sign up for a [Shopify account](https://shopify.pxf.io/21qK6G). Shopify offers a 14-day free trial, which allows you to explore the platform and set up your store without any financial commitment.
@@ -112,6 +113,6 @@ As your business grows, consider expanding your product line. Conduct market res
 
 Shopify makes it easy to sell internationally. You can set up multiple currencies, offer international shipping options, and translate your store into different languages. Selling globally can significantly boost your revenue and brand reach.
 
-### Shopify Alternatives
+### Explore Shopify Alternatives
 
 Selling on Shopify is a rewarding journey that offers immense opportunities for growth and success. However, theres always other options. When exploring eCommerce solutions, Shopify often tops the list, but several [Shopify alternatives]({{< relref "shopify-alternatives" >}}) offer unique benefits that might better suit your business needs.
