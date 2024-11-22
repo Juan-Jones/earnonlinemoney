@@ -1,7 +1,8 @@
 User-agent: *
 
 Disallow: /search/
-Disallow: /archives/
+Disallow: /archives.html
 Disallow: /tags/
+Disallow: /categories/
 
 Sitemap: https://earnonlinemoney.org/sitemap.xml
