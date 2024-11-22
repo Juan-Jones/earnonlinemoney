@@ -96,9 +96,9 @@ Analytics can provide valuable insights into your campaign's performance. Most c
 
 Learning from successful campaigns can provide inspiration and valuable lessons. Here are a few notable examples:
 
-1. Pebble Time: This smartwatch campaign raised over $20 million on Kickstarter by clearly demonstrating the product's features and benefits.
-2. Exploding Kittens: A card game that went viral, raising $8.7 million on Kickstarter. Its success was driven by humor and an engaging, well-targeted marketing strategy.
-3. The Coolest Cooler: This high-tech cooler raised $13.3 million by offering innovative features and a fun, engaging presentation.
+* Pebble Time: This smartwatch campaign raised over $20 million on Kickstarter by clearly demonstrating the product's features and benefits.
+* Exploding Kittens: A card game that went viral, raising $8.7 million on Kickstarter. Its success was driven by humor and an engaging, well-targeted marketing strategy.
+* The Coolest Cooler: This high-tech cooler raised $13.3 million by offering innovative features and a fun, engaging presentation.
 
 #### Reach Your Full Potential
 

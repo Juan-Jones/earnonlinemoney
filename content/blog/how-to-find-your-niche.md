@@ -30,7 +30,7 @@ Start by considering what you are passionate about. Your interests can be a grea
 
 A successful niche often revolves around solving specific problems. Look for issues or gaps in the market that you can address with your skills and knowledge. Ask yourself:
 
-* Do you have enough knowledge to explain [how to launch a podcast]({{< relref "how-to-start-a-podcast" >}})?
+* Do you have enough knowledge to explain [how to launch a blog]({{< relref "how-to-make-a-blog" >}})?
 * What problems do people in my interest areas face?
 * Can teach people how to start a podcasts?
 
