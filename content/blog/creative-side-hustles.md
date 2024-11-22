@@ -26,7 +26,7 @@ There are many ways to make money on the side online. You can get paid to shop, 
 
 ### 1. Network Marketing
 
-Most people are skeptical when they hear the term network marketing or multi-level marketing (MLM). And, by all means, people have valid reasons to be doubtful about the past. Back in the day, people were getting scammed by get-rich-quick schemes left and right. People became fearful of pursuing internet side hustles. But there are currently several legitimate network marketing opportunities. People can find opportunities in industries, including health, food, telecommunications, and many others. However, every opportunity is not for every person. Hence, if you're not a fan of attending conferences, or meeting and greeting, don't pursue MLM. On the flip side, if you enjoy marketing and networking, you can earn generously from networking marketing.
+Most people are skeptical when they hear the term network marketing or multi-level marketing (MLM). And, by all means, people have valid reasons to be doubtful about the past. Back in the day, people were getting scammed by get-rich-quick schemes left and right. People became fearful of pursuing internet side hustles. But there are currently several legitimate network marketing opportunities. People can find opportunities in industries, including health, food, telecommunications, and many others. However, every opportunity is not for every person. Hence, if you're not a fan of attending conferences, or meeting and greeting, don't pursue MLM.
 
 ### 2. Place Ads on Your Car
 
@@ -35,9 +35,10 @@ If you drive, why not place advertisements in your car to make money? You can ra
 ### 3. Accept Donations
 
 Accepting donations can generate huge earnings. It's one of the most profitable side hustle ideas. Some publishers receive several thousands of dollars accepting donations. You may not want to use this as your dominant strategy to generate cash. However, if you're looking for another way to earn extra income, accepting donations can be of use. The revenue gained from donations may actually surprise you.
+
 ### 4. House Cleaning
 
-Are you a person who likes to clear? Offer your cleaning expertise to individuals and businesses, providing meticulous cleaning services to create tidy and welcoming spaces. A few place to start HomeAdvisor.com,MerryMaids.com, and MollyMaids.com.
+Are you a person who likes to clear? Offer your cleaning expertise to individuals and businesses, providing meticulous cleaning services to create tidy and welcoming spaces. A few place to start HomeAdvisor.com, MerryMaids.com, and MollyMaids.com.
 
 ### 5. Get Paid to Click Ads
 
@@ -90,7 +91,7 @@ Are you searching for legitimate ways to earn additional income from home? Well,
 17. Cut hair,
 18. Dance instructor,
 19. Data-entry,
-20. Deliver food,
+20. Deliver for Instacart,
 21. Deliver newspapers,
 22. Design clothing,
 23. Design custom T-shirts,

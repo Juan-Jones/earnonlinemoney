@@ -1,5 +1,5 @@
 ---
-title: "Best Apps for Selling"
+title: "Best Apps for Selling Your Stuff"
 description: "Check out the best apps to sell stuff in 2024. Find easy ways to earn extra cash and boost your income."
 image: "images/best-apps-selling-stuff.jpg"
 alt: "Mobile Device, Card, Best Apps to Sell Stuff Concept."

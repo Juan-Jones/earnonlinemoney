@@ -38,7 +38,7 @@ You do not need to have a degree to consult people or businesses. You will need 
 
 ### 5. Crowdfunding
 
-Many podcasters rely on the support of their loyal listeners to fund their shows. Platforms like Patreon and Ko-fi allow fans to contribute financially to their favorite podcasts through donations or subscriptions. In return, supporters may gain access to exclusive content, behind-the-scenes updates, or other perks, fostering a sense of community and appreciation. Need a resource. Patreon.com is an outstanding resource for crowdfunding.
+Many podcasters rely on the support of their loyal listeners to fund their shows. Platforms like Patreon and Ko-fi allow fans to contribute financially to their favorite podcasts through donations or subscriptions. In return, supporters may gain access to exclusive content, behind-the-scenes updates, or other perks, fostering a sense of community and appreciation. If you need resources Patreon.com is an outstanding resource for funding. If you need further information on funding projects read our [Ultimate Crowdfunding Guide]({{< relref "crowdfunding-complete-guide" >}}).
 
 ### 6. Monetizing Ads
 
