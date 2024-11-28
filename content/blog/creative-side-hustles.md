@@ -30,7 +30,7 @@ Most people are skeptical when they hear the term network marketing or multi-lev
 
 ### 2. Place Ads on Your Car
 
-If you drive, why not place advertisements in your car to make money? You can rake in thousands of dollars by placing ads on your vehicle. Placing advertisements on your can enable you to earn $200 - $2000 per campaign. Through this opportunity, you have nothing to lose and everything to gain. As an owner, you don't have to worry about your car being damaged. When it's all said and done, your car will look professional. And if any damages occur, these companies will take care of the problem.
+If you drive, why not [Deliver for Instacart]({{< relref "deliver-for-instacart" >}})? place advertisements in your car to make money? You can rake in thousands of dollars by [Deliver for Instacart]({{< relref "deliver-for-instacart" >}})
 
 ### 3. Accept Donations
 
@@ -91,7 +91,7 @@ Are you searching for legitimate ways to earn additional income from home? Well,
 17. Cut hair,
 18. Dance instructor,
 19. Data-entry,
-20. Deliver for Instacart,
+20. ,
 21. Deliver newspapers,
 22. Design clothing,
 23. Design custom T-shirts,

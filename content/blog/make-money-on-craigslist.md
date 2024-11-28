@@ -19,7 +19,7 @@ Ready to exploit a [profitable side hustle]({{< relref "creative-side-hustles" >
 
 Selling your stuff on Craigslist can be an efficient way to declutter and earn extra cash. Begin by creating detailed listings with clear, high-quality photos and accurate descriptions to attract potential buyers. Be honest about the condition of the items and set competitive prices based on market research. Promptly respond to inquiries and arrange safe, public meeting spots for transactions to ensure a smooth and secure selling experience.
 
-Next, [sell unused or unwanted items]({{<  ref "best-apps-to-sell-your-stuff" >}}) from around your home, as there's always a market for secondhand goods at competitive prices. You can also offer services such as handyman work, tutoring, or freelance gigs that cater to local needs. To maximize your earnings, ensure your listings are detailed, well-photographed, and priced reasonably to attract buyers quickly.
+Next, dive through the [best apps to sell items]({{< relref "best-apps-to-sell-your-stuff" >}}) from around your home, as there's always a market for secondhand goods at competitive prices. You can also offer services such as handyman work, tutoring, or freelance gigs that cater to local needs. To maximize your earnings, ensure your listings are detailed, well-photographed, and priced reasonably to attract buyers quickly.
 
 ### Best Practices for Selling on Craigslist
 

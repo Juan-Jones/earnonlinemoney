@@ -58,7 +58,7 @@ Carousell is a mobile marketplace app that originated in Singapore and has since
 
 ### 11. Craigslist.org
 
-Craigslist has been a major resource for sellers since. Across the globe, internet entrepreneurs have earned thousands selling products through classified ad sites. It's one of the best side hustles of the internet. Many people around the world use these basic techniques to [sell items on Craigslist]({{< relref "make-money-on-craigslist" >}}), and so can you.
+Craigslist has been a major resource for sellers since. Across the globe, internet entrepreneurs have earned thousands selling products through classified ad sites. It's one of the best side hustles of the internet. Many people around the world use these basic techniques to [earn money on Craigslist]({{< relref "make-money-on-craigslist" >}}), and so can you.
 
 ### 12. Decluttr
 

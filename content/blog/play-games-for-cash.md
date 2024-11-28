@@ -68,9 +68,10 @@ While the allure of cash games online is undeniable, success is not guaranteed. 
 
 #### Exploring Additional Opportunities
 
-While cash games online and Twitch streaming represent primary avenues for monetizing your gaming endeavors, there are numerous other opportunities to explore within the broader gaming industry. Consider leveraging your expertise to pursue freelance opportunities such as game testing, content creation, or [making money on Craigslist]({{< relref "make-money-on-craigslist" >}}).
+While cash games online and Twitch streaming represent primary avenues for monetizing your gaming endeavors, there are numerous other opportunities to explore within the broader gaming industry. Consider leveraging your expertise to pursue freelance opportunities such;
 
-[Earn Cashback Shopping]({{< relref "earn-cash-back" >}}).
+* [Make Money Clicking Ads]({{< relref "get-paid-to-click-ads" >}}).
+* [Earn Cashback Shopping]({{< relref "earn-cash-back" >}}).
 
 #### Practice Diligently
 

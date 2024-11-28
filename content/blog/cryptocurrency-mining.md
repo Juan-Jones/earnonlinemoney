@@ -55,7 +55,7 @@ Efficiency is key to maximizing your mining profits. By optimizing your mining o
 In addition to actively mining cryptocurrencies, there are [opportunities to earn passive income]({{< relref "passive-income-investments" >}}) in the crypto space. One such method is through staking, where users lock up their coins to support the operations of a blockchain network and earn rewards in return.
 
 * Crypto Mine Flipping: Purchase on one exchange then sell it on another.
-* Mine Trading: Trade: Find a coin that is in high demand and mine it using a mining ring.
+* Mine Trading: Find a coin that is in high demand and mine it using a mining ring.
 * Long Term Mining: Buy cryptocurrency and hold it. Wait until the value goes up and sell.
 * Staking: Crypto staking involves holding a certain amount of cryptocurrency in a digital wallet to support the operations of a blockchain network. In return for staking their coins, participants receive rewards, similar to interest on a savings account. Staking is a popular method for earning passive income in Proof of Stake (PoS) networks.
 
