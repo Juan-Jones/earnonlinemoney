@@ -30,7 +30,7 @@ Most people are skeptical when they hear the term network marketing or multi-lev
 
 ### 2. Place Ads on Your Car
 
-If you drive, why not [Deliver for Instacart]({{< relref "deliver-for-instacart" >}})? place advertisements in your car to make money? You can rake in thousands of dollars by [Deliver for Instacart]({{< relref "deliver-for-instacart" >}})
+If you drive, why not [Deliver for Instacart]({{< relref "deliver-for-instacart" >}})?Delivering for Instacart as a side hustle offers flexibility and a chance to earn extra income on your schedule. By shopping for and delivering groceries, you can capitalize on the growing demand for convenience, all while setting your own hours and working as much or as little as you like.
 
 ### 3. Accept Donations
 
@@ -91,7 +91,7 @@ Are you searching for legitimate ways to earn additional income from home? Well,
 17. Cut hair,
 18. Dance instructor,
 19. Data-entry,
-20. ,
+20. 
 21. Deliver newspapers,
 22. Design clothing,
 23. Design custom T-shirts,
