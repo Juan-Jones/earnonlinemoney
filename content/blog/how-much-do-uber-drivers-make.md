@@ -13,7 +13,7 @@ Uber has ignited a revolution in the gig economy, empowering countless individua
 
 ## How Much Do Uber Drivers Make
 
-If you're wondering how much Uber drivers make, it depends on several factors as mentioned. However, the average Uber driver’s net earnings typically range between $10 and $20 per hour after factoring in expenses. Drivers in high-demand urban areas might clear $25 per hour, while those in less active regions might see net earnings closer to $8–$12 per hour. But every situation is different. To better illustrate, let’s analyze a 40-hour workweek for two drivers—Driver A and Driver B—operating in two different cities:
+If you're wondering how much [Uber drivers](https://www.uber.com/us/en/drive/) make, it depends on several factors as mentioned. However, the average Uber driver’s net earnings typically range between $10 and $20 per hour after factoring in expenses. Drivers in high-demand urban areas might clear $25 per hour, while those in less active regions might see net earnings closer to $8–$12 per hour. But every situation is different. To better illustrate, let’s analyze a 40-hour workweek for two drivers—Driver A and Driver B—operating in two different cities:
 
 Driver A: Driver A working 40 hours a week in a major city might gross $1,000 but spend $300 on gas, maintenance, and fees, leaving them with $700.
 
@@ -53,7 +53,7 @@ To make the most of driving for Uber, drivers should consider these strategies:
 
 The answer depends on your goals and circumstances. Uber offers unmatched flexibility, making it ideal for those seeking part-time or supplemental income. However, the job requires managing expenses carefully to ensure profitability.
 
-For individuals considering full-time driving, the earning potential can be sustainable in high-demand cities. Still, it’s crucial to evaluate whether the time and wear-and-tear on your vehicle align with your financial goals. If possibe
+For individuals considering full-time driving, the earning potential can be sustainable in high-demand cities. Still, it’s crucial to evaluate whether the time and wear-and-tear on your vehicle align with your financial goals.
 
 ### Factors That Affect Uber Driver Earnings
 
