@@ -17,7 +17,7 @@ This blog post explores various ad revenue strategies, offering insights and act
 
 ## Traditional Display Advertising
 
-Traditional display advertising is one of the best methods for [making money online]({{< relref "digital-income-ideas" >}}). It involves using visual banners, images, or graphics placed on websites to attract and engage viewers. These ads are often positioned prominently on web pages, aiming to capture the attention of users through compelling visuals and messages. They can be static or animated, and typically link to the advertiser's site for further interaction. Despite the rise of more sophisticated ad formats, traditional display advertising remains a staple in digital marketing strategies.
+Traditional display advertising is one of the best methods for [making money online]({{< relref "digital-income-ideas.md" >}}). It involves using visual banners, images, or graphics placed on websites to attract and engage viewers. These ads are often positioned prominently on web pages, aiming to capture the attention of users through compelling visuals and messages. They can be static or animated, and typically link to the advertiser's site for further interaction. Despite the rise of more sophisticated ad formats, traditional display advertising remains a staple in digital marketing strategies.
 
 ### Display Google Ads
 
