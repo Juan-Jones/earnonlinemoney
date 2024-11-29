@@ -8,4 +8,5 @@ tags: ["tag"]
 categories: ["categories"]
 draft: true
 type: "regular"
+sitemapExclude: false
 ---

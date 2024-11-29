@@ -1,8 +1,14 @@
 User-agent: *
-
 Disallow: /search/
-Disallow: /archives.html
-Disallow: /tags/
-Disallow: /categories/
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
 
 Sitemap: https://earnonlinemoney.org/sitemap.xml
