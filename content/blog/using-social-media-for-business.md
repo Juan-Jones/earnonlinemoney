@@ -54,9 +54,11 @@ Marketplaces are constantly evolving, so should you. Therefore, its essential to
 
 To illustrate the power of social media for business, here are a few case studies of companies that have successfully leveraged these platforms.
 
-1. Wendy's Twitter Strategy: Wendy's has become famous for its witty and engaging Twitter presence. By interacting with followers and even roasting competitors, Wendy's has created a unique brand voice that resonates with its audience, resulting in increased engagement and brand loyalty.
-2. Glossier's Instagram Community: Beauty brand Glossier has built a strong community on Instagram by encouraging user-generated content and featuring real customers. This strategy has not only increased their following but also boosted sales, as customers feel more connected to the brand.
-3. TikTok Success - Gymshark Fitness apparel brand Gymshark has effectively used TikTok to reach a younger audience. By participating in fitness challenges and collaborating with influencers, Gymshark has grown its follower base and driven significant traffic to its online store.
+Wendy's Twitter Strategy: Wendy's has become famous for its witty and engaging Twitter presence. By interacting with followers and even roasting competitors, Wendy's has created a unique brand voice that resonates with its audience, resulting in increased engagement and brand loyalty.
+
+Glossier's Instagram Community: Beauty brand Glossier has built a strong community on Instagram by encouraging user-generated content and featuring real customers. This strategy has not only increased their following but also boosted sales, as customers feel more connected to the brand.
+
+TikTok Success - Gymshark Fitness apparel brand Gymshark has effectively used TikTok to reach a younger audience. By participating in fitness challenges and collaborating with influencers, Gymshark has grown its follower base and driven significant traffic to its online store.
 
 ### Best Practices for Content Creation
 
