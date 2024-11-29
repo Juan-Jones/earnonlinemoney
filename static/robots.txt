@@ -10,5 +10,7 @@ Disallow:
 User-agent: Googlebot-Image
 Disallow:
 
+User-agent: Bingbot
+Disallow:
 
 Sitemap: https://earnonlinemoney.org/sitemap.xml

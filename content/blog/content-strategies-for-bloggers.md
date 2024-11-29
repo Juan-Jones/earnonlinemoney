@@ -2,7 +2,7 @@
 title: "Blogger Content Marketing"
 description: "Content marketing for bloggers is more than creating & distributing material, it's about delivering valuable, relevant, consistent digital data to satisfy a target audience."
 image: "images/content-marketing.jpg"
-alt: "Media Player, Search Icon, Blogpage Content Marketing Illustration."
+alt: "Media Player, Search Icon"
 date: 2019-10-06T18:19:25+06:00
 categories: ["blogging"]
 tags: ["content-creation"]
@@ -31,8 +31,6 @@ To start, bloggers should conduct keyword research to identify the terms their t
 ### Embracing Diversity in Content Formats
 
 Incorporating diverse content formats is essential for catering to different audience preferences and consumption habits. Experiment with a variety of formats, such as articles, videos, podcasts, and interactive content, to keep your audience engaged and maximize reach across various channels and platforms.
-
-Check out a similar blog post: [How to Find Your Niche]({{< relref "how-to-find-your-niche" >}})
 
 ### Leveraging the Power of Storytelling
 
