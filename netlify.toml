@@ -16,6 +16,11 @@
   Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
   
 [[redirects]]
-  from = "/blog/make-money-online"
-  to = "/blog/digital-income-ideas"
+  from = "/blog/make-money-online/"
+  to = "/blog/digital-income-ideas/"
   status = 301
+
+[[redirects]]
+  from = "/*"
+  to = "/404/"
+  status = 404
