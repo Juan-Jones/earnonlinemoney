@@ -21,7 +21,7 @@ Traditional display advertising is one of the best methods for [making money onl
 
 ### Display Google Ads
 
-Maximize [earnings with Google Adsense]({{< relref "google-adsense-monetization" >}}) by optimizing ad placements. Choose the right ad sizes that fit naturally on your site. Place ads above the fold for better visibility. Use both text and display ads to cater to different audience preferences. Regularly check performance reports to adjust strategies accordingly. Experiment with different ad styles and formats for higher click-through rates.
+Maximize [earnings with Google Adsense]({{< relref "blog/google-adsense-monetization" >}}) by optimizing ad placements. Choose the right ad sizes that fit naturally on your site. Place ads above the fold for better visibility. Use both text and display ads to cater to different audience preferences. Regularly check performance reports to adjust strategies accordingly. Experiment with different ad styles and formats for higher click-through rates.
 
 ### Understanding Display Ads
 
