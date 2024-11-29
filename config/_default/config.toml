@@ -10,7 +10,6 @@ paginate = "10"
 summaryLength = "25"
 # Robotstxt
 enableRobotsTXT = true
-canonifyURLs = true
 
 ############################# Taxonomies ###############################
 [taxonomies]
