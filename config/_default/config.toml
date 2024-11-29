@@ -11,6 +11,7 @@ summaryLength = "25"
 # Robotstxt
 enableRobotsTXT = true
 canonifyURLs = true
+timeout = "120s"
 
 ############################# Taxonomies ###############################
 [taxonomies]
