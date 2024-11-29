@@ -908,5 +908,17 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Whoops! Page not found</title>
+      <link>https://earnonlinemoney.org/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://earnonlinemoney.org/404/</guid>
+      <description>
+That page can&#39;t be found.
+
+Our latest content is [on the homepage](/)</description>
+    </item>
+    
   </channel>
 </rss>
