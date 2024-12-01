@@ -12,6 +12,7 @@ summaryLength = "25"
 enableRobotsTXT = true
 # Robotstxt
 canonifyURLs = true
+
 ############################# Taxonomies ###############################
 [taxonomies]
   category = "categories"
